@@ -1,0 +1,5679 @@
+[
+    null,
+    {
+        "id": 1,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 3
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Bat",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 1,
+                "denominator": 2
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.85
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 43,
+                "dataId": 3,
+                "value": 1
+            }
+        ],
+        "gold": 300,
+        "name": "こうもり",
+        "note": "<PosY:350>\n",
+        "params": [
+            60,
+            0,
+            15,
+            18,
+            15,
+            15,
+            30,
+            15
+        ]
+    },
+    {
+        "id": 2,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 2
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 1,
+                "skillId": 6
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Slime",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 50,
+                "denominator": 2
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 100,
+        "traits": [
+            {
+                "code": 11,
+                "dataId": 1,
+                "value": 0.6
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.9
+            }
+        ],
+        "gold": 300,
+        "name": "スライム",
+        "note": "<PosY:350>\n",
+        "params": [
+            70,
+            0,
+            10,
+            18,
+            20,
+            20,
+            10,
+            20
+        ]
+    },
+    {
+        "id": 3,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 2,
+                "skillId": 4
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Orc",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 51,
+                "denominator": 2
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 100,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 300,
+        "name": "オーク",
+        "note": "<PosY:350>\n",
+        "params": [
+            200,
+            0,
+            30,
+            22,
+            1,
+            10,
+            5,
+            10
+        ]
+    },
+    {
+        "id": 4,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 1,
+                "skillId": 5
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Minotaur",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 3,
+                "denominator": 2
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 150,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 400,
+        "name": "ミノタウロス",
+        "note": "<PosY:360>\n",
+        "params": [
+            250,
+            0,
+            40,
+            30,
+            10,
+            20,
+            20,
+            20
+        ]
+    },
+    {
+        "id": 5,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 2,
+                "skillId": 3
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 1,
+                "skillId": 7
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 1,
+                "skillId": 8
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Actor3_5",
+        "dropItems": [
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 1
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 300,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.75
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 9,
+                "value": 0.7
+            },
+            {
+                "code": 13,
+                "dataId": 4,
+                "value": 0.7
+            }
+        ],
+        "gold": 1200,
+        "name": "ゴロツキ",
+        "note": "<PosX:220>\n<PosY:320>",
+        "params": [
+            350,
+            50,
+            80,
+            60,
+            30,
+            50,
+            50,
+            50
+        ]
+    },
+    {
+        "id": 6,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 2,
+                "skillId": 1
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 7,
+                "skillId": 4
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 5
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.2,
+                "conditionType": 2,
+                "rating": 1,
+                "skillId": 8
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Actor1_3",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 10000,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 33,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 12,
+                "dataId": 5,
+                "value": 0.1
+            },
+            {
+                "code": 14,
+                "dataId": 9,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 10,
+                "value": 1
+            }
+        ],
+        "gold": 1,
+        "name": "怒り狂った孫",
+        "note": "<PosX:220>\n<PosY:340>",
+        "params": [
+            3980,
+            100,
+            200,
+            150,
+            50,
+            150,
+            100,
+            80
+        ]
+    },
+    {
+        "id": 7,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.3,
+                "conditionType": 2,
+                "rating": 3,
+                "skillId": 4
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 30
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "General_m",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 800,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 0.75
+            }
+        ],
+        "gold": 2000,
+        "name": "ゴロツキのボス",
+        "note": "<PosX:220>\n<PosY:340>",
+        "params": [
+            800,
+            100,
+            85,
+            70,
+            70,
+            50,
+            50,
+            50
+        ]
+    },
+    {
+        "id": 8,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.5,
+                "conditionType": 2,
+                "rating": 4,
+                "skillId": 4
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 1,
+                "skillId": 7
+            }
+        ],
+        "battlerHue": 300,
+        "battlerName": "Orc",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 51,
+                "denominator": 1
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 800,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 2000,
+        "name": "薄汚いオーク君",
+        "note": "<PosX:220>\n<PosY:340>\n",
+        "params": [
+            700,
+            0,
+            90,
+            65,
+            10,
+            30,
+            20,
+            10
+        ]
+    },
+    {
+        "id": 9,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 8,
+                "skillId": 30
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 2,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Snake",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 60,
+                "denominator": 2
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 150,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.8
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.1
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 300,
+        "name": "ノヅチ",
+        "note": "<PosY:350>\n",
+        "params": [
+            50,
+            30,
+            7,
+            10,
+            10,
+            10,
+            60,
+            10
+        ]
+    },
+    {
+        "id": 10,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 1,
+                "skillId": 7
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 20
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Ghost",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 3,
+                "denominator": 2
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 150,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.9
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 9,
+                "value": 0
+            },
+            {
+                "code": 11,
+                "dataId": 8,
+                "value": 1.4
+            }
+        ],
+        "gold": 300,
+        "name": "ゴースト",
+        "note": "<PosY:350>\n",
+        "params": [
+            70,
+            50,
+            15,
+            15,
+            40,
+            15,
+            20,
+            20
+        ]
+    },
+    {
+        "id": 11,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 30
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Spider",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 53,
+                "denominator": 2
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 150,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.07
+            },
+            {
+                "code": 32,
+                "dataId": 4,
+                "value": 0.2
+            }
+        ],
+        "gold": 300,
+        "name": "ジグモ",
+        "note": "<PosY:350>\n",
+        "params": [
+            85,
+            50,
+            35,
+            40,
+            10,
+            25,
+            35,
+            20
+        ]
+    },
+    {
+        "id": 12,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 2,
+                "skillId": 1
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 6,
+                "skillId": 21
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Windspirit",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 4,
+                "denominator": 10
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 240,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 7,
+                "value": 0
+            },
+            {
+                "code": 11,
+                "dataId": 7,
+                "value": 1
+            }
+        ],
+        "gold": 550,
+        "name": "モリの精",
+        "note": "<PosY:350>\n",
+        "params": [
+            100,
+            80,
+            10,
+            25,
+            60,
+            70,
+            65,
+            25
+        ]
+    },
+    {
+        "id": 13,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Plant",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 52,
+                "denominator": 1
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 200,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 0.7
+            }
+        ],
+        "gold": 400,
+        "name": "血吸いフラワー",
+        "note": "<PosY:350>\n",
+        "params": [
+            120,
+            0,
+            35,
+            35,
+            15,
+            30,
+            20,
+            10
+        ]
+    },
+    {
+        "id": 14,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 6,
+                "skillId": 1
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 23
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.4,
+                "conditionType": 2,
+                "rating": 4,
+                "skillId": 24
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Gazer",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 1200,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 2500,
+        "name": "ぬめぬめぬめぬ",
+        "note": "<PosY:350>\n",
+        "params": [
+            1200,
+            200,
+            110,
+            90,
+            100,
+            50,
+            35,
+            40
+        ]
+    },
+    {
+        "id": 15,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 30
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 1,
+                "skillId": 21
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Rogue",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 500,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 1000,
+        "name": "泥棒",
+        "note": "<PosX:220>\n<PosY:340>",
+        "params": [
+            300,
+            60,
+            60,
+            50,
+            20,
+            30,
+            35,
+            10
+        ]
+    },
+    {
+        "id": 16,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 25
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Werewolf",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 54,
+                "denominator": 2
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 350,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 800,
+        "name": "ワーウルフ",
+        "note": "<PosY:350>\n",
+        "params": [
+            220,
+            80,
+            40,
+            55,
+            10,
+            10,
+            40,
+            60
+        ]
+    },
+    {
+        "id": 17,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 9
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 1,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Firespirit",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 61,
+                "denominator": 2
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 350,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.9
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 800,
+        "name": "火の玉",
+        "note": "<PosY:350>\n",
+        "params": [
+            130,
+            100,
+            10,
+            40,
+            90,
+            75,
+            60,
+            30
+        ]
+    },
+    {
+        "id": 18,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 2,
+                "skillId": 1
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 20
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 23
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Imp",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 54,
+                "denominator": 2
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 350,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 11,
+                "dataId": 8,
+                "value": 1.2
+            }
+        ],
+        "gold": 800,
+        "name": "インプ",
+        "note": "<PosY:350>\n",
+        "params": [
+            220,
+            100,
+            50,
+            45,
+            50,
+            35,
+            40,
+            70
+        ]
+    },
+    {
+        "id": 19,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 2,
+                "skillId": 10
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 2,
+                "skillId": 20
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 21
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 9
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.2,
+                "conditionType": 2,
+                "rating": 3,
+                "skillId": 8
+            }
+        ],
+        "battlerHue": 300,
+        "battlerName": "Orc",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 51,
+                "denominator": 1
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 1500,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 3000,
+        "name": "学びを得たオーク君",
+        "note": "<PosX:220>\n<PosY:340>",
+        "params": [
+            1600,
+            500,
+            80,
+            80,
+            90,
+            60,
+            40,
+            50
+        ]
+    },
+    {
+        "id": 20,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 7
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Evilgod",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 99999,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "経験値スライム",
+        "note": "",
+        "params": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "id": 21,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 1
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 26
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 25
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Cerberus",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 54,
+                "denominator": 1
+            },
+            {
+                "kind": 1,
+                "dataId": 54,
+                "denominator": 1
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 1700,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 3000,
+        "name": "野獣",
+        "note": "<PosX:220>\n<PosY:340>",
+        "params": [
+            1500,
+            100,
+            80,
+            60,
+            80,
+            60,
+            70,
+            30
+        ]
+    },
+    {
+        "id": 22,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 27
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 1,
+                "skillId": 3
+            }
+        ],
+        "battlerHue": 30,
+        "battlerName": "Slime",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 50,
+                "denominator": 2
+            },
+            {
+                "kind": 1,
+                "dataId": 50,
+                "denominator": 2
+            },
+            {
+                "kind": 1,
+                "dataId": 50,
+                "denominator": 2
+            }
+        ],
+        "exp": 450,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 600,
+        "name": "おケツほじりスライム",
+        "note": "<PosY:350>\n",
+        "params": [
+            240,
+            100,
+            55,
+            70,
+            70,
+            50,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 23,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 9,
+                "skillId": 28
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Slime",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 20,
+                "denominator": 1
+            },
+            {
+                "kind": 2,
+                "dataId": 7,
+                "denominator": 16
+            },
+            {
+                "kind": 2,
+                "dataId": 9,
+                "denominator": 100
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "素敵な仲間",
+        "note": "<PosY:350>\n",
+        "params": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            1,
+            999,
+            1
+        ]
+    },
+    {
+        "id": 24,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 9,
+                "skillId": 28
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Slime",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 20,
+                "denominator": 1
+            },
+            {
+                "kind": 2,
+                "dataId": 8,
+                "denominator": 16
+            },
+            {
+                "kind": 2,
+                "dataId": 10,
+                "denominator": 100
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "素敵な仲間",
+        "note": "<PosY:350>\n",
+        "params": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            1,
+            999,
+            1
+        ]
+    },
+    {
+        "id": 25,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 9,
+                "skillId": 28
+            }
+        ],
+        "battlerHue": 229,
+        "battlerName": "Slime",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 15,
+                "denominator": 1
+            },
+            {
+                "kind": 2,
+                "dataId": 8,
+                "denominator": 16
+            },
+            {
+                "kind": 2,
+                "dataId": 9,
+                "denominator": 100
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "素敵な仲間（金）",
+        "note": "<PosY:350>\n",
+        "params": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            1,
+            999,
+            1
+        ]
+    },
+    {
+        "id": 26,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 27
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 24
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Slime",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 50,
+                "denominator": 8
+            },
+            {
+                "kind": 1,
+                "dataId": 50,
+                "denominator": 15
+            },
+            {
+                "kind": 1,
+                "dataId": 50,
+                "denominator": 45
+            }
+        ],
+        "exp": 1800,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 4000,
+        "name": "キングおケツほじりスライム",
+        "note": "<PosY:350>\n",
+        "params": [
+            1200,
+            100,
+            60,
+            70,
+            60,
+            50,
+            300,
+            10
+        ]
+    },
+    {
+        "id": 27,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 23
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.5,
+                "conditionType": 2,
+                "rating": 4,
+                "skillId": 24
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Gazer",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 1800,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 4000,
+        "name": "帰ってきたぬめぬめぬめぬ",
+        "note": "<PosY:350>\n",
+        "params": [
+            1600,
+            250,
+            110,
+            110,
+            100,
+            80,
+            50,
+            40
+        ]
+    },
+    {
+        "id": 28,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.3,
+                "conditionType": 2,
+                "rating": 3,
+                "skillId": 4
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 30
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Slime",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 1200,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 0.75
+            }
+        ],
+        "gold": 1300,
+        "name": "スラまる",
+        "note": "<PosY:350>\n",
+        "params": [
+            800,
+            100,
+            85,
+            70,
+            70,
+            50,
+            50,
+            50
+        ]
+    },
+    {
+        "id": 29,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.6,
+                "conditionType": 2,
+                "rating": 4,
+                "skillId": 4
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 2,
+                "skillId": 5
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Irongiant",
+        "dropItems": [
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 1
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 1500,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 2000,
+        "name": "ゴレちん",
+        "note": "\n",
+        "params": [
+            1300,
+            100,
+            90,
+            65,
+            10,
+            30,
+            20,
+            10
+        ]
+    },
+    {
+        "id": 30,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 2,
+                "skillId": 1
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 20
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 23
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Skeleton",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 800,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 11,
+                "dataId": 8,
+                "value": 0.3
+            }
+        ],
+        "gold": 1500,
+        "name": "ホネきち",
+        "note": "<PosY:350>\n",
+        "params": [
+            600,
+            100,
+            80,
+            80,
+            80,
+            50,
+            50,
+            70
+        ]
+    },
+    {
+        "id": 31,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 2,
+                "skillId": 1
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 29
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 31
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Actor2_5",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 800,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 2000,
+        "name": "怪しい研究員",
+        "note": "<PosX:230>\n<PosY:340>",
+        "params": [
+            1400,
+            500,
+            80,
+            40,
+            80,
+            80,
+            30,
+            10
+        ]
+    },
+    {
+        "id": 32,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 26
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.6,
+                "conditionType": 2,
+                "rating": 4,
+                "skillId": 25
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.4,
+                "conditionType": 2,
+                "rating": 5,
+                "skillId": 32
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Chimera",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 2200,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 4000,
+        "name": "キマイラーン",
+        "note": "<PosX:260>\n<PosY:400>",
+        "params": [
+            2500,
+            500,
+            100,
+            100,
+            100,
+            70,
+            50,
+            40
+        ]
+    },
+    {
+        "id": 33,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 33
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Evilgod",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 9999999,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 10000,
+        "name": "経験値スライム",
+        "note": "",
+        "params": [
+            1000,
+            1000,
+            110,
+            30,
+            110,
+            110,
+            500,
+            110
+        ]
+    },
+    {
+        "id": 34,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Goblin01",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 54,
+                "denominator": 2
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 350,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 800,
+        "name": "ゴブリン",
+        "note": "<PosY:350>\n",
+        "params": [
+            230,
+            30,
+            50,
+            55,
+            10,
+            20,
+            50,
+            10
+        ]
+    },
+    {
+        "id": 35,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Goblin03",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 54,
+                "denominator": 2
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 400,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 900,
+        "name": "ゴブリン兵士",
+        "note": "<PosY:350>\n",
+        "params": [
+            250,
+            30,
+            70,
+            55,
+            10,
+            20,
+            50,
+            10
+        ]
+    },
+    {
+        "id": 36,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 25
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "GoblinRider",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 54,
+                "denominator": 2
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 400,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 900,
+        "name": "ゴブリンライダー",
+        "note": "<PosY:350>\n",
+        "params": [
+            290,
+            100,
+            70,
+            55,
+            10,
+            20,
+            100,
+            10
+        ]
+    },
+    {
+        "id": 37,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.5,
+                "conditionType": 2,
+                "rating": 5,
+                "skillId": 19
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 10
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 20
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 21
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "GoblinShaman",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 54,
+                "denominator": 2
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 1800,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 3000,
+        "name": "ゴブリンシャーマン",
+        "note": "<PosY:350>\n",
+        "params": [
+            1000,
+            300,
+            10,
+            70,
+            100,
+            60,
+            54,
+            10
+        ]
+    },
+    {
+        "id": 38,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 6,
+                "skillId": 30
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 34
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 4
+            }
+        ],
+        "battlerHue": 268,
+        "battlerName": "Spider",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 8,
+                "denominator": 1
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 2500,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 1.3
+            }
+        ],
+        "gold": 4000,
+        "name": "地獄からの使者",
+        "note": "<PosY:350>\n",
+        "params": [
+            3000,
+            500,
+            125,
+            95,
+            70,
+            60,
+            80,
+            40
+        ]
+    },
+    {
+        "id": 39,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 30
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 1,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 165,
+        "battlerName": "Snake",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 60,
+                "denominator": 1
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 600,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.8
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.1
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 700,
+        "name": "じむぐり",
+        "note": "<PosY:350>\n",
+        "params": [
+            300,
+            200,
+            80,
+            55,
+            50,
+            40,
+            90,
+            10
+        ]
+    },
+    {
+        "id": 40,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 1
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 26
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 33
+            }
+        ],
+        "battlerHue": 301,
+        "battlerName": "Plant",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 52,
+                "denominator": 2
+            },
+            {
+                "kind": 1,
+                "dataId": 52,
+                "denominator": 2
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 550,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 11,
+                "dataId": 2,
+                "value": 1.3
+            }
+        ],
+        "gold": 700,
+        "name": "生き血を啜るフラワー",
+        "note": "<PosY:350>\n",
+        "params": [
+            400,
+            100,
+            80,
+            60,
+            50,
+            50,
+            50,
+            10
+        ]
+    },
+    {
+        "id": 41,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 26
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Zombie",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 4,
+                "denominator": 8
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 750,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 900,
+        "name": "くさったゾンビ",
+        "note": "<PosY:350>\n",
+        "params": [
+            550,
+            100,
+            100,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 42,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 1
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 26
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 6,
+                "skillId": 25
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 36
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Skeleton",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 1,
+                "denominator": 1
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 3000,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 4000,
+        "name": "マミー",
+        "note": "<PosY:350>\n",
+        "params": [
+            3300,
+            100,
+            130,
+            80,
+            80,
+            65,
+            80,
+            50
+        ]
+    },
+    {
+        "id": 43,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 20
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 23
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 7,
+                "skillId": 37
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 2
+            }
+        ],
+        "battlerHue": 298,
+        "battlerName": "Succubus",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 2700,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 9,
+                "value": 0
+            }
+        ],
+        "gold": 4000,
+        "name": "サキュ子",
+        "note": "<PosX:220>\n<PosY:370>",
+        "params": [
+            3200,
+            2000,
+            10,
+            80,
+            130,
+            90,
+            50,
+            10
+        ]
+    },
+    {
+        "id": 44,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 10
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 25
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.5,
+                "conditionType": 2,
+                "rating": 4,
+                "skillId": 4
+            },
+            {
+                "conditionParam1": 0.7,
+                "conditionParam2": 1,
+                "conditionType": 2,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 300,
+        "battlerName": "Orc",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 51,
+                "denominator": 1
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 3000,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 4000,
+        "name": "覚悟したオーク君",
+        "note": "<PosX:220>\n<PosY:340>",
+        "params": [
+            3600,
+            500,
+            110,
+            100,
+            110,
+            70,
+            55,
+            60
+        ]
+    },
+    {
+        "id": 45,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 23
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.5,
+                "conditionType": 2,
+                "rating": 4,
+                "skillId": 4
+            },
+            {
+                "conditionParam1": 0.7,
+                "conditionParam2": 1,
+                "conditionType": 2,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Mimic",
+        "dropItems": [
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 1
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 3500,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 4000,
+        "name": "ミミック",
+        "note": "<PosX:220>\n<PosY:340>",
+        "params": [
+            3600,
+            500,
+            100,
+            95,
+            100,
+            70,
+            55,
+            60
+        ]
+    },
+    {
+        "id": 46,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 5
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Soldier",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 61,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 2,
+                "value": 1
+            },
+            {
+                "code": 22,
+                "dataId": 6,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 1,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 9,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 11,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 13,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 12,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 5,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 10,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 7,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 3,
+                "value": 1
+            },
+            {
+                "code": 34,
+                "dataId": 0,
+                "value": 6
+            }
+        ],
+        "gold": 0,
+        "name": "護衛兵",
+        "note": "<PosY:350>",
+        "params": [
+            999999,
+            9999,
+            999,
+            999,
+            999,
+            999,
+            999,
+            999
+        ]
+    },
+    {
+        "id": 47,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 4
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Actor3_1",
+        "dropItems": [
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 22
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 1000,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 1000,
+        "name": "冒険者A",
+        "note": "\n",
+        "params": [
+            1800,
+            30,
+            70,
+            55,
+            20,
+            45,
+            50,
+            10
+        ]
+    },
+    {
+        "id": 48,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Actor1_3",
+        "dropItems": [
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 22
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 1000,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 1000,
+        "name": "冒険者B",
+        "note": "",
+        "params": [
+            1500,
+            30,
+            80,
+            55,
+            20,
+            45,
+            50,
+            10
+        ]
+    },
+    {
+        "id": 49,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 9
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 10
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Actor2_5",
+        "dropItems": [
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 22
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 1000,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 1000,
+        "name": "冒険者C",
+        "note": "<PosY:350>\n",
+        "params": [
+            600,
+            200,
+            50,
+            55,
+            70,
+            45,
+            20,
+            10
+        ]
+    },
+    {
+        "id": 50,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 8
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Actor2_3",
+        "dropItems": [
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 22
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 1000,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 1000,
+        "name": "冒険者D",
+        "note": "<PosY:350>\n",
+        "params": [
+            600,
+            200,
+            80,
+            55,
+            50,
+            45,
+            30,
+            10
+        ]
+    },
+    {
+        "id": 51,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 30
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Actor1_5",
+        "dropItems": [
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 22
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 1000,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 1000,
+        "name": "冒険者E",
+        "note": "<PosY:350>\n<PosX:680>",
+        "params": [
+            900,
+            200,
+            70,
+            55,
+            50,
+            45,
+            80,
+            10
+        ]
+    },
+    {
+        "id": 52,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 25
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Actor3_5",
+        "dropItems": [
+            {
+                "kind": 0,
+                "dataId": 0,
+                "denominator": 22
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 1000,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 1000,
+        "name": "冒険者F",
+        "note": "\n",
+        "params": [
+            1000,
+            200,
+            80,
+            55,
+            50,
+            45,
+            70,
+            10
+        ]
+    },
+    {
+        "id": 53,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 26
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 35
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 3,
+                "skillId": 7
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Sahuagin",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 2500,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 5,
+                "value": 0
+            }
+        ],
+        "gold": 5000,
+        "name": "半魚人",
+        "note": "<PosX:220>\n<PosY:370>",
+        "params": [
+            3200,
+            2000,
+            110,
+            70,
+            90,
+            80,
+            50,
+            10
+        ]
+    },
+    {
+        "id": 54,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 3
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 1
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 8
+            }
+        ],
+        "battlerHue": 300,
+        "battlerName": "Minotaur",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 3000,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 5000,
+        "name": "ウマ男",
+        "note": "<PosX:220>\n<PosY:370>",
+        "params": [
+            3200,
+            2000,
+            125,
+            80,
+            60,
+            60,
+            40,
+            10
+        ]
+    },
+    {
+        "id": 55,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 4,
+                "skillId": 4
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 38
+            },
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0.6,
+                "conditionType": 2,
+                "rating": 7,
+                "skillId": 39
+            },
+            {
+                "conditionParam1": 1,
+                "conditionParam2": 0.7,
+                "conditionType": 2,
+                "rating": 5,
+                "skillId": 15
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "God",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 30000,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 14,
+                "dataId": 13,
+                "value": 1
+            },
+            {
+                "code": 61,
+                "dataId": 0,
+                "value": 0.3
+            },
+            {
+                "code": 63,
+                "dataId": 1,
+                "value": 1
+            }
+        ],
+        "gold": 30000,
+        "name": "クソ女神",
+        "note": "",
+        "params": [
+            5000,
+            2000,
+            130,
+            75,
+            125,
+            75,
+            40,
+            40
+        ]
+    },
+    {
+        "id": 56,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 51
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Lamia",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 60,
+                "denominator": 2
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 1000,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 1000,
+        "name": "邪神ちゃん",
+        "note": "",
+        "params": [
+            600,
+            100,
+            100,
+            60,
+            10,
+            60,
+            110,
+            10
+        ]
+    },
+    {
+        "id": 57,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 9,
+                "skillId": 28
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Slime",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 20,
+                "denominator": 1
+            },
+            {
+                "kind": 2,
+                "dataId": 7,
+                "denominator": 8
+            },
+            {
+                "kind": 2,
+                "dataId": 9,
+                "denominator": 97
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "素敵な仲間",
+        "note": "<PosY:350>\n",
+        "params": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            1,
+            999,
+            1
+        ]
+    },
+    {
+        "id": 58,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 9,
+                "skillId": 28
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "Slime",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 20,
+                "denominator": 1
+            },
+            {
+                "kind": 2,
+                "dataId": 8,
+                "denominator": 8
+            },
+            {
+                "kind": 2,
+                "dataId": 10,
+                "denominator": 97
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "素敵な仲間",
+        "note": "<PosY:350>\n",
+        "params": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            1,
+            999,
+            1
+        ]
+    },
+    {
+        "id": 59,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 9,
+                "skillId": 28
+            }
+        ],
+        "battlerHue": 229,
+        "battlerName": "Slime",
+        "dropItems": [
+            {
+                "kind": 1,
+                "dataId": 15,
+                "denominator": 1
+            },
+            {
+                "kind": 2,
+                "dataId": 8,
+                "denominator": 8
+            },
+            {
+                "kind": 2,
+                "dataId": 9,
+                "denominator": 97
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "素敵な仲間（金）",
+        "note": "<PosY:350>\n",
+        "params": [
+            1,
+            0,
+            1,
+            1,
+            1,
+            1,
+            999,
+            1
+        ]
+    },
+    {
+        "id": 60,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 61,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 62,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 63,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 64,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 65,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 66,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 67,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 68,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 69,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 70,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 71,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 72,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 73,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 74,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 75,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 76,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 77,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 78,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 79,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    },
+    {
+        "id": 80,
+        "actions": [
+            {
+                "conditionParam1": 0,
+                "conditionParam2": 0,
+                "conditionType": 0,
+                "rating": 5,
+                "skillId": 1
+            }
+        ],
+        "battlerHue": 0,
+        "battlerName": "",
+        "dropItems": [
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            },
+            {
+                "dataId": 1,
+                "denominator": 1,
+                "kind": 0
+            }
+        ],
+        "exp": 0,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 0,
+                "value": 0.95
+            },
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.05
+            },
+            {
+                "code": 31,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "gold": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            100,
+            0,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+# Ignore all files
+*.*
+
+# Except
+!*.json
+!*.js
+!*.zip
+!*.7z
+!*.csv
+!*.ain
+!*.fnl
+!*.ks
+!*.tjs
+!*.yaml
+!Data/*
+!*.rb
+!.gitignore
+!README.md
+!game.ini
+
+# Images
+!NE_0.rpgmvp
+!NE_e2.rpgmvp
+!NE_e3.rpgmvp
+!NE_e4.rpgmvp
+!NE_e5.rpgmvp
+!NE_e6.rpgmvp
+!NE_s2.rpgmvp
+!NE_s3.rpgmvp
+!NE_s4.rpgmvp
+!NE_s5.rpgmvp
+!NE_s6.rpgmvp

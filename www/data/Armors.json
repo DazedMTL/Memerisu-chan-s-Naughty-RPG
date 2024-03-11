@@ -1,0 +1,1418 @@
+[
+    null,
+    {
+        "id": 1,
+        "atypeId": 5,
+        "description": "木製のお鍋のふた。\n使い方を間違っていると思う。",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 128,
+        "name": "お鍋のふた",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 300
+    },
+    {
+        "id": 2,
+        "atypeId": 1,
+        "description": "一目で安物と分かる帽子。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 130,
+        "name": "安物の帽子",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            10,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 200
+    },
+    {
+        "id": 3,
+        "atypeId": 1,
+        "description": "一目で安物と分かる服。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 135,
+        "name": "安物の服",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            10,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 200
+    },
+    {
+        "id": 4,
+        "atypeId": 1,
+        "description": "飴が付いてるおもちゃの指輪。\n",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 145,
+        "name": "おもちゃの指輪",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            5,
+            5,
+            5,
+            0,
+            0
+        ],
+        "price": 200
+    },
+    {
+        "id": 5,
+        "atypeId": 1,
+        "description": "可愛いウサちゃんのキーホルダー。\n気持ちがぴょんぴょんするんじゃぁ～。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.02
+            }
+        ],
+        "iconIndex": 148,
+        "name": "ウサギのキーホルダー",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            5,
+            0,
+            0,
+            10,
+            0
+        ],
+        "price": 200
+    },
+    {
+        "id": 6,
+        "atypeId": 1,
+        "description": "かわいいウサギの耳飾り。\n毒を防ぐ事ができるうえに防御力もアップする。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 14,
+                "dataId": 4,
+                "value": 1
+            }
+        ],
+        "iconIndex": 149,
+        "name": "ウサギの耳飾り",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            20,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 7,
+        "atypeId": 1,
+        "description": "福が来ると評判な占い師が販売しているリボン。\n運がちょっとだけ上がる。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.1
+            }
+        ],
+        "iconIndex": 149,
+        "name": "福来るリボン",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            20
+        ],
+        "price": 0
+    },
+    {
+        "id": 8,
+        "atypeId": 1,
+        "description": "アルミホイルで出来た帽子。\n混乱をたまに防げる・・・らしい？",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 13,
+                "dataId": 8,
+                "value": 0.5
+            }
+        ],
+        "iconIndex": 130,
+        "name": "アルミホイル帽子",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            10,
+            0,
+            5,
+            0,
+            0
+        ],
+        "price": 10
+    },
+    {
+        "id": 9,
+        "atypeId": 1,
+        "description": "草野球で使うヘルメット。\n汗が染みこんでて臭いが防御力はバッチリ。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 132,
+        "name": "野球のヘルメット",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            25,
+            0,
+            10,
+            0,
+            0
+        ],
+        "price": 1200
+    },
+    {
+        "id": 10,
+        "atypeId": 1,
+        "description": "おみやげ屋さんで売ってるジャパニーズサムライの兜。\n結構本格的に作りこんである。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 131,
+        "name": "兜",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            35,
+            0,
+            15,
+            5,
+            0
+        ],
+        "price": 1600
+    },
+    {
+        "id": 11,
+        "atypeId": 1,
+        "description": "精液が沁み込んで臭いがとれなくなった服。\n濃厚な雄の臭いがする。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 84,
+        "name": "精液まみれの服",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 1
+    },
+    {
+        "id": 12,
+        "atypeId": 1,
+        "description": "大事な所が丸見えのエッチなバニー服。\nこれを持っていれば新しいプレイが出来るかも・・・♥",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.1
+            }
+        ],
+        "iconIndex": 84,
+        "name": "逆バニー服",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            40,
+            0
+        ],
+        "price": 10000
+    },
+    {
+        "id": 13,
+        "atypeId": 1,
+        "description": "コスプレと言えば王道のバニー服。\nこれを持っていれば新しいプレイが出来るかも・・・♥",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.1
+            }
+        ],
+        "iconIndex": 84,
+        "name": "バニー服",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            40,
+            0
+        ],
+        "price": 10000
+    },
+    {
+        "id": 14,
+        "atypeId": 1,
+        "description": "教会でシスターさんが着ている修道服。\nこれを持っていれば新しいプレイが出来るかも・・・♥",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.1
+            }
+        ],
+        "iconIndex": 84,
+        "name": "シスター服",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            40,
+            0
+        ],
+        "price": 10000
+    },
+    {
+        "id": 15,
+        "atypeId": 1,
+        "description": "シスター服とは名ばかりのピッチリドスケベ衣裳。\nこれを持っていれば新しいプレイが出来るかも・・・♥",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.1
+            }
+        ],
+        "iconIndex": 84,
+        "name": "コスプレシスター服",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            40,
+            0
+        ],
+        "price": 10000
+    },
+    {
+        "id": 16,
+        "atypeId": 1,
+        "description": "結婚式をする時に着るドレス。\nこれを持っていれば新しいプレイが出来るかも・・・♥",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0.1
+            }
+        ],
+        "iconIndex": 84,
+        "name": "ウェディングドレス",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            40,
+            0
+        ],
+        "price": 10000
+    },
+    {
+        "id": 17,
+        "atypeId": 1,
+        "description": "不思議な加護が付与されてる指輪。回避率を増加し\n発情・尿意以外の状態異常をすべて無効にする。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": -0.3
+            },
+            {
+                "code": 14,
+                "dataId": 3,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 4,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 5,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 7,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 6,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 9,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 10,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 12,
+                "value": 1
+            },
+            {
+                "code": 14,
+                "dataId": 13,
+                "value": 1
+            }
+        ],
+        "iconIndex": 145,
+        "name": "チェルンの指輪",
+        "note": "",
+        "params": [
+            100,
+            100,
+            15,
+            15,
+            15,
+            15,
+            15,
+            15
+        ],
+        "price": 4000
+    },
+    {
+        "id": 18,
+        "atypeId": 1,
+        "description": "ゴブリンを殲滅した者だけが装備できると言われる兜。\n装備すると先制攻撃率がアップする。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 64,
+                "dataId": 3,
+                "value": 1
+            }
+        ],
+        "iconIndex": 132,
+        "name": "ゴブリン殺しの兜",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            40,
+            0,
+            20,
+            10,
+            10
+        ],
+        "price": 4000
+    },
+    {
+        "id": 19,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 20,
+        "atypeId": 2,
+        "description": "魔法使いが被る帽子。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 133,
+        "name": "魔法使いの帽子",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            20,
+            10,
+            10,
+            0,
+            0
+        ],
+        "price": 800
+    },
+    {
+        "id": 21,
+        "atypeId": 2,
+        "description": "賢者が被る帽子。\n被るととても心が落ち着く・・・ふぅ。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 133,
+        "name": "賢者の帽子",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            35,
+            20,
+            20,
+            0,
+            5
+        ],
+        "price": 1400
+    },
+    {
+        "id": 22,
+        "atypeId": 2,
+        "description": "メイドの息吹を感じるカチューシャ。\n付けるとMP（メイドポイント）が上昇する。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 149,
+        "name": "メイドさんのカチューシャ",
+        "note": "",
+        "params": [
+            0,
+            80,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 23,
+        "atypeId": 1,
+        "description": "不思議な加護を受けた可愛いウサギのアクセサリーが\n付いている帽子。防御だけでなく俊敏性も上がる。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 130,
+        "name": "ウサギの帽子",
+        "note": "",
+        "params": [
+            150,
+            150,
+            0,
+            50,
+            0,
+            20,
+            30,
+            0
+        ],
+        "price": 5000
+    },
+    {
+        "id": 24,
+        "atypeId": 2,
+        "description": "聖女に選ばれし乙女が被る事が出来る冠。\n様々な加護がかけられているらしい。",
+        "etypeId": 3,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 134,
+        "name": "聖女の冠",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            45,
+            25,
+            25,
+            0,
+            10
+        ],
+        "price": 5000
+    },
+    {
+        "id": 25,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 26,
+        "atypeId": 1,
+        "description": "水着の上にワイシャツを羽織るという透き通る世界観を\n感じさせる巷で流行の服。何故か攻撃が当たらなくなる。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 10
+            }
+        ],
+        "iconIndex": 135,
+        "name": "水着ワイシャツ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 50000
+    },
+    {
+        "id": 27,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 28,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 29,
+        "atypeId": 1,
+        "description": "クソデカウサギがプリントされている。一緒に歩くのは遠慮\nしたいが謎の加護のおかげで防御力が凄く上がる。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 135,
+        "name": "ウサギの服",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            40,
+            0,
+            10,
+            10,
+            0
+        ],
+        "price": 5000
+    },
+    {
+        "id": 30,
+        "atypeId": 1,
+        "description": "全国のお母さんに人気の服屋で売っているお買い得な服。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 135,
+        "name": "しまむーの服",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            20,
+            0,
+            5,
+            0,
+            0
+        ],
+        "price": 500
+    },
+    {
+        "id": 31,
+        "atypeId": 2,
+        "description": "聖職者が身に着けている立派なローブ。\n防御と魔法防御だけでなく魔法力も上がるぞ！",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 139,
+        "name": "聖職者のローブ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            10,
+            10,
+            20,
+            0,
+            0
+        ],
+        "price": 1000
+    },
+    {
+        "id": 32,
+        "atypeId": 2,
+        "description": "聖女に選ばれし乙女が被る事が出来るローブ。\n状態異常、混乱を防ぐ効果がある。",
+        "etypeId": 4,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            },
+            {
+                "code": 14,
+                "dataId": 8,
+                "value": 1
+            }
+        ],
+        "iconIndex": 139,
+        "name": "聖女のローブ",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            40,
+            20,
+            20,
+            0,
+            10
+        ],
+        "price": 1000
+    },
+    {
+        "id": 33,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 34,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 35,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 36,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 37,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 38,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 39,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 40,
+        "atypeId": 1,
+        "description": "ウマの女の子のキャラクターが付いてるキーホルダー。\n装備すると足が早くなりそう。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 2,
+                "value": 0.02
+            }
+        ],
+        "iconIndex": 148,
+        "name": "おウマのキーホルダー",
+        "note": "",
+        "params": [
+            0,
+            0,
+            5,
+            5,
+            5,
+            5,
+            30,
+            0
+        ],
+        "price": 200
+    },
+    {
+        "id": 41,
+        "atypeId": 1,
+        "description": "ウタゲの村に代々伝わる伝説のキーホルダー。\n宴好きのおばさんが付けていたとか何とか・・・。",
+        "etypeId": 5,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 2,
+                "value": 1
+            }
+        ],
+        "iconIndex": 148,
+        "name": "ウタゲのキーホルダー",
+        "note": "",
+        "params": [
+            500,
+            500,
+            50,
+            50,
+            50,
+            50,
+            50,
+            50
+        ],
+        "price": 280000
+    },
+    {
+        "id": 42,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 43,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 44,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 45,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 46,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 47,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 48,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 49,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    },
+    {
+        "id": 50,
+        "atypeId": 0,
+        "description": "",
+        "etypeId": 2,
+        "traits": [
+            {
+                "code": 22,
+                "dataId": 1,
+                "value": 0
+            }
+        ],
+        "iconIndex": 0,
+        "name": "",
+        "note": "",
+        "params": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "price": 0
+    }
+]

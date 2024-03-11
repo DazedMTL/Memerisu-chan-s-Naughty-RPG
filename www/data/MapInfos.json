@@ -1,0 +1,822 @@
+[
+    null,
+    {
+        "id": 1,
+        "expanded": true,
+        "name": "MAP001",
+        "order": 1,
+        "parentId": 0,
+        "scrollX": 803.3333333333334,
+        "scrollY": 532
+    },
+    {
+        "id": 2,
+        "expanded": true,
+        "name": "街",
+        "order": 2,
+        "parentId": 1,
+        "scrollX": 803.3333333333334,
+        "scrollY": 532
+    },
+    {
+        "id": 3,
+        "expanded": true,
+        "name": "フィールド1",
+        "order": 3,
+        "parentId": 2,
+        "scrollX": 803.3333333333334,
+        "scrollY": 521.3333333333334
+    },
+    {
+        "id": 4,
+        "expanded": true,
+        "name": "街2",
+        "order": 4,
+        "parentId": 3,
+        "scrollX": 792.6666666666666,
+        "scrollY": 586.6666666666666
+    },
+    {
+        "id": 5,
+        "expanded": true,
+        "name": "宿屋内部",
+        "order": 5,
+        "parentId": 4,
+        "scrollX": 803.3333333333334,
+        "scrollY": 532
+    },
+    {
+        "id": 6,
+        "expanded": true,
+        "name": "武器屋",
+        "order": 6,
+        "parentId": 5,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 7,
+        "expanded": true,
+        "name": "道具屋内部",
+        "order": 7,
+        "parentId": 6,
+        "scrollX": 803.3333333333334,
+        "scrollY": 532
+    },
+    {
+        "id": 8,
+        "expanded": true,
+        "name": "酒場",
+        "order": 8,
+        "parentId": 7,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 9,
+        "expanded": true,
+        "name": "民家2",
+        "order": 9,
+        "parentId": 8,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 10,
+        "expanded": true,
+        "name": "廃墟の民家",
+        "order": 10,
+        "parentId": 9,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 11,
+        "expanded": true,
+        "name": "ギルド",
+        "order": 11,
+        "parentId": 10,
+        "scrollX": 944.6666666666666,
+        "scrollY": 1142.6666666666667
+    },
+    {
+        "id": 12,
+        "expanded": true,
+        "name": "メメリスとティーナのお家",
+        "order": 16,
+        "parentId": 13,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 13,
+        "expanded": true,
+        "name": "ダンジョン　タワー",
+        "order": 15,
+        "parentId": 1,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 14,
+        "expanded": true,
+        "name": "ダンジョン1 マップ1",
+        "order": 17,
+        "parentId": 12,
+        "scrollX": 1175.3333333333333,
+        "scrollY": 641.3333333333334
+    },
+    {
+        "id": 15,
+        "expanded": true,
+        "name": "ダンジョン1 マップ3",
+        "order": 18,
+        "parentId": 14,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 16,
+        "expanded": true,
+        "name": "ダンジョン１　マップ",
+        "order": 19,
+        "parentId": 15,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 17,
+        "expanded": true,
+        "name": "ゴロツキアジト",
+        "order": 28,
+        "parentId": 1,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 18,
+        "expanded": true,
+        "name": "アジト内部",
+        "order": 29,
+        "parentId": 17,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 19,
+        "expanded": true,
+        "name": "ダンジョン2階層",
+        "order": 20,
+        "parentId": 16,
+        "scrollX": 1328.6666666666667,
+        "scrollY": 641.3333333333334
+    },
+    {
+        "id": 20,
+        "expanded": true,
+        "name": "ダンジョン2階層 その1",
+        "order": 21,
+        "parentId": 19,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 21,
+        "expanded": true,
+        "name": "ダンジョン2階層　その2",
+        "order": 22,
+        "parentId": 20,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 22,
+        "expanded": true,
+        "name": "ダンジョン2階層 その3",
+        "order": 23,
+        "parentId": 21,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 23,
+        "expanded": false,
+        "name": "森",
+        "order": 30,
+        "parentId": 18,
+        "scrollX": 792.6666666666666,
+        "scrollY": 586.6666666666666
+    },
+    {
+        "id": 24,
+        "expanded": true,
+        "name": "ダンジョン3階層目その1",
+        "order": 24,
+        "parentId": 22,
+        "scrollX": 1127.3333333333333,
+        "scrollY": 997.3333333333334
+    },
+    {
+        "id": 25,
+        "expanded": true,
+        "name": "ダンジョン3階層目その2",
+        "order": 25,
+        "parentId": 24,
+        "scrollX": 792.6666666666666,
+        "scrollY": 997.3333333333334
+    },
+    {
+        "id": 26,
+        "expanded": true,
+        "name": "ダンジョン3階層その3",
+        "order": 26,
+        "parentId": 25,
+        "scrollX": 792.6666666666666,
+        "scrollY": 625.3333333333334
+    },
+    {
+        "id": 27,
+        "expanded": true,
+        "name": "回想部屋",
+        "order": 12,
+        "parentId": 11,
+        "scrollX": 803.3333333333334,
+        "scrollY": 532
+    },
+    {
+        "id": 28,
+        "expanded": false,
+        "name": "ダンジョン3階層その4",
+        "order": 27,
+        "parentId": 26,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 29,
+        "expanded": true,
+        "name": "転移魔法陣",
+        "order": 32,
+        "parentId": 31,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 30,
+        "expanded": true,
+        "name": "都会",
+        "order": 33,
+        "parentId": 31,
+        "scrollX": 792.6666666666666,
+        "scrollY": 864
+    },
+    {
+        "id": 31,
+        "expanded": true,
+        "name": "第2の島",
+        "order": 31,
+        "parentId": 0,
+        "scrollX": 792.6666666666666,
+        "scrollY": 640
+    },
+    {
+        "id": 32,
+        "expanded": true,
+        "name": "ギルド支部",
+        "order": 55,
+        "parentId": 42,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 33,
+        "expanded": true,
+        "name": "カジノ",
+        "order": 34,
+        "parentId": 30,
+        "scrollX": 947.3333333333334,
+        "scrollY": 1305.3333333333333
+    },
+    {
+        "id": 34,
+        "expanded": true,
+        "name": "娼婦館",
+        "order": 35,
+        "parentId": 33,
+        "scrollX": 792.6666666666666,
+        "scrollY": 906.6666666666666
+    },
+    {
+        "id": 35,
+        "expanded": true,
+        "name": "アイテムショップ",
+        "order": 36,
+        "parentId": 34,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 36,
+        "expanded": true,
+        "name": "小さな村",
+        "order": 45,
+        "parentId": 31,
+        "scrollX": 792.6666666666666,
+        "scrollY": 666.6666666666666
+    },
+    {
+        "id": 37,
+        "expanded": true,
+        "name": "アナルほじりスライムの森",
+        "order": 48,
+        "parentId": 31,
+        "scrollX": 2087.3333333333335,
+        "scrollY": 1724
+    },
+    {
+        "id": 38,
+        "expanded": true,
+        "name": "採掘跡",
+        "order": 50,
+        "parentId": 31,
+        "scrollX": 1335.3333333333333,
+        "scrollY": 869.3333333333334
+    },
+    {
+        "id": 39,
+        "expanded": false,
+        "name": "検問所",
+        "order": 53,
+        "parentId": 31,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 40,
+        "expanded": true,
+        "name": "村の民家1F",
+        "order": 46,
+        "parentId": 36,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 41,
+        "expanded": false,
+        "name": "家畜小屋",
+        "order": 47,
+        "parentId": 40,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 42,
+        "expanded": true,
+        "name": "スラム街",
+        "order": 54,
+        "parentId": 31,
+        "scrollX": 792.6666666666666,
+        "scrollY": 666.6666666666666
+    },
+    {
+        "id": 43,
+        "expanded": true,
+        "name": "スラム街(夜）",
+        "order": 60,
+        "parentId": 0,
+        "scrollX": 792.6666666666666,
+        "scrollY": 586.6666666666666
+    },
+    {
+        "id": 44,
+        "expanded": true,
+        "name": "宿屋",
+        "order": 56,
+        "parentId": 32,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 45,
+        "expanded": true,
+        "name": "宿屋",
+        "order": 61,
+        "parentId": 43,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 46,
+        "expanded": true,
+        "name": "ギルド支部",
+        "order": 62,
+        "parentId": 45,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 47,
+        "expanded": true,
+        "name": "酒場",
+        "order": 57,
+        "parentId": 44,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 48,
+        "expanded": true,
+        "name": "酒場",
+        "order": 63,
+        "parentId": 46,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 49,
+        "expanded": false,
+        "name": "アナルほじりスライムの森2",
+        "order": 49,
+        "parentId": 37,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 50,
+        "expanded": true,
+        "name": "ガレージ",
+        "order": 37,
+        "parentId": 35,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 51,
+        "expanded": true,
+        "name": "チェルン村",
+        "order": 71,
+        "parentId": 0,
+        "scrollX": 792.6666666666666,
+        "scrollY": 1217.3333333333333
+    },
+    {
+        "id": 52,
+        "expanded": true,
+        "name": "道具屋",
+        "order": 72,
+        "parentId": 51,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 53,
+        "expanded": true,
+        "name": "研究室",
+        "order": 38,
+        "parentId": 50,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 54,
+        "expanded": true,
+        "name": "研究室2",
+        "order": 39,
+        "parentId": 53,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 55,
+        "expanded": true,
+        "name": "コスプレショップ",
+        "order": 40,
+        "parentId": 54,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 56,
+        "expanded": true,
+        "name": "トイレ",
+        "order": 41,
+        "parentId": 55,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 57,
+        "expanded": true,
+        "name": "採掘跡2",
+        "order": 51,
+        "parentId": 38,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 58,
+        "expanded": true,
+        "name": "教会",
+        "order": 73,
+        "parentId": 52,
+        "scrollX": 792.6666666666666,
+        "scrollY": 666.6666666666666
+    },
+    {
+        "id": 59,
+        "expanded": true,
+        "name": "トイレ（夜）",
+        "order": 42,
+        "parentId": 56,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 60,
+        "expanded": true,
+        "name": "ダンジョン2 一層目1",
+        "order": 77,
+        "parentId": 0,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 61,
+        "expanded": true,
+        "name": "ダンジョン2　一層目2",
+        "order": 78,
+        "parentId": 60,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 62,
+        "expanded": true,
+        "name": "ダンジョン2　一層目3",
+        "order": 79,
+        "parentId": 61,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 63,
+        "expanded": true,
+        "name": "小さな小屋",
+        "order": 74,
+        "parentId": 58,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 64,
+        "expanded": true,
+        "name": "マッサージ店",
+        "order": 58,
+        "parentId": 47,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 65,
+        "expanded": true,
+        "name": "マッサージ店",
+        "order": 64,
+        "parentId": 48,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 66,
+        "expanded": true,
+        "name": "ダンジョン2 2層目1",
+        "order": 80,
+        "parentId": 62,
+        "scrollX": 887.3333333333334,
+        "scrollY": 650.6666666666666
+    },
+    {
+        "id": 67,
+        "expanded": true,
+        "name": "ダンジョン2 2層目2",
+        "order": 81,
+        "parentId": 66,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 68,
+        "expanded": false,
+        "name": "サキュ子の家",
+        "order": 52,
+        "parentId": 57,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 69,
+        "expanded": true,
+        "name": "サキュ子の家",
+        "order": 75,
+        "parentId": 63,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 70,
+        "expanded": true,
+        "name": "ダンジョン2 3層目1",
+        "order": 82,
+        "parentId": 67,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 71,
+        "expanded": true,
+        "name": "ダンジョン2 3層目2",
+        "order": 83,
+        "parentId": 70,
+        "scrollX": 1607.3333333333333,
+        "scrollY": 1366.6666666666667
+    },
+    {
+        "id": 72,
+        "expanded": true,
+        "name": "ダンジョン2 3層目3",
+        "order": 84,
+        "parentId": 71,
+        "scrollX": 792.6666666666666,
+        "scrollY": 906.6666666666666
+    },
+    {
+        "id": 73,
+        "expanded": true,
+        "name": "ダンジョン2　3層目",
+        "order": 85,
+        "parentId": 72,
+        "scrollX": 792.6666666666666,
+        "scrollY": 906.6666666666666
+    },
+    {
+        "id": 74,
+        "expanded": false,
+        "name": "ダンジョン2　4層目",
+        "order": 86,
+        "parentId": 73,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 75,
+        "expanded": true,
+        "name": "ラストダンジョン1",
+        "order": 87,
+        "parentId": 60,
+        "scrollX": 792.6666666666666,
+        "scrollY": 746.6666666666666
+    },
+    {
+        "id": 76,
+        "expanded": true,
+        "name": "ラストダンジョン2",
+        "order": 88,
+        "parentId": 75,
+        "scrollX": 792.6666666666666,
+        "scrollY": 1002.6666666666666
+    },
+    {
+        "id": 77,
+        "expanded": true,
+        "name": "ラストダンジョン3",
+        "order": 89,
+        "parentId": 76,
+        "scrollX": 1175.3333333333333,
+        "scrollY": 1366.6666666666667
+    },
+    {
+        "id": 78,
+        "expanded": true,
+        "name": "ラストダンジョン4",
+        "order": 90,
+        "parentId": 77,
+        "scrollX": 1175.3333333333333,
+        "scrollY": 1366.6666666666667
+    },
+    {
+        "id": 79,
+        "expanded": true,
+        "name": "ラストダンジョン5",
+        "order": 91,
+        "parentId": 78,
+        "scrollX": 792.6666666666666,
+        "scrollY": 906.6666666666666
+    },
+    {
+        "id": 80,
+        "expanded": true,
+        "name": "SEXしないと出られない部屋",
+        "order": 43,
+        "parentId": 59,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 81,
+        "expanded": true,
+        "name": "スラム民家",
+        "order": 65,
+        "parentId": 65,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 82,
+        "expanded": false,
+        "name": "スラム民家",
+        "order": 59,
+        "parentId": 64,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 83,
+        "expanded": true,
+        "name": "奴隷競売入口",
+        "order": 66,
+        "parentId": 81,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 84,
+        "expanded": true,
+        "name": "奴隷競売場",
+        "order": 67,
+        "parentId": 83,
+        "scrollX": 792.6666666666666,
+        "scrollY": 906.6666666666666
+    },
+    {
+        "id": 85,
+        "expanded": true,
+        "name": "牢屋1",
+        "order": 68,
+        "parentId": 84,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 86,
+        "expanded": true,
+        "name": "牢屋2",
+        "order": 69,
+        "parentId": 85,
+        "scrollX": 792.6666666666666,
+        "scrollY": 853.3333333333334
+    },
+    {
+        "id": 87,
+        "expanded": true,
+        "name": "牢屋3",
+        "order": 70,
+        "parentId": 86,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 88,
+        "expanded": false,
+        "name": "ホテル",
+        "order": 44,
+        "parentId": 80,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 89,
+        "expanded": true,
+        "name": "バッドエンド回想",
+        "order": 13,
+        "parentId": 27,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 90,
+        "expanded": false,
+        "name": "？？？",
+        "order": 76,
+        "parentId": 69,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    },
+    {
+        "id": 91,
+        "expanded": true,
+        "name": "トイレ",
+        "order": 14,
+        "parentId": 89,
+        "scrollX": 803.3333333333334,
+        "scrollY": 533.3333333333334
+    }
+]

@@ -1,0 +1,3925 @@
+[
+    null,
+    {
+        "id": 1,
+        "members": [
+            {
+                "enemyId": 1,
+                "x": 336,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 1,
+                "x": 480,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "こうもり*2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "members": [
+            {
+                "enemyId": 2,
+                "x": 337,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 2,
+                "x": 480,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "スライム*2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "members": [
+            {
+                "enemyId": 3,
+                "x": 408,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "オーク",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "members": [
+            {
+                "enemyId": 4,
+                "x": 408,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "ミノタウロス",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "members": [
+            {
+                "enemyId": 5,
+                "x": 408,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "ゴロツキ",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "members": [
+            {
+                "enemyId": 6,
+                "x": 408,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "怒りくるった孫",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "members": [
+            {
+                "enemyId": 7,
+                "x": 408,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "ゴロツキのボス",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "members": [
+            {
+                "enemyId": 8,
+                "x": 408,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "薄汚いオーク君",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "members": [
+            {
+                "enemyId": 9,
+                "x": 337,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 2,
+                "x": 485,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "ノヅチ, スライム",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "members": [
+            {
+                "enemyId": 3,
+                "x": 295,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 10,
+                "x": 548,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "オーク, ゴースト",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "members": [
+            {
+                "enemyId": 10,
+                "x": 408,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "ゴースト",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "members": [
+            {
+                "enemyId": 11,
+                "x": 408,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "ジグモ",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "members": [
+            {
+                "enemyId": 13,
+                "x": 408,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "血吸いフラワー",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "members": [
+            {
+                "enemyId": 11,
+                "x": 324,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 13,
+                "x": 488,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "ジグモ, 血吸いフラワー",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "members": [
+            {
+                "enemyId": 12,
+                "x": 408,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "モリの精",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "members": [
+            {
+                "enemyId": 12,
+                "x": 248,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 9,
+                "x": 422,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 13,
+                "x": 583,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "モリの精, ノヅチ, 血吸いフラワー",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "members": [
+            {
+                "enemyId": 2,
+                "x": 225,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 14,
+                "x": 396,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 13,
+                "x": 579,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "ぬめぬめぬめぬ",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "members": [
+            {
+                "enemyId": 15,
+                "x": 408,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "泥棒",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "members": [
+            {
+                "enemyId": 16,
+                "x": 300,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 16,
+                "x": 517,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "ワーウルフ*2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "members": [
+            {
+                "enemyId": 17,
+                "x": 244,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 13,
+                "x": 409,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 11,
+                "x": 573,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "火の玉, 血吸いフラワー, ジグモ",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "members": [
+            {
+                "enemyId": 16,
+                "x": 328,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 17,
+                "x": 517,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "ワーウルフ, 火の玉",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "members": [
+            {
+                "enemyId": 18,
+                "x": 408,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "インプ",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "members": [
+            {
+                "enemyId": 18,
+                "x": 340,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 18,
+                "x": 476,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "インプ*2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "members": [
+            {
+                "enemyId": 16,
+                "x": 408,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "ワーウルフ",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "members": [
+            {
+                "enemyId": 19,
+                "x": 408,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "学びを得たオーク君",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "members": [
+            {
+                "enemyId": 20,
+                "x": 408,
+                "y": 437,
+                "hidden": false
+            }
+        ],
+        "name": "経験値スライム",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "members": [
+            {
+                "enemyId": 21,
+                "x": 408,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "野獣",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "members": [
+            {
+                "enemyId": 22,
+                "x": 265,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 22,
+                "x": 408,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 22,
+                "x": 551,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "アナルほじりスライム",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "members": [
+            {
+                "enemyId": 23,
+                "x": 72,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 24,
+                "x": 168,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 23,
+                "x": 264,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 24,
+                "x": 360,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 23,
+                "x": 456,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 24,
+                "x": 552,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 23,
+                "x": 648,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 25,
+                "x": 744,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "素敵な仲間",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "members": [
+            {
+                "enemyId": 23,
+                "x": 337,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 24,
+                "x": 480,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "素敵な仲間",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "members": [
+            {
+                "enemyId": 22,
+                "x": 194,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 22,
+                "x": 337,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 22,
+                "x": 480,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 22,
+                "x": 623,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "おケツほじりスライム*4",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "members": [
+            {
+                "enemyId": 22,
+                "x": 265,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 26,
+                "x": 408,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 22,
+                "x": 551,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "キングアナルほじりスライム",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "members": [
+            {
+                "enemyId": 18,
+                "x": 237,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 27,
+                "x": 404,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 1,
+                "x": 576,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "帰ってきたぬめぬめぬめぬ",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "members": [
+            {
+                "enemyId": 28,
+                "x": 72,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 29,
+                "x": 355,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 30,
+                "x": 692,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "まもののむれ",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "members": [
+            {
+                "enemyId": 31,
+                "x": 408,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "怪しい研究員",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "members": [
+            {
+                "enemyId": 32,
+                "x": 408,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "キマイラーン",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "members": [
+            {
+                "enemyId": 34,
+                "x": 240,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 34,
+                "x": 408,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 34,
+                "x": 576,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "ゴブリン*3",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "members": [
+            {
+                "enemyId": 34,
+                "x": 322,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 35,
+                "x": 492,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "ゴブリン, ゴブリン兵士",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "members": [
+            {
+                "enemyId": 36,
+                "x": 279,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 36,
+                "x": 537,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "ゴブリンライダー*2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "members": [
+            {
+                "enemyId": 35,
+                "x": 322,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 35,
+                "x": 494,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "ゴブリン兵士*2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "members": [
+            {
+                "enemyId": 34,
+                "x": 84,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 35,
+                "x": 221,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 37,
+                "x": 365,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 36,
+                "x": 552,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 34,
+                "x": 732,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "ゴブリンシャーマン",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "members": [
+            {
+                "enemyId": 39,
+                "x": 255,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 39,
+                "x": 408,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 39,
+                "x": 561,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "じむぐり*3",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "members": [
+            {
+                "enemyId": 40,
+                "x": 324,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 40,
+                "x": 492,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "生き血を啜るフラワー*2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "members": [
+            {
+                "enemyId": 39,
+                "x": 324,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 40,
+                "x": 485,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "じむぐり, 生き血を啜るフラワー",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "members": [
+            {
+                "enemyId": 39,
+                "x": 244,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 38,
+                "x": 401,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 40,
+                "x": 565,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "地獄からの使者",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "members": [
+            {
+                "enemyId": 41,
+                "x": 408,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "くさったゾンビ",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "members": [
+            {
+                "enemyId": 41,
+                "x": 215,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 41,
+                "x": 408,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 41,
+                "x": 601,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "くさったゾンビ*3",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "members": [
+            {
+                "enemyId": 41,
+                "x": 312,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 41,
+                "x": 505,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "くさったゾンビ*2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "members": [
+            {
+                "enemyId": 41,
+                "x": 187,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 42,
+                "x": 408,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 41,
+                "x": 629,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "死人の群れ",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "members": [
+            {
+                "enemyId": 43,
+                "x": 408,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "サキュ子",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "members": [
+            {
+                "enemyId": 44,
+                "x": 408,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "覚悟したオーク君",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "members": [
+            {
+                "enemyId": 45,
+                "x": 408,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "ミミック",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "members": [
+            {
+                "enemyId": 46,
+                "x": 262,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 46,
+                "x": 554,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "護衛兵*2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "members": [
+            {
+                "enemyId": 47,
+                "x": 129,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 49,
+                "x": 243,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 48,
+                "x": 363,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 50,
+                "x": 464,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 51,
+                "x": 554,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 52,
+                "x": 671,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "冒険者",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "members": [
+            {
+                "enemyId": 53,
+                "x": 408,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "半魚人",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "members": [
+            {
+                "enemyId": 54,
+                "x": 408,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "ウマ男",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "members": [
+            {
+                "enemyId": 55,
+                "x": 408,
+                "y": 440,
+                "hidden": false
+            }
+        ],
+        "name": "クソ女神",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "members": [
+            {
+                "enemyId": 56,
+                "x": 408,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "邪神ちゃん",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "members": [
+            {
+                "enemyId": 56,
+                "x": 219,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 56,
+                "x": 598,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "邪神ちゃん*2",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "members": [
+            {
+                "enemyId": 57,
+                "x": 72,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 58,
+                "x": 168,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 57,
+                "x": 264,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 58,
+                "x": 360,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 57,
+                "x": 456,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 58,
+                "x": 552,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 57,
+                "x": 648,
+                "y": 436,
+                "hidden": false
+            },
+            {
+                "enemyId": 59,
+                "x": 744,
+                "y": 436,
+                "hidden": false
+            }
+        ],
+        "name": "素敵な仲間",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 97,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    },
+    {
+        "id": 100,
+        "members": [],
+        "name": "",
+        "pages": [
+            {
+                "conditions": {
+                    "actorHp": 50,
+                    "actorId": 1,
+                    "actorValid": false,
+                    "enemyHp": 50,
+                    "enemyIndex": 0,
+                    "enemyValid": false,
+                    "switchId": 1,
+                    "switchValid": false,
+                    "turnA": 0,
+                    "turnB": 0,
+                    "turnEnding": false,
+                    "turnValid": false
+                },
+                "list": [
+                    {
+                        "code": 0,
+                        "indent": 0,
+                        "parameters": []
+                    }
+                ],
+                "span": 0
+            }
+        ]
+    }
+]

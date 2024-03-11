@@ -1,0 +1,49 @@
+[
+    null,
+    {
+        "id": 1,
+        "battlerName": "",
+        "characterIndex": 0,
+        "characterName": "2NEWNatsuGame",
+        "classId": 5,
+        "equips": [
+            5,
+            1,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "memerisu1",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "メメリス",
+        "nickname": "一般メスガキ",
+        "note": "",
+        "profile": "遊ぶ金欲しさにダンジョンにある秘宝を目指して冒険に出た\n自称、超絶美少女。スマホより重い物は持ちたくないらしい。"
+    },
+    {
+        "id": 2,
+        "battlerName": "",
+        "characterIndex": 1,
+        "characterName": "2NEWNatsuGame",
+        "classId": 6,
+        "equips": [
+            6,
+            0,
+            0,
+            0,
+            0
+        ],
+        "faceIndex": 0,
+        "faceName": "thina1",
+        "traits": [],
+        "initialLevel": 1,
+        "maxLevel": 99,
+        "name": "ティーナ",
+        "nickname": "おっぱい担当",
+        "note": "",
+        "profile": "女神のご加護を受けた豊満すぎる聖女。\nしかしまだ成長が続いているとの噂も…。"
+    }
+]

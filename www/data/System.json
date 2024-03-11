@@ -1,0 +1,748 @@
+{
+    "airship": {
+        "bgm": {
+            "name": "Ship3",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 90
+        },
+        "characterIndex": 3,
+        "characterName": "Vehicle",
+        "startMapId": 0,
+        "startX": 0,
+        "startY": 0
+    },
+    "armorTypes": [
+        "",
+        "一般防具",
+        "魔法防具",
+        "軽装防具",
+        "重装防具",
+        "小型盾",
+        "大型盾"
+    ],
+    "attackMotions": [
+        {
+            "type": 0,
+            "weaponImageId": 0
+        },
+        {
+            "type": 1,
+            "weaponImageId": 1
+        },
+        {
+            "type": 1,
+            "weaponImageId": 2
+        },
+        {
+            "type": 1,
+            "weaponImageId": 3
+        },
+        {
+            "type": 1,
+            "weaponImageId": 4
+        },
+        {
+            "type": 1,
+            "weaponImageId": 5
+        },
+        {
+            "type": 1,
+            "weaponImageId": 6
+        },
+        {
+            "type": 2,
+            "weaponImageId": 7
+        },
+        {
+            "type": 2,
+            "weaponImageId": 8
+        },
+        {
+            "type": 2,
+            "weaponImageId": 9
+        },
+        {
+            "type": 0,
+            "weaponImageId": 10
+        },
+        {
+            "type": 0,
+            "weaponImageId": 11
+        },
+        {
+            "type": 0,
+            "weaponImageId": 12
+        }
+    ],
+    "battleBgm": {
+        "name": "GB-RPG-B13-1(Battle2)",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 100
+    },
+    "battleback1Name": "Grassland",
+    "battleback2Name": "Grassland",
+    "battlerHue": 0,
+    "battlerName": "Dragon",
+    "boat": {
+        "bgm": {
+            "name": "Ship1",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 90
+        },
+        "characterIndex": 0,
+        "characterName": "Vehicle",
+        "startMapId": 0,
+        "startX": 0,
+        "startY": 0
+    },
+    "currencyUnit": "ジュエル",
+    "defeatMe": {
+        "name": "Onoma-Negative03-1(Long)",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 100
+    },
+    "editMapId": 1,
+    "elements": [
+        "",
+        "物理",
+        "炎",
+        "氷",
+        "雷",
+        "水",
+        "土",
+        "風",
+        "光",
+        "闇"
+    ],
+    "equipTypes": [
+        "",
+        "武器",
+        "盾",
+        "頭",
+        "身体",
+        "装飾品"
+    ],
+    "gameTitle": "",
+    "gameoverMe": {
+        "name": "Gameover2",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 90
+    },
+    "locale": "ja_JP",
+    "magicSkills": [
+        1
+    ],
+    "menuCommands": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+    ],
+    "optDisplayTp": false,
+    "optDrawTitle": false,
+    "optExtraExp": false,
+    "optFloorDeath": false,
+    "optFollowers": true,
+    "optSideView": false,
+    "optSlipDeath": false,
+    "optTransparent": false,
+    "partyMembers": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "ship": {
+        "bgm": {
+            "name": "Ship2",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 90
+        },
+        "characterIndex": 1,
+        "characterName": "Vehicle",
+        "startMapId": 0,
+        "startX": 0,
+        "startY": 0
+    },
+    "skillTypes": [
+        "",
+        "魔法",
+        "必殺技"
+    ],
+    "sounds": [
+        {
+            "name": "Motion-Pop42-1",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 100
+        },
+        {
+            "name": "Motion-Pop02-1",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 100
+        },
+        {
+            "name": "Motion-Pop29-1",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 100
+        },
+        {
+            "name": "Xylophone03-01(Multi1-1)",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 100
+        },
+        {
+            "name": "Motion-Pop01-1",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 100
+        },
+        {
+            "name": "Shortbridge03-1",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 100
+        },
+        {
+            "name": "Motion-Pop17-1",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 100
+        },
+        {
+            "name": "SNES-RPG05-17(Encounter)",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 100
+        },
+        {
+            "name": "Motion-Pop43-2",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 100
+        },
+        {
+            "name": "Hit09-1",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 100
+        },
+        {
+            "name": "Damage4",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 90
+        },
+        {
+            "name": "Motion-Pop31-1",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 100
+        },
+        {
+            "name": "Collapse2",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 90
+        },
+        {
+            "name": "Collapse3",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 90
+        },
+        {
+            "name": "Damage5",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 90
+        },
+        {
+            "name": "Onoma-Ding02-1(Low-Long)",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 100
+        },
+        {
+            "name": "Recovery",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 90
+        },
+        {
+            "name": "Miss",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 90
+        },
+        {
+            "name": "Evasion1",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 90
+        },
+        {
+            "name": "Evasion2",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 90
+        },
+        {
+            "name": "Reflection",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 90
+        },
+        {
+            "name": "Shop1",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 90
+        },
+        {
+            "name": "Motion-Pop29-1",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 100
+        },
+        {
+            "name": "Motion-Pop05-1",
+            "pan": 0,
+            "pitch": 100,
+            "volume": 100
+        }
+    ],
+    "startMapId": 1,
+    "startX": 1,
+    "startY": 1,
+    "switches": [
+        "",
+        "ダンジョン1オーク消去",
+        "宿屋宝箱勝利",
+        "回想1ゴロツキ登場",
+        "回想1アジト潜入",
+        "回想1アジト敵消去",
+        "回想１アジトボス勝利",
+        "ダンジョン2スライム消去",
+        "ギルドテスト1",
+        "ギルドテスト2",
+        "ギルドテスト3",
+        "ギルドテスト4",
+        "ダンジョン3オーク消去",
+        "回想部屋解放",
+        "しまむーの服",
+        "ギルド偉い人",
+        "OP終わり",
+        "ダンジョンクリア1",
+        "次の島へ！",
+        "犬回想1",
+        "犬回想2",
+        "犬回想3",
+        "犬回想4",
+        "ティーナ メイド姦",
+        "28万門番1",
+        "28万門番2",
+        "カジノバニー会話",
+        "スラム街入口",
+        "酒場小便回想",
+        "酒場小便回想2",
+        "酒場小便回想3",
+        "ガチャ実装",
+        "アナルほじりスライム1",
+        "アナルほじりスライム2",
+        "アナルほじりおっさん",
+        "アナルほじりスライム3",
+        "アナルほじりスライム仲間",
+        "宿屋息子仲間",
+        "帰ってきたぬめぬめぬめぬ1",
+        "帰ってきたぬめぬめぬめぬ2",
+        "旅の商人仲間",
+        "モンスターマスター仲間",
+        "スラム夜宿屋",
+        "怪しい研究所1",
+        "怪しい研究所2",
+        "怪しい研究所3",
+        "ゴブリン1",
+        "ゴブリン2",
+        "神父様仲間",
+        "ニンジン",
+        "馬移動",
+        "ティーナ トイレ1",
+        "ティーナ トイレ2",
+        "ティーナ トイレ3",
+        "チャラ男仲間",
+        "ダンジョン2　ボス1",
+        "男の子仲間",
+        "男の子クエスト",
+        "男の子回想1",
+        "男の子回想2",
+        "ダンジョン2 ボス2",
+        "サキュバス討伐",
+        "サキュバス討伐済み",
+        "サキュバス討伐済み2",
+        "全滅時帰還",
+        "ダンジョン2オーク勝利",
+        "スラム ティーナレイプ",
+        "スラム踊子1",
+        "ミミック討伐",
+        "ラスダン突入",
+        "SEXないと出られない部屋1",
+        "SEXないと出られない部屋2",
+        "SEXないと出られない部屋3",
+        "SEXないと出られない部屋4",
+        "SEXないと出られない部屋5",
+        "SEXないと出られない部屋6",
+        "SEXないと出られない部屋7",
+        "バー回想",
+        "スラム キメセク回想",
+        "スラム奴隷1",
+        "スラム奴隷2",
+        "チェルン村1",
+        "メニュー開閉スイッチ",
+        "移動禁止",
+        "メメリス立ち絵判定",
+        "ティーナ立ち絵判定",
+        "操作受け付け",
+        "会話禁止",
+        "乗り物禁止",
+        "スラム奴隷3",
+        "スラム奴隷4 ティーナ",
+        "スラム奴隷4 メメリス",
+        "スラム奴隷5 ティーナ",
+        "スラム奴隷5 メメリス",
+        "スラム奴隷6 ティーナ",
+        "スラム奴隷6 メメリス",
+        "スラム監獄イベント1",
+        "スラム監獄イベント2",
+        "スラム監獄イベント3",
+        "スラム監獄イベント4",
+        "スラム監獄イベント5",
+        "スラム監獄イベント6",
+        "スラム奴隷メメリス7",
+        "スラム奴隷ティーナ7",
+        "看守吹き出し1",
+        "スラム奴隷メメリス8",
+        "スラム奴隷メメリス9",
+        "スラム奴隷ティーナ8",
+        "スラム奴隷メメリス10",
+        "スラム奴隷ティーナ9",
+        "スラム奴隷メメリス11",
+        "スラム奴隷ティーナ10",
+        "スラム踊子2",
+        "スラム奴隷ティーナ11",
+        "ティーナ牛ビキニ",
+        "ティーナ犬首輪",
+        "スラム奴隷メメリス12",
+        "看守2",
+        "サキュバス回想2",
+        "ラスダン1",
+        "バッドエンド確定",
+        "ラスダン2",
+        "ラスダン3",
+        "村人コンプ",
+        "神様仲間",
+        "神様ガチャ",
+        "メダル交換ショップ",
+        "回想1クエ",
+        "看守3",
+        "メッセージ速度",
+        "ショタ4",
+        "エロステリセット",
+        "経験値",
+        "お漏らし",
+        "ティーナお漏らし",
+        "深夜トイレおしっこ",
+        "奴隷トイレ　メメリス",
+        "奴隷トイレ ティーナ",
+        "奴隷小便器メメリス",
+        "奴隷小便器メメリス2",
+        "奴隷小便器メメリス3",
+        "次の島へ！びっくり印",
+        "ゴミすて完了",
+        "ゴミ捨て完了2",
+        "ゴブリン3",
+        "ゴブリン4",
+        "ゴブリン5",
+        "トイレ買い取り",
+        "回想部屋開放",
+        "都会トイレ盗撮1",
+        "都会トイレ盗撮ティーナ",
+        "ダンジョンワープ1",
+        "ダンジョンワープ2",
+        "ダンジョンワープ3",
+        "ダンジョンワープ4",
+        "ダンジョンワープ5",
+        "ダンジョンワープ6",
+        "ダンジョンワープ7",
+        "ダンジョンワープ8",
+        "ダンジョンワープ9",
+        "ダンジョンワープ10",
+        "ダンジョンワープ11",
+        "エネミーストップ",
+        "研究所看板",
+        "ノーマルエンド",
+        "バッドエンド",
+        "トゥルーエンド",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "terms": {
+        "basic": [
+            "レベル",
+            "Lv",
+            "ＨＰ",
+            "HP",
+            "ＭＰ",
+            "MP",
+            "ＴＰ",
+            "TP",
+            "経験値",
+            "EXP"
+        ],
+        "commands": [
+            "戦う",
+            "逃げる",
+            "攻撃",
+            "防御",
+            "アイテム",
+            "スキル",
+            "装備",
+            "ステータス",
+            "並び替え",
+            "セーブ",
+            "ゲーム終了",
+            "オプション",
+            "武器",
+            "防具",
+            "大事なもの",
+            "装備",
+            "最強装備",
+            "全て外す",
+            "ニューゲーム",
+            "コンティニュー",
+            null,
+            "タイトルへ",
+            "やめる",
+            null,
+            "購入する",
+            "売却する"
+        ],
+        "params": [
+            "最大ＨＰ",
+            "最大ＭＰ",
+            "攻撃力",
+            "防御力",
+            "魔法力",
+            "魔法防御",
+            "敏捷性",
+            "運",
+            "命中率",
+            "回避率"
+        ],
+        "messages": {
+            "actionFailure": "%1には効かなかった！",
+            "actorDamage": "%1は %2 のダメージを受けた！",
+            "actorDrain": "%1は%2を %3 奪われた！",
+            "actorGain": "%1の%2が %3 増えた！",
+            "actorLoss": "%1の%2が %3 減った！",
+            "actorNoDamage": "%1はダメージを受けていない！",
+            "actorNoHit": "ミス！　%1はダメージを受けていない！",
+            "actorRecovery": "%1の%2が %3 回復した！",
+            "alwaysDash": "常時ダッシュ",
+            "bgmVolume": "BGM 音量",
+            "bgsVolume": "BGS 音量",
+            "buffAdd": "%1の%2が上がった！",
+            "buffRemove": "%1の%2が元に戻った！",
+            "commandRemember": "コマンド記憶",
+            "counterAttack": "%1の反撃！",
+            "criticalToActor": "痛恨の一撃！！",
+            "criticalToEnemy": "会心の一撃！！",
+            "debuffAdd": "%1の%2が下がった！",
+            "defeat": "%1は戦いに敗れた。",
+            "emerge": "%1が出現！",
+            "enemyDamage": "%1に %2 のダメージを与えた！",
+            "enemyDrain": "%1の%2を %3 奪った！",
+            "enemyGain": "%1の%2が %3 増えた！",
+            "enemyLoss": "%1の%2が %3 減った！",
+            "enemyNoDamage": "%1にダメージを与えられない！",
+            "enemyNoHit": "ミス！　%1にダメージを与えられない！",
+            "enemyRecovery": "%1の%2が %3 回復した！",
+            "escapeFailure": "しかし逃げることはできなかった！",
+            "escapeStart": "%1は逃げ出した！",
+            "evasion": "%1は攻撃をかわした！",
+            "expNext": "次の%1まで",
+            "expTotal": "現在の%1",
+            "file": "ファイル",
+            "levelUp": "%1は%2 %3 に上がった！",
+            "loadMessage": "どのファイルをロードしますか？",
+            "magicEvasion": "%1は魔法を打ち消した！",
+            "magicReflection": "%1は魔法を跳ね返した！",
+            "meVolume": "ME 音量",
+            "obtainExp": "%1 の%2を獲得！",
+            "obtainGold": "お金を %1\\G 手に入れた！",
+            "obtainItem": "%1を手に入れた！",
+            "obtainSkill": "%1を覚えた！",
+            "partyName": "%1たち",
+            "possession": "持っている数",
+            "preemptive": "%1は先手を取った！",
+            "saveMessage": "どのファイルにセーブしますか？",
+            "seVolume": "SE 音量",
+            "substitute": "%1が%2をかばった！",
+            "surprise": "%1は不意をつかれた！",
+            "useItem": "%1は%2を使った！",
+            "victory": "%1の勝利！"
+        }
+    },
+    "testBattlers": [
+        {
+            "actorId": 1,
+            "equips": [
+                5,
+                1,
+                6,
+                30,
+                5
+            ],
+            "level": 40
+        },
+        {
+            "actorId": 2,
+            "equips": [
+                6,
+                1,
+                20,
+                31,
+                7
+            ],
+            "level": 40
+        },
+        {
+            "actorId": 3,
+            "equips": [
+                3,
+                0,
+                2,
+                3,
+                4
+            ],
+            "level": 1
+        },
+        {
+            "actorId": 4,
+            "equips": [
+                4,
+                0,
+                2,
+                3,
+                4
+            ],
+            "level": 1
+        }
+    ],
+    "testTroopId": 55,
+    "title1Name": "1",
+    "title2Name": "",
+    "titleBgm": {
+        "name": "HOME",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 90
+    },
+    "variables": [
+        "",
+        "自慰回数(メメリス）",
+        "膣内射精（メメリス）",
+        "口内射精（メメリス）",
+        "アナル（メメリス）",
+        "経験人数（メメリス）",
+        "妊娠（メメリス）",
+        "出産（メメリス）",
+        "淫乱度（メメリス）",
+        "自慰回数（ティーナ）",
+        "膣内射精（ティーナ）",
+        "口内射精（ティーナ）",
+        "アナル（ティーナ）",
+        "経験人数（ティーナ）",
+        "妊娠（ティーナ）",
+        "出産（ティーナ）",
+        "淫乱度（ティーナ）",
+        "メメリス立ち絵",
+        "メメリス変化",
+        "ティーナ立ち絵",
+        "ティーナ変化",
+        "選択肢",
+        "ボタン表示X",
+        "ボタン表示Y",
+        "所持金",
+        "現在地",
+        "タイトル1",
+        "",
+        "トゥルーエンド絵",
+        "",
+        "",
+        "",
+        "",
+        "村人勧誘",
+        "メッセージ速度",
+        "スロット",
+        "ゴミ",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "versionId": 83886226,
+    "victoryMe": {
+        "name": "party kaimaku4",
+        "pan": 0,
+        "pitch": 100,
+        "volume": 100
+    },
+    "weaponTypes": [
+        "",
+        "短剣",
+        "剣",
+        "フレイル",
+        "斧",
+        "ムチ",
+        "杖",
+        "弓",
+        "クロスボウ",
+        "銃",
+        "爪",
+        "グローブ",
+        "槍"
+    ],
+    "windowTone": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "hasEncryptedImages": true,
+    "hasEncryptedAudio": true,
+    "encryptionKey": "86e1314a4b9b21a4841ac8ff52e0866d"
+}
