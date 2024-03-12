@@ -5308,21 +5308,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人間がここに来たのは数千年ぶりですね・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ようこそ、人の子よ。"
+                                "It's been thousands of years since a human came here...\nWelcome, child of man."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 6,
                                 0,
                                 2
@@ -5332,21 +5325,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんかお偉いさんみたいな人？がいる！！"
+                                "Whoa!? Is that some kind of important person?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -5356,14 +5342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょ、ちょっとメメリスちゃん！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "失礼ですよ！"
+                                "Hey, hey, Memerisu-chan!? That's rude!"
                             ]
                         },
                         {
@@ -5380,21 +5359,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "良いのです、私は気にしません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人の子よ、よくぞここまでたどり着きましたね。"
+                                "It's fine, I don't mind. Child of man, you've done well to\nreach this place."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -5404,14 +5376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "せやろせやろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さぁ、ダンジョンのお宝をちょーだい！！"
+                                "Right, right! Now, give us the dungeon's treasure!!"
                             ]
                         },
                         {
@@ -5428,21 +5393,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "安心してください。汝らがこの空間に入った時から"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の奇跡は汝らの為に回り始めています・・・。"
+                                "Rest assured. My miracle has begun to revolve for you since\nthe moment you entered this space..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -5452,21 +5410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "回り始める・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何でも望む結果が手に入るお宝と聞きましたが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここのお宝とは一体・・・。"
+                                "Begun to revolve...? We heard that we could get whatever we\ndesired from the treasure here, but what exactly is this\ntreasure...?"
                             ]
                         },
                         {
@@ -5483,21 +5427,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は星々の命運を司る神・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我が奇跡は汝らの望む運命に星々を回す事です。"
+                                "I am the god who governs the fate of the stars... My miracle\nis to turn the stars towards the destiny you desire."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -5507,14 +5444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奇跡？星々？運命・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すみません、日本語でお願いします。"
+                                "Miracle? Stars? Destiny...? Sorry, could you please explain\nthat in Japanese?"
                             ]
                         },
                         {
@@ -5531,7 +5461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いいでしょう。"
+                                "Very well."
                             ]
                         },
                         {
@@ -5548,14 +5478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私はありとあらゆる星々の運命を司り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "望む結果が出るまで何度でも星々を回す事が出来ます。"
+                                "I govern the fate of all stars and can turn them as many\ntimes as necessary until the desired outcome is achieved."
                             ]
                         },
                         {
@@ -5572,14 +5495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴方達の理想の・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思うがままの自身を引き当てるまで。"
+                                "Until you draw your ideal self... as you wish."
                             ]
                         },
                         {
@@ -5596,21 +5512,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この時代の人間に分かりやすく説明するならば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奇跡という名のガチャと言えますね。"
+                                "To explain it in terms that humans of this era can\nunderstand, it's like a gacha of miracles."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 6,
                                 0,
                                 2
@@ -5620,14 +5529,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{ガチャっ！？"
+                                "Gacha!?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -5637,14 +5546,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "急に俗っぽくなりましたね・・・。"
+                                "That suddenly sounds so mundane..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -5654,21 +5563,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "理想の自分になれるって凄いじゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お金持ちになったり、ボンキュッボンな体型！"
+                                "Becoming your ideal self sounds amazing! Becoming rich or\nhaving a curvy figure!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -5678,14 +5580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今でも超絶美少女だけどさらに可愛くなって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "モテモテになっちゃうじゃん！"
+                                "I'm already a super beautiful girl, but I could become even\ncuter and be super popular!"
                             ]
                         },
                         {
@@ -5702,21 +5597,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その星となる事も可能でしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さぁ、今生と友に別れを告げましょう。"
+                                "It is possible for you to become that star. Now, let us bid\nfarewell to this life together."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 6,
                                 0,
                                 2
@@ -5726,14 +5614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えぇ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今、今生って・・・死ぬってことっ！？"
+                                "Eh!! Right now, this life... You mean dying!?"
                             ]
                         },
                         {
@@ -5750,14 +5631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "当然です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "星をやり直す以上、一度死を迎えねばなりません。"
+                                "Of course. To redo your star, you must first embrace death."
                             ]
                         },
                         {
@@ -5774,21 +5648,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そしてどれだけやり直そうと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一度捨てた今の星々だけは迎える事は出来ません。"
+                                "And no matter how many times you try to redo it, you cannot\nreclaim the stars you once abandoned."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -5798,21 +5665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それってつまり・・・どれだけ理想の世界、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分を引き当ててもメメリスちゃんと私は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "二度と出会えないという事ですか・・・！"
+                                "So that means... no matter how ideal the world or self we\ndraw, Memerisu-chan and I will never meet again...!"
                             ]
                         },
                         {
@@ -5829,14 +5682,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さぁ、人の子よ。汝の思うがままに奇跡を・・・。"
+                                "Come now, child of man. Let the miracle be as you wish..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -5846,14 +5699,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、そんなっ・・・。"
+                                "Th-that's..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -5863,14 +5716,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -5880,21 +5733,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そっか、それなら奇跡なんていらないや。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "帰ろう、ティーナちゃん。"
+                                "I see, if that's the case, I don't need any miracles. Let's\ngo home, Tina-chan."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -5904,14 +5750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メメリスちゃん・・・！！"
+                                "...!! Memerisu-chan...!!"
                             ]
                         },
                         {
@@ -5928,21 +5767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "奇跡を拒むのですか？何故でしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "理想の世界を、理想の自分を引き当てるまで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やり直せるというのに。"
+                                "You refuse the miracle? Why? When you can redo it until you\ndraw your ideal world, your ideal self."
                             ]
                         },
                         {
@@ -5959,28 +5784,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "特に貴方はガチャ狂いの課金中毒者であり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無計画なリ〇払いの乱用で多額の借金を背負っていますよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その中毒も借金も無かったことに出来るのですよ。"
+                                "Especially since you are a gacha addict and a compulsive\nspender with a mountain of debt from reckless credit\npayments. You can make it as if that addiction and debt\nnever existed."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -5990,21 +5801,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふ、ふふっ・・・は、半分は当たってるかな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "耳が痛いぜ・・・！！"
+                                "Heh, heh... well, half of that is true. It's a bit painful\nto hear...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -6014,28 +5818,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "と・に・か・く！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボクはティーナちゃんと離れたくないの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "以上っ！じゃ、ボク達帰るから！！"
+                                "Any-way! I don't want to be separated from Tina-chan! That's\nall! So we're going home now!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -6045,7 +5835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はいっ、帰りましょう！"
+                                "Yes, let's go home!"
                             ]
                         },
                         {
@@ -6062,21 +5852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "残念ですがそれは出来ません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言いましたよね、この空間に入った時から奇跡≪ガチャ≫は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "回り出していると。"
+                                "I'm sorry but that is not possible. As I said, the moment\nyou entered this space, the miracle ≪gacha≫ has started to\nturn."
                             ]
                         },
                         {
@@ -6093,28 +5869,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私の奇跡は一度星々を回してしまうと止める事は出来ません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "止める方法があるとすれば星々の運命を司るこの神である"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私を倒し、運命を乗り越えるしかありません。"
+                                "Once my miracle begins to turn the stars, it cannot be\nstopped. The only way to stop it is to defeat me, the god\nwho governs the fate of the stars, and overcome your\ndestiny."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 6,
                                 0,
                                 2
@@ -6124,14 +5886,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "な、なんだってー！"
+                                "Wh-what did you say!?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -6141,21 +5903,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "苦行を強要なんて・・・無料ほど高い物はない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とはこの事だな！！"
+                                "Imposing such penance... nothing is more expensive than\nsomething free!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 0,
                                 0,
                                 2
@@ -6165,7 +5920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "相手が神様であろうと・・・私達は負けません！"
+                                "Even if our opponent is a god... we will not lose!"
                             ]
                         },
                         {
@@ -6182,21 +5937,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いいでしょう・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人の子らよ、汝らの星の輝きを・・・私に見せてください。"
+                                "Very well... children of man, show me the brilliance of your\nstars."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -6206,21 +5954,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{ちくしょおおおおおお！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "面倒な事に巻き込みやがってぇ！！"
+                                "Damn it all!!!! Getting dragged into such a hassle!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -6230,21 +5971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{何が奇跡だ！ガチャだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "回すならあの世で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボクに詫びガチャし続けろーっ！"
+                                "What kind of miracle! What kind of gacha! If you're going to\nspin it, apologize to me in the afterlife and keep spinning\nyour apology gacha-!"
                             ]
                         },
                         {
@@ -6300,21 +6027,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "人の子がここまで立ち向かえるとは・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ですがこの程度ではまだ我が奇跡は止まりません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もう間もなく奇跡は回り終えます。"
+                                "It's impressive that the children of man have come this\nfar... However, at this level, my miracle will not stop. The\nmiracle will soon complete its revolution."
                             ]
                         },
                         {
@@ -6331,14 +6044,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "さぁ、新たな運命を引くのです・・・。"
+                                "Come, draw forth a new destiny..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -6348,21 +6061,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そんなっ・・・！！もう時間がっ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "メメリスちゃんとお別れなんて私っ・・・！！"
+                                "No way...!! There's no more time... I can't bear to part\nwith Memerisu-chan...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -6372,21 +6078,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐぬぬっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こうなったら・・・最終手段だっ！！"
+                                "Grrr...!! In that case... it's time for the last resort!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -6396,14 +6095,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "スマホで出来る最大火力、そして最終奥義っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "燃えよリチウムイオンバッテリー！！"
+                                "The maximum firepower available on a smartphone, and the\nultimate secret technique! Burn, lithium-ion battery-!!"
                             ]
                         },
                         {
@@ -6420,14 +6112,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "人の子よ、一体何をする気ですか・・・！！"
+                                "Child of man, what do you intend to do...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -6437,14 +6129,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "バッテリーに高熱を・・・ま、まさかっ！！"
+                                "To cause the battery to overheat... You can't mean...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -6454,28 +6146,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\{熱膨張って知ってるか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "スマホは高熱を持つと大爆発"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "するんだああああああああ！！"
+                                "Ever heard of thermal expansion? A smartphone can explode\nwith a big bang if it gets too hot!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -6485,21 +6163,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "これが人間の叡智だ！喰らえっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\{\\{スマホエンドバースト！！"
+                                "This is human wisdom! Take this!! Smartphone End Burst!!"
                             ]
                         },
                         {
@@ -6542,14 +6206,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\{\\{\\{ぐわああああああああああ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ああああああああ！！！！"
+                                "Aaaaaaaargh!!!!"
                             ]
                         },
                         {
@@ -6566,21 +6223,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -6613,7 +6256,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -6630,14 +6273,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -6654,21 +6290,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -6685,14 +6307,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]・・・あれ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ボクは一体・・・何をしてたんだっけ・・・。"
+                                "\\c[31]...Huh? What was I... doing again..."
                             ]
                         },
                         {
@@ -6709,21 +6324,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]・・・・・・・・・・・・・・そうだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ボクは冒険者で・・・ティーナちゃんと一緒にダンジョンを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "冒険して・・・そう・・・そんな日々を過ごして・・・。"
+                                "\\c[31]...That's right. I'm an adventurer and... I was exploring\ndungeons with Tina-chan and... Yes... those were the days..."
                             ]
                         },
                         {
@@ -6807,14 +6408,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュンッ！！ドチュンッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ドチュンッ！！ドチュンッ！！"
+                                "\\c[27]Thump! Thump! Thump! Thump!"
                             ]
                         },
                         {
@@ -6831,14 +6425,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おい、この肉オナホ共さっきからブツブツうるせぇぞ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "壊れちまったか？"
+                                "Hey, these meat onaholes have been muttering non-stop, are\nthey broken?"
                             ]
                         },
                         {
@@ -6855,14 +6442,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ブツブツとうわ言を呟く肉オナホに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "怪訝な視線を向ける魔物・・・。"
+                                "The monster casts a dubious glance at the meat onaholes\nmuttering nonsense..."
                             ]
                         },
                         {
@@ -6879,21 +6459,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "2人は性奴隷としてオークションで購入された。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "様々なご主人様の元で奉仕を繰り返した後に娼婦に流され"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "抱かれ続けた末に見世物小屋に売り飛ばされていた・・・。"
+                                "The two were purchased as sex slaves at an auction. After\nserving various masters, they were sold off to a brothel\nwhere they were continuously embraced, and eventually sold\nto a freak show..."
                             ]
                         },
                         {
@@ -6910,21 +6476,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "夢でも見てんのか・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "流石に孕ませて産ませすぎたか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "俺達のチンコでもガバガバで気持ちよくねぇぜ。"
+                                "Are they dreaming or something...? Maybe I've impregnated\nthem and made them give birth too much. Even our dicks don't\nfeel good in them anymore because they're so loose."
                             ]
                         },
                         {
@@ -6958,21 +6510,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "見世物小屋で魔物に犯される姿を晒す2人の乳首や"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "クリトリスは調教で肥大化し、お腹は大きく膨らみ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "何度も何度も妊娠と出産を繰り返していた・・・。"
+                                "In the freak show, the two's nipples and clitorises were\nenlarged from training, and their bellies were swollen from\nbeing impregnated and giving birth over and over again..."
                             ]
                         },
                         {
@@ -6989,14 +6527,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュンッ！！ドチュンッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ドチュンッ！！ドチュンッ！！"
+                                "\\c[27]Thump! Thump! Thump! Thump!"
                             ]
                         },
                         {
@@ -7088,14 +6619,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{ドビュッ！！ドピュルルルルッ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ドクッドクッドクッ・・・ッッッ！！！"
+                                "\\c[27]Squirt! Spurrrtle! Spurt spurt spurt...!!!"
                             ]
                         },
                         {
@@ -7112,7 +6636,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]お゛ぉ・・・んっ・・・っ・・・ふぅ・・・。"
+                                "\\c[17]Ooh... Mmm... Huh..."
                             ]
                         },
                         {
@@ -7129,21 +6653,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "犯され続けた2人のマンコは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "大柄な魔物のチンコでも簡単に咥え込み、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "中出しをされてもわずかな反応をするだけ・・・。"
+                                "The two's pussies, continuously violated, easily engulfed\neven the large cocks of the monsters, and barely reacted\neven when they were creampied..."
                             ]
                         },
                         {
@@ -7160,14 +6670,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "くそっ、ダメだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "まともに反応しやがらねぇ、これじゃ客が盛り上がらねぇぞ。"
+                                "Damn, this is no good. They're not reacting at all; this\nwon't get the audience excited."
                             ]
                         },
                         {
@@ -7184,7 +6687,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "どうすっかな・・・また腹パン強制出産ショーでもやるか？"
+                                "What should we do... Maybe do another belly punch forced\nbirth show?"
                             ]
                         },
                         {
@@ -7201,14 +6704,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "魔物達が肉オナホの扱いに困っていると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "見世物小屋の司会の男が怒鳴り散らしてきた・・・！！"
+                                "The monsters were at a loss on how to handle the meat\nonaholes when the man hosting the freak show started\nyelling...!!"
                             ]
                         },
                         {
@@ -7225,14 +6721,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おいっ！何してやがるテメーら！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "客が白けてるだろうが！！"
+                                "Hey! What the hell are you doing?! The audience is getting\nbored!!"
                             ]
                         },
                         {
@@ -7249,14 +6738,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "す、すいません・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ですがこの肉オナホ共、全然反応がなくて・・・。"
+                                "I'm sorry...!! But these meat onaholes, they're not reacting\nat all..."
                             ]
                         },
                         {
@@ -7273,14 +6755,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]いっしょ・・・だんじょん・・・ぼうけ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "て・・・つないで・・・あるい・・・て・・・っ・・・。"
+                                "\\c[31]Together... dungeon... adventure... walking... hand in\nhand..."
                             ]
                         },
                         {
@@ -7297,14 +6772,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あぁん？・・・チッ、もう頭がトんでやがるか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "しょーがない・・・おい、アレをするから準備しろ。"
+                                "Huh? Tch, their minds are gone already. Can't be helped...\nHey, prepare for that thing."
                             ]
                         },
                         {
@@ -7321,14 +6789,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "部下の男に指示すると観客の前に立ち、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "司会の男が話し始める・・・。"
+                                "The subordinate nods and as he prepares, the host steps in\nfront of the audience and begins to speak..."
                             ]
                         },
                         {
@@ -7345,14 +6806,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "えー！皆さん！お待たせしました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "今からとっておきの見世物をお見せします！！"
+                                "Eh-! Ladies and gentlemen! Thank you for waiting! We're\nabout to show you a special spectacle!!"
                             ]
                         },
                         {
@@ -7369,14 +6823,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "奴隷の人生でも一度しか行えないとっておきですよー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それでは今からこの肉オナホの・・・。"
+                                "This is a once-in-a-lifetime event even for a slave! Now, we\nwill show you what this meat onahole can do..."
                             ]
                         },
                         {
@@ -7393,21 +6840,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]（何か聞こえるような気がする・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "だけど・・・どうでもいい・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "だってボク達は楽しい冒険の最中なんだから。）"
+                                "\\c[31](I feel like I can hear something... but it doesn't\nmatter... because we're in the middle of a fun adventure.)"
                             ]
                         },
                         {
@@ -7424,14 +6857,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]（次はどこに行きましょう・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ずっとなかよしで・・・一緒に・・・・・・・・）"
+                                "\\c[17](Where shall we go next... always together as best\nfriends...)"
                             ]
                         },
                         {
@@ -7464,14 +6890,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "2人はどこから夢を見ていたのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それはもう分からないしどうでもいい・・・。"
+                                "It's unclear where the two began dreaming. It doesn't matter\nanymore..."
                             ]
                         },
                         {
@@ -7488,14 +6907,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "夢の中で楽しい冒険は今でも続いている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "痛みも悲しみも全て忘れさせてくれる・・・。"
+                                "The fun adventure continues in their dreams. All pain and\nsadness are forgotten..."
                             ]
                         },
                         {
@@ -7512,21 +6924,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -7543,7 +6941,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ふっ・・・と2人の体が軽くなった。"
+                                "...and the two of them felt a lightness in their bodies."
                             ]
                         },
                         {
@@ -7560,14 +6958,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]（・・・？なんだか体が羽のように軽いや。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "これならどこにだって行けちゃうね）"
+                                "\\c[31](...? Somehow my body feels as light as a feather. With\nthis, we can go anywhere.)"
                             ]
                         },
                         {
@@ -7584,14 +6975,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]（はい、一緒に・・・初めて会ったときのように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "手を繋いで歩きましょうね）"
+                                "\\c[17](Yes, together... just like when we first met, walking hand\nin hand.)"
                             ]
                         },
                         {
@@ -7608,14 +6992,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "もう二度と叶う事のない細やかな夢を見ながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "これからも地獄は続いていく・・・。"
+                                "They continue to dream a delicate dream that will never come\ntrue as the hell goes on..."
                             ]
                         },
                         {
@@ -7632,7 +7009,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "地獄の末路は・・・語る必要もないだろう・・・。"
+                                "The end of this hell... needs no words..."
                             ]
                         },
                         {
@@ -7649,21 +7026,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "　　　　　～\\c[31]ガチャ\\c[0]と\\c[17]聖女\\c[0]と\\c[27]危ないダンジョン\\c[0]～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　～バッドエンド～"
+                                "~\\c[31]Gacha\\c[0] and \\c[17]The Holy Maiden\\c[0] and\n\\c[27]The Dangerous Dungeon\\c[0]~~BAD END~"
                             ]
                         },
                         {
@@ -8188,14 +7551,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "バッドエンドルートの進行度がリセットされました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "もう一度初めからバッドエンドルートが遊べます。"
+                                "The progress of the Bad End route has been reset! You can\nnow play the Bad End route from the beginning again."
                             ]
                         },
                         {
@@ -8244,14 +7600,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "よくぞ、運命を乗りこえましたね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "人の子よ・・・貴方達ならきっと・・・。"
+                                "You have indeed overcome fate. Children of man... surely\nyou..."
                             ]
                         },
                         {
@@ -8268,21 +7617,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -8299,14 +7634,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "なんとか私達は神様の試練を乗り越えて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "無事にダンジョンから出る事が出来ました・・・ですが。"
+                                "Somehow we managed to overcome God's trial and safely escape\nthe dungeon... but."
                             ]
                         },
                         {
@@ -8368,21 +7696,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[17]ごめんなさい～～～～～っ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "私の力不足でメメリスちゃんの大事なスマホが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "壊れちゃいました・・・！！"
+                                "\\c[17]I'm sorry~~~~~~~~!! It's my fault that Memerisu-chan's\nprecious smartphone got broken...!!"
                             ]
                         },
                         {
@@ -8399,14 +7713,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[31]気にしなくていいよ、ティーナちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "ボクが勝手にやったんだからさ。"
+                                "\\c[31]Don't worry about it, Tina-chan! It was my own doing after\nall."
                             ]
                         },
                         {
@@ -8423,21 +7730,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[17]でも・・・でも・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "お宝も手に入らなかったですし、大事なゲームのデータまで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "全部消えちゃったじゃないですか・・・。"
+                                "\\c[17]But... but...!! We didn't get any treasure, and all the\nimportant game data is gone..."
                             ]
                         },
                         {
@@ -8454,14 +7747,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[17]あんなに時間とお金をかけてたのに・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "全部無くなっちゃったんですよ！"
+                                "\\c[17]All that time and money spent... and now it's all gone!"
                             ]
                         },
                         {
@@ -8478,14 +7764,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[31]・・・そうだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "確かにスマホは壊れちゃったけど・・・良いんだ。"
+                                "\\c[31]...That's true. The smartphone is broken, but... it's okay."
                             ]
                         },
                         {
@@ -8502,14 +7781,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "気が付けば段々とお空は暗くなり始め、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "夕焼けの先に星空が見えてきました。"
+                                "Before we knew it, the sky gradually began to darken, and\nbeyond the sunset, the starry sky became visible."
                             ]
                         },
                         {
@@ -8554,14 +7826,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[31]あ、ほら！もう暗くなってきたね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "そろそろお家に帰ろうか、ティーナちゃん。"
+                                "\\c[31]Ah, look! It's getting dark. Let's go home soon, Tina-chan."
                             ]
                         },
                         {
@@ -8578,14 +7843,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "メメリスちゃんは少し照れくさそうにしながら笑い、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "私に手を差し伸べてくれました。"
+                                "Memerisu-chan smiled shyly while laughing and reached out\nher hand to me."
                             ]
                         },
                         {
@@ -8618,7 +7876,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[17]ぐすっ・・・ひぐっ・・・メメリスちゃん。"
+                                "\\c[17]*sniffle*... *sob*... Memerisu-chan."
                             ]
                         },
                         {
@@ -8635,14 +7893,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "私がその手を掴むとメメリスちゃんもギュッと私の手を掴み"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "お家に向かって歩き出しました。"
+                                "When I took her hand, Memerisu-chan also firmly grasped mine\nand we started walking towards home."
                             ]
                         },
                         {
@@ -8675,14 +7926,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[31]こうやって手を引いて歩いていると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "小さい頃に初めてティーナちゃんに会った時を思い出すよ。"
+                                "\\c[31]Walking hand in hand like this reminds me of when I first\nmet Tina-chan as a child."
                             ]
                         },
                         {
@@ -8699,7 +7943,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[17]・・・え。"
+                                "\\c[17]...Eh."
                             ]
                         },
                         {
@@ -8716,21 +7960,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[31]森で迷子になってる所をボクが偶然見つけて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "泣きじゃくるティーナちゃんをこうやって手を引いて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "お家まで連れて帰った事！"
+                                "\\c[31]I found you lost in the forest by chance, and I led you home\nby the hand while you were crying your eyes out, Tina-chan!"
                             ]
                         },
                         {
@@ -8763,7 +7993,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[17]初めて会った時の事・・・覚えていてくれたんですか。"
+                                "\\c[17]The first time we met... you remember that?"
                             ]
                         },
                         {
@@ -8780,14 +8010,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[31]そりゃもちろん覚えてるよー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "大切な約束だからね。"
+                                "\\c[31]Of course I remember! It's an important promise after all."
                             ]
                         },
                         {
@@ -8804,7 +8027,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[31]「何が来ても大丈夫！ボクが守ってあげるから泣かないで。」"
+                                "\\c[31]\"No matter what comes, it's okay! I'll protect you, so don't\ncry.\""
                             ]
                         },
                         {
@@ -8821,14 +8044,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "てっきり忘れてると思っていた懐かしい約束・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "ずっと覚えててくれたんですね。"
+                                "I thought you had forgotten that nostalgic promise... but\nyou've remembered it all this time."
                             ]
                         },
                         {
@@ -8845,7 +8061,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[31]お、見てティーナちゃん！星が出て綺麗だよ！"
+                                "\\c[31]Oh, look Tina-chan! The stars are out and they're beautiful!"
                             ]
                         },
                         {
@@ -8862,7 +8078,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[17]わぁ・・・本当に綺麗な夜空ですね！"
+                                "\\c[17]Wow... it really is a beautiful night sky!"
                             ]
                         },
                         {
@@ -8879,14 +8095,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "見上げた夜空はどの星も綺麗で・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "まるで仲良く寄り添い、繋がっているかのように見えました。"
+                                "The night sky we looked up at was beautiful with every\nstar... as if they were all snuggled up close and connected."
                             ]
                         },
                         {
@@ -8903,14 +8112,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ですが・・・すぐ近くで寄り添っているように見える星々も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "本当はどれも・・・果てしなく遠く離れています。"
+                                "But... even though they seem to be close by, each of these\nstars is actually... infinitely far apart."
                             ]
                         },
                         {
@@ -8927,14 +8129,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[31]夜道は危ないから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "手を離さないようにしっかり掴んでてね！"
+                                "\\c[31]The night roads are dangerous, so make sure to hold on tight\nand not let go!"
                             ]
                         },
                         {
@@ -8967,14 +8162,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "あの日、私の手を引いてくれた手が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "今もこうして繋がっている。"
+                                "The hand that led me that day is still connected to mine\nnow."
                             ]
                         },
                         {
@@ -8991,14 +8179,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "世界を救ったり人類の為になったりもしないどこにでもある"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "だけど私にとって特別な・・・貴方と繋がる物語。"
+                                "A story that doesn't save the world or benefit humanity, but\nis special to me because it connects me to you."
                             ]
                         },
                         {
@@ -9015,14 +8196,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[17]私は・・・私は奇跡より約束が好きです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "違う星なんて選んじゃ・・・ダメですよ♥"
+                                "\\c[17]I... I prefer promises over miracles. Choosing a different\nstar is just... not allowed♥"
                             ]
                         },
                         {
@@ -9039,14 +8213,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[31]え、なんか言った？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "ちょっと聞こえなかったよー。"
+                                "\\c[31]Eh, did you say something? I didn't quite catch that."
                             ]
                         },
                         {
@@ -9063,14 +8230,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[17]ふふっ、秘密ですぅー♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "さぁ、帰りましょう！"
+                                "\\c[17]Fufu, it's a secret♪ Come on, let's go home!"
                             ]
                         },
                         {
@@ -9153,21 +8313,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -9184,14 +8330,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[17]ぐすっ・・・おねえちゃん、こわいよぉ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "まものさんがでてきたらどうしよう・・・。"
+                                "\\c[17]*sniffle*... Big sister, I'm scared. What if monsters\nappear..."
                             ]
                         },
                         {
@@ -9208,14 +8347,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[31]だいじょうぶだいじょうぶ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "ぼくはとってもつよいんだぞー！"
+                                "\\c[31]It's okay, it's okay! I'm very strong!"
                             ]
                         },
                         {
@@ -9232,21 +8364,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[31]なにがきてもだいじょうぶ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "ぼくがまもってあげるからなかないで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "やくそくするよ！"
+                                "\\c[31]No matter what comes, it's okay! I'll protect you, so don't\ncry. I promise!"
                             ]
                         },
                         {
@@ -9263,7 +8381,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[17]ひぐっ・・・ぐすっ・・・うぅ・・・ほんとぉ？"
+                                "\\c[17]*sob*... *sniffle*... uhh... really?"
                             ]
                         },
                         {
@@ -9292,7 +8410,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\{がさっ！がさがさっ！！"
+                                "Rustle! Rustle rustle!!"
                             ]
                         },
                         {
@@ -9321,7 +8439,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[31]\\{\\{\\{うひゃぁっ！？"
+                                "\\c[31]Eek!?"
                             ]
                         },
                         {
@@ -9350,7 +8468,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ゲコッ、ゲコッ・・・。"
+                                "Croak, croak..."
                             ]
                         },
                         {
@@ -9367,7 +8485,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[17]あ、かえるさん・・・。"
+                                "\\c[17]Ah, it's a frog..."
                             ]
                         },
                         {
@@ -9384,21 +8502,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[31]ななななんだっ！かえるかっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "びびっ・・・てないし！ぼくさいきょーだから！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "ぼくがまけるわけないだろ！！"
+                                "\\c[31]Wha-wha-what! It's just a frog! I'm not scared! I'm the\nstrongest, so there's no way I'd lose!!"
                             ]
                         },
                         {
@@ -9455,7 +8559,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[17]・・・ぷっ。ふふっ・・・ふふふ。"
+                                "\\c[17]...Pfft. Fufu... Fufufu."
                             ]
                         },
                         {
@@ -9472,14 +8576,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[31]そこ！わらうなー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "まったくもう・・・でもなきやんだから、よし！"
+                                "\\c[31]Hey! Don't laugh! Geez... But you stopped crying, so that's\ngood!"
                             ]
                         },
                         {
@@ -9496,7 +8593,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[31]ぼくはめめりす！あなたのおなまえは？"
+                                "\\c[31]I'm Memerisu! What's your name?"
                             ]
                         },
                         {
@@ -9513,7 +8610,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[17]わたしはてぃーなです！"
+                                "\\c[17]I'm Tina!"
                             ]
                         },
                         {
@@ -9530,21 +8627,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[31]よぉーし、てぃーなちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "ぼくについてこーい！いっしょにもりのでぐちをさがそう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "たぶんあっちだよ！"
+                                "\\c[31]Alright, Tina-chan! Follow me! Let's search for the exit in\nthe forest together! It's probably over there!"
                             ]
                         },
                         {
@@ -9561,7 +8644,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[17]ふぇ！？めめりすちゃんもまいごだったの！？"
+                                "\\c[17]Feh!? Memerisu-chan, you're lost too!?"
                             ]
                         },
                         {
@@ -9578,14 +8661,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[31]ふたりならなにもこわいものなんてないさ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "さぁ、ぼくたちのぼうけんのはじまりだー！！"
+                                "\\c[31]If we're together, there's nothing to be afraid of! Now, our\nadventure begins!!"
                             ]
                         },
                         {
@@ -9602,21 +8678,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "　　　　　～\\c[31]ガチャ\\c[0]と\\c[17]聖女\\c[0]と\\c[27]危ないダンジョン\\c[0]～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "　　　　　　　　　　お　し　ま　い"
+                                "~\\c[31]Gacha\\c[0] and \\c[17]Saintess\\c[0] and\n\\c[27]Dangerous Dungeon\\c[0]~ The End"
                             ]
                         },
                         {
@@ -9744,14 +8806,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "思い出のスマホ（真）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "思い出の魔本（真）を手に入れた！"
+                                "Gained the True Smartphone of Memories and the True Grimoire\nof Memories!"
                             ]
                         },
                         {
@@ -9807,14 +8862,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "・・・あれから数か月が経過しました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "あの戦いから私達は・・・。"
+                                "...Several months have passed since then. Since that battle,\nwe..."
                             ]
                         },
                         {
@@ -9864,14 +8912,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[31]\\{オィイイイイイイイイスッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "メメリスチャンネル、はーじまーるよー！！"
+                                "\\c[31]Oiiiiiiisss! The Memerisu Channel is starting!!"
                             ]
                         },
                         {
@@ -9888,14 +8929,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "新しいスマホの買い替えや借金返済の為にメメリスちゃんは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "冒険者を辞め、SNSで配信活動を始めました。"
+                                "To replace her new smartphone and pay off her debts,\nMemerisu-chan quit being an adventurer and started streaming\non social media."
                             ]
                         },
                         {
@@ -9912,14 +8946,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "今はガチャ芸人ニコチューバーとして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "毎日ガチャで爆死する日々です。"
+                                "Now she spends her days as a gacha comedian on NicoTube,\ndying in gacha pulls every day."
                             ]
                         },
                         {
@@ -9948,14 +8975,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[31]今日はチェル☆コネのガチャを回していくよっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "さぁ、どうだっ！！"
+                                "\\c[31]Today we're going to spin the gacha for Chel☆Conne! Let's\nsee what we get!!"
                             ]
                         },
                         {
@@ -9972,14 +8992,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\{テーテーテーテテテッテー！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "テレレ～テレレレ～テッテー！！！"
+                                "Te-te-te-tetetette-!! Terere~ Tererere~ Tette-!!!"
                             ]
                         },
                         {
@@ -10008,7 +9021,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\{・・・チーンっ。（最低保証）"
+                                "...Chin. (Minimum guarantee)"
                             ]
                         },
                         {
@@ -10037,14 +9050,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[31]\\{\\{\\{ぐわああああああああああ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "ああああああああ！！！！"
+                                "\\c[31]Gwaaaaaaaaaaaaaaaaaaaaaaaaaaaaah!!!!"
                             ]
                         },
                         {
@@ -10061,21 +9067,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "「草生えるｗ」「ガチャ爆死、ヨシ！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "「まだまだいけるぞ！」「天井の景色が見たいよなぁ！！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "「追加で課金イケイケー！！」"
+                                "\"LMAO\",\"Gacha death, nice!\", \"You can still go on!\", \"I\nwanna see the view from the ceiling!!\", \"Go for it, charge\nmore money!\""
                             ]
                         },
                         {
@@ -10092,21 +9084,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "コメントは大盛り上がりですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "配信するたびにガチャで有り金を溶かしてしまい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "借金は増えていくばかりです。"
+                                "The comments are super excited, but with every stream, she\nblows all her money on gacha and her debt only increases."
                             ]
                         },
                         {
@@ -10123,14 +9101,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "\\c[17]はぁ・・・メメリスちゃんには困ったものです・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "なんとかして借金を返済する方法を考えないと・・・。"
+                                "\\c[17]Sigh... Memerisu-chan is in trouble... I need to think of a\nway to pay off her debts..."
                             ]
                         },
                         {
@@ -10147,14 +9118,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ガチャの代金で赤字続きのメメリスちゃん、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "いつになったら借金は返せるのでしょうか・・・。"
+                                "Memerisu-chan is running a deficit because of her gacha\nspending; when will she be able to pay off her debts..."
                             ]
                         },
                         {
@@ -10171,21 +9135,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "　　　　　～\\c[31]ガチャ\\c[0]と\\c[17]聖女\\c[0]と\\c[27]危ないダンジョン\\c[0]～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "　　　　　　　　　～ノーマルエンド～"
+                                "~\\c[31]Gacha\\c[0] and \\c[17]Saintess\\c[0] and\n\\c[27]Dangerous Dungeon\\c[0]~ Normal End~"
                             ]
                         },
                         {
@@ -10307,14 +9257,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "・・・あれから数か月が経過しました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "あの戦いから私達は・・・。"
+                                "...Several months have passed since then. Since that battle,\nwe..."
                             ]
                         },
                         {
@@ -10364,14 +9307,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[31]\\{オィイイイイイイイイスッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "メメリスチャンネル、はーじまーるよー！！"
+                                "\\c[31]Oiiiiiiisss! The Memerisu Channel is starting!!"
                             ]
                         },
                         {
@@ -10388,14 +9324,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "新しいスマホの買い替えや借金返済の為にメメリスちゃんは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "冒険者を辞め、SNSで配信活動を始めました。"
+                                "To replace her new smartphone and pay off her debts,\nMemerisu-chan quit being an adventurer and started streaming\non social media."
                             ]
                         },
                         {
@@ -10412,14 +9341,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "今はガチャ芸人ニコチューバーとして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "毎日ガチャで爆死する日々です。"
+                                "Now she spends her days as a gacha comedian on NicoTube,\ndying in gacha pulls every day."
                             ]
                         },
                         {
@@ -10448,14 +9370,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[31]今日はチェル☆コネのガチャを回していくよっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "さぁ、どうだっ！！"
+                                "\\c[31]Today we're going to spin the gacha for Chel☆Conne! Let's\nsee what we get!!"
                             ]
                         },
                         {
@@ -10472,14 +9387,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\{テーテーテーテテテッテー！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "テレレ～テレレレ～テッテー！！！"
+                                "Te-te-te-tetetette-!! Terere~ Tererere~ Tette-!!!"
                             ]
                         },
                         {
@@ -10508,7 +9416,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\{・・・チーンっ。（最低保証）"
+                                "...Chin. (Minimum guarantee)"
                             ]
                         },
                         {
@@ -10537,14 +9445,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[31]\\{\\{\\{ぐわああああああああああ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ああああああああ！！！！"
+                                "\\c[31]Gwaaaaaaaaaaaaaaaaaaaaaaaaaaaaah!!!!"
                             ]
                         },
                         {
@@ -10561,21 +9462,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "「草生えるｗ」「ガチャ爆死、ヨシ！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「まだまだいけるぞ！」「天井の景色が見たいよなぁ！！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "「追加で課金イケイケー！！」"
+                                "\"LMAO\",\"Gacha death, nice!\", \"You can still go on!\", \"I\nwanna see the view from the ceiling!!\", \"Go for it, charge\nmore money!\""
                             ]
                         },
                         {
@@ -10592,21 +9479,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "コメントは大盛り上がりですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "配信するたびにガチャで有り金を溶かしてしまい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "借金は増えていくばかりです。"
+                                "The comments are super excited, but with every stream, she\nblows all her money on gacha and her debt only increases."
                             ]
                         },
                         {
@@ -10623,14 +9496,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[17]はぁ・・・メメリスちゃんには困ったものです・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "なんとかして借金を返済する方法を考えないと・・・。"
+                                "\\c[17]Sigh... Memerisu-chan is such a handful... I need to think\nof a way to help her pay off her debts..."
                             ]
                         },
                         {
@@ -10647,14 +9513,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ガチャの代金で赤字続きのメメリスちゃん、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "いつになったら借金は返せるのでしょうか・・・。"
+                                "With the cost of gacha leading to a deficit, when will\nMemerisu-chan be able to repay her debts..."
                             ]
                         },
                         {
@@ -10671,21 +9530,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "　　　　　～\\c[31]ガチャ\\c[0]と\\c[17]聖女\\c[0]と\\c[27]危ないダンジョン\\c[0]～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "　　　　　　　　　～ノーマルエンド～"
+                                "~\\c[31]Gacha\\c[0], \\c[17]Saintess\\c[0], and \\c[27]Dangerous\nDungeons\\c[0]~~Normal End~"
                             ]
                         },
                         {

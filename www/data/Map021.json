@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ダンジョン",
+    "displayName": "Dungeon",
     "encounterList": [],
     "encounterStep": 909,
     "height": 20,
@@ -3966,7 +3966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アルミホイル帽子を手に入れた！"
+                                "Acquired an Aluminum Foil Hat!"
                             ]
                         },
                         {
@@ -4084,7 +4084,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -4094,14 +4094,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "穴がありますね。"
+                                "There's a hole here."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -4111,7 +4111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダンジョンにも穴はあるんだよなぁ・・・。"
+                                "Even dungeons have holes, huh..."
                             ]
                         },
                         {
@@ -4852,7 +4852,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -4862,14 +4862,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわっ！なんだこの花、くっせぇ！！！"
+                                "Ugh! What's with this flower, it stinks!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -4879,14 +4879,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "は、鼻が曲がりそうです・・・っ！！"
+                                "My, my nose is about to bend...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 6,
                                 0,
                                 2
@@ -4896,14 +4896,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "花だけに？"
+                                "Just because it's a flower?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -4913,7 +4913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・は？"
+                                "...Huh?"
                             ]
                         },
                         {

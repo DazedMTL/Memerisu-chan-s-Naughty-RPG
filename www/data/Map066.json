@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ダンジョン",
+    "displayName": "Dungeon",
     "encounterList": [],
     "encounterStep": 100,
     "height": 35,
@@ -8220,7 +8220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女神の魔石を手に入れた！"
+                                "Obtained the Goddess's Magic Stone!"
                             ]
                         },
                         {
@@ -8551,7 +8551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウサギの服を手に入れた！"
+                                "Acquired the rabbit outfit!"
                             ]
                         },
                         {
@@ -10094,7 +10094,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -10104,21 +10104,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うおおおおおお！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんかデカい椅子がある！座ってみよー！！"
+                                "Whoa, whoa, whoa!! There's a huge chair over there! Let's\nsit on it!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -10128,14 +10121,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスちゃん！危ないですよー！"
+                                "Memerisu-chan! Be careful!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -10145,14 +10138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おお～！結構座り心地いいじゃんいいじゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我、メメリス王なり～。なんちって♪"
+                                "Oh wow! This is actually quite comfy! Behold, I am King\nMemerisu~ Just kidding♪"
                             ]
                         },
                         {
@@ -10181,14 +10167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・ガコンッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（座った表紙に何かのスイッチが押される音）"
+                                "...Clunk!! (The sound of a switch being triggered by sitting\ndown)"
                             ]
                         },
                         {
@@ -10217,21 +10196,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{・・・ドカッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（上から石が落ちてくる音）"
+                                "...Thud!! (The sound of a stone falling from above)"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -10241,21 +10213,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{\\{ぐわあああああああ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああああああ！！！"
+                                "Gwaaaaaaaahhhhhhhhhhhhhhh!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -10265,14 +10230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{もおおおおおお！言ったそばから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なにしてるんですかああああ！！！"
+                                "Oh my goooooood! What are you doing right after I warned\nyouuuuuu!!!"
                             ]
                         },
                         {
@@ -10301,7 +10259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスは100のダメージを受けた！"
+                                "Memerisu took 100 points of damage!"
                             ]
                         },
                         {
@@ -10380,7 +10338,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -10390,21 +10348,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんかここ物騒だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "死体がいっぱい落ちてるし・・・。"
+                                "This place seems dangerous... there are bodies everywhere..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -10414,21 +10365,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この方もここで亡くなった"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冒険者さんでしょうか・・・？"
+                                "Could this person also be an adventurer who died here...?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 6,
                                 0,
                                 2
@@ -10438,14 +10382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "せめて安らかに眠れるように・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お祈りを・・・。"
+                                "At least, let's pray for their peaceful rest..."
                             ]
                         },
                         {
@@ -10474,14 +10411,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{キシャアアアアアアアア！！！"
+                                "SCREEEEEEECH!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -10491,21 +10428,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ギャアアアアア！！こいつ魔物じゃん！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ティーナちゃんの祈りで目覚めやがった！！"
+                                "AAAAAAH!! This one's a monster!! It woke up because of Tina-\nchan's prayer!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -10515,7 +10445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{私が悪いのですかあああああ！？"
+                                "Is it my fault aaaaaah!?"
                             ]
                         },
                         {
@@ -10537,7 +10467,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -10547,21 +10477,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふぅ・・・危ないところだった・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "死体には気を付けようね。"
+                                "Phew... that was close... Let's be careful around the\nbodies."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -10571,7 +10494,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うぅ・・・トラウマになりそうです・・・。"
+                                "Ugh... this is going to be traumatic..."
                             ]
                         },
                         {
@@ -10588,7 +10511,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -10598,21 +10521,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なんとか逃げ切れた・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "死体には気を付けようね。"
+                                "Somehow we managed to escape... Let's be careful around the\nbodies."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -10622,7 +10538,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うぅ・・・トラウマになりそうです・・・。"
+                                "Ugh... this is going to be traumatic..."
                             ]
                         },
                         {
@@ -10716,7 +10632,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -10726,21 +10642,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんかここ物騒だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "死体がいっぱい落ちてるし・・・。"
+                                "This place seems dangerous... There are so many corpses\nlying around..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -10750,21 +10659,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この方もここで亡くなった"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冒険者さんでしょうか・・・？"
+                                "Could this person also be an adventurer who died here...?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 6,
                                 0,
                                 2
@@ -10774,14 +10676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "せめて安らかに眠れるように・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お祈りを・・・。"
+                                "At least, let's pray for their peaceful rest..."
                             ]
                         },
                         {
@@ -10810,14 +10705,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{キシャアアアアアアアア！！！"
+                                "SCREEEEEEECH!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -10827,21 +10722,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ギャアアアアア！！こいつ魔物じゃん！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ティーナちゃんの祈りで目覚めやがった！！"
+                                "GYAAAAAAH!! This one's a monster!! It woke up because of\nTina-chan's prayer!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -10851,7 +10739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{私が悪いのですかあああああ！？"
+                                "Is it my fault aaaaaah!?"
                             ]
                         },
                         {
@@ -10873,7 +10761,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -10883,21 +10771,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふぅ・・・危ないところだった・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "死体には気を付けようね。"
+                                "Phew... That was close... Let's be careful around corpses."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -10907,7 +10788,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うぅ・・・トラウマになりそうです・・・。"
+                                "Ugh... This is going to be traumatic..."
                             ]
                         },
                         {
@@ -10924,7 +10805,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -10934,21 +10815,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なんとか逃げ切れた・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "死体には気を付けようね。"
+                                "Somehow we managed to escape... Let's be careful around\ncorpses."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -10958,7 +10832,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うぅ・・・トラウマになりそうです・・・。"
+                                "Ugh... This is going to be traumatic..."
                             ]
                         },
                         {
@@ -11052,7 +10926,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -11062,21 +10936,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんかここ物騒だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "死体がいっぱい落ちてるし・・・。"
+                                "This place seems dangerous... there are so many corpses\nlying around..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -11086,21 +10953,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この方もここで亡くなった"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冒険者さんでしょうか・・・？"
+                                "Could this person also be an adventurer who died here...?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 6,
                                 0,
                                 2
@@ -11110,14 +10970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "せめて安らかに眠れるように・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お祈りを・・・。"
+                                "At least, may they rest in peace... let's pray..."
                             ]
                         },
                         {
@@ -11146,14 +10999,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{キシャアアアアアアアア！！！"
+                                "SCREEEEEEECH!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -11163,21 +11016,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ギャアアアアア！！こいつ魔物じゃん！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ティーナちゃんの祈りで目覚めやがった！！"
+                                "GYAAAAAAH!! This one's a monster!! It woke up because of\nTina-chan's prayer!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -11187,7 +11033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{私が悪いのですかあああああ！？"
+                                "Is it my fault aaaaaah!?"
                             ]
                         },
                         {
@@ -11209,7 +11055,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -11219,21 +11065,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふぅ・・・危ないところだった・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "死体には気を付けようね。"
+                                "Phew... that was close... let's be careful around corpses."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -11243,7 +11082,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うぅ・・・トラウマになりそうです・・・。"
+                                "Ugh... this is going to be traumatic..."
                             ]
                         },
                         {
@@ -11260,7 +11099,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -11270,21 +11109,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なんとか逃げ切れた・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "死体には気を付けようね。"
+                                "Somehow we managed to escape... let's be careful around\ncorpses."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -11294,7 +11126,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うぅ・・・トラウマになりそうです・・・。"
+                                "Ugh... this is going to be traumatic..."
                             ]
                         },
                         {
@@ -11388,7 +11220,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -11398,21 +11230,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんかここ物騒だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "死体がいっぱい落ちてるし・・・。"
+                                "This place seems dangerous. There are so many corpses lying\naround..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -11422,21 +11247,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この方もここで亡くなった"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冒険者さんでしょうか・・・？"
+                                "Could this person also be an adventurer who died here...?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 6,
                                 0,
                                 2
@@ -11446,14 +11264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "せめて安らかに眠れるように・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お祈りを・・・。"
+                                "At least let's pray for them to rest in peace..."
                             ]
                         },
                         {
@@ -11482,14 +11293,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{キシャアアアアアアアア！！！"
+                                "SCREEEEEEECH!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -11499,21 +11310,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ギャアアアアア！！こいつ魔物じゃん！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ティーナちゃんの祈りで目覚めやがった！！"
+                                "GYAAAAAH!! This one's a monster!! It woke up because of\nTina-chan's prayer!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -11523,7 +11327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{私が悪いのですかあああああ！？"
+                                "Is it my fault aaaaaah!?"
                             ]
                         },
                         {
@@ -11545,7 +11349,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -11555,21 +11359,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふぅ・・・危ないところだった・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "死体には気を付けようね。"
+                                "Phew... That was close... Let's be careful around corpses."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -11579,7 +11376,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うぅ・・・トラウマになりそうです・・・。"
+                                "Ugh... This is going to be traumatic..."
                             ]
                         },
                         {
@@ -11596,7 +11393,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -11606,21 +11403,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なんとか逃げ切れた・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "死体には気を付けようね。"
+                                "Somehow we managed to escape... Let's be careful around\ncorpses."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -11630,7 +11420,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うぅ・・・トラウマになりそうです・・・。"
+                                "Ugh... This is going to be traumatic..."
                             ]
                         },
                         {
@@ -11724,7 +11514,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -11734,21 +11524,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんかここ物騒だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "死体がいっぱい落ちてるし・・・。"
+                                "This place seems dangerous. There are so many corpses lying\naround..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -11758,21 +11541,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この方もここで亡くなった"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冒険者さんでしょうか・・・？"
+                                "Could this person also be an adventurer who died here...?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 6,
                                 0,
                                 2
@@ -11782,14 +11558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "せめて安らかに眠れるように・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お祈りを・・・。"
+                                "At least let's pray for them to rest in peace..."
                             ]
                         },
                         {
@@ -11818,14 +11587,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{キシャアアアアアアアア！！！"
+                                "SCREEEEEEECH!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -11835,21 +11604,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ギャアアアアア！！こいつ魔物じゃん！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ティーナちゃんの祈りで目覚めやがった！！"
+                                "GYAAAAAAH!! This one's a monster!! It woke up because of\nTina-chan's prayer!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -11859,7 +11621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{私が悪いのですかあああああ！？"
+                                "Is it my fault aaaaaah!?"
                             ]
                         },
                         {
@@ -11881,7 +11643,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -11891,21 +11653,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふぅ・・・危ないところだった・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "死体には気を付けようね。"
+                                "Phew... That was close... Let's be careful around corpses."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -11915,7 +11670,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うぅ・・・トラウマになりそうです・・・。"
+                                "Ugh... This is going to be traumatic..."
                             ]
                         },
                         {
@@ -11932,7 +11687,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -11942,21 +11697,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なんとか逃げ切れた・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "死体には気を付けようね。"
+                                "Somehow we managed to escape... Let's be careful around\ncorpses."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -11966,7 +11714,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うぅ・・・トラウマになりそうです・・・。"
+                                "Ugh... This is going to be traumatic..."
                             ]
                         },
                         {
@@ -12060,7 +11808,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -12070,21 +11818,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんかここ物騒だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "死体がいっぱい落ちてるし・・・。"
+                                "This place seems dangerous... there are so many corpses\nlying around..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -12094,21 +11835,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この方もここで亡くなった"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冒険者さんでしょうか・・・？"
+                                "Could this person also be an adventurer who died here...?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 6,
                                 0,
                                 2
@@ -12118,14 +11852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "せめて安らかに眠れるように・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お祈りを・・・。"
+                                "At least, may they rest in peace... let's pray..."
                             ]
                         },
                         {
@@ -12154,14 +11881,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{キシャアアアアアアアア！！！"
+                                "SCREEEEEEECH!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -12171,21 +11898,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ギャアアアアア！！こいつ魔物じゃん！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ティーナちゃんの祈りで目覚めやがった！！"
+                                "GYAAAAAAH!! This one's a monster!! It woke up because of\nTina-chan's prayer!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -12195,7 +11915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{私が悪いのですかあああああ！？"
+                                "Is it my fault aaaaaah!?"
                             ]
                         },
                         {
@@ -12217,7 +11937,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -12227,21 +11947,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふぅ・・・危ないところだった・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "死体には気を付けようね。"
+                                "Phew... that was close... let's be careful around corpses."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -12251,7 +11964,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うぅ・・・トラウマになりそうです・・・。"
+                                "Ugh... I think I'm going to be traumatized..."
                             ]
                         },
                         {
@@ -12268,7 +11981,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -12278,21 +11991,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なんとか逃げ切れた・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "死体には気を付けようね。"
+                                "Somehow we managed to escape... let's be careful around\ncorpses."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -12302,7 +12008,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うぅ・・・トラウマになりそうです・・・。"
+                                "Ugh... I think I'm going to be traumatized..."
                             ]
                         },
                         {
@@ -12396,7 +12102,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -12406,21 +12112,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんかここ物騒だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "死体がいっぱい落ちてるし・・・。"
+                                "This place seems dangerous... There are so many corpses\nlying around..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -12430,21 +12129,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この方もここで亡くなった"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冒険者さんでしょうか・・・？"
+                                "Could this person also be an adventurer who perished\nhere...?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 6,
                                 0,
                                 2
@@ -12454,14 +12146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "せめて安らかに眠れるように・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お祈りを・・・。"
+                                "At least let's pray for them to rest in peace..."
                             ]
                         },
                         {
@@ -12490,14 +12175,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{キシャアアアアアアアア！！！"
+                                "SCREEEEEEECH!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -12507,21 +12192,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ギャアアアアア！！こいつ魔物じゃん！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ティーナちゃんの祈りで目覚めやがった！！"
+                                "GYAAAAH!! This one's a monster!! It woke up because of Tina-\nchan's prayer!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -12531,7 +12209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{私が悪いのですかあああああ！？"
+                                "Is it my fault aaaaaah!?"
                             ]
                         },
                         {
@@ -12553,7 +12231,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -12563,21 +12241,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふぅ・・・危ないところだった・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "死体には気を付けようね。"
+                                "Phew... That was close... Let's be careful around corpses."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -12587,7 +12258,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うぅ・・・トラウマになりそうです・・・。"
+                                "Ugh... This is going to be traumatic..."
                             ]
                         },
                         {
@@ -12604,7 +12275,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -12614,21 +12285,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なんとか逃げ切れた・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "死体には気を付けようね。"
+                                "Somehow we managed to escape... Let's be careful around\ncorpses."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -12638,7 +12302,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うぅ・・・トラウマになりそうです・・・。"
+                                "Ugh... This is going to be traumatic..."
                             ]
                         },
                         {

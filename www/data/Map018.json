@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "アジト",
+    "displayName": "Hideout",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -2563,21 +2563,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "外が騒がしいと思ったら・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お嬢ちゃん、俺に何か用かい？"
+                                "I thought it was noisy outside... Young lady, do you need\nsomething from me?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -2587,14 +2580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや、おっさんに用はないんだけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "盗んだ魔道書を返してほしくてさー。"
+                                "No, I don't need anything from you, old man, but I'd like\nyou to return the stolen grimoire."
                             ]
                         },
                         {
@@ -2611,21 +2597,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔道書・・・？ああ、下っ端が盗ったブツの中に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな物もあったな。"
+                                "Grimoire...? Ah, that was among the stuff some underling\nstole."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -2635,7 +2614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それを返してください！"
+                                "Please return it!"
                             ]
                         },
                         {
@@ -2652,14 +2631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "盗んだ物をタダで返せだぁ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな事するやつがいるわけないだろう。"
+                                "Return the stolen goods for free? No one would do such a\nthing."
                             ]
                         },
                         {
@@ -2676,21 +2648,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "嬢ちゃんのそのでっかい胸でご奉仕してくれるなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "考えてやらんこともないがな！ガハハ！！"
+                                "If you serve me with those big breasts of yours, I might\nconsider it! Gahaha!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 6,
                                 0,
                                 2
@@ -2700,14 +2665,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、それは・・・！！"
+                                "Th-that is...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -2717,28 +2682,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだこのおっさん！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ティーナちゃんにセクハラしてもいいのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボクだけなんだぞー！！！"
+                                "What's with this old man?! The only one allowed to harass\nTina-chan is me!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -2748,14 +2699,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう言葉はいらない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボッコボコにしてギルドに叩き出してやる！"
+                                "No more words needed! I'll beat you to a pulp and throw you\nout of the guild!"
                             ]
                         },
                         {
@@ -2787,14 +2731,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こ、この俺が負けるとは・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ここは一旦逃げるが勝ちだ！！覚えてろ！！"
+                                "I, lose...?! This is where escaping is winning!! Remember\nthis!!"
                             ]
                         },
                         {
@@ -3062,7 +2999,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 6,
                                 0,
                                 2
@@ -3072,14 +3009,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "逃げ足はやっ！？"
+                                "He's fast at running away!?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -3089,14 +3026,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あ、でも盗まれた魔道書はありましたよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これでひとまず解決ですね♪"
+                                "Ah, but we found the stolen grimoire! That settles it for\nnow♪"
                             ]
                         },
                         {
@@ -3125,7 +3055,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "盗まれた魔道書を手に入れた！"
+                                "Gained the stolen grimoire!"
                             ]
                         },
                         {
@@ -3142,7 +3072,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -3152,14 +3082,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "わーい！これでお金が手に入るぞー！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "金、金、金！！"
+                                "Yay! Now we can get some money!! Money, money, money!!"
                             ]
                         },
                         {
@@ -3185,7 +3108,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 0,
                                 0,
                                 2
@@ -3195,7 +3118,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐえー！負けたー！！"
+                                "Ugh-! I lost-!!"
                             ]
                         },
                         {
@@ -3212,21 +3135,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ガキが・・・手こずらせやがって・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こういうしつけのなってないガキにはお仕置きが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "必要だよなぁ！！"
+                                "The brat... gave me trouble... Such an ill-mannered brat\nneeds punishment, right?!"
                             ]
                         },
                         {
@@ -3243,14 +3152,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "巨乳のガキはテメェらで楽しんでろ！"
+                                "Have fun with the big-breasted brat yourselves!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -3260,7 +3169,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "やめて・・・やめてくださいッッ！！"
+                                "Stop... please stop!!"
                             ]
                         },
                         {
@@ -3277,14 +3186,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ティーナちゃんが少し離れた所で男達に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "囲まれていく・・・。"
+                                "Tina-chan is surrounded by men a little distance away..."
                             ]
                         },
                         {
@@ -3301,7 +3203,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "さぁ・・・お楽しみの時間といこうか。"
+                                "Now... let's enjoy ourselves."
                             ]
                         },
                         {
@@ -3358,14 +3260,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メメリスはゴロツキのボスに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "押し倒された・・・。"
+                                "Memerisu is pushed down by the thug boss..."
                             ]
                         },
                         {
@@ -3382,14 +3277,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{\\{くそ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\}\\}放せ！放せってば！！"
+                                "\\c[31]Damn it! Let go! Let go of me!!"
                             ]
                         },
                         {
@@ -3406,14 +3294,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なんだ、見た目通り毛も生えてねぇガキじゃねぇか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まぁ、だからと言って容赦はしないがな！"
+                                "What, just as I thought, a kid without even a hair. Well,\nthat doesn't mean I'll go easy on you!"
                             ]
                         },
                         {
@@ -3430,14 +3311,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ゴロツキのボスは下卑た笑みを浮かべながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "装備を脱ぎ始める・・・。"
+                                "The thug boss starts undressing with a lewd smile..."
                             ]
                         },
                         {
@@ -3482,7 +3356,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ゴソゴソ・・・ボロン♥"
+                                "\\c[27]Rustle rustle... Plop♥"
                             ]
                         },
                         {
@@ -3499,14 +3373,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "股間から飛び出した巨大な肉棒に思わず息を飲み、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "視線が釘付けになってしまう・・・。"
+                                "She inadvertently gasps at the sight of the huge cock\nspringing from his crotch, her gaze fixed..."
                             ]
                         },
                         {
@@ -3523,7 +3390,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]・・・は？なに・・・これ・・・？"
+                                "\\c[31]...Huh? What... is this...?"
                             ]
                         },
                         {
@@ -3540,21 +3407,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お、さすがに生意気な嬢ちゃんでも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "言葉を失ったか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どうだ、俺のは？結構でけぇだろ。"
+                                "Oh, even a cheeky young lady like you is at a loss for\nwords. How about it, impressive isn't it?"
                             ]
                         },
                         {
@@ -3571,14 +3424,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こんなものが自分の中に・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "と考えた瞬間、ゾクッと恐怖が襲い掛かる・・・。"
+                                "The thought of such a thing inside me...? The moment she\nconsiders it, a shiver of fear runs through her..."
                             ]
                         },
                         {
@@ -3611,14 +3457,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{無理・・・無理無理無理！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "放せ！放して！！"
+                                "\\c[31]No way... Impossible impossible impossible! Let go! Let me\ngo!!"
                             ]
                         },
                         {
@@ -3635,7 +3474,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "暴れんな・・・暴れんなよっ・・・っと！"
+                                "Stop struggling... Stop it... there!"
                             ]
                         },
                         {
@@ -3652,21 +3491,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "逃れようと必死に暴れるが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ゴロツキのボスは微動だにせず"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "メメリスの秘部に肉棒をあてがった・・・。"
+                                "No matter how desperately she struggles to escape, the thug\nboss doesn't budge and positions his cock at Memerisu's\ngenitals..."
                             ]
                         },
                         {
@@ -3721,7 +3546,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{\\{ズプゥ・・・ッ！！"
+                                "\\c[27]Zupuu...!!"
                             ]
                         },
                         {
@@ -3738,14 +3563,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ゴロツキのボスに容赦なく肉棒を突き入れられ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "意識が飛びかける・・・！！"
+                                "The thug boss mercilessly thrusts his cock inside her, and\nher consciousness begins to fade...!!"
                             ]
                         },
                         {
@@ -3762,14 +3580,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{\\{お゛っ゛！♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\}\\}\\}ご゛っ゛・・・ぉ゛・・・ぉ゛お゛ぉ゛♥♥♥"
+                                "\\c[31]Oohh!♥♥ Gahh... ohh... ohh♥♥♥"
                             ]
                         },
                         {
@@ -3786,7 +3597,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "結構キツいな。奥までぶち込むから力抜けよ！"
+                                "Pretty tight. I'm going to thrust all the way in, so relax!"
                             ]
                         },
                         {
@@ -3803,14 +3614,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]ま゛っ・・・て゛！！ぅごか・・・な゛いで！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ぃ゛ぎ・・・できな゛っ・・・！"
+                                "\\c[31]Wai-!! Don't move!! Can't... do it...!"
                             ]
                         },
                         {
@@ -3827,7 +3631,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぁ？ガキが俺に指図してんじゃねぇよ！"
+                                "Ah? Don't you order me around, brat!"
                             ]
                         },
                         {
@@ -3872,14 +3676,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{ズプゥゥッッッッ！！！♥♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "パンッ・・・！！♥パンッ・・・！！♥"
+                                "\\c[27]Zupuuuuhhh!!!♥♥♥ Thump...!!♥ Thump...!!♥"
                             ]
                         },
                         {
@@ -3896,14 +3693,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{\\{あ゛っ゛♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\}\\}んおっ♥おっ・・・！！♥おっ・・・！！！♥"
+                                "\\c[31]Ahh♥ Nohh♥ Ohh...!!♥ Ohh...!!!♥"
                             ]
                         },
                         {
@@ -3920,21 +3710,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "情けないメスの声を出してしまうメメリス・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "意識が飛びそうなのを堪えるだけで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "精一杯になっていた・・・。"
+                                "Memerisu lets out a pitiful female cry... She's doing her\nbest just to endure the feeling of her consciousness\nslipping away..."
                             ]
                         },
                         {
@@ -3951,14 +3727,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "結構締まりがいいじゃねぇか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "生意気なガキだがマンコは素直だな！！"
+                                "Pretty tight, aren't you? You're a cheeky brat, but your\npussy is honest!!"
                             ]
                         },
                         {
@@ -3975,14 +3744,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "肉便器の才能あるんじゃねぇか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こりゃ良い拾い物したな。"
+                                "You might have a talent for being a cum dumpster, huh? This\nis quite the find."
                             ]
                         },
                         {
@@ -3999,14 +3761,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ゴロツキのボスの随分な物言いに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "必死に睨みつける・・・！！"
+                                "Memerisu glares desperately at the thug boss's outrageous\nwords...!!"
                             ]
                         },
                         {
@@ -4056,7 +3811,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]だれ・・・っが！肉便おっ♥・・・器ッ！だよッッ！！"
+                                "\\c[31]Who...! A cum d-dumpster!? I'm not!!"
                             ]
                         },
                         {
@@ -4073,14 +3828,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まだそんな口が叩けるのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ま、それぐらい生意気な方が躾け甲斐があるな。"
+                                "Still got the nerve to talk back, huh. Well, it's more fun\nto train someone who's feisty."
                             ]
                         },
                         {
@@ -4097,14 +3845,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そう言うと、ゴロツキのボスの肉棒が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "メメリスの膣内でビクビクッ！と震えた・・・！！"
+                                "As he says that, the thug boss's cock twitches inside\nMemerisu's vagina...!!"
                             ]
                         },
                         {
@@ -4121,21 +3862,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・と、そろそろ一発ぶちこんでやるか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ありがたく受け止めろよ、当然避妊なんかしねぇから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "孕まないように祈ってな！！"
+                                "...Alright, time to pump one into you. Be grateful and take\nit, 'cause I sure as hell ain't using protection. Pray you\ndon't get pregnant!!"
                             ]
                         },
                         {
@@ -4152,7 +3879,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その言葉を聞いた瞬間、メメリスは必死に懇願する・・・。"
+                                "The moment she hears those words, Memerisu desperately\npleads..."
                             ]
                         },
                         {
@@ -4202,14 +3929,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]なっ・・・！！やめっ！んッ♥だ、だめ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "中はッ！中はぁ！！おっ♥おっ♥あっ・・・！！"
+                                "\\c[31]No...!! Stop! Ah♥ No, no...!! Not inside! Inside is...! Ah♥\nAh♥ Ah...!!"
                             ]
                         },
                         {
@@ -4226,21 +3946,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]ごめ・・・ごめんな・・・さい！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ボクが悪かっ・ふー♥ふー♥・・・たから・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "中に出すのだけは・・・許して・・・。"
+                                "\\c[31]I'm sorry... I'm sorry!! It's my fault. Hoo♥ Hoo♥... So\nplease... just don't cum inside..."
                             ]
                         },
                         {
@@ -4257,14 +3963,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "だが・・・ゴロツキのボスのピストンは膣内に精を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "吐き出す為にどんどん激しさを増していく・・・！！"
+                                "But... the thug boss's piston movements only grow more\nintense as he prepares to release his seed inside her...!!"
                             ]
                         },
                         {
@@ -4281,14 +3980,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うるせぇ！肉便器が人間様のようにお願いしてんじゃねぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "てめぇはもう人間扱いされる立場じゃねぇんだよ！"
+                                "Shut up! A cum dumpster like you has no right to beg like a\nhuman! You're not in a position to be treated like a person\nanymore!"
                             ]
                         },
                         {
@@ -4305,14 +3997,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ゴロツキのボスの肉棒が震えると同時に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一番奥まで突き立てられ、密着した瞬間・・・！！"
+                                "As the thug boss's cock trembles, he thrusts it to the\ndeepest part and at the moment of full contact...!!"
                             ]
                         },
                         {
@@ -4346,7 +4031,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\{\\{\\{孕めオラァ！！！"
+                                "Get pregnant, damn it!!!"
                             ]
                         },
                         {
@@ -4363,7 +4048,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "膣内に濃厚な精液が射精される・・・！！"
+                                "Thick semen is ejaculated inside her vagina...!!"
                             ]
                         },
                         {
@@ -4455,14 +4140,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ドピュルルルルルル♥♥♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ドプッ♥ドプッ♥ビュッ♥♥"
+                                "\\c[27]Dopyurururururu♥♥♥♥ Dopu♥ Dopu♥ Byu♥♥"
                             ]
                         },
                         {
@@ -4479,14 +4157,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{ドビュッ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ッッ・・・ビュビュッ♥♥♥"
+                                "\\c[27]Dobyu♥...♥... Byubyu♥♥♥"
                             ]
                         },
                         {
@@ -4503,14 +4174,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{\\{オッ゛♥♥\\}\\}オッ゛ォォォ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "～～～～～～ッッッ♥♥♥♥"
+                                "\\c[31]Ahh♥♥ Ahh♥♥ Ahhhh♥♥～～～～～～♥♥♥♥"
                             ]
                         },
                         {
@@ -4527,21 +4191,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "脳天を突くような快感と共に絶頂し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "全身を痙攣させながら無様な"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "イキ声をあげてしまう・・・！！"
+                                "She climaxes with a pleasure that pierces her brain,\nconvulsing all over and letting out an unsightly cry of\necstasy...!!"
                             ]
                         },
                         {
@@ -4570,7 +4220,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]ドピュッッ・・・♥ビュッ・・・ビュッ・・・♥♥"
+                                "\\c[27]Dopyu♥... Byu... Byu...♥♥"
                             ]
                         },
                         {
@@ -4587,21 +4237,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ん゛っ・・・ふぅ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一発目にしては結構濃いのが出たな・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こりゃ一発目で孕んじまってるかもな！"
+                                "Huh... Phew... That was quite a thick load for the first\nround... Maybe you're already pregnant from that one!"
                             ]
                         },
                         {
@@ -4618,14 +4254,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そう言いながら腰を押し付け密着し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "メメリスの膣内に最後まで精液を出し切っていく・・・。"
+                                "While saying that, he presses his hips against her and\ncontinues to release his semen inside Memerisu until the\nlast drop..."
                             ]
                         },
                         {
@@ -4642,14 +4271,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{ん゛っ゛♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\}\\}・・・あ゛っ゛・・・ひぃ・・・"
+                                "\\c[31]Nh♥... Ah♥... Hii..."
                             ]
                         },
                         {
@@ -4694,14 +4316,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "最後まで膣内に精液を出し切ったゴロツキのボスは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "膣内から肉棒を引き抜いた・・・。"
+                                "After releasing all his semen inside, the thug boss pulls\nhis cock out of her vagina..."
                             ]
                         },
                         {
@@ -4718,7 +4333,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そして膣内に出された大量の精液が溢れ出してくる・・・。"
+                                "And then, a large amount of semen overflows from her\nvagina..."
                             ]
                         },
                         {
@@ -4735,7 +4350,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]・・・はぁーっ・・・はぁー・・・っっ・・・。"
+                                "\\c[31]...Haa-... Haa-...tt..."
                             ]
                         },
                         {
@@ -4752,7 +4367,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "意識は朦朧とし、満身創痍なメメリス・・・。"
+                                "Memerisu is dazed and battered..."
                             ]
                         },
                         {
@@ -4769,14 +4384,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "さて・・・これで終わりだと思うなよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "俺達に逆らった罰・・・たっぷり味わってもらわないとな！"
+                                "Now... don't think this is over. You've got to fully taste\nthe punishment for defying us!"
                             ]
                         },
                         {
@@ -4793,14 +4401,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ティーナちゃんを犯していたゴロツキ達が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こちらに歩いてくる姿が見える・・・。"
+                                "The thugs who were raping Tina are seen walking towards\nher..."
                             ]
                         },
                         {
@@ -4817,7 +4418,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\}やだ・・・助け・・・助けて・・・。"
+                                "\\c[31]No... Help... Help me..."
                             ]
                         },
                         {
@@ -4834,14 +4435,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その小さな声をかき消すように、ゴロツキ達が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "メメリスの体に群がっていく・・・。"
+                                "Their small voices are drowned out as the thugs swarm over\nMemerisu's body..."
                             ]
                         },
                         {
@@ -4858,14 +4452,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その後、二人は終わりのない犯される日々が続く・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いつか解放されると信じて・・・。"
+                                "Afterwards, the two of them continue to endure endless days\nof being violated, believing they will be freed someday..."
                             ]
                         },
                         {
@@ -4882,7 +4469,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "解放される日など二度と訪れないと知らずに・・・。"
+                                "Unaware that such a day of release will never come again..."
                             ]
                         },
                         {
@@ -4904,21 +4491,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -5037,7 +4610,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 6,
                                 0,
                                 2
@@ -5047,7 +4620,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・はっ！？夢か！！"
+                                "...Hah!? Was it a dream?!!"
                             ]
                         },
                         {
@@ -5312,14 +4885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴロツキのボスと再戦しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（敗北してもエロステはカウントされません）"
+                                "Do you want to rematch the thug boss? (Losing will not count\ntowards your Eros stats)"
                             ]
                         },
                         {
@@ -5327,8 +4893,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5383,7 +4949,7 @@
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 0,
                                 0,
                                 2
@@ -5393,7 +4959,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ぐえー！負けたー！！"
+                                "Ugh-! I lost-!!"
                             ]
                         },
                         {
@@ -5410,21 +4976,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ガキが…手こずらせやがって・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "こういうしつけのなってないガキが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お仕置きが必要だよなぁ！！"
+                                "These brats... giving me trouble... It's exactly these\nundisciplined brats that need to be punished, right?!!"
                             ]
                         },
                         {
@@ -5441,14 +4993,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "巨乳のガキはテメェらで楽しんでろ！"
+                                "Have fun with the big-breasted brat, you guys!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -5458,7 +5010,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "やめて・・・やめてくださいッッ！！"
+                                "Stop... please stop!!"
                             ]
                         },
                         {
@@ -5475,14 +5027,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ティーナちゃんが少し離れた所で男達に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "囲まれていく・・・。"
+                                "Tina is surrounded by men a little distance away..."
                             ]
                         },
                         {
@@ -5499,7 +5044,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "さぁ・・・お楽しみの時間といこうか。"
+                                "Now... let's begin the fun time."
                             ]
                         },
                         {
@@ -5556,14 +5101,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "メメリスはゴロツキのボスに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "押し倒された・・・。"
+                                "Memerisu is pushed down by the thug boss..."
                             ]
                         },
                         {
@@ -5580,14 +5118,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{\\{くそ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\}\\}放せ！放せってば！！"
+                                "\\c[31]Damn it! Let go! Let go of me!!"
                             ]
                         },
                         {
@@ -5604,14 +5135,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "なんだ、見た目通り毛も生えてねぇガキじゃねぇか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "まぁ、だからと言って容赦はしないがな！"
+                                "What's this, just as I thought, a brat who hasn't even grown\nhair yet. Well, not that I'll show any mercy!"
                             ]
                         },
                         {
@@ -5628,14 +5152,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ゴロツキのボスは下卑た笑みを浮かべながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "装備を脱ぎ始める・・・。"
+                                "The thug boss begins to undress with a vulgar smile on his\nface..."
                             ]
                         },
                         {
@@ -5680,7 +5197,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ゴソゴソ・・・ボロン♥"
+                                "\\c[27]Rustle rustle... Plop♥"
                             ]
                         },
                         {
@@ -5697,14 +5214,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "股間から飛び出した巨大な肉棒に思わず息を飲み、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "視線が釘付けになってしまう・・・。"
+                                "She involuntarily gasps at the sight of the huge dick\nspringing from his crotch, her gaze fixed..."
                             ]
                         },
                         {
@@ -5721,7 +5231,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]・・・は？なに・・・これ・・・？"
+                                "\\c[31]...Huh? What... is this...?"
                             ]
                         },
                         {
@@ -5738,21 +5248,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "お、さすがに生意気な嬢ちゃんでも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "言葉を失ったか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "どうだ、俺のは？結構でけぇだろ。"
+                                "Oh, even a cheeky girl like you is at a loss for words. How\nabout it, my dick's pretty big, isn't it?"
                             ]
                         },
                         {
@@ -5769,14 +5265,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "こんなものが自分の中に・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "と考えた瞬間、ゾクッと恐怖が襲い掛かる・・・。"
+                                "The thought of such a thing inside her... sends a shiver of\nfear through her in an instant..."
                             ]
                         },
                         {
@@ -5809,14 +5298,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{無理・・・無理無理無理！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "放せ！放して！！"
+                                "\\c[31]No way... Impossible impossible impossible! Let go! Let me\ngo!!"
                             ]
                         },
                         {
@@ -5833,7 +5315,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "暴れんな・・・暴れんなよっ・・・っと！"
+                                "Stop struggling... stop it... there!"
                             ]
                         },
                         {
@@ -5850,21 +5332,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "逃れようと必死に暴れるが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ゴロツキのボスは微動だにせず"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "メメリスの秘部に肉棒をあてがった・・・。"
+                                "Despite her desperate struggles, the thug boss doesn't budge\nand positions his dick at Memerisu's genitals..."
                             ]
                         },
                         {
@@ -5919,7 +5387,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{\\{ズプゥ・・・ッ！！"
+                                "\\c[27]Zupuu...!!"
                             ]
                         },
                         {
@@ -5936,14 +5404,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ゴロツキのボスに容赦なく肉棒を突き入れられ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "意識が飛びかける・・・！！"
+                                "The thug boss ruthlessly thrusts his dick inside her, and\nher consciousness begins to fade...!!"
                             ]
                         },
                         {
@@ -5960,14 +5421,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{\\{お゛っ゛！♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\}\\}\\}ご゛っ゛・・・ぉ゛・・・ぉ゛お゛ぉ゛♥♥♥"
+                                "\\c[31]Ooh♥♥ Gah♥... oh... oh♥♥♥"
                             ]
                         },
                         {
@@ -5984,7 +5438,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "結構キツいな。奥までぶち込むから力抜けよ！"
+                                "Pretty tight. I'm going to shove it all the way in, so\nrelax!"
                             ]
                         },
                         {
@@ -6001,14 +5455,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]ま゛っ・・・て゛！！ぅごか・・・な゛いで！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ぃ゛ぎ・・・できな゛っ・・・！"
+                                "\\c[31]Wait...!! Don't move!! I can't... handle it...!"
                             ]
                         },
                         {
@@ -6025,7 +5472,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あぁ？ガキが俺に指図してんじゃねぇよ！"
+                                "Ah? Don't you dare give me orders, brat!"
                             ]
                         },
                         {
@@ -6070,14 +5517,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{ズプゥゥッッッッ！！！♥♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "パンッ・・・！！♥パンッ・・・！！♥"
+                                "\\c[27]Zupuuu!!♥♥♥ Thump...!!♥ Thump...!!♥"
                             ]
                         },
                         {
@@ -6094,14 +5534,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{\\{あ゛っ゛♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\}\\}んおっ♥おっ・・・！！♥おっ・・・！！！♥"
+                                "\\c[31]Ah♥ Noh♥ Ohh...!!♥ Ohh...!!!♥"
                             ]
                         },
                         {
@@ -6118,21 +5551,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "情けないメスの声を出してしまうメメリス・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "意識が飛びそうなのを堪えるだけで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "精一杯になっていた・・・。"
+                                "Memerisu lets out a pitiful female moan... She's barely\nholding on to consciousness..."
                             ]
                         },
                         {
@@ -6149,14 +5568,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "結構締まりがいいじゃねぇか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "生意気なガキだがマンコは素直だな！！"
+                                "You're pretty tight! For a cheeky brat, your pussy is quite\nobedient!!"
                             ]
                         },
                         {
@@ -6173,14 +5585,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "肉便器の才能あるんじゃねぇか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "こりゃ良い拾い物したな。"
+                                "You might have a talent for being a meat toilet? This is\nquite the find."
                             ]
                         },
                         {
@@ -6197,14 +5602,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ゴロツキのボスの随分な物言いに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "必死に睨みつける・・・！！"
+                                "Memerisu glares desperately in response to the thug boss's\ncrude words...!!"
                             ]
                         },
                         {
@@ -6254,7 +5652,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]だれ・・・っが！肉便おっ♥・・・器ッ！だよッッ！！"
+                                "\\c[31]Who... are you calling a meat toilet♥...!?"
                             ]
                         },
                         {
@@ -6271,14 +5669,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "まだそんな口が叩けるのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ま、それぐらい生意気な方が躾け甲斐があるな。"
+                                "Still got that mouth on you, huh. Well, it's more fun to\ndiscipline someone who's cheeky."
                             ]
                         },
                         {
@@ -6295,14 +5686,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そう言うと、ゴロツキのボスの肉棒が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "メメリスの膣内でビクビクッ！と震えた・・・！！"
+                                "As he says that, the thug boss's dick twitches violently\ninside Memerisu's vagina...!!"
                             ]
                         },
                         {
@@ -6319,21 +5703,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "・・・と、そろそろ一発ぶちこんでやるか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ありがたく受け止めろよ、当然避妊なんかしねぇから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "孕まないように祈ってな！！"
+                                "...Well, it's about time I give you a shot. Be grateful and\ntake it, obviously I'm not using contraception so pray you\ndon't get pregnant!!"
                             ]
                         },
                         {
@@ -6350,7 +5720,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "その言葉を聞いた瞬間、メメリスは必死に懇願する・・・。"
+                                "The moment she hears those words, Memerisu desperately\npleads..."
                             ]
                         },
                         {
@@ -6400,14 +5770,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]なっ・・・！！やめっ！んッ♥だ、だめ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "中はッ！中はぁ！！おっ♥おっ♥あっ・・・！！"
+                                "\\c[31]No...!! Stop! Noo♥ That's bad...!! Inside is! Inside ah!!\nOh♥ Oh♥ Ah...!!"
                             ]
                         },
                         {
@@ -6424,21 +5787,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]ごめ・・・ごめんな・・・さい！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ボクが悪かっ・ふー♥ふー♥・・・たから・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "中に出すのだけは・・・許して・・・。"
+                                "\\c[31]I'm sorry... I'm sorry!! It was my fault. Hoo♥ Hoo♥... So\nplease... just don't cum inside..."
                             ]
                         },
                         {
@@ -6455,14 +5804,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "だが・・・ゴロツキのボスのピストンは膣内に精を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "吐き出す為にどんどん激しさを増していく・・・！！"
+                                "But... the thug boss's piston movements only grow more\nintense as he prepares to release his seed inside her...!!"
                             ]
                         },
                         {
@@ -6479,14 +5821,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "うるせぇ！肉便器が人間様のようにお願いしてんじゃねぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "てめぇはもう人間扱いされる立場じゃねぇんだよ！"
+                                "Shut up! A meat toilet like you has no right to beg like a\nhuman! You're not in any position to be treated like a human\nanymore!"
                             ]
                         },
                         {
@@ -6503,14 +5838,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ゴロツキのボスの肉棒が震えると同時に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "一番奥まで突き立てられ、密着した瞬間・・・！！"
+                                "As the thug boss's cock trembles, he thrusts it to the\ndeepest part and the moment they are fully connected...!!"
                             ]
                         },
                         {
@@ -6544,7 +5872,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\{\\{\\{孕めオラァ！！！"
+                                "Get pregnant, damn it!!!"
                             ]
                         },
                         {
@@ -6561,7 +5889,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "膣内に濃厚な精液が射精される・・・！！"
+                                "Thick semen is ejaculated inside her vagina...!!"
                             ]
                         },
                         {
@@ -6653,14 +5981,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ドピュルルルルルル♥♥♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ドプッ♥ドプッ♥ビュッ♥♥"
+                                "\\c[27]Dopyururururururu♥♥♥♥ Dopu♥ Dopu♥ Byu♥♥"
                             ]
                         },
                         {
@@ -6677,14 +5998,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{ドビュッ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ッッ・・・ビュビュッ♥♥♥"
+                                "\\c[27]Dobyu...♥... Byubyu♥♥♥"
                             ]
                         },
                         {
@@ -6701,14 +6015,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{\\{オッ゛♥♥\\}\\}オッ゛ォォォ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "～～～～～～ッッッ♥♥♥♥"
+                                "\\c[31]Ahh♥♥ Ahh♥♥ Ohhh♥♥~~~~~~~♥♥♥♥"
                             ]
                         },
                         {
@@ -6725,21 +6032,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "脳天を突くような快感と共に絶頂し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "全身を痙攣させながら無様な"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "イキ声をあげてしまう・・・！！"
+                                "With a pleasure that pierces her brain, she climaxes,\nconvulsing all over and letting out an unsightly moan...!!"
                             ]
                         },
                         {
@@ -6768,7 +6061,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]ドピュッッ・・・♥ビュッ・・・ビュッ・・・♥♥"
+                                "\\c[27]Dopyu...♥ Byu... Byu...♥♥"
                             ]
                         },
                         {
@@ -6785,21 +6078,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ん゛っ・・・ふぅ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "一発目にしては結構濃いのが出たな・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "こりゃ一発目で孕んじまってるかもな！"
+                                "Hmm... For the first shot, that was quite a load... Maybe\nyou're already pregnant from this one!"
                             ]
                         },
                         {
@@ -6816,14 +6095,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そう言いながら腰を押し付け密着し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "メメリスの膣内に最後まで精液を出し切っていく・・・。"
+                                "While saying that, he presses his hips against her,\ncontinuing to release his semen inside Memerisu until the\nlast drop..."
                             ]
                         },
                         {
@@ -6840,14 +6112,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{ん゛っ゛♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\}\\}・・・あ゛っ゛・・・ひぃ・・・"
+                                "\\c[31]Nn♥... Ah♥... Hii..."
                             ]
                         },
                         {
@@ -6892,14 +6157,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "最後まで膣内に精液を出し切ったゴロツキのボスは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "膣内から肉棒を引き抜いた・・・。"
+                                "After completely releasing his semen inside, the thug boss\npulls his cock out of her vagina..."
                             ]
                         },
                         {
@@ -6916,7 +6174,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そして膣内に出された大量の精液が溢れ出してくる・・・。"
+                                "And then, a large amount of semen that was released inside\nstarts to overflow..."
                             ]
                         },
                         {
@@ -6933,7 +6191,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]・・・はぁーっ・・・はぁー・・・っっ・・・。"
+                                "\\c[31]...Haa... Haa... ..."
                             ]
                         },
                         {
@@ -6950,7 +6208,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "意識は朦朧とし、満身創痍なメメリス・・・。"
+                                "Her consciousness fading, Memerisu is left completely\nbattered..."
                             ]
                         },
                         {
@@ -6967,14 +6225,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "さて・・・これで終わりだと思うなよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "俺達に逆らった罰・・・たっぷり味わってもらわないとな！"
+                                "Now... don't think this is the end. You've got to fully\ntaste the punishment for defying us!"
                             ]
                         },
                         {
@@ -6991,14 +6242,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ティーナちゃんを犯していたゴロツキ達が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "こちらに歩いてくる姿が見える・・・。"
+                                "The thugs who were raping Tina are seen walking towards this\nside..."
                             ]
                         },
                         {
@@ -7015,7 +6259,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\}やだ・・・助け・・・助けて・・・。"
+                                "\\c[31]No... Help... Help me..."
                             ]
                         },
                         {
@@ -7032,14 +6276,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "その小さな声をかき消すように、ゴロツキ達が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "メメリスの体に群がっていく・・・。"
+                                "As if to drown out her faint voice, the thugs swarm over\nMemerisu's body..."
                             ]
                         },
                         {
@@ -7056,14 +6293,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "その後、二人は終わりのない犯される日々が続く・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "いつか解放されると信じて・・・。"
+                                "Afterward, the two of them continue to endure endless days\nof being violated... believing that someday they will be\nfreed..."
                             ]
                         },
                         {
@@ -7080,7 +6310,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "解放される日など二度と訪れないと知らずに・・・。"
+                                "Unaware that the day of release would never come again..."
                             ]
                         },
                         {
@@ -7102,21 +6332,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -7255,7 +6471,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -7265,14 +6481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アマゾゾタウンの段ボールが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "山積みになってます。"
+                                "The cardboard boxes are piled up in Amazon Town."
                             ]
                         },
                         {
@@ -7339,7 +6548,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -7349,14 +6558,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アマゾゾタウンの段ボールが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "山積みになってます。"
+                                "The cardboard boxes are piled up in Amazon Town."
                             ]
                         },
                         {
@@ -7423,7 +6625,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -7433,14 +6635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アマゾゾタウンの段ボールが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "山積みになってます。"
+                                "The cardboard boxes are piled up in Amazon Town."
                             ]
                         },
                         {
@@ -7507,7 +6702,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -7517,14 +6712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アマゾゾタウンの段ボールが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "山積みになってます。"
+                                "The cardboard boxes are piled up in Amazon Town."
                             ]
                         },
                         {
@@ -7591,7 +6779,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -7601,14 +6789,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アマゾゾタウンの段ボールが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "山積みになってます。"
+                                "The cardboard boxes are piled up in Amazon Town."
                             ]
                         },
                         {
@@ -7675,7 +6856,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -7685,14 +6866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アマゾゾタウンの段ボールが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "山積みになってます。"
+                                "The cardboard boxes are piled up in Amazon Town."
                             ]
                         },
                         {
@@ -7759,7 +6933,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -7769,14 +6943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アマゾゾタウンの段ボールが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "山積みになってます。"
+                                "The cardboard boxes in Amazon Town are piled up like a\nmountain."
                             ]
                         },
                         {
@@ -7843,7 +7010,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -7853,14 +7020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このベッドで寝ているのでしょうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボロボロで凄く汚いです・・・。"
+                                "Will I be sleeping in this bed? It's all tattered and\nincredibly dirty..."
                             ]
                         },
                         {
@@ -7927,7 +7087,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -7937,14 +7097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このベッドで寝ているのでしょうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボロボロで凄く汚いです・・・。"
+                                "Do you sleep in this bed? It's all tattered and really\ndirty..."
                             ]
                         },
                         {
@@ -8013,7 +7166,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -8023,21 +7176,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チャーハンのようでチャーハンじゃない・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チャーハンの幼体みたいなご飯が置いてある。"
+                                "It's like fried rice but not fried rice... It's like a\njuvenile form of fried rice."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -8047,7 +7193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんですかその例えは・・・。"
+                                "What kind of comparison is that..."
                             ]
                         },
                         {

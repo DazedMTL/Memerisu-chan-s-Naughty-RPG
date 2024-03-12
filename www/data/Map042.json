@@ -16,7 +16,7 @@
         "volume": 40
     },
     "disableDashing": false,
-    "displayName": "スラム街",
+    "displayName": "Slum District",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -4971,7 +4971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オークの精液を手に入れた！"
+                                "Obtained Orc's semen!"
                             ]
                         },
                         {
@@ -5281,7 +5281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ギルド支部"
+                                "Guild Branch"
                             ]
                         },
                         {
@@ -5358,14 +5358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "井戸だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "水を飲もう！"
+                                "It's a well! Let's drink some water!"
                             ]
                         },
                         {
@@ -5373,8 +5366,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5395,9 +5388,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "メメリス",
-                                    "ティーナ",
-                                    "やっぱりやめる"
+                                    "Memerisu",
+                                    "Tina",
+                                    "I guess I'll stop."
                                 ],
                                 2,
                                 0,
@@ -5427,7 +5420,7 @@
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 3,
                                 0,
                                 2
@@ -5437,7 +5430,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "おしっこしたいし今はやめておこう・・・。"
+                                "I need to pee, so maybe I should hold off for now..."
                             ]
                         },
                         {
@@ -5464,14 +5457,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "メメリスは水を汲んで飲んだ！"
+                                "Memerisu drew water and drank it!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 1,
                                 0,
                                 2
@@ -5481,7 +5474,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "うーまーあーじー！！"
+                                "De-lic-ious!"
                             ]
                         },
                         {
@@ -5510,14 +5503,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "メメリスの体力は全回復した！"
+                                "Memerisu's health has been fully restored!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 3,
                                 0,
                                 2
@@ -5527,14 +5520,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "・・・むむっ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "なんだかトイレに行きたくなってきたかも。"
+                                "...Hmm, I think I might need to go to the bathroom now."
                             ]
                         },
                         {
@@ -5563,14 +5549,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "メメリスはおしっこがしたくなってしまった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "トイレに行かないとお漏らししてしまうぞ！"
+                                "Memerisu now needs to pee! She needs to find a toilet or\nshe'll wet herself!"
                             ]
                         },
                         {
@@ -5638,7 +5617,7 @@
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -5648,14 +5627,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "今はおしっこもしたいですし・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "飲むのはやめておきましょう。"
+                                "I also need to pee right now... Let's not drink any more."
                             ]
                         },
                         {
@@ -5682,14 +5654,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ティーナは水を汲んで飲んだ！"
+                                "Tina drew water and drank it!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -5699,7 +5671,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "冷たくて美味しい・・・元気が出てきますね♪"
+                                "It's cold and tasty... It's energizing♪"
                             ]
                         },
                         {
@@ -5728,14 +5700,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ティーナの体力は全回復した！"
+                                "Tina's health has been fully restored!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 7,
                                 0,
                                 2
@@ -5745,21 +5717,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "あっ・・・、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "なんだか少しおトイレに行きたくなって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "きちゃいましたね。"
+                                "Ah... I think I'm starting to feel the need to go to the\nbathroom a little."
                             ]
                         },
                         {
@@ -5788,14 +5746,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ティーナはおしっこがしたくなってしまった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "トイレに行かないとお漏らししてしまうぞ！"
+                                "Tina now needs to pee! She needs to find a toilet or she'll\nwet herself!"
                             ]
                         },
                         {
@@ -5956,14 +5907,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここはガキが来る所じゃない！帰れッ！！"
+                                "This is no place for kids! Get out of here!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 6,
                                 0,
                                 2
@@ -5973,21 +5924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひぇっ、なんだなんだ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "めっちゃキレて来るじゃん、おっかないから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "近づかないでおこう・・・。"
+                                "Eek, what's going on...!! They're really angry, it's scary,\nso I better not get too close..."
                             ]
                         },
                         {
@@ -6055,14 +5992,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここはガキが来る所じゃない！帰れッ！！"
+                                "This is no place for kids! Get out of here!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -6072,21 +6009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスちゃん、昼間に騒ぎを起こすと夜に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "潜入出来なくなっちゃいます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夜に改めてここに来ましょう。"
+                                "Memerisu-chan, if we cause a commotion during the day, we\nwon't be able to sneak in at night. Let's come back here\nwhen it's dark."
                             ]
                         },
                         {
@@ -6214,14 +6137,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お恵みを・・・お恵みを・・・。"
+                                "Your blessing... Your blessing..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 0,
                                 0,
                                 2
@@ -6231,7 +6154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うーん、どうしよっかなー。"
+                                "Hmm, what should I do..."
                             ]
                         },
                         {
@@ -6248,7 +6171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お金をあげますか？"
+                                "Will you give money?"
                             ]
                         },
                         {
@@ -6256,7 +6179,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "あげません！"
+                                    "I won't give it to you!"
                                 ],
                                 1,
                                 0,
@@ -6276,7 +6199,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -6286,7 +6209,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\{\\{\\{\\{あげません！！！"
+                                "I won't give it!!!"
                             ]
                         },
                         {
@@ -6303,7 +6226,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よよよ・・・。"
+                                "Yo-yo-yo..."
                             ]
                         },
                         {
@@ -6390,14 +6313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこの宿で休むのはいいが、夜は出歩かない方がいいぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "イカれたヤローや売春が横行してるからな。"
+                                "It's fine to rest at that inn, but it's better not to wander\naround at night. There are crazies and prostitution rampant\nout there."
                             ]
                         },
                         {
@@ -6415,7 +6331,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 4,
                                 0,
                                 2
@@ -6425,7 +6341,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・売春かぁ♥"
+                                "...Prostitution, huh♥"
                             ]
                         },
                         {
@@ -6442,7 +6358,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -6452,7 +6368,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うーん、夜は出歩かない方が良さそうだね。"
+                                "Yeah, it seems better not to walk around at night."
                             ]
                         },
                         {
@@ -6539,14 +6455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女性限定！特別無料サービス開催中！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マッサージ店「リンパ」"
+                                "Ladies only! Special free service event at the massage\nparlor \"Lymph\"!"
                             ]
                         },
                         {
@@ -6805,14 +6714,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅ・・・ワシはどうすれば・・・。"
+                                "Ugh... What should I do..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -6822,28 +6731,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どしたのお爺ちゃん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やたら思わせぶりに深刻そうな顔しながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聞こえる音量でぶつぶつと言ってさぁ。"
+                                "What's wrong, old man? You're muttering to yourself so\nseriously and loud enough to be heard."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -6853,21 +6748,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょっとメメリスちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな言い方はダメですよ！！"
+                                "Hey, Memerisu! You shouldn't speak to him like that!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -6877,14 +6765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それで一体何を困っているんですか？"
+                                "...So, what exactly is troubling you?"
                             ]
                         },
                         {
@@ -6901,21 +6782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おぉう・・・お嬢さん方・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実はワシの孫娘がスラムの奴隷売人に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "攫われてしまってのう・・・。"
+                                "Oh... young ladies... The truth is, my granddaughter has\nbeen kidnapped by slave traders in the slums..."
                             ]
                         },
                         {
@@ -6932,28 +6799,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんとかこの地下室にいることまでは調べたのじゃが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見張りもおるし、この老いぼれにはとても孫娘を取り返す"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "為に立ち入る事すら出来ぬのじゃ・・・。"
+                                "I've managed to find out that she's in this basement, but\nthere are guards, and this old man certainly can't retrieve\nher..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -6963,14 +6816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "孫娘さんが奴隷売人に・・・！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それは大変じゃないですか・・・！！"
+                                "Your granddaughter has been taken by slave traders...!?\nThat's terrible...!!"
                             ]
                         },
                         {
@@ -6987,28 +6833,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お嬢さん方は見たところ冒険者さんかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もし良ければ私の孫娘を奴隷売人から"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "助け出してはくれないじゃろうか・・・？"
+                                "Are you ladies adventurers by any chance? If it's not too\nmuch trouble, could you possibly rescue my granddaughter\nfrom the slave traders...?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 2,
                                 0,
                                 2
@@ -7018,21 +6850,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは救出しないと孫娘さんが危険です・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ね、メメリスちゃん！"
+                                "We must rescue her, or she'll be in danger... right,\nMemerisu?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -7042,21 +6867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（うーん・・・助けてあげたいけど・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　めちゃめちゃ危険な依頼になるかも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ここは慎重に考えないと・・・。）"
+                                "(Hmm... I want to help, but... this could be a really\ndangerous request. I need to think carefully...)"
                             ]
                         },
                         {
@@ -7064,8 +6875,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "助ける",
-                                    "助けない"
+                                    "Help",
+                                    "Don't help"
                                 ],
                                 1,
                                 0,
@@ -7085,7 +6896,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 1,
                                 0,
                                 2
@@ -7095,21 +6906,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "任せといて！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "メメリスちゃんがパパパッと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "孫娘ちゃんを救出してきてあげるよ！"
+                                "Leave it to me! Memerisu will swoop in and rescue your\ngranddaughter in a flash!"
                             ]
                         },
                         {
@@ -7126,14 +6923,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おぉ！本当かい！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ありがとう・・・ありがとう・・・！！"
+                                "Oh! Really!? Thank you... thank you...!!"
                             ]
                         },
                         {
@@ -7150,28 +6940,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "どうやら夜の地下室で奴隷のオークションをしているらしい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・そこに孫娘もいるはず・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "孫娘が売られてしまう前に助け出してきてほしいのじゃ。"
+                                "It seems they hold a slave auction in the basement at\nnight... My granddaughter must be there... Please rescue her\nbefore she is sold."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 1,
                                 0,
                                 2
@@ -7181,14 +6957,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なるほど、つまり夜に潜入すればいいんだね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まかせとけー！"
+                                "I see, so we just need to sneak in at night, right? Leave it\nto me!"
                             ]
                         },
                         {
@@ -7217,7 +6986,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -7227,28 +6996,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ごめんよ、お爺ちゃん・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "流石にその依頼は危険すぎるからもっとプロの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "冒険者や専門家に頼んだ方がいいよ。"
+                                "Sorry, old man... That request is just too dangerous. You\nshould ask a more professional adventurer or specialist."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -7258,7 +7013,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そんな、メメリスちゃん・・・！！"
+                                "Memerisu...!!"
                             ]
                         },
                         {
@@ -7275,7 +7030,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いいんじゃ・・・無理を言ってすまんのう・・・。"
+                                "It's alright... I apologize for asking too much..."
                             ]
                         },
                         {
@@ -7353,21 +7108,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "孫娘はここの地下室で夜に開催される奴隷オークションに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出品されているはず・・・何卒お助け願います・・・。"
+                                "The granddaughter should be up for auction at the slave\nauction held in the basement here at night... Please, I beg\nof you to help..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -7377,7 +7125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まかせとけー！！"
+                                "Leave it to me!!"
                             ]
                         },
                         {
@@ -7581,7 +7329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見張りは気を失っている・・・。"
+                                "The lookout is unconscious..."
                             ]
                         },
                         {
@@ -7648,7 +7396,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -7658,7 +7406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "侵入するなら夜にしましょう！"
+                                "Let's infiltrate at night!"
                             ]
                         },
                         {
@@ -7716,7 +7464,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -7726,14 +7474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何か嫌なことがここであった気が・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや、あれは夢・・・夢だよね・・・。"
+                                "I feel like something unpleasant happened here... No, that\nwas a dream... It was just a dream, right?"
                             ]
                         },
                         {
@@ -7810,7 +7551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは泣く子も黙るスラム街だ！ヒャッハーッ！！"
+                                "This is the slums where even crying children fall silent!\nHyaha!!"
                             ]
                         },
                         {
@@ -7827,28 +7568,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゲヘヘ、ここはお嬢ちゃんのような子が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "来るところじゃないぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっさと帰るのが身の為だぜぇ！！"
+                                "Gehehe, this ain't a place for young ladies like you! It'd\nbe best for your own good to scram quickly!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -7858,7 +7585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おじさん・・・もしかして良い人？"
+                                "Mister... could you possibly be a good person?"
                             ]
                         },
                         {
@@ -7925,7 +7652,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -7935,7 +7662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たーるっ！"
+                                "It's dripping!"
                             ]
                         },
                         {
@@ -8002,7 +7729,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -8012,7 +7739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たーるっ！"
+                                "It's dripping!"
                             ]
                         },
                         {
@@ -8149,28 +7876,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やあ、お嬢ちゃん達・・・随分若くて可愛らしいね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "使用済みトイレを持ってないかい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "持っていたら高値で買い取らせてもらうよ。"
+                                "Hey there, young ladies... You're quite young and cute. Do\nyou have any used toilets? If you do, I'll buy them at a\nhigh price."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -8180,7 +7893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだこの変態っ！？きもっ！！"
+                                "What the heck, you pervert!? Gross!!"
                             ]
                         },
                         {
@@ -8197,21 +7910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いやいや、勘違いしないでくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はそこまで女の子のおしっこに興味があるわけじゃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ないんだよ。"
+                                "No, no, don't get me wrong. I'm not that interested in\ngirls' pee."
                             ]
                         },
                         {
@@ -8228,21 +7927,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ただ女の子のおしっこは一定の需要があってね・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここで買い取っておしっこ好きに高く売るんだよ。"
+                                "It's just that there's a certain demand for girls' pee... I\nbuy it here and sell it at a higher price to those who like\nit."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -8252,7 +7944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "多少は興味があるんですね・・・！！"
+                                "So you are somewhat interested...!!"
                             ]
                         },
                         {
@@ -8269,21 +7961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ははは、些細な事さ。気にしなくていいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とにかく使用済みトイレを持ってきてくれたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "買い取ってあげよう。"
+                                "Hahaha, it's a trivial matter. Don't worry about it. Anyway,\nif you bring me used toilets, I'll buy them."
                             ]
                         },
                         {
@@ -8312,7 +7990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "使用済みトイレを買い取ってもらえるようになった！"
+                                "You can now sell used toilets!"
                             ]
                         },
                         {
@@ -8397,21 +8075,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おお！使用済みトイレを持っているね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どうだい、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ぜひ私に君のおしっこを買い取らせてもらえないかな？"
+                                "Oh! You have a used toilet with you! How about it, would you\nlet me buy your pee?"
                             ]
                         },
                         {
@@ -8419,8 +8083,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8450,14 +8114,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おお！ホカホカの出したておしっこ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "これは美味しそうだなぁ・・・。ｺﾞｸﾘ"
+                                "Oh! Fresh, warm pee...!! This looks delicious... *gulp*"
                             ]
                         },
                         {
@@ -8505,14 +8162,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "使用済みトイレが一つ800ジュエルで売れた！"
+                                "You sold a used toilet for 800 jewels!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -8522,7 +8179,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "き、気持ち悪いです・・・っ。"
+                                "Th-That's disgusting..."
                             ]
                         },
                         {
@@ -8572,7 +8229,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "使用済みトイレを持ってきてくれれば高値で買い取るよ！"
+                                "If you bring me a used toilet, I'll buy it at a high price!"
                             ]
                         },
                         {
@@ -8784,7 +8441,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -8794,21 +8451,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "わぁ、焚火があるじゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ちょうどサツマイモを持ってるし焼き芋に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しちゃおうかな～♪"
+                                "Wow, there's a campfire! I happen to have some sweet\npotatoes, maybe I'll make some baked sweet potatoes~♪"
                             ]
                         },
                         {
@@ -8816,8 +8459,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8857,7 +8500,7 @@
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -8867,28 +8510,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "はい、上手に焼けましたよぉ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "熱いので火傷しないように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "気を付けて持ってくださいね。"
+                                "Yes, they're nicely baked~♪ Be careful not to burn yourself,\nit's hot."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -8898,14 +8527,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "わぁ～い！ホクホクで美味しそう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ティーナちゃん、後で一緒に食べようね♪"
+                                "Yay~! They look fluffy and delicious! Tina-chan, let's eat\nthem together later♪"
                             ]
                         },
                         {
@@ -8934,7 +8556,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "焼き芋を手に入れた！"
+                                "Obtained Baked Sweet Potato!"
                             ]
                         },
                         {
@@ -8974,7 +8596,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -8984,14 +8606,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お、焚火があるじゃーん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "サツマイモがあったら焼き芋にしたいなー。"
+                                "Oh, there's a campfire. If I had some sweet potatoes, I'd\nwant to make baked sweet potatoes."
                             ]
                         },
                         {

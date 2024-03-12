@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "コスプレ店",
+    "displayName": "Cosplay Shop",
     "encounterList": [],
     "encounterStep": 30,
     "height": 10,
@@ -619,14 +619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コスプレショップにようこそ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっとエッチな衣装でいつもと違う貴方に出会えるかも♥"
+                                "Welcome to the cosplay shop♪ You might discover a different\nside of yourself with a slightly naughty costume♥"
                             ]
                         },
                         {

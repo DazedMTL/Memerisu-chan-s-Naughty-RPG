@@ -3,7 +3,7 @@
     {
         "id": 1,
         "atypeId": 5,
-        "description": "木製のお鍋のふた。\n使い方を間違っていると思う。",
+        "description": "A wooden pot lid. I think it's being used incorrectly.",
         "etypeId": 2,
         "traits": [
             {
@@ -13,7 +13,7 @@
             }
         ],
         "iconIndex": 128,
-        "name": "お鍋のふた",
+        "name": "Pot Lid",
         "note": "",
         "params": [
             0,
@@ -30,7 +30,7 @@
     {
         "id": 2,
         "atypeId": 1,
-        "description": "一目で安物と分かる帽子。",
+        "description": "A hat that's obviously cheap at first glance.",
         "etypeId": 3,
         "traits": [
             {
@@ -40,7 +40,7 @@
             }
         ],
         "iconIndex": 130,
-        "name": "安物の帽子",
+        "name": "Cheap Hat",
         "note": "",
         "params": [
             0,
@@ -57,7 +57,7 @@
     {
         "id": 3,
         "atypeId": 1,
-        "description": "一目で安物と分かる服。",
+        "description": "Clothes that are obviously cheap at first glance.",
         "etypeId": 4,
         "traits": [
             {
@@ -67,7 +67,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "安物の服",
+        "name": "Cheap Clothes",
         "note": "",
         "params": [
             0,
@@ -84,7 +84,7 @@
     {
         "id": 4,
         "atypeId": 1,
-        "description": "飴が付いてるおもちゃの指輪。\n",
+        "description": "A toy ring with a candy attached.",
         "etypeId": 5,
         "traits": [
             {
@@ -94,7 +94,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "おもちゃの指輪",
+        "name": "Toy Ring",
         "note": "",
         "params": [
             0,
@@ -111,7 +111,7 @@
     {
         "id": 5,
         "atypeId": 1,
-        "description": "可愛いウサちゃんのキーホルダー。\n気持ちがぴょんぴょんするんじゃぁ～。",
+        "description": "A cute bunny keychain. It makes you feel hoppy~.",
         "etypeId": 5,
         "traits": [
             {
@@ -121,7 +121,7 @@
             }
         ],
         "iconIndex": 148,
-        "name": "ウサギのキーホルダー",
+        "name": "Rabbit Keychain",
         "note": "",
         "params": [
             0,
@@ -138,7 +138,7 @@
     {
         "id": 6,
         "atypeId": 1,
-        "description": "かわいいウサギの耳飾り。\n毒を防ぐ事ができるうえに防御力もアップする。",
+        "description": "Cute rabbit ear accessories. They can prevent poison and\nalso increase defense.",
         "etypeId": 3,
         "traits": [
             {
@@ -153,7 +153,7 @@
             }
         ],
         "iconIndex": 149,
-        "name": "ウサギの耳飾り",
+        "name": "Rabbit Earrings",
         "note": "",
         "params": [
             0,
@@ -170,7 +170,7 @@
     {
         "id": 7,
         "atypeId": 1,
-        "description": "福が来ると評判な占い師が販売しているリボン。\n運がちょっとだけ上がる。",
+        "description": "A ribbon sold by a fortune teller rumored to bring good\nluck. It slightly increases luck.",
         "etypeId": 5,
         "traits": [
             {
@@ -180,7 +180,7 @@
             }
         ],
         "iconIndex": 149,
-        "name": "福来るリボン",
+        "name": "Lucky Ribbon",
         "note": "",
         "params": [
             0,
@@ -197,7 +197,7 @@
     {
         "id": 8,
         "atypeId": 1,
-        "description": "アルミホイルで出来た帽子。\n混乱をたまに防げる・・・らしい？",
+        "description": "A hat made of aluminum foil. It seems to sometimes prevent\nconfusion...?",
         "etypeId": 3,
         "traits": [
             {
@@ -212,7 +212,7 @@
             }
         ],
         "iconIndex": 130,
-        "name": "アルミホイル帽子",
+        "name": "Aluminum Foil Hat",
         "note": "",
         "params": [
             0,
@@ -229,7 +229,7 @@
     {
         "id": 9,
         "atypeId": 1,
-        "description": "草野球で使うヘルメット。\n汗が染みこんでて臭いが防御力はバッチリ。",
+        "description": "A helmet used for sandlot baseball. It's soaked with sweat\nand smells, but the defense is solid.",
         "etypeId": 3,
         "traits": [
             {
@@ -239,7 +239,7 @@
             }
         ],
         "iconIndex": 132,
-        "name": "野球のヘルメット",
+        "name": "Baseball Helmet",
         "note": "",
         "params": [
             0,
@@ -256,7 +256,7 @@
     {
         "id": 10,
         "atypeId": 1,
-        "description": "おみやげ屋さんで売ってるジャパニーズサムライの兜。\n結構本格的に作りこんである。",
+        "description": "A Japanese samurai helmet sold at souvenir shops. It's quite\nelaborately made.",
         "etypeId": 3,
         "traits": [
             {
@@ -266,7 +266,7 @@
             }
         ],
         "iconIndex": 131,
-        "name": "兜",
+        "name": "Helmet",
         "note": "",
         "params": [
             0,
@@ -283,7 +283,7 @@
     {
         "id": 11,
         "atypeId": 1,
-        "description": "精液が沁み込んで臭いがとれなくなった服。\n濃厚な雄の臭いがする。",
+        "description": "Clothes that have been soaked in semen and now have an\nunremovable smell. They emit a strong male scent.",
         "etypeId": 4,
         "traits": [
             {
@@ -293,7 +293,7 @@
             }
         ],
         "iconIndex": 84,
-        "name": "精液まみれの服",
+        "name": "Semen-Stained Clothes",
         "note": "",
         "params": [
             0,
@@ -310,7 +310,7 @@
     {
         "id": 12,
         "atypeId": 1,
-        "description": "大事な所が丸見えのエッチなバニー服。\nこれを持っていれば新しいプレイが出来るかも・・・♥",
+        "description": "An erotic bunny outfit that leaves nothing to the\nimagination. Having this might enable new plays...♥",
         "etypeId": 4,
         "traits": [
             {
@@ -320,7 +320,7 @@
             }
         ],
         "iconIndex": 84,
-        "name": "逆バニー服",
+        "name": "Reverse Bunny Suit",
         "note": "",
         "params": [
             0,
@@ -337,7 +337,7 @@
     {
         "id": 13,
         "atypeId": 1,
-        "description": "コスプレと言えば王道のバニー服。\nこれを持っていれば新しいプレイが出来るかも・・・♥",
+        "description": "The classic cosplay bunny outfit. Having this might enable\nnew plays...♥",
         "etypeId": 4,
         "traits": [
             {
@@ -347,7 +347,7 @@
             }
         ],
         "iconIndex": 84,
-        "name": "バニー服",
+        "name": "Bunny Suit",
         "note": "",
         "params": [
             0,
@@ -364,7 +364,7 @@
     {
         "id": 14,
         "atypeId": 1,
-        "description": "教会でシスターさんが着ている修道服。\nこれを持っていれば新しいプレイが出来るかも・・・♥",
+        "description": "A nun's habit worn by sisters at the church. Having this\nmight enable new plays...♥",
         "etypeId": 4,
         "traits": [
             {
@@ -374,7 +374,7 @@
             }
         ],
         "iconIndex": 84,
-        "name": "シスター服",
+        "name": "Nun's Habit",
         "note": "",
         "params": [
             0,
@@ -391,7 +391,7 @@
     {
         "id": 15,
         "atypeId": 1,
-        "description": "シスター服とは名ばかりのピッチリドスケベ衣裳。\nこれを持っていれば新しいプレイが出来るかも・・・♥",
+        "description": "A sister outfit in name only, it's a tight and lewd costume.\nHaving this might enable new plays...♥",
         "etypeId": 4,
         "traits": [
             {
@@ -401,7 +401,7 @@
             }
         ],
         "iconIndex": 84,
-        "name": "コスプレシスター服",
+        "name": "Cosplay Nun's Habit",
         "note": "",
         "params": [
             0,
@@ -418,7 +418,7 @@
     {
         "id": 16,
         "atypeId": 1,
-        "description": "結婚式をする時に着るドレス。\nこれを持っていれば新しいプレイが出来るかも・・・♥",
+        "description": "A dress worn at weddings. Having this might enable new\nplays...♥",
         "etypeId": 4,
         "traits": [
             {
@@ -428,7 +428,7 @@
             }
         ],
         "iconIndex": 84,
-        "name": "ウェディングドレス",
+        "name": "Wedding Dress",
         "note": "",
         "params": [
             0,
@@ -445,7 +445,7 @@
     {
         "id": 17,
         "atypeId": 1,
-        "description": "不思議な加護が付与されてる指輪。回避率を増加し\n発情・尿意以外の状態異常をすべて無効にする。",
+        "description": "A ring with a mysterious blessing. It increases evasion and\nnullifies all status abnormalities except for arousal and\nthe urge to urinate.",
         "etypeId": 5,
         "traits": [
             {
@@ -500,7 +500,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "チェルンの指輪",
+        "name": "Chern's Ring",
         "note": "",
         "params": [
             100,
@@ -517,7 +517,7 @@
     {
         "id": 18,
         "atypeId": 1,
-        "description": "ゴブリンを殲滅した者だけが装備できると言われる兜。\n装備すると先制攻撃率がアップする。",
+        "description": "A helmet said to be wearable only by those who have\nexterminated goblins. Equipping it increases the chance of\npreemptive attacks.",
         "etypeId": 3,
         "traits": [
             {
@@ -532,7 +532,7 @@
             }
         ],
         "iconIndex": 132,
-        "name": "ゴブリン殺しの兜",
+        "name": "Goblin Slayer's Helmet",
         "note": "",
         "params": [
             0,
@@ -576,7 +576,7 @@
     {
         "id": 20,
         "atypeId": 2,
-        "description": "魔法使いが被る帽子。",
+        "description": "A hat worn by magicians.",
         "etypeId": 3,
         "traits": [
             {
@@ -586,7 +586,7 @@
             }
         ],
         "iconIndex": 133,
-        "name": "魔法使いの帽子",
+        "name": "Wizard's Hat",
         "note": "",
         "params": [
             0,
@@ -603,7 +603,7 @@
     {
         "id": 21,
         "atypeId": 2,
-        "description": "賢者が被る帽子。\n被るととても心が落ち着く・・・ふぅ。",
+        "description": "A hat worn by sages. Wearing it makes one feel very calm...\nPhew.",
         "etypeId": 3,
         "traits": [
             {
@@ -613,7 +613,7 @@
             }
         ],
         "iconIndex": 133,
-        "name": "賢者の帽子",
+        "name": "Sage's Hat",
         "note": "",
         "params": [
             0,
@@ -630,7 +630,7 @@
     {
         "id": 22,
         "atypeId": 2,
-        "description": "メイドの息吹を感じるカチューシャ。\n付けるとMP（メイドポイント）が上昇する。",
+        "description": "A headband that carries the breath of a maid. Wearing it\nincreases MP (Maid Points).",
         "etypeId": 3,
         "traits": [
             {
@@ -640,7 +640,7 @@
             }
         ],
         "iconIndex": 149,
-        "name": "メイドさんのカチューシャ",
+        "name": "Maid's Headband",
         "note": "",
         "params": [
             0,
@@ -657,7 +657,7 @@
     {
         "id": 23,
         "atypeId": 1,
-        "description": "不思議な加護を受けた可愛いウサギのアクセサリーが\n付いている帽子。防御だけでなく俊敏性も上がる。",
+        "description": "A hat with a cute rabbit accessory that has received a\nmysterious blessing. It increases not only defense but also\nagility.",
         "etypeId": 3,
         "traits": [
             {
@@ -667,7 +667,7 @@
             }
         ],
         "iconIndex": 130,
-        "name": "ウサギの帽子",
+        "name": "Rabbit Hat",
         "note": "",
         "params": [
             150,
@@ -684,7 +684,7 @@
     {
         "id": 24,
         "atypeId": 2,
-        "description": "聖女に選ばれし乙女が被る事が出来る冠。\n様々な加護がかけられているらしい。",
+        "description": "A crown that can be worn by maidens chosen as saints. It\nseems to have various blessings cast upon it.",
         "etypeId": 3,
         "traits": [
             {
@@ -694,7 +694,7 @@
             }
         ],
         "iconIndex": 134,
-        "name": "聖女の冠",
+        "name": "Holy Woman's Tiara",
         "note": "",
         "params": [
             0,
@@ -738,7 +738,7 @@
     {
         "id": 26,
         "atypeId": 1,
-        "description": "水着の上にワイシャツを羽織るという透き通る世界観を\n感じさせる巷で流行の服。何故か攻撃が当たらなくなる。",
+        "description": "Fashionable clothes that give off a transparent worldview by\nwearing a shirt over a swimsuit. Somehow, attacks just miss.",
         "etypeId": 4,
         "traits": [
             {
@@ -748,7 +748,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "水着ワイシャツ",
+        "name": "Swimsuit Dress Shirt",
         "note": "",
         "params": [
             0,
@@ -819,7 +819,7 @@
     {
         "id": 29,
         "atypeId": 1,
-        "description": "クソデカウサギがプリントされている。一緒に歩くのは遠慮\nしたいが謎の加護のおかげで防御力が凄く上がる。",
+        "description": "Printed with a huge rabbit. I'd rather not walk around with\nit, but some mysterious blessing greatly increases defense.",
         "etypeId": 4,
         "traits": [
             {
@@ -829,7 +829,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "ウサギの服",
+        "name": "Rabbit Clothes",
         "note": "",
         "params": [
             0,
@@ -846,7 +846,7 @@
     {
         "id": 30,
         "atypeId": 1,
-        "description": "全国のお母さんに人気の服屋で売っているお買い得な服。",
+        "description": "Cost-effective clothes sold at a popular store among mothers\nnationwide.",
         "etypeId": 4,
         "traits": [
             {
@@ -856,7 +856,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "しまむーの服",
+        "name": "Striped Clothes",
         "note": "",
         "params": [
             0,
@@ -873,7 +873,7 @@
     {
         "id": 31,
         "atypeId": 2,
-        "description": "聖職者が身に着けている立派なローブ。\n防御と魔法防御だけでなく魔法力も上がるぞ！",
+        "description": "A splendid robe worn by clergy members. It increases not\nonly defense and magic defense but also magic power!",
         "etypeId": 4,
         "traits": [
             {
@@ -883,7 +883,7 @@
             }
         ],
         "iconIndex": 139,
-        "name": "聖職者のローブ",
+        "name": "Cleric's Robe",
         "note": "",
         "params": [
             0,
@@ -900,7 +900,7 @@
     {
         "id": 32,
         "atypeId": 2,
-        "description": "聖女に選ばれし乙女が被る事が出来るローブ。\n状態異常、混乱を防ぐ効果がある。",
+        "description": "A robe that can be worn by maidens chosen as saints. It has\neffects that prevent status abnormalities and confusion.",
         "etypeId": 4,
         "traits": [
             {
@@ -915,7 +915,7 @@
             }
         ],
         "iconIndex": 139,
-        "name": "聖女のローブ",
+        "name": "Holy Woman's Robe",
         "note": "",
         "params": [
             0,
@@ -1121,7 +1121,7 @@
     {
         "id": 40,
         "atypeId": 1,
-        "description": "ウマの女の子のキャラクターが付いてるキーホルダー。\n装備すると足が早くなりそう。",
+        "description": "A keychain with a character of a horse girl on it. Equipping\nit seems to make you run faster.",
         "etypeId": 5,
         "traits": [
             {
@@ -1131,7 +1131,7 @@
             }
         ],
         "iconIndex": 148,
-        "name": "おウマのキーホルダー",
+        "name": "Horse Keychain",
         "note": "",
         "params": [
             0,
@@ -1148,7 +1148,7 @@
     {
         "id": 41,
         "atypeId": 1,
-        "description": "ウタゲの村に代々伝わる伝説のキーホルダー。\n宴好きのおばさんが付けていたとか何とか・・・。",
+        "description": "A legendary keychain passed down in the village of Utage. It\nwas said to be worn by a party-loving auntie or something...",
         "etypeId": 5,
         "traits": [
             {
@@ -1158,7 +1158,7 @@
             }
         ],
         "iconIndex": 148,
-        "name": "ウタゲのキーホルダー",
+        "name": "Songbird Keychain",
         "note": "",
         "params": [
             500,

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ラスダン",
+    "displayName": "Last Dungeon",
     "encounterList": [],
     "encounterStep": 70,
     "height": 32,
@@ -6174,7 +6174,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -6184,21 +6184,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "天空のダンジョンなのに水場があるなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "不思議ですね。"
+                                "It's strange to have a body of water in a sky dungeon."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -6208,21 +6201,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "天空の水場にも生き物っているのかな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "珍しい魚とか・・・むむっ、気になる。"
+                                "I wonder if there are living creatures in the sky's waters.\nMaybe some rare fish... Hmm, I'm curious."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 1,
                                 0,
                                 2
@@ -6232,14 +6218,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょっと釣りをしてみよう！"
+                                "Let's try fishing!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -6249,14 +6235,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "釣り竿なんて持ってませんよ？"
+                                "We don't have a fishing rod, you know?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -6266,21 +6252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええーっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "せっかく珍しい魚を発見するチャンスなのに！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くそがっ！！えーい！"
+                                "What-!! And here I thought we had a chance to discover rare\nfish! Damn it!! Eh-ya!"
                             ]
                         },
                         {
@@ -6309,7 +6281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスは池に向かって石を思い切り投げつけた！"
+                                "Memerisu threw a stone into the pond with all her might!"
                             ]
                         },
                         {
@@ -6338,14 +6310,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バキィッ！・・・ボチャンっ。"
+                                "Crack!... Splash."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -6355,14 +6327,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん？投げた石が何かに当たった？"
+                                "Hm? Did the stone I threw hit something?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -6372,21 +6344,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わわっ！猛スピードで何かがこっちに向かって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "来ますよっ！！"
+                                "Whoa! Something's coming this way at high speed!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -6396,14 +6361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボクは悪くねぇ！ボクは悪くねぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぎょわあああああああああああああ！！！"
+                                "It's not my fault! It's not my fault! Gyowaaaaaaaaaaaaa!!!"
                             ]
                         },
                         {
@@ -6425,7 +6383,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -6435,14 +6393,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ううぅ、まさかこんな魔物がいたとは・・・。"
+                                "Ugh, I had no idea such a monster was here..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -6452,14 +6410,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "今度からは池に石を投げないでくださいね！"
+                                "Please don't throw stones into the pond next time!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 7,
                                 0,
                                 2
@@ -6469,14 +6427,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "水切りで遊ぶのもダメ？"
+                                "Is it also bad to play with skipping stones?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 7,
                                 0,
                                 2
@@ -6486,21 +6444,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・・・・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私と一緒に遊ぶときなら良いですよ。"
+                                "...It's okay when you're playing with me."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 1,
                                 0,
                                 2
@@ -6510,21 +6461,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "やったぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（ティーナちゃん、小さい頃から意外と外で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "遊ぶの好きだったからなぁ）"
+                                "Yes! (Tina-chan has always liked playing outside since she\nwas little, huh.)"
                             ]
                         },
                         {
@@ -6610,14 +6547,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{うぅっ、なんてちから・・・っ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "やめっ、放してくださいっ！"
+                                "\\c[17]Ugh, what strength...!! Stop it, let me go!"
                             ]
                         },
                         {
@@ -6634,21 +6564,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "突然水辺から飛び出してきた半魚人型の魔物に敗北し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "魚特有の生臭さとヌメリを帯びた屈強な腕で押さえ込まれる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ティーナ・・・！！"
+                                "Suddenly, Tina is defeated by a merman-like monster that\nemerged from the water's edge, its fishy smell and slimy,\nstrong arms pinning her down...!!"
                             ]
                         },
                         {
@@ -6665,14 +6581,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "隣ではメメリスも屈強な体の半魚人魔物に押さえつけられ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その小さな体を蹂躙されていた・・・！！"
+                                "Next to her, Memerisu is also being held down by the strong\nbody of a merman monster, her small frame being ravaged...!!"
                             ]
                         },
                         {
@@ -6713,14 +6622,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュンッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ドチュッ！ドチュッ！ドチュッ！"
+                                "\\c[27]Squish! Squish! Squish! Squish!"
                             ]
                         },
                         {
@@ -6737,14 +6639,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{んぅっ！！はなせっ・・・んっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "くそっ・・・ぬるぬるしてっ、んぉっっ！"
+                                "\\c[31]Nngh!! Let go... Ngh...!! Damn it... it's so slippery, nwoh!"
                             ]
                         },
                         {
@@ -6761,21 +6656,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "必死に暴れて抵抗するメメリスだが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ヌメリがある半魚人の体は蹴ったり殴ったりしても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ツルッと滑って引き剥がせない・・・！！"
+                                "Despite Memerisu's desperate struggle and resistance, the\nslimy body of the merman is too slippery to kick or punch\noff...!!"
                             ]
                         },
                         {
@@ -6821,14 +6702,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュンッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ドチュッ！ドチュッ！ドチュッ！"
+                                "\\c[27]Squish! Squish! Squish! Squish!"
                             ]
                         },
                         {
@@ -6845,14 +6719,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]あぁっ・・・メメリスちゃんっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あんなにおっきいのをっ・・・！！"
+                                "\\c[17]Ahh... Memerisu-chan...!! Such a big one...!!"
                             ]
                         },
                         {
@@ -6869,14 +6736,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こんな所に雌が来るとは珍しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ちょうどいい繁殖相手を拾えたな。"
+                                "It's rare for females to come to such a place. I've found a\ngood breeding partner."
                             ]
                         },
                         {
@@ -6893,7 +6753,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]繁殖相手・・・っ！？まさか私達で・・・！！"
+                                "\\c[17]Breeding partner...!? You don't mean us...!!"
                             ]
                         },
                         {
@@ -6910,21 +6770,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "当然だ、ここまで来れる雌は少ないからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ここの雄共は子を成す為に雌を見掛ければ死物狂いで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "襲い掛かるさ。"
+                                "Of course, few females make it this far. The males here will\ndesperately attack any female they see to breed."
                             ]
                         },
                         {
@@ -6941,21 +6787,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ティーナに語りかけながら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まるでオークの腕の太さはありそうなチンコを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ビクンビクンと震わせて見せつけてくる・・・！！"
+                                "While speaking to Tina, he flaunts his cock, which seems as\nthick as an oak tree limb, twitching it before her...!!"
                             ]
                         },
                         {
@@ -6972,14 +6804,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]ひっ・・・！！凄い臭い・・・っ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "む、無理ですっ、そんな大きいの入りませんっ！？"
+                                "\\c[17]Hii...!! Such a strong smell...!! No way, it's too big to\nfit!"
                             ]
                         },
                         {
@@ -6996,14 +6821,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "半魚人型の魔物のチンコからは自然界を生きる逞しさを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "感じると共に強烈な魚の臭いが漂ってくる・・・！！"
+                                "The cock of the merman monster exudes the robustness of the\nnatural world along with an intense fishy smell...!!"
                             ]
                         },
                         {
@@ -7020,21 +6838,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ここまで来れた雌なら簡単に壊れはしないだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\{\\{・・・っふぅ！！"
+                                "If you've made it this far, female, you won't break\neasily.... Hmph!!"
                             ]
                         },
                         {
@@ -7089,7 +6893,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュンッ！！"
+                                "\\c[27]Squish!"
                             ]
                         },
                         {
@@ -7106,14 +6910,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{んきゅっ！お゛ッ゛、あひっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ふっといオチンポ様っ・・・入ってぇ！！"
+                                "\\c[17]Nkyu! Ohh, ahii! Thick cock-sama... go inside!!"
                             ]
                         },
                         {
@@ -7130,14 +6927,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "丸太のように太いチンコが捻じ込むように挿入され"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ティーナの膣肉を押し広げ子宮を押しつぶす・・・！！"
+                                "The log-like thick cock is forced in, spreading Tina's\nvaginal walls and crushing her womb...!!"
                             ]
                         },
                         {
@@ -7154,14 +6944,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{挿入れられただけでぇっ・・・！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お腹がっ・・・いっ、はぁっ・・・！！"
+                                "\\c[17]Just by inserting it...!? My stomach is... haaah...!!"
                             ]
                         },
                         {
@@ -7178,14 +6961,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "くくっ、挿入れただけで膣肉が吸い付いてくる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これは元気な子が産めそうだっ・・・！！"
+                                "Kukku, just by inserting it, the vaginal walls cling to it.\nLooks like we'll be able to have healthy offspring...!!"
                             ]
                         },
                         {
@@ -7242,14 +7018,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュンッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ドチュッ！ドチュッ！ドチュッ！"
+                                "\\c[27]Squish! Squish! Squish! Squish!"
                             ]
                         },
                         {
@@ -7266,21 +7035,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "半魚人は捻じ込むかのように激しく腰を動かし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "巨大な亀頭がゴツゴツと子宮を叩くたびに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ティーナのお腹が膨れ上がる・・・！！"
+                                "The merman thrusts his hips violently as if twisting in, and\nwith each hit of his huge glans, Tina's belly swells up...!!"
                             ]
                         },
                         {
@@ -7297,14 +7052,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{んひぃっっ、おっっ、んぅっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だめぇっ、やめっ、てっ、お゛ぉ゛っ♥♥"
+                                "\\c[17]Nhiiii, ohhh, ngh! Noo, stop it, ohhh♥♥"
                             ]
                         },
                         {
@@ -7321,14 +7069,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "半魚人のヌメリがローションの代わりとなり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "巨大な肉棒も滑りよく出し入れされる・・・！！"
+                                "The slime of the merman acts as a lubricant, allowing the\nhuge meat stick to slide in and out smoothly...!!"
                             ]
                         },
                         {
@@ -7374,14 +7115,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{グリリリッ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ドチュッ！ドチュッ！ドチュッ！"
+                                "\\c[27]Grrrlll...♥ Squish! Squish! Squish!"
                             ]
                         },
                         {
@@ -7398,7 +7132,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{\\{お゛ぉ゛っ、んひぃいいいいっ♥"
+                                "\\c[17]Ohhh, nghiiiiii♥"
                             ]
                         },
                         {
@@ -7415,21 +7149,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "逃げようと暴れるも屈強な腕に掴まれた状態ではビクとも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しない。子宮を突かれるたびに電流が走ったかのような"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "強烈な快感がティーナを襲う・・・！！"
+                                "Trying to escape and flailing about, but held by strong\narms, she doesn't budge. Each time her womb is struck, an\nintense pleasure like an electric shock assaults Tina...!!"
                             ]
                         },
                         {
@@ -7491,14 +7211,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{\\{お゛っ♥お゛っ♥お゛っ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だめっ♥イクッ♥イグッッ♥"
+                                "\\c[17]Ohh♥ Ohh♥ Ohh♥ No♥ I'm cumming♥ I'm cumminggg♥"
                             ]
                         },
                         {
@@ -7515,21 +7228,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]（半魚人さんのオチンポ様凄すぎますっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "突かれるたびに子宮が押しつぶされてっ・・・おぉっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オチンポ様に負けちゃいますぅううう・・・！！）"
+                                "\\c[17](The merman's cock-sama is too amazing...!! With every\nthrust, my womb is being crushed... ohhh!! I'm going to lose\nto cock-sama...!!)"
                             ]
                         },
                         {
@@ -7546,21 +7245,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ガン突きされるマンコからは愛液をピュッピュと吹き出し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "最初は鼻が曲がりそうな魚の臭いも既に気にならなくなり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "身も心も半魚人チンコの快楽に落ちてしまう・・・！！"
+                                "Love juice spurts out from the pussy being pounded, and the\ninitially off-putting fishy smell is no longer a concern as\nboth body and mind fall to the pleasure of the merman's\ncock...!!"
                             ]
                         },
                         {
@@ -7594,14 +7279,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "随分良い声をあげるじゃないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ほら、褒美に私の子種をやろう！！"
+                                "You're making quite the lovely sounds. Here, have my seed as\na reward!!"
                             ]
                         },
                         {
@@ -7618,14 +7296,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュッ♥ドチュッ♥ドチュッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "グリュ♥グリュリュリュッ♥"
+                                "\\c[27]Splurt♥ Splurt♥ Splurt♥ Gush♥ Gushgushgush♥"
                             ]
                         },
                         {
@@ -7642,14 +7313,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{\\{ん゛あ゛ぁ゛ッッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だめっ！だめ・・・です！"
+                                "\\c[17]Nghaaaa!! No, no... please!"
                             ]
                         },
                         {
@@ -7666,14 +7330,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ティーナの膣内で半魚人チンコがビクビクッと震えると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "腰を根元まで押し込み子種を注ぎ込む・・・！！"
+                                "As the merman's cock twitches inside Tina's vagina, he\npushes his hips to the base and pours his seed into her...!!"
                             ]
                         },
                         {
@@ -7765,14 +7422,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ドピュ♥ビュルルルッッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ビュク♥ビュク♥ビュルルルッ♥♥♥"
+                                "\\c[27]Spurt♥ Spurrrrrr♥ Spurt♥ Spurt♥ Spurrrrrr♥♥♥"
                             ]
                         },
                         {
@@ -7789,14 +7439,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{\\{んぉっ♥んぉおおおおおっっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "イク♥子種注がれてイキますぅ♥"
+                                "\\c[17]Ngho♥ Nghooooooo♥ I'm cumming♥ I'm cumming from your seed\npouring in♥"
                             ]
                         },
                         {
@@ -7813,21 +7456,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "濃厚な精液が凄まじい勢いで子宮に注がれると同時に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その逞しい雄の脈動でティーナも潮を吹きながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "絶頂してしまう・・・！！"
+                                "As the thick semen is forcefully injected into her womb,\nTina also reaches climax, squirting as the vigorous\npulsations of the virile male overwhelm her...!!"
                             ]
                         },
                         {
@@ -7844,14 +7473,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{\\{お゛ぉ゛♥お゛ぉ゛っ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ん゛ぉ゛ぉ゛ぉ゛お゛お゛っ♥"
+                                "\\c[17]Ohhh♥ Ohhh!? Nghoooooooh♥"
                             ]
                         },
                         {
@@ -7880,14 +7502,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{\\{イクイクイクッ～～～♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "異種チンポアクメでイくぅうう♥"
+                                "\\c[17]I'm cumming, cumminggg～～～♥ Climaxing from the interspecies\ncock acmeee♥"
                             ]
                         },
                         {
@@ -7904,14 +7519,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "くははっ！淫乱な雌だっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "イキながら腰をヘコヘコさせて締め付けよる！"
+                                "Kuhaha! What a lewd female! Tightening around me while\ncumming!"
                             ]
                         },
                         {
@@ -7928,14 +7536,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まだだ！確実に孕むようにもう一度子種をくれてやろう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私の子を孕めっ！人間の雌よっ！！"
+                                "Not yet! To ensure you get pregnant, I'll give you another\nload of my seed! Bear my child, human female!!"
                             ]
                         },
                         {
@@ -8006,14 +7607,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ドピュ♥ビュルルルッッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ビュク♥ビュク♥ビュルルルッ♥♥♥"
+                                "\\c[27]Spurt♥ Spurrrrrr♥ Spurt♥ Spurt♥ Spurrrrrr♥♥♥"
                             ]
                         },
                         {
@@ -8030,14 +7624,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{んおっっっ！ほ゛お゛っ゛♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ひぐぅっ、い、いぐぅっ、お゛ぉ゛ぉ゛♥"
+                                "\\c[17]Nghooo! Hooohhh♥ Higuu, I-Iguu, nghooooo♥"
                             ]
                         },
                         {
@@ -8054,21 +7641,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "激しく全身を震わせながら再び絶頂し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "子宮は雌の本能に従って無意識にチンコに膣肉を絡ませて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "精液を搾り取ってしまう・・・！！"
+                                "Shuddering violently in climax again, her womb instinctively\nwraps the vaginal muscles around the cock to milk out the\nsemen...!!"
                             ]
                         },
                         {
@@ -8097,14 +7670,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{ビュクッ♥ビュクククッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ビュク♥ビュク♥ビュルルルッ・・・ッ♥"
+                                "\\c[27]Spurt♥ Spurtspspspurt♥ Spurt♥ Spurt♥ Spurrrrrr...h♥"
                             ]
                         },
                         {
@@ -8121,14 +7687,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "強い雄の子種がティーナの子宮内を満たし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "本能で受精を察知し屈服受精アクメで全身を震わせる・・・。"
+                                "The strong male seed fills Tina's womb, and sensing\nfertilization instinctively, her body shakes in a submissive\nfertilization climax..."
                             ]
                         },
                         {
@@ -8145,14 +7704,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "どうだ、わかっただろう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お前の繁殖相手として相応しいのが誰のチンコか！"
+                                "How about it, you understand now! Who has the cock worthy of\nbeing your breeding partner!"
                             ]
                         },
                         {
@@ -8169,14 +7721,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まだまだ私のチンコは元気だぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "完全に堕ちるまで犯し続けてやる！！"
+                                "I'm still full of vigor! I'll keep fucking you until you\ncompletely fall!!"
                             ]
                         },
                         {
@@ -8233,21 +7778,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]はひぃ・・・そ、そんにゃっ・・・やだっ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もうこれ以上は・・・\\{\\{\\{ん゛ぉ゛っっ♥"
+                                "\\c[17]Hahi... Th-that's... no more... I can't take anymore...\nNghooo♥"
                             ]
                         },
                         {
@@ -8264,7 +7795,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -8281,7 +7812,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そして数時間後・・・。"
+                                "And several hours later..."
                             ]
                         },
                         {
@@ -8373,14 +7904,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{ビュクッ♥ビュクククッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ビュク♥ビュク♥ビュルルルッ・・・ッ♥"
+                                "\\c[27]Spurt♥ Spurtspspspurt♥ Spurt♥ Spurt♥ Spurrrrrr...h♥"
                             ]
                         },
                         {
@@ -8397,14 +7921,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{んほぉっ♥ぉぉ゛っ・・・んんぅぅっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "またきてぇおぉぉ～～～～～っっっ♥"
+                                "\\c[17]Nghoo! Ohhh... Nnnuuu♥ It's coming again ooooh～～～～～h♥"
                             ]
                         },
                         {
@@ -8421,14 +7938,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "萎えを知らない半魚人のチンコに犯され続けた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ティーナのお腹は妊婦のように膨れ上がっていた・・・。"
+                                "Tina's belly swells up like a pregnant woman's after being\ncontinuously violated by the tireless merman's cock..."
                             ]
                         },
                         {
@@ -8445,14 +7955,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]（っ・・・あぁっ・・・これ絶対受精しちゃいました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "逞しい雄の子種で子宮から卵子まで屈服を・・・っ）"
+                                "\\c[17](Ah... Ahh... I'm definitely fertilized. Overpowered by the\nvirile male seed from my womb to my eggs...)"
                             ]
                         },
                         {
@@ -8469,21 +7972,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "これだけ出せば確実に孕んだだろう・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今後も元気な子を何人も産んでもらう必要があるから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今日はこのぐらいで休憩するか。"
+                                "If I've released this much, you're surely pregnant now...!\nSince we need many healthy children, let's take a break for\ntoday."
                             ]
                         },
                         {
@@ -8500,14 +7989,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]（このままじゃ私・・・これからも孕ませられて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "誰か、だれか・・・助けて、助けてください・・・。）"
+                                "\\c[17](At this rate, I'll keep being impregnated... Someone,\nanybody... please help me...)"
                             ]
                         },
                         {
@@ -8524,21 +8006,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "縋るように隣にいるメメリスの方を見つめるが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "目に入った光景は自分と同じように妊婦のようにお腹が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "膨らんだ雌の姿だった・・・。"
+                                "She looks pleadingly towards Memerisu next to her, but what\nshe sees is another female with a belly swollen like a\npregnant woman's..."
                             ]
                         },
                         {
@@ -8555,14 +8023,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その後、2人は死ぬまで孕まされ続ける事になり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "2度とダンジョンから出る事はなかった・・・。"
+                                "After that, the two were continuously impregnated until they\ndied and never left the dungeon again..."
                             ]
                         },
                         {
@@ -8584,21 +8045,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -8761,7 +8208,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 6,
                                 0,
                                 2
@@ -8771,7 +8218,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・はっ！？夢か！！"
+                                "...Hah!? Was it a dream?!!"
                             ]
                         },
                         {
@@ -9036,14 +8483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "半魚人と再戦しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（敗北してもエロステはカウントされません）"
+                                "Do you want to rematch the merman? (Losing will not count\ntowards Eroge stats)"
                             ]
                         },
                         {
@@ -9051,8 +8491,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9157,14 +8597,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{うぅっ、なんてちから・・・っ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "やめっ、放してくださいっ！"
+                                "\\c[17]Ugh, what strength...!! Stop, please let me go!"
                             ]
                         },
                         {
@@ -9181,21 +8614,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "突然水辺から飛び出してきた半魚人型の魔物に敗北し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "魚特有の生臭さとヌメリを帯びた屈強な腕で押さえ込まれる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ティーナ・・・！！"
+                                "Tina is defeated by a merman monster that suddenly leaps\nfrom the water, pinned down by its fishy-smelling, slimy,\nand muscular arms...!!"
                             ]
                         },
                         {
@@ -9212,14 +8631,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "隣ではメメリスも屈強な体の半魚人魔物に押さえつけられ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "その小さな体を蹂躙されていた・・・！！"
+                                "Next to her, Memerisu is also being held down by the\nmuscular body of a merman monster, her small frame being\nravaged...!!"
                             ]
                         },
                         {
@@ -9260,14 +8672,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュンッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ドチュッ！ドチュッ！ドチュッ！"
+                                "\\c[27]Splurt!! Splurt! Splurt! Splurt!"
                             ]
                         },
                         {
@@ -9284,14 +8689,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{んぅっ！！はなせっ・・・んっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "くそっ・・・ぬるぬるしてっ、んぉっっ！"
+                                "\\c[31]Nnh!! Let go...nnh...!! Damn it...it's so slippery, nohh!"
                             ]
                         },
                         {
@@ -9308,21 +8706,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "必死に暴れて抵抗するメメリスだが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ヌメリがある半魚人の体は蹴ったり殴ったりしても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ツルッと滑って引き剥がせない・・・！！"
+                                "Memerisu struggles desperately, but she can't peel away from\nthe slimy merman's body no matter how much she kicks or\npunches...!!"
                             ]
                         },
                         {
@@ -9368,14 +8752,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュンッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ドチュッ！ドチュッ！ドチュッ！"
+                                "\\c[27]Splurt!! Splurt! Splurt! Splurt!"
                             ]
                         },
                         {
@@ -9392,14 +8769,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]あぁっ・・・メメリスちゃんっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あんなにおっきいのをっ・・・！！"
+                                "\\c[17]Ahh... Memerisu-chan...!! It's so big...!!"
                             ]
                         },
                         {
@@ -9416,14 +8786,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "こんな所に雌が来るとは珍しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ちょうどいい繁殖相手を拾えたな。"
+                                "It's rare for females to come to such a place. I've found a\nperfect breeding partner."
                             ]
                         },
                         {
@@ -9440,7 +8803,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]繁殖相手・・・っ！？まさか私達で・・・！！"
+                                "\\c[17]Breeding partner...!? You don't mean us...!!"
                             ]
                         },
                         {
@@ -9457,21 +8820,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "当然だ、ここまで来れる雌は少ないからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ここの雄共は子を成す為に雌を見掛ければ死物狂いで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "襲い掛かるさ。"
+                                "Of course, few females make it this far. The males here will\ndesperately attack any female they see for the sake of\nbreeding."
                             ]
                         },
                         {
@@ -9488,21 +8837,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ティーナに語りかけながら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "まるでオークの腕の太さはありそうなチンコを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ビクンビクンと震わせて見せつけてくる・・・！！"
+                                "While speaking to Tina, the merman shows off his cock, which\nseems as thick as an oak tree limb, twitching and\nthrobbing...!!"
                             ]
                         },
                         {
@@ -9519,14 +8854,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]ひっ・・・！！凄い臭い・・・っ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "む、無理ですっ、そんな大きいの入りませんっ！？"
+                                "\\c[17]Eek...!! Such a strong smell...!! No way, it's too big to\nfit!"
                             ]
                         },
                         {
@@ -9543,14 +8871,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "半魚人型の魔物のチンコからは自然界を生きる逞しさを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "感じると共に強烈な魚の臭いが漂ってくる・・・！！"
+                                "The cock of the merman monster exudes a robust vitality of\nthe natural world along with an intense fishy smell...!!"
                             ]
                         },
                         {
@@ -9567,21 +8888,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ここまで来れた雌なら簡単に壊れはしないだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\{\\{・・・っふぅ！！"
+                                "If you've made it this far, female, you won't break\neasily....huff!!"
                             ]
                         },
                         {
@@ -9636,7 +8943,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュンッ！！"
+                                "\\c[27]Splurt!!"
                             ]
                         },
                         {
@@ -9653,14 +8960,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{んきゅっ！お゛ッ゛、あひっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ふっといオチンポ様っ・・・入ってぇ！！"
+                                "\\c[17]Nkyu! Ohh, ahh! A thick cock-sama... please enter!!"
                             ]
                         },
                         {
@@ -9677,14 +8977,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "丸太のように太いチンコが捻じ込むように挿入され"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ティーナの膣肉を押し広げ子宮を押しつぶす・・・！！"
+                                "A log-like thick cock is twisted inside, spreading Tina's\nvaginal walls and crushing her womb...!!"
                             ]
                         },
                         {
@@ -9701,14 +8994,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{挿入れられただけでぇっ・・・！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お腹がっ・・・いっ、はぁっ・・・！！"
+                                "\\c[17]Just being inserted...!? My stomach is...ahh...!!"
                             ]
                         },
                         {
@@ -9725,14 +9011,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "くくっ、挿入れただけで膣肉が吸い付いてくる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "これは元気な子が産めそうだっ・・・！！"
+                                "Heh, just by inserting it, the vaginal walls cling to it.\nThis one seems like she'll bear energetic offspring...!!"
                             ]
                         },
                         {
@@ -9789,14 +9068,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュンッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ドチュッ！ドチュッ！ドチュッ！"
+                                "\\c[27]Splurt!! Splurt! Splurt! Splurt!"
                             ]
                         },
                         {
@@ -9813,21 +9085,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "半魚人は捻じ込むかのように激しく腰を動かし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "巨大な亀頭がゴツゴツと子宮を叩くたびに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ティーナのお腹が膨れ上がる・・・！！"
+                                "The merman thrusts violently as if twisting inside, and with\neach hit of his huge glans, Tina's belly swells up...!!"
                             ]
                         },
                         {
@@ -9844,14 +9102,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{んひぃっっ、おっっ、んぅっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "だめぇっ、やめっ、てっ、お゛ぉ゛っ♥♥"
+                                "\\c[17]Nhihh, ohh, nnuh! Noo, stop, ohhh♥♥"
                             ]
                         },
                         {
@@ -9868,14 +9119,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "半魚人のヌメリがローションの代わりとなり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "巨大な肉棒も滑りよく出し入れされる・・・！！"
+                                "The merman's slime acts as a lubricant, allowing the giant\nmeat rod to slide in and out smoothly...!!"
                             ]
                         },
                         {
@@ -9921,14 +9165,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{グリリリッ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ドチュッ！ドチュッ！ドチュッ！"
+                                "\\c[27]Grrrlll...♥ Splurt! Splurt! Splurt!"
                             ]
                         },
                         {
@@ -9945,7 +9182,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{\\{お゛ぉ゛っ、んひぃいいいいっ♥"
+                                "\\c[17]Ohhh, nhihihihh♥"
                             ]
                         },
                         {
@@ -9962,21 +9199,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "逃げようと暴れるも屈強な腕に掴まれた状態ではビクとも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "しない。子宮を突かれるたびに電流が走ったかのような"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "強烈な快感がティーナを襲う・・・！！"
+                                "Even as she struggles to escape, being held by strong arms\nshe can't move at all. With each thrust into her womb, Tina\nis struck by an intense pleasure as if electrocuted...!!"
                             ]
                         },
                         {
@@ -10038,14 +9261,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{\\{お゛っ♥お゛っ♥お゛っ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "だめっ♥イクッ♥イグッッ♥"
+                                "\\c[17]Ohh♥ Ohh♥ Ohh♥ Noo♥ I'm cumming♥ I'm cumming♥"
                             ]
                         },
                         {
@@ -10062,21 +9278,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]（半魚人さんのオチンポ様凄すぎますっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "突かれるたびに子宮が押しつぶされてっ・・・おぉっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "オチンポ様に負けちゃいますぅううう・・・！！）"
+                                "\\c[17](The merman's cock-sama is too amazing...!! With each thrust\nmy womb is being crushed...ohh!! I'm losing to the cock-\nsamaaa...!!)"
                             ]
                         },
                         {
@@ -10093,21 +9295,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ガン突きされるマンコからは愛液をピュッピュと吹き出し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "最初は鼻が曲がりそうな魚の臭いも既に気にならなくなり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "身も心も半魚人チンコの快楽に落ちてしまう・・・！！"
+                                "From the pussy being pounded, love juices squirt out, and\nthe initially overwhelming fishy smell is no longer a\nconcern as both body and mind succumb to the pleasure of the\nmerman's cock...!!"
                             ]
                         },
                         {
@@ -10141,14 +9329,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "随分良い声をあげるじゃないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ほら、褒美に私の子種をやろう！！"
+                                "You're making quite the lovely sounds. Here, have my seed as\na reward!!"
                             ]
                         },
                         {
@@ -10165,14 +9346,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュッ♥ドチュッ♥ドチュッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "グリュ♥グリュリュリュッ♥"
+                                "\\c[27]Splurt♥ Splurt♥ Splurt♥ Grrly♥ Grrlyrlyrly♥"
                             ]
                         },
                         {
@@ -10189,14 +9363,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{\\{ん゛あ゛ぁ゛ッッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "だめっ！だめ・・・です！"
+                                "\\c[17]Nahhh!! Noo! That's wrong...!"
                             ]
                         },
                         {
@@ -10213,14 +9380,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ティーナの膣内で半魚人チンコがビクビクッと震えると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "腰を根元まで押し込み子種を注ぎ込む・・・！！"
+                                "Inside Tina's vagina, the merman's cock twitches and with a\ndeep thrust, pours his seed into her..."
                             ]
                         },
                         {
@@ -10312,14 +9472,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ドピュ♥ビュルルルッッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ビュク♥ビュク♥ビュルルルッ♥♥♥"
+                                "\\c[27]Squirt♥ Spurrrlrlrl♥ Spurt♥ Spurt♥ Spurrrlrlrl♥♥♥"
                             ]
                         },
                         {
@@ -10336,14 +9489,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{\\{んぉっ♥んぉおおおおおっっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "イク♥子種注がれてイキますぅ♥"
+                                "\\c[17]Noh♥ Nohoooooo♥ I'm cumming♥ I'm cumming from your seed\nbeing poured in♥"
                             ]
                         },
                         {
@@ -10360,21 +9506,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "濃厚な精液が凄まじい勢いで子宮に注がれると同時に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "その逞しい雄の脈動でティーナも潮を吹きながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "絶頂してしまう・・・！！"
+                                "As the thick semen is furiously injected into her womb, Tina\nalso squirts in climax from the vigorous pulsations of the\nvirile male..."
                             ]
                         },
                         {
@@ -10391,14 +9523,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{\\{お゛ぉ゛♥お゛ぉ゛っ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ん゛ぉ゛ぉ゛ぉ゛お゛お゛っ♥"
+                                "\\c[17]Ohhh♥ Ohh!? Nohhhhhhh♥"
                             ]
                         },
                         {
@@ -10427,14 +9552,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{\\{イクイクイクッ～～～♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "異種チンポアクメでイくぅうう♥"
+                                "\\c[17]I'm cumming I'm cumming～～～♥ I'm cumming from interspecies\ncock ecstasyyyy♥"
                             ]
                         },
                         {
@@ -10451,14 +9569,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "くははっ！淫乱な雌だっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "イキながら腰をヘコヘコさせて締め付けよる！"
+                                "Mwahaha! What a lewd female! Even while climaxing, she's\ngrinding her hips and tightening around me!"
                             ]
                         },
                         {
@@ -10475,14 +9586,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "まだだ！確実に孕むようにもう一度子種をくれてやろう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "私の子を孕めっ！人間の雌よっ！！"
+                                "Not yet! To ensure you're impregnated, I'll give you another\ndose of my seed! Bear my offspring, human female!!"
                             ]
                         },
                         {
@@ -10553,14 +9657,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ドピュ♥ビュルルルッッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ビュク♥ビュク♥ビュルルルッ♥♥♥"
+                                "\\c[27]Splurt♥ Blurrrlrlrl♥ Spurt♥ Spurt♥ Blurrrlrlrl♥♥♥"
                             ]
                         },
                         {
@@ -10577,14 +9674,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{んおっっっ！ほ゛お゛っ゛♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ひぐぅっ、い、いぐぅっ、お゛ぉ゛ぉ゛♥"
+                                "\\c[17]Nahhh!! Hoo♥ Higuu, i-iiguu, ooh♥"
                             ]
                         },
                         {
@@ -10601,21 +9691,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "激しく全身を震わせながら再び絶頂し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "子宮は雌の本能に従って無意識にチンコに膣肉を絡ませて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "精液を搾り取ってしまう・・・！！"
+                                "As she convulses intensely in another climax, her womb\ninstinctively wraps its vaginal muscles around the cock,\nunconsciously milking it for semen...!!"
                             ]
                         },
                         {
@@ -10644,14 +9720,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{ビュクッ♥ビュクククッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ビュク♥ビュク♥ビュルルルッ・・・ッ♥"
+                                "\\c[27]Spurt♥ Spurrrlrlrl♥ Spurt♥ Spurt♥ Blurrrlrlrl...♥"
                             ]
                         },
                         {
@@ -10668,14 +9737,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "強い雄の子種がティーナの子宮内を満たし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "本能で受精を察知し屈服受精アクメで全身を震わせる・・・。"
+                                "The strong male's seed fills Tina's womb, and sensing\nfertilization by instinct, her body shakes in a submissive\nfertilization climax..."
                             ]
                         },
                         {
@@ -10692,14 +9754,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "どうだ、わかっただろう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お前の繁殖相手として相応しいのが誰のチンコか！"
+                                "How about that, do you understand now? Whose cock is worthy\nto be your breeding partner!"
                             ]
                         },
                         {
@@ -10716,14 +9771,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "まだまだ私のチンコは元気だぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "完全に堕ちるまで犯し続けてやる！！"
+                                "My cock is still full of vigor! I'll keep ravishing you\nuntil you're completely fallen!!"
                             ]
                         },
                         {
@@ -10780,21 +9828,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]はひぃ・・・そ、そんにゃっ・・・やだっ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "もうこれ以上は・・・\\{\\{\\{ん゛ぉ゛っっ♥"
+                                "\\c[17]Ahii... Th-that's... no... not anymore... Nohhh♥"
                             ]
                         },
                         {
@@ -10811,7 +9845,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -10828,7 +9862,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そして数時間後・・・。"
+                                "And several hours later..."
                             ]
                         },
                         {
@@ -10920,14 +9954,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{ビュクッ♥ビュクククッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ビュク♥ビュク♥ビュルルルッ・・・ッ♥"
+                                "\\c[27]Spurt♥ Spurrrlrlrl♥ Spurt♥ Spurt♥ Blurrrlrlrl...♥"
                             ]
                         },
                         {
@@ -10944,14 +9971,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{んほぉっ♥ぉぉ゛っ・・・んんぅぅっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "またきてぇおぉぉ～～～～～っっっ♥"
+                                "\\c[17]Nhoo♥ Ohhh... Nnnuuu♥ It's coming again ooh～～～～～♥"
                             ]
                         },
                         {
@@ -10968,14 +9988,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "萎えを知らない半魚人のチンコに犯され続けた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ティーナのお腹は妊婦のように膨れ上がっていた・・・。"
+                                "Tina's belly, continuously violated by the tireless merman's\ncock, had swollen up like that of a pregnant woman..."
                             ]
                         },
                         {
@@ -10992,14 +10005,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]（っ・・・あぁっ・・・これ絶対受精しちゃいました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "逞しい雄の子種で子宮から卵子まで屈服を・・・っ）"
+                                "\\c[17](...Ah... I'm definitely fertilized. Overpowered by the\nvirile male's seed, from my womb to my eggs...)"
                             ]
                         },
                         {
@@ -11016,21 +10022,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "これだけ出せば確実に孕んだだろう・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "今後も元気な子を何人も産んでもらう必要があるから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "今日はこのぐらいで休憩するか。"
+                                "If I've released this much, you're surely impregnated...!\nSince we need many healthy children, I'll take a break for\ntoday."
                             ]
                         },
                         {
@@ -11047,14 +10039,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]（このままじゃ私・・・これからも孕ませられて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "誰か、だれか・・・助けて、助けてください・・・。）"
+                                "\\c[17](At this rate, I'll keep being impregnated... Someone,\nanyone... please help me, save me...)"
                             ]
                         },
                         {
@@ -11071,21 +10056,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "縋るように隣にいるメメリスの方を見つめるが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "目に入った光景は自分と同じように妊婦のようにお腹が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "膨らんだ雌の姿だった・・・。"
+                                "She looks pleadingly towards Memerisu next to her, but the\nsight that meets her eyes is another female with a belly\nswollen like that of a pregnant woman..."
                             ]
                         },
                         {
@@ -11102,14 +10073,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "その後、2人は死ぬまで孕まされ続ける事になり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "2度とダンジョンから出る事はなかった・・・。"
+                                "Afterward, the two of them continued to be impregnated until\ntheir deaths and never left the dungeon again..."
                             ]
                         },
                         {
@@ -11131,21 +10095,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -11413,7 +10363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウサギの帽子を手に入れた！"
+                                "Acquired the Rabbit Hat!"
                             ]
                         },
                         {

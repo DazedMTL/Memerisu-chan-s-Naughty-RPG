@@ -607,14 +607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先はバッドエンドルートになります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バッドエンドが確定するのでご注意ください。"
+                                "This is the point where the story leads to a bad ending.\nPlease be aware that proceeding will confirm a bad ending."
                             ]
                         },
                         {
@@ -631,7 +624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "バッドエンドルートに進みますか？"
+                                "Would you like to proceed to the bad ending route?"
                             ]
                         },
                         {
@@ -639,8 +632,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -660,7 +653,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 0,
                                 0,
                                 2
@@ -670,7 +663,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よし、進もう！"
+                                "Alright, let's go!"
                             ]
                         },
                         {
@@ -743,7 +736,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メメリス達は階段を降りた・・・。"
+                                "Memerisu and her companions descended the stairs..."
                             ]
                         },
                         {
@@ -776,7 +769,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -786,28 +779,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こ、ここが性奴隷オークション会場・・・！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "スラムの地下にこんな立派な施設が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あるなんて・・・！！"
+                                "Th-This is the sex slave auction hall...!? I can't believe\nsuch a grand facility exists beneath the slums...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -817,14 +796,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "危険な香りしかしない・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "早く孫娘ちゃんを探して帰ろう！"
+                                "It reeks of danger... Let's find the granddaughter quickly\nand get out of here!"
                             ]
                         },
                         {
@@ -914,7 +886,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -924,14 +896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何か嫌なことがここであった気が・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや、あれは夢・・・夢だよね・・・。"
+                                "I feel like something unpleasant happened here... No, that\nwas a dream... It was just a dream, right?"
                             ]
                         },
                         {

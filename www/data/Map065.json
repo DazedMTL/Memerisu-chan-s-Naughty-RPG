@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "マッサージ店",
+    "displayName": "Massage Parlor",
     "encounterList": [],
     "encounterStep": 30,
     "height": 10,
@@ -717,14 +717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いらっしゃいませ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マッサージ店「リンパ」にようこそ。"
+                                "Welcome! Thank you for coming to the massage parlor \"Lymph.\""
                             ]
                         },
                         {
@@ -741,21 +734,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "現在、期間限定で女性無料サービス開催中です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もし良かったらぜひ体験してみてください。"
+                                "We are currently offering a limited-time free service for\nwomen. Please feel free to try it out if you're interested."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 1,
                                 0,
                                 2
@@ -765,14 +751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおー！無料サービス！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボクが一番好きな言葉だ！！"
+                                "Oh! Free service!! That's my favorite word!!"
                             ]
                         },
                         {
@@ -789,7 +768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "マッサージを受けますか？"
+                                "Would you like to receive a massage?"
                             ]
                         },
                         {
@@ -797,8 +776,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -828,14 +807,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ありがとうございます！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どちらのお客様がマッサージをお受けになりますか？"
+                                "Thank you! Which customer will be receiving the massage?"
                             ]
                         },
                         {
@@ -843,9 +815,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "メメリス",
-                                    "ティーナ",
-                                    "やっぱりやめる"
+                                    "Memerisu",
+                                    "Tina",
+                                    "I guess I'll stop."
                                 ],
                                 2,
                                 0,
@@ -875,14 +847,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "メメリス様ですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "どのマッサージを体験されますか？"
+                                "It's for Miss Memerisu, right? Which massage would you like\nto experience?"
                             ]
                         },
                         {
@@ -890,9 +855,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "全身マッサージ",
-                                    "口内マッサージ",
-                                    "やっぱりやめる"
+                                    "Full body massage",
+                                    "Oral massage",
+                                    "Actually, never mind"
                                 ],
                                 2,
                                 0,
@@ -922,14 +887,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "かしこまりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "それではこちらにどうぞ・・・。ﾆﾔﾘ"
+                                "Certainly. Please come this way... *grin*"
                             ]
                         },
                         {
@@ -951,14 +909,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "それではこちらの服に着替えてください・・・。"
+                                "Please change into these clothes..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -968,7 +926,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "はーい！"
+                                "Yes!"
                             ]
                         },
                         {
@@ -997,7 +955,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ゴソゴソ・・・ゴソゴソ・・・。"
+                                "Rustle... Rustle..."
                             ]
                         },
                         {
@@ -1014,14 +972,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "着替えが終わりましたらこちらにどうぞ・・・。"
+                                "Once you have finished changing, please come over here..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -1031,7 +989,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "よろしくおなしゃーす！"
+                                "I'm looking forward to it!"
                             ]
                         },
                         {
@@ -1081,14 +1039,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "マッサージ師に促されるまま、ベットに横になる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "メメリス・・・。"
+                                "Memerisu lies down on the bed as prompted by the massage\ntherapist..."
                             ]
                         },
                         {
@@ -1105,7 +1056,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[31]マッサージって初めてだから楽しみだなー！"
+                                "\\c[31]I'm so excited for my first massage!"
                             ]
                         },
                         {
@@ -1122,14 +1073,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "初めてのマッサージにテンションが上がっている"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "メメリスにマッサージ師は慣れた様子で話しかけてくる。"
+                                "The massage therapist speaks to an excited Memerisu, who is\nlooking forward to her first massage, with a practiced air."
                             ]
                         },
                         {
@@ -1146,14 +1090,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "お待たせしました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "それではマッサージを開始しますね・・・フフッ。"
+                                "Thank you for waiting. Now, let's start the massage... Hehe."
                             ]
                         },
                         {
@@ -1170,14 +1107,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "まずは特製オイルを塗っていきますねぇ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "少しピリッとしますよ～。"
+                                "First, I'll apply some special oil. It might sting a little\nbit."
                             ]
                         },
                         {
@@ -1222,7 +1152,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[27]\\{\\{ムギュッ♥"
+                                "\\c[27]*squeeze*♥"
                             ]
                         },
                         {
@@ -1239,7 +1169,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[31]\\{\\{ヒャッ！？"
+                                "\\c[31]Eek!?"
                             ]
                         },
                         {
@@ -1256,14 +1186,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "マッサージ師はメメリスの体にオイルを塗りこんでいく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "・・・。"
+                                "The massage therapist begins to rub oil into Memerisu's\nbody..."
                             ]
                         },
                         {
@@ -1280,14 +1203,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[31]ひゃっ・・・！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "んんっ・・・うぅっ・・・♥"
+                                "\\c[31]Ah...! Mmm... Uhh...♥"
                             ]
                         },
                         {
@@ -1304,14 +1220,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[31]（オイルを塗るって言ったって・・・これ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ガッツリ鷲掴みされてない・・・？）"
+                                "\\c[31](He said he was just applying oil... but isn't this more\nlike a full-on grope...?)"
                             ]
                         },
                         {
@@ -1344,7 +1253,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[31]ちょっ・・・これって・・・！！"
+                                "\\c[31]Wait... this is...!!"
                             ]
                         },
                         {
@@ -1361,14 +1270,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "だいぶ凝ってますねぇ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "しっかり揉みほぐしておきましょうねぇ～。"
+                                "You're quite tense. Let's make sure to knead those knots\nout."
                             ]
                         },
                         {
@@ -1385,7 +1287,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[31]あっ・・・う、うん・・・。"
+                                "\\c[31]Ah... yeah..."
                             ]
                         },
                         {
@@ -1402,14 +1304,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[31]（別にこのぐらい普通なのかな・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "もうちょっと様子見てみてもいいか・・・。）"
+                                "\\c[31](Is this normal? Maybe I should just wait and see a bit\nlonger...)"
                             ]
                         },
                         {
@@ -1454,14 +1349,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[27]♥モミモミ♥モミモミ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "グッグッグッ・・・♥コリコリ・・・♥"
+                                "\\c[27]♥Knead Knead♥Knead Knead♥Grip Grip Grip...♥Knot Knot...♥"
                             ]
                         },
                         {
@@ -1478,14 +1366,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "足もほぐしていきますねぇ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "指の間も刺激してあげると健康に良いんですよぉ～。"
+                                "I'll also work on your legs. Stimulating between the toes is\ngood for your health."
                             ]
                         },
                         {
@@ -1502,14 +1383,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[27]トロッ～♥スリスリッ♥スリスリッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "グッグッグッ・・・モミモミ・・・モミモミ・・・♥"
+                                "\\c[27]Drool~♥Rub Rub♥Rub Rub♥Grip Grip Grip...Knead Knead...Knead\nKnead...♥"
                             ]
                         },
                         {
@@ -1526,14 +1400,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "リンパの流れ良くしますね～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ここにリンパが集まってるんですよぉ～。"
+                                "I'll improve your lymph flow. This is where the lymph nodes\ngather."
                             ]
                         },
                         {
@@ -1566,14 +1433,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[31]んんっ・・・っ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "あっ・・・うぅっ・・・♥・・・ぉ・・・っ♥"
+                                "\\c[31]Mmm... Ahh... Uhh...♥...ooh...♥"
                             ]
                         },
                         {
@@ -1590,7 +1450,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[31]（声・・・我慢・・・ッッ・・・でちゃう・・・）"
+                                "\\c[31](I can't... hold back my voice... It's going to slip out...)"
                             ]
                         },
                         {
@@ -1607,14 +1467,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "声は我慢しなくていいですよ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "それじゃお胸もマッサージしていきましょうか～。"
+                                "You don't have to hold back your voice. Now, shall we\nmassage your breasts?"
                             ]
                         },
                         {
@@ -1659,14 +1512,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[27]ムチュ♥モミモミ♥モミモミ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "コリコリ・・・♥コリコリ・・・♥ピンッ！！"
+                                "\\c[27]*smooch*♥Knead Knead♥Knead Knead♥Knot Knot...♥Knot\nKnot...♥Pinch!!"
                             ]
                         },
                         {
@@ -1683,14 +1529,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[31]\\{\\{あ゛っ゛♥ちく・・・びっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\}\\}これはっんっっ・・・♥♥お゛っ゛・・・♥"
+                                "\\c[31]Ahh♥Nip... ples♥This is... Mmm...♥♥Ohh...♥"
                             ]
                         },
                         {
@@ -1707,14 +1546,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "体が火照って乳首が立っていた所を突然マッサージされ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "つい大きな声がでてしまう・・・。"
+                                "Her body flushed with heat and her nipples erect, Memerisu\nlets out a loud voice as she is suddenly massaged..."
                             ]
                         },
                         {
@@ -1731,14 +1563,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "恥ずかしがらないで大丈夫ですよ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ここも少し凝ってますねぇ～、入念にほぐしていきましょう。"
+                                "Don't be embarrassed, it's okay. This area is a bit tense\ntoo, let's thoroughly work it out."
                             ]
                         },
                         {
@@ -1755,14 +1580,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[27]ムチュ♥モミモミ♥モミモミ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "コリコリ・・・♥コリコリ・・・♥ピンッ！！"
+                                "\\c[27]*smooch*♥Knead Knead♥Knead Knead♥Knot Knot...♥Knot\nKnot...♥Pinch!!"
                             ]
                         },
                         {
@@ -1779,14 +1597,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "入念なマッサージと共に特製オイルを塗られ、どんどん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "胸の快感が増していく・・・。"
+                                "With the thorough massage and the special oil being applied,\nthe pleasure in her breasts keeps increasing..."
                             ]
                         },
                         {
@@ -1803,14 +1614,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[31]ンンンッッッ・・・♥胸・・・ッッ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "乳首が・・・あっつ・・・♥"
+                                "\\c[31]Mmmmm...♥My breasts...♥My nipples are so hot...♥"
                             ]
                         },
                         {
@@ -1827,14 +1631,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[27]ムチュ♥モミモミ♥モミモミ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "コリコリ・・・♥コリコリ・・・♥ピンッ！！"
+                                "\\c[27]*smooch*♥Knead Knead♥Knead Knead♥Knot Knot...♥Knot\nKnot...♥Pinch!!"
                             ]
                         },
                         {
@@ -1851,7 +1648,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[31]はぁ・・・はぁ・・・♥"
+                                "\\c[31]Ahh... Ahh...♥"
                             ]
                         },
                         {
@@ -1868,14 +1665,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "だいぶ良い具合にほぐれてきましたねぇ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "それでは次は中から気持ち良くしていきましょうか。"
+                                "You've loosened up quite nicely. Now, shall we make you feel\ngood from the inside?"
                             ]
                         },
                         {
@@ -1892,7 +1682,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[31]ちょっ、まっ・・・！？"
+                                "\\c[31]Wait, just a...!?"
                             ]
                         },
                         {
@@ -1909,21 +1699,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "みなさんやってますから大丈夫ですよ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ここを刺激すると女性ホルモンが活発化するので美容にも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "良いんです。"
+                                "It's okay, everyone does it. Stimulating this spot activates\nfemale hormones, which is also good for beauty."
                             ]
                         },
                         {
@@ -1978,14 +1754,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[27]ズプッ・・・♥クチュクチュクチュ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "コリコリコリコリコリ♥♥♥"
+                                "\\c[27]*slip*...♥Squish Squish Squish♥♥Knot Knot Knot Knot Knot♥♥♥"
                             ]
                         },
                         {
@@ -2014,14 +1783,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "太い指がおまんこの中に挿入され、オイルを塗り込みながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "膣肉をほじりつつクリトリスを刺激していく・・・。"
+                                "Thick fingers are inserted into her pussy, stirring the\nvaginal walls while applying oil and stimulating the\nclitoris..."
                             ]
                         },
                         {
@@ -2038,14 +1800,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[31]\\{お゛ッ゛♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ん゛お゛ぉ゛ぉ゛・・・♥♥♥"
+                                "\\c[31]Ahh♥Nnnoooh...♥♥♥"
                             ]
                         },
                         {
@@ -2062,14 +1817,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[27]クチュクチュクチュ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ヌチュヌチュヌチュ♥♥♥"
+                                "\\c[27]Squish Squish Squish♥♥Squelch Squelch Squelch♥♥♥"
                             ]
                         },
                         {
@@ -2086,14 +1834,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[31]\\{\\{\\{あ゛っ゛♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\}\\}んおっ♥おっ・・・♥お゛っ・・・♥"
+                                "\\c[31]Ahh♥Nnoh♥Ohh...♥Ahh...♥"
                             ]
                         },
                         {
@@ -2127,14 +1868,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "我慢しなくていいですからね～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "一度イッちゃいましょうか。"
+                                "You don't have to hold back. Let's go ahead and cum."
                             ]
                         },
                         {
@@ -2151,14 +1885,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[27]クチュクチュクチュ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "コリコリコリコリコリ♥♥♥"
+                                "\\c[27]Squish Squish Squish♥♥Knot Knot Knot Knot Knot♥♥♥"
                             ]
                         },
                         {
@@ -2175,21 +1902,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[31]と、とめっ・・・だめっ♥そんなほじられると♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\{\\{んんっっっ～～～♥♥♥"
+                                "\\c[31]Stop... can't...♥If you keep probing like that♥Nnnn~♥♥♥"
                             ]
                         },
                         {
@@ -2281,7 +1994,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[31]\\{\\{あ゛あ゛ぁ゛ぁ゛～～～～♡"
+                                "\\c[31]Ahhh~♡"
                             ]
                         },
                         {
@@ -2298,14 +2011,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "全身を震わせ盛大に絶頂し潮吹きをしてしまう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "メメリス・・・。"
+                                "Memerisu's body shakes as she climaxes grandly, squirting..."
                             ]
                         },
                         {
@@ -2322,14 +2028,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "随分と勢いよく出ましたねぇ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "老廃物が沢山出てとても良いですよぉ～。"
+                                "You squirted out quite vigorously. It's great because a lot\nof waste products were released."
                             ]
                         },
                         {
@@ -2362,14 +2061,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[31]はぁ・・・はぁ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "やっ・・・やっばぁ・・・♥"
+                                "\\c[31]Ahh... Ahh...♥That was... intense...♥"
                             ]
                         },
                         {
@@ -2386,14 +2078,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "お疲れさまでした、メメリスさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "これにてマッサージの方は終了です。"
+                                "Thank you for your hard work, Memerisu-san. With this, the\nmassage session is concluded."
                             ]
                         },
                         {
@@ -2410,14 +2095,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ですが・・・もし良ければ・・・追加の特別コースも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "どうでしょうか？"
+                                "However... if you'd like... how about an additional special\ncourse?"
                             ]
                         },
                         {
@@ -2434,14 +2112,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[31]はぁ・・・はぁ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "特別コース・・・ってなに・・・？"
+                                "\\c[31]Ahh... Ahh...♥A special course... what is it...?"
                             ]
                         },
                         {
@@ -2458,7 +2129,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "はい・・・もし良ければそちらも無料で・・・。"
+                                "Yes... if you're interested, that would also be free of\ncharge..."
                             ]
                         },
                         {
@@ -2475,14 +2146,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[31]えっ！？無料・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "無料なら・・・ｺﾞｸﾘ"
+                                "\\c[31]Eh!? Free...!! If it's free then... *nod*"
                             ]
                         },
                         {
@@ -2499,14 +2163,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "マッサージ師の股間がパンパンに膨れているのも気づかず、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "無料に釣られて返事をしてしまうメメリス・・・。"
+                                "Unaware of the masseur's crotch bulging tightly, Memerisu\nagrees, lured by the offer of a free service..."
                             ]
                         },
                         {
@@ -2551,14 +2208,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "かしこまりました・・・それでは特別コースを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "始めさせていただきますね・・・。"
+                                "Understood... Then let us begin the special course..."
                             ]
                         },
                         {
@@ -2641,14 +2291,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[31]\\{んほぉおぉおおおおおおおおおお！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "お゛っ゛っ゛♥イクッイクゥウウウウ♥"
+                                "\\c[31]Nhooohoooooo!! Ahh♥I'm cumming, I'm cuuummminggg♥"
                             ]
                         },
                         {
@@ -2778,21 +2421,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -2879,14 +2508,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "お疲れ様でした。またいつでも来てくださいね。"
+                                "Thank you for your hard work. Please come again anytime."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 5,
                                 0,
                                 2
@@ -2896,7 +2525,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "・・・ども♥"
+                                "...Thank you♥"
                             ]
                         },
                         {
@@ -2926,14 +2555,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "かしこまりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "それではこちらにどうぞ・・・。ﾆﾔﾘ"
+                                "Understood. Then please come this way... *grin*"
                             ]
                         },
                         {
@@ -2955,7 +2577,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "それでは目隠しを付けてこちらにお座りください。"
+                                "Please put on this blindfold and take a seat here."
                             ]
                         },
                         {
@@ -2974,7 +2596,7 @@
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -2984,7 +2606,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "はーい。（何で目隠し・・・？）"
+                                "Yes. (Why a blindfold...?)"
                             ]
                         },
                         {
@@ -3001,14 +2623,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "リラックスするアロマを出しますので少々おまちください。"
+                                "We will release a relaxing aroma, so please wait a moment."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -3018,7 +2640,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "（あ、なんか甘い感じの良い匂い・・・）"
+                                "(Ah, it's a sweet and nice smell...)"
                             ]
                         },
                         {
@@ -3035,21 +2657,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -3099,14 +2707,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[31]んんっ・・・♥はぁ・・・んっ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "なんだか凄く・・・あっつい・・・♥"
+                                "\\c[31]Nnnn...♥Ahh... Nnn...♥It's getting really... hot...♥"
                             ]
                         },
                         {
@@ -3123,14 +2724,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "アロマの充満した部屋で座っているだけなのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "妙に体が熱くなってくる・・・。"
+                                "Just sitting in the room filled with aroma, her body\nstrangely starts to heat up..."
                             ]
                         },
                         {
@@ -3147,14 +2741,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[31]はぁ・・・はぁ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "んんっ・・・っっ・・・はぁ・・・♥"
+                                "\\c[31]Ahh... Ahh...♥Nnnn... Ahh...♥"
                             ]
                         },
                         {
@@ -3171,14 +2758,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "頭がボッ～とモヤがかかるような感覚に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "しかし身体は火照ってムズムズしてくる・・・。"
+                                "Her head feels foggy as if covered in a haze, yet her body\ngrows hot and restless..."
                             ]
                         },
                         {
@@ -3195,21 +2775,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ふふっ・・・良い具合に・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "いえ、準備が出来ましたのでマッサージの方を始めさせて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "いただきますねぇ～。"
+                                "Heheh... You're nicely... I mean, ready for the massage to\nbegin."
                             ]
                         },
                         {
@@ -3226,7 +2792,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "まずは口を開けて、舌を出してくださいねぇ～。"
+                                "First, open your mouth and stick out your tongue, please."
                             ]
                         },
                         {
@@ -3243,14 +2809,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "静かな部屋、火照った身体、そして目隠しで何も見えない中、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "男の声だけが聞こえてくる・・・。"
+                                "In the quiet room, with her body feeling hot and unable to\nsee anything due to the blindfold, only the man's voice can\nbe heard..."
                             ]
                         },
                         {
@@ -3283,14 +2842,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[31]はぁ・・・はぁ・・・うん♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "んんっ・・・っっ・・・れろぉぉ・・・♥"
+                                "\\c[31]Ahh... Ahh... Yes♥ Nnn...♥ Lick...♥"
                             ]
                         },
                         {
@@ -3307,14 +2859,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "モヤが掛かった頭で反射的に返事し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "男の指示通りに舌を出す・・・。"
+                                "With her head clouded as if covered in a haze, she\nreflexively responds and sticks out her tongue as instructed\nby the man..."
                             ]
                         },
                         {
@@ -3331,7 +2876,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "それじゃあ今から舌のマッサージを行いますねぇ～。"
+                                "Now, I will begin the tongue massage."
                             ]
                         },
                         {
@@ -3386,7 +2931,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[27]ぶちゅ、ちゅっ、ぢゅうぅうう♥♥"
+                                "\\c[27]Schlick, smooch, slurrrp♥♥"
                             ]
                         },
                         {
@@ -3403,7 +2948,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "出していた舌に何か熱くぬめり気がある物が触れる・・・。"
+                                "Something hot and slimy touches the tongue she had stuck\nout..."
                             ]
                         },
                         {
@@ -3420,14 +2965,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[31]んむぅっ！？んんっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "うぅうううぅううっ・・・！？"
+                                "\\c[31]Nmmph!? Nnn!! Uuuuuuuh...!?"
                             ]
                         },
                         {
@@ -3444,21 +2982,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "目隠しをされているせいで何が起きたか理解出来てない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "メメリスは突然の感触に驚くが、男はさらにキスを続ける"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "・・・。"
+                                "Unable to understand what's happening due to the blindfold,\nMemerisu is surprised by the sudden sensation, but the man\ncontinues to kiss her..."
                             ]
                         },
                         {
@@ -3475,14 +2999,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[31]んっ、ちゅ・・・ちゅぅ・・・ぅぅぅ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "んっ・・・♥はぁ・・・♥んっ♥"
+                                "\\c[31]Nn, smooch... smooch... uuuu...♥ Nn...♥ Ahh...♥ Nn♥"
                             ]
                         },
                         {
@@ -3499,21 +3016,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "アロマのせいで頭はモヤがかかり、身体は火照っている"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "メメリスは、段々と男の唇から感じる快感に身を委ねて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "しまう・・・。"
+                                "With her head foggy from the aroma and her body heating up,\nMemerisu gradually starts to surrender to the pleasure she\nfeels from the man's lips..."
                             ]
                         },
                         {
@@ -3558,21 +3061,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[27]ちゅる・・・んぢゅ・・・れろぉ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ちゅ、ちゅるっっ・・・んんっ・・・っ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "んっ、ふぅ・・・れろっ・・・ちゅる・・・♥"
+                                "\\c[27]Schlick... slurp... lick...♥ Smooch, schlickkk... Nnn...♥\nNn, phew... lick... schlick...♥"
                             ]
                         },
                         {
@@ -3589,14 +3078,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "段々とキスは激しくなり、唇と唇を合わせて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "お互いに舌を絡め合う・・・。"
+                                "The kissing becomes more intense, with their lips pressed\ntogether and their tongues entwining..."
                             ]
                         },
                         {
@@ -3613,14 +3095,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[27]んんっ♥ぢゅるるるっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "れろぉ・・・♥ちゅっ・・・ちゅっ♥♥"
+                                "\\c[27]Nnn♥ Slurrrrp♥ Lick...♥ Smooch... smooch♥♥"
                             ]
                         },
                         {
@@ -3637,14 +3112,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[31]あんっ、ちゅ・・・はぁっ・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "んっ・・・♥っっ・・・♥んっ・・・♥"
+                                "\\c[31]Ahn, smooch... Ahh..♥ Nn...♥♥ Nn...♥"
                             ]
                         },
                         {
@@ -3678,14 +3146,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "お互いに唾液を交換するかのように、ただひたすら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "本能のままに唇を絡め合う・・・。"
+                                "They kiss passionately as if exchanging saliva, simply\nfollowing their instincts..."
                             ]
                         },
                         {
@@ -3707,21 +3168,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[31]ちゅる・・・れろぉ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ちゅ、ちゅるっっ・・・んんっ・・・っ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "んっ、ふぅ・・・れろっ・・・ぷはぁっ・・・♥"
+                                "\\c[31]Schlick... lick...♥ Smooch, schlickkk... Nnn...♥ Nn, phew...\nlick... schlick... pahh...♥"
                             ]
                         },
                         {
@@ -3738,21 +3185,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[27]・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "・・・・・・・♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "・・・・・・・・・・♥♥♥"
+                                "\\c[27]...♥...♥♥...♥♥♥"
                             ]
                         },
                         {
@@ -3795,21 +3228,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "濃厚なキスがどれだけ続いたか分からなくなる程"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "頭が蕩け切ったところで、ゆっくりと男の唇が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "メメリスから離れる・・・。"
+                                "After an intense session of kissing that made her head melt\ncompletely, the man's lips slowly part from Memerisu..."
                             ]
                         },
                         {
@@ -3826,14 +3245,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[31]はぁ・・・♥はぁ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "んんっ・・・っっっ・・・♥"
+                                "\\c[31]Ahh...♥ Ahh...♥ Nnn...♥"
                             ]
                         },
                         {
@@ -3850,14 +3262,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "濃厚なキスによりメメリスの口元はよだれまみれになり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ながら余韻に浸っていた・・・。"
+                                "Memerisu's mouth is covered in drool from the intense\nkissing as she basks in the afterglow..."
                             ]
                         },
                         {
@@ -3874,14 +3279,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ふぅ・・・施術は終わりましたよ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "それじゃあ目隠し外しますねぇ～。"
+                                "Phew... The treatment is over. Now I'll remove the\nblindfold."
                             ]
                         },
                         {
@@ -3926,14 +3324,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[31]はぁ・・・♥はぁ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "～～～っっっ♥♥♥"
+                                "\\c[31]Ahh...♥ Ahh...♥～～～♥♥♥"
                             ]
                         },
                         {
@@ -3950,14 +3341,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "目隠しを外されて現れた表情は完全に脳まで蕩け切った"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "雌の顔だった・・・。"
+                                "Once the blindfold is removed, her expression is that of a\nfemale completely melted to the brain..."
                             ]
                         },
                         {
@@ -3974,21 +3358,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "良い顔してますねぇ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "もしよかったらスペシャルコースもありますが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "どうしましょうか？"
+                                "You have a lovely expression. If you'd like, we also have a\nspecial course available... What do you say?"
                             ]
                         },
                         {
@@ -4017,14 +3387,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "そう言って発情しきったメメリスの眼前に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "男がズボンを脱ぎチンコを見せつける・・・。"
+                                "Saying so, the man exposes his cock in front of the fully\naroused Memerisu..."
                             ]
                         },
                         {
@@ -4041,14 +3404,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[31]はぁ・・・♥ごくりっ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "はぁ・・・くっさぁ♥"
+                                "\\c[31]Ahh...♥ Gulp...♥ Ahh... it smells so strong♥"
                             ]
                         },
                         {
@@ -4065,14 +3421,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "蕩け切った頭に鼻から雄の強烈な匂いが入り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "雌の本能を刺激する・・・。"
+                                "The scent of a male's strong odor enters her melted brain\nthrough her nose, stimulating her female instincts..."
                             ]
                         },
                         {
@@ -4089,14 +3438,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ふふっ・・・その様子ではスペシャルコースも御所望"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "のようですね・・・。"
+                                "Heheh... It seems you desire the special course as well..."
                             ]
                         },
                         {
@@ -4113,14 +3455,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ではこちらを咥えてください・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "身体に良い特製ミルクで中から刺激しますねぇ～。"
+                                "Please take this in your mouth... I'll stimulate you from\nthe inside with some special milk that's good for your body."
                             ]
                         },
                         {
@@ -4153,7 +3488,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "それでは特別コースを始めさせていただきますね。"
+                                "Now let's begin the special course."
                             ]
                         },
                         {
@@ -4236,14 +3571,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[27]\\{\\{グポッ♥ジュポッ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ジュルルルッッ♥♥♥"
+                                "\\c[27]Gulp♥ Suckkk♥♥ Slurrrrrp♥♥♥"
                             ]
                         },
                         {
@@ -4373,21 +3701,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -4452,14 +3766,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "お疲れ様でした。またいつでも来てくださいね。"
+                                "Thank you for your hard work. Please come again anytime."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 5,
                                 0,
                                 2
@@ -4469,7 +3783,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "・・・ども♥"
+                                "...Thank you♥"
                             ]
                         },
                         {
@@ -4512,7 +3826,7 @@
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -4522,7 +3836,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "じゃあ、私でお願いします。"
+                                "Then, I'd like to request your service."
                             ]
                         },
                         {
@@ -4539,14 +3853,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ティーナ様ですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "どのマッサージを体験されますか？"
+                                "Lady Tina, which massage would you like to experience?"
                             ]
                         },
                         {
@@ -4554,9 +3861,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "全身マッサージ",
-                                    "口内マッサージ",
-                                    "やっぱりやめる"
+                                    "Full-body massage",
+                                    "Oral massage",
+                                    "Actually, never mind"
                                 ],
                                 2,
                                 0,
@@ -4586,14 +3893,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "かしこまりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "それではこちらにどうぞ・・・。ﾆﾔﾘ"
+                                "Certainly. Please come this way... *smirk*"
                             ]
                         },
                         {
@@ -4615,14 +3915,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "それではこちらの服に着替えてください・・・。"
+                                "Please change into these clothes..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -4632,14 +3932,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "分かりました・・・。"
+                                "Understood..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 6,
                                 0,
                                 2
@@ -4649,7 +3949,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "（わわっ、ちょっと大胆な服ですね・・・。）"
+                                "(Wow, these clothes are quite bold...)"
                             ]
                         },
                         {
@@ -4678,7 +3978,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ゴソゴソ・・・ゴソゴソ・・・。"
+                                "Rustle... Rustle..."
                             ]
                         },
                         {
@@ -4695,14 +3995,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "着替えが終わりましたらこちらにどうぞ・・・。"
+                                "Once you're done changing, please come over here..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 7,
                                 0,
                                 2
@@ -4712,7 +4012,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "は、はい・・・！！"
+                                "Y-Yes...!!"
                             ]
                         },
                         {
@@ -4762,14 +4062,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "マッサージ師に促されるまま、ベットに横になる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ティーナ・・・。"
+                                "Urged by the masseur, Tina lies down on the bed..."
                             ]
                         },
                         {
@@ -4786,14 +4079,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[17]（この服・・・透けて見えちゃったりしないでしょうか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "・・・？）"
+                                "\\c[17](These clothes... they're not see-through, are they...?)"
                             ]
                         },
                         {
@@ -4810,14 +4096,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "思っていた以上に薄い布切れ一枚の姿に、不安になる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ティーナにマッサージ師は慣れた様子で話しかけてくる。"
+                                "Feeling anxious in her unexpectedly thin piece of cloth,\nTina is addressed by the experienced masseur."
                             ]
                         },
                         {
@@ -4834,14 +4113,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "それじゃ、今からマッサージの方始めますね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "おーい、お前ら出てこーい！"
+                                "Well then, let's begin the massage now. Hey, you guys, come\non out!"
                             ]
                         },
                         {
@@ -4874,14 +4146,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "マッサージ師が呼びかけると、部屋の奥から複数の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "男達が姿を表す・・・。"
+                                "At the masseur's call, several men appear from the back of\nthe room..."
                             ]
                         },
                         {
@@ -4898,14 +4163,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[17]えっ・・・！？男の人がたくさん・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "あ、あのやっぱり私・・・！！"
+                                "\\c[17]Eh...!? There are so many men... um, actually I...!!"
                             ]
                         },
                         {
@@ -4922,14 +4180,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "いえいえ、遠慮しないでください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "それではマッサージを開始しますね・・・フフッ。"
+                                "No, no, please don't hold back. Now, let's start the\nmassage... Hehe."
                             ]
                         },
                         {
@@ -4974,14 +4225,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "それでは特製オイルを塗っていきますねぇ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "少しピリッとしますよ～。"
+                                "Now I'll apply the special oil. It might sting a little~."
                             ]
                         },
                         {
@@ -4998,7 +4242,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "マッサージ師達はティーナの体にオイルを塗っていく・・・。"
+                                "The masseurs begin to apply oil to Tina's body..."
                             ]
                         },
                         {
@@ -5015,14 +4259,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[17]ひゃっ・・・！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "んんっ・・・うぅっ・・・♥"
+                                "\\c[17]Hyah...!? Mmm... Uhh...♥"
                             ]
                         },
                         {
@@ -5039,14 +4276,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[17]（オイルを塗られたところ・・・なんだか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "体が熱く・・・♥）"
+                                "\\c[17](The places where the oil is applied... my body feels so\nhot...♥)"
                             ]
                         },
                         {
@@ -5063,14 +4293,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "腕と腰回りをほぐしていきますねぇ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "太もも凝ってる方が多いんですよ～。"
+                                "We'll start by loosening up your arms and waist area. Many\npeople have tight thighs~."
                             ]
                         },
                         {
@@ -5087,14 +4310,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[27]トロッ～♥スリスリッ♥スリスリッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "グッグッグッ・・・モミモミ・・・モミモミ・・・♥"
+                                "\\c[27]Squish~♥ Rub-rub♥ Rub-rub♥ Knead-knead... Knead-knead...♥"
                             ]
                         },
                         {
@@ -5111,14 +4327,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "リンパの流れ良くしますね～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ここにリンパが集まってるんですよぉ～。"
+                                "We'll improve your lymph flow. This is where the lymph nodes\ngather~."
                             ]
                         },
                         {
@@ -5135,14 +4344,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[17]あん・・・っ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "んんっ・・・うぅっ・・・♥・・・・・・っ♥"
+                                "\\c[17]Ahn...♥ Mmm... Uhh...♥...♥"
                             ]
                         },
                         {
@@ -5159,7 +4361,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[17]（声・・・我慢・・・ッッ・・・でちゃう・・・）"
+                                "\\c[17](I can't... hold back... my voice... it's coming out...)"
                             ]
                         },
                         {
@@ -5176,14 +4378,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "声は我慢しなくていいですよ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "それじゃお胸もマッサージしていきましょうか～。"
+                                "You don't have to suppress your voice~. Now, shall we\nmassage your breasts too~."
                             ]
                         },
                         {
@@ -5228,14 +4423,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[27]ムチュ♥モミモミ♥モミモミ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "コリコリ・・・♥コリコリ・・・♥ピンッ！！"
+                                "\\c[27]Squish♥ Knead-knead♥ Knead-knead♥ Pinch-pinch...♥ Pinch-\npinch...♥ Twirl!!"
                             ]
                         },
                         {
@@ -5252,14 +4440,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[17]\\{\\{あ゛っ゛♥ちく・・・びっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\}\\}いきなりんっっ・・・♥♥おっ・・・♥"
+                                "\\c[17]Ah♥ Nip...ples♥ So sudden...♥♥ Oh...♥"
                             ]
                         },
                         {
@@ -5276,14 +4457,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "体が火照って乳首が立っていた所を突然マッサージされ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "つい大きな声がでてしまう・・・。"
+                                "Her body flushes with heat and her nipples erect as they are\nsuddenly massaged, causing her to let out a loud voice..."
                             ]
                         },
                         {
@@ -5316,14 +4490,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "恥ずかしがらないで大丈夫ですよ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ここも少し凝ってますねぇ～、入念にほぐしていきましょう。"
+                                "Don't be embarrassed, it's okay~. This area is a bit tight\ntoo, let's thoroughly loosen it up."
                             ]
                         },
                         {
@@ -5340,14 +4507,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[27]ムチュ♥モミモミ♥モミモミ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "コリコリ・・・♥コリコリ・・・♥ピンッ！！"
+                                "\\c[27]Squish♥ Knead-knead♥ Knead-knead♥ Pinch-pinch...♥ Pinch-\npinch...♥ Twirl!!"
                             ]
                         },
                         {
@@ -5364,14 +4524,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "入念なマッサージと共に特製オイルを塗られ、どんどん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "胸の快感が増していく・・・。"
+                                "With thorough massage and special oil applied, the pleasure\nin her breasts keeps increasing..."
                             ]
                         },
                         {
@@ -5388,14 +4541,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[17]あっ・・・先生・・・♥胸・・・ッッ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "乳首が・・・透けて・・・♥"
+                                "\\c[17]Tina: Ahh... Sensei...♥ My breasts...♥ My nipples are\nshowing through...♥"
                             ]
                         },
                         {
@@ -5429,21 +4575,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "みなさん最初は気になされますが大丈夫ですよ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "私達は慣れてますし、あくまで治療の上で仕方のない事です"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "のでお気になさらずに。"
+                                "Everyone worries at first but it's okay~. We're used to it\nand after all, it's an unavoidable part of the treatment, so\nplease don't mind it."
                             ]
                         },
                         {
@@ -5460,14 +4592,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[27]ムチュ♥モミモミ♥モミモミ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "コリコリ・・・♥コリコリ・・・♥ピンッ！！"
+                                "\\c[27]Squish♥ Knead-knead♥ Knead-knead♥ Pinch-pinch...♥ Pinch-\npinch...♥ Twirl!!"
                             ]
                         },
                         {
@@ -5484,14 +4609,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[17]そ、そんな・・・せんせ・・・んんっ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "あんっ・・・♥あっ・・・あっ・・・♥"
+                                "\\c[17]Tina: So, something like that... sensei... Mmm...♥ Ahn...♥\nAhh... Ahh...♥"
                             ]
                         },
                         {
@@ -5508,7 +4626,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "その後も入念にマッサージをされ・・・。"
+                                "The thorough massage continues..."
                             ]
                         },
                         {
@@ -5546,7 +4664,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "乳首をフル勃起させ快感に浸るティーナ・・・。"
+                                "Tina's nipples are fully erect as she indulges in the\npleasure..."
                             ]
                         },
                         {
@@ -5563,7 +4681,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[17]はぁ・・・♥はぁ・・・♥"
+                                "\\c[17]Ahh...♥ Ahh...♥"
                             ]
                         },
                         {
@@ -5580,7 +4698,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[17]（や、やっと・・・終わり・・・？）"
+                                "\\c[17](Is it finally... over...?)"
                             ]
                         },
                         {
@@ -5597,14 +4715,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "これ以上マッサージをされると気持ち良すぎておかしくなる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "と思ったティーナが安堵するが・・・。"
+                                "Just as Tina thought the massage was over and felt relieved,\nthinking any more would be too pleasurable and drive her\ncrazy..."
                             ]
                         },
                         {
@@ -5637,14 +4748,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "それでは股間周りのマッサージを始めさせて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "いただきますよ～。力抜いてくださいね～。"
+                                "Now, let's begin the massage around your groin area. Please\nrelax your muscles~."
                             ]
                         },
                         {
@@ -5661,7 +4765,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[17]えっ・・・そ、そこは・・・！？"
+                                "\\c[17]Tina: Eh... That area is...!?"
                             ]
                         },
                         {
@@ -5678,21 +4782,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "みなさんやってますから大丈夫ですよ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ここを刺激すると女性ホルモンが活発化するので美容にも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "良いんです。"
+                                "It's okay, everyone does it~. Stimulating here activates\nfemale hormones which is also good for beauty."
                             ]
                         },
                         {
@@ -5709,7 +4799,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "それでは中からほぐしていきますね～。"
+                                "Now, let's loosen it up from the inside~."
                             ]
                         },
                         {
@@ -5764,14 +4854,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[27]ズプッ・・・♥クチュクチュクチュ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "コリコリコリコリコリ♥♥♥"
+                                "\\c[27]Zup...♥ Squelch-squelch-squelch♥♥ Pinch-pinch-pinch-pinch-\npinch♥♥♥"
                             ]
                         },
                         {
@@ -5800,14 +4883,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "太い指がおまんこの中に挿入され、オイルを塗り込みながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "膣肉をほじりつつクリトリスを刺激していく・・・。"
+                                "Thick fingers are inserted into her pussy, stirring the\nvaginal walls while applying oil and stimulating the\nclitoris..."
                             ]
                         },
                         {
@@ -5824,14 +4900,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[17]\\{お゛ッ゛♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ん゛お゛ぉ゛ぉ゛・・・♥♥♥"
+                                "\\c[17]Ahh...♥ Ahh...♥♥♥"
                             ]
                         },
                         {
@@ -5848,14 +4917,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[27]クチュクチュクチュ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ヌチュヌチュヌチュ♥♥♥"
+                                "\\c[27]Squelch-squelch-squelch♥♥ Nuchu-nuchu-nuchu♥♥♥"
                             ]
                         },
                         {
@@ -5872,14 +4934,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[17]\\{\\{\\{あ゛っ゛♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\}\\}んおっ♥おっ・・・♥お゛っ・・・♥"
+                                "\\c[17]Ahh...♥ Ahh...♥ Ahh...♥"
                             ]
                         },
                         {
@@ -5896,7 +4951,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "強烈な快感で腰を浮かしながら喘ぎ声を出してしまう・・・。"
+                                "She lets out moans of intense pleasure as her hips lift\noff..."
                             ]
                         },
                         {
@@ -5930,14 +4985,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "我慢しなくていいですからね～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "一度イッちゃいましょうか。"
+                                "You don't have to hold back~. Why don't we go ahead and let\nyou climax."
                             ]
                         },
                         {
@@ -5954,14 +5002,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[27]クチュクチュクチュ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "コリコリコリコリコリ♥♥♥"
+                                "\\c[27]Squelch-squelch-squelch♥♥ Rub-rub-rub-rub-rub♥♥♥"
                             ]
                         },
                         {
@@ -5978,21 +5019,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[17]せんせっ・・・だめっ♥イッ・・・ク♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "\\{\\{んんんっっっ～～～♥♥♥"
+                                "\\c[17]Sensei... I can't♥ I'm going to cum♥ Ahnnn~♥♥♥"
                             ]
                         },
                         {
@@ -6084,7 +5111,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[17]\\{\\{あ゛あ゛ぁ゛ぁ゛～～～～♡"
+                                "\\c[17]Ahhhh~♡"
                             ]
                         },
                         {
@@ -6101,14 +5128,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "全身を震わせ盛大に絶頂し潮吹きをしてしまう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ティーナ・・・。"
+                                "Tina convulses her entire body as she climaxes and squirts\nmagnificently..."
                             ]
                         },
                         {
@@ -6125,14 +5145,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "随分と勢いよく出ましたねぇ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "老廃物が沢山出てとても良いですよぉ～。"
+                                "You squirted quite vigorously~. It's great to get rid of so\nmany waste products~."
                             ]
                         },
                         {
@@ -6165,14 +5178,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[17]はぁ・・・はぁ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "す、すごかった・・・ですぅ・・・♥"
+                                "\\c[17]Haa... haa...♥ That was amazing...♥"
                             ]
                         },
                         {
@@ -6189,14 +5195,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "お疲れさまでした、ティーナさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "これにてマッサージの方は終了です。"
+                                "Good work, Tina-san. With this, the massage is finished."
                             ]
                         },
                         {
@@ -6213,14 +5212,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ですが・・・もし良ければ・・・追加の特別コースも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "どうでしょうか？"
+                                "However... if you'd like... how about an additional special\ncourse?"
                             ]
                         },
                         {
@@ -6237,14 +5229,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[17]はぁ・・・はぁ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "特別コース・・・ですか？"
+                                "\\c[17]Haa... haa...♥ A special course...?"
                             ]
                         },
                         {
@@ -6261,7 +5246,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "はい・・・もし良ければそちらも無料で・・・。"
+                                "Yes... if you're interested, it's also free..."
                             ]
                         },
                         {
@@ -6278,14 +5263,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "マッサージ師の股間がパンパンに膨れているのを見て、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "特別サービスの内容が想像できてしまうティーナ・・・。"
+                                "Seeing the masseur's groin swollen to the brim, Tina can\nimagine what the special service entails..."
                             ]
                         },
                         {
@@ -6302,14 +5280,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[17]（あっ・・・凄い・・・逞しいです・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "欲しい・・・おちんぽ様・・・欲しい・・・）ｺﾞｸﾘ"
+                                "\\c[17](Ah... amazing... so robust... I want it... I want that\ncock...) *gulp*"
                             ]
                         },
                         {
@@ -6354,14 +5325,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "葛藤していると顔にタオルを乗せられて目隠しをされる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ティーナ・・・。"
+                                "As she's conflicted, a towel is placed over her face,\nblindfolding Tina..."
                             ]
                         },
                         {
@@ -6378,14 +5342,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "大丈夫ですよ、ティーナさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "今から行うのは・・・マッサージですから。"
+                                "It's okay, Tina-san. What we're about to do is... just a\nmassage."
                             ]
                         },
                         {
@@ -6402,14 +5359,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[17]（そうです・・・今からするのはマッサージだから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "えっちな事をするんじゃないから・・・良いですよね♥）"
+                                "\\c[17](That's right... what we're about to do is a massage... it's\nnot something naughty... it's okay, right?♥)"
                             ]
                         },
                         {
@@ -6426,7 +5376,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[17]と・・・特別コース・・・お願いします・・・♥"
+                                "\\c[17]Then... please, the special course...♥"
                             ]
                         },
                         {
@@ -6471,14 +5421,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "かしこまりました・・・それでは特別コースを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "始めさせていただきますね・・・。"
+                                "Certainly... then let us begin the special course..."
                             ]
                         },
                         {
@@ -6674,21 +5617,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -6775,14 +5704,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "お疲れ様でした。またいつでも来てくださいね。"
+                                "Thank you for your hard work. Please come again anytime."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 7,
                                 0,
                                 2
@@ -6792,7 +5721,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "・・・ありがとうございました♥"
+                                "...Thank you very much♥"
                             ]
                         },
                         {
@@ -6822,14 +5751,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "かしこまりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "それではこちらにどうぞ・・・。ﾆﾔﾘ"
+                                "Certainly. This way, please... *smirk*"
                             ]
                         },
                         {
@@ -6851,7 +5773,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "それでは目隠しを付けてこちらにお座りください。"
+                                "Please sit here with the blindfold on."
                             ]
                         },
                         {
@@ -6870,7 +5792,7 @@
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -6880,14 +5802,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "わかりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "（目隠しは必要なんでしょうか・・・？）"
+                                "Understood. (Is the blindfold really necessary...?)"
                             ]
                         },
                         {
@@ -6904,14 +5819,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "リラックスするアロマを出しますので少々おまちください。"
+                                "We will release a relaxing aroma, so please wait a moment."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -6921,7 +5836,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "（あ、凄く良い香りが・・・）"
+                                "(Ah, that smells really nice...)"
                             ]
                         },
                         {
@@ -6938,21 +5853,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -7002,14 +5903,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[17]んんっ・・・♥はぁ・・・んっ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "身体がすごく・・・っ・・・あついです・・・♥"
+                                "\\c[17]Mmm...♥ Haa... Mmm...♥ My body feels so incredibly...\nhot...♥"
                             ]
                         },
                         {
@@ -7026,14 +5920,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "アロマの充満した部屋で座っているだけなのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "妙に体が熱くなってくる・・・。"
+                                "Sitting in the room filled with aroma, her body strangely\nstarts to heat up..."
                             ]
                         },
                         {
@@ -7050,14 +5937,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[17]はぁ・・・はぁ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "んんっ・・・っっ・・・はぁ・・・♥"
+                                "\\c[17]Haa... haa...♥ Mmm...♥"
                             ]
                         },
                         {
@@ -7074,14 +5954,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "頭がボッ～とモヤがかかるような感覚に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "しかし身体は火照ってムズムズしてくる・・・。"
+                                "Her head feels foggy as if covered in a haze, yet her body\ngrows hotter and itchier..."
                             ]
                         },
                         {
@@ -7098,21 +5971,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ふふっ・・・良い具合に・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "いえ、準備が出来ましたのでマッサージの方を始めさせて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "いただきますねぇ～。"
+                                "Fufu~ You're in good shape... I mean, ready. Let's start the\nmassage now~."
                             ]
                         },
                         {
@@ -7129,7 +5988,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "まずは口を開けて、舌を出してくださいねぇ～。"
+                                "First, open your mouth and stick out your tongue~."
                             ]
                         },
                         {
@@ -7146,14 +6005,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "静かな部屋、火照った身体、そして目隠しで何も見えない中、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "男の声だけが聞こえてくる・・・。"
+                                "In the quiet room, with her body flushed and blindfolded\nunable to see anything, only the man's voice can be heard..."
                             ]
                         },
                         {
@@ -7186,14 +6038,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[17]はぁ・・・はぁ・・・はい♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "んんっ・・・っっ・・・れろぉぉ・・・♥"
+                                "\\c[17]Haa... haa... Yes♥ Mmm...♥"
                             ]
                         },
                         {
@@ -7210,14 +6055,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "モヤが掛かった頭で反射的に返事し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "男の指示通りに舌を出す・・・。"
+                                "With her head clouded as if covered in a haze, she\nreflexively responds and sticks out her tongue as instructed\nby the man..."
                             ]
                         },
                         {
@@ -7234,7 +6072,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "それじゃあ今から舌のマッサージを行いますねぇ～。"
+                                "Now then, I'll begin the tongue massage~."
                             ]
                         },
                         {
@@ -7289,7 +6127,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[27]ぶちゅ、ちゅっ、ぢゅうぅうう♥♥"
+                                "\\c[27]Schlick, suck, slurrrp♥♥"
                             ]
                         },
                         {
@@ -7306,7 +6144,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "出していた舌に何か熱くぬめり気がある物が触れる・・・。"
+                                "Something hot and slimy touches the tongue she has stuck\nout..."
                             ]
                         },
                         {
@@ -7323,14 +6161,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[17]んむぅっ・・・！？・・・っっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "うぅうううぅううっ・・・！？"
+                                "\\c[17]Nngh...!?...Hngh!! Uuuuuuuh...!?"
                             ]
                         },
                         {
@@ -7347,21 +6178,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "目隠しをされているせいで何が起きたか理解出来てない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ティーナは突然の感触に驚くが、男はさらにキスを続ける"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "・・・。"
+                                "Blindfolded and unable to understand what's happening, Tina\nis startled by the sudden sensation, but the man continues\nto kiss her..."
                             ]
                         },
                         {
@@ -7378,14 +6195,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[17]んっ、ちゅ・・・ちゅぅ・・・ぅぅぅ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "んっ・・・♥はぁ・・・♥んっ♥"
+                                "\\c[17]Nn, chu...schlick...uuu...♥ Nn...♥ Haa...♥ Nn♥"
                             ]
                         },
                         {
@@ -7402,21 +6212,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "アロマのせいで頭はモヤがかかり、身体は火照っている"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ティーナは、段々と男の唇から感じる快感に身を委ねて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "しまう・・・。"
+                                "With her head foggy from the aroma and her body flushed with\nheat, Tina gradually succumbs to the pleasure she feels from\nthe man's lips..."
                             ]
                         },
                         {
@@ -7461,21 +6257,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[27]ちゅる・・・んぢゅ・・・れろぉ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ちゅ、ちゅるっっ・・・んんっ・・・っ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "んっ、ふぅ・・・れろっ・・・ちゅる・・・♥"
+                                "\\c[27]Schlick...slurp...lick...♥ Chu, schlickkk...nnn...♥ Nn,\nfuu...lick...schlick...♥"
                             ]
                         },
                         {
@@ -7492,14 +6274,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "段々とキスは激しくなり、唇と唇を合わせて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "お互いに舌を絡め合う・・・。"
+                                "The kissing becomes more intense, with lips pressing\ntogether and tongues entwining..."
                             ]
                         },
                         {
@@ -7516,14 +6291,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[27]んんっ♥ぢゅるるるっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "れろぉ・・・♥ちゅっ・・・ちゅっ♥♥"
+                                "\\c[27]Nnn♥ Slurrrp♥ Lick...♥ Chu...chu♥♥"
                             ]
                         },
                         {
@@ -7540,14 +6308,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[17]あんっ、ちゅ・・・はぁっ・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "んっ・・・♥っっ・・・♥んっ・・・♥"
+                                "\\c[17]Ahn, chu...haa..♥ Nn...♥ Hngh...♥ Nn...♥"
                             ]
                         },
                         {
@@ -7581,14 +6342,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "お互いに唾液を交換するかのように、ただひたすら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "本能のままに唇を絡め合う・・・。"
+                                "They kiss as if exchanging saliva, simply following their\ninstincts and entwining their lips..."
                             ]
                         },
                         {
@@ -7610,21 +6364,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[17]ちゅる・・・れろぉ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ちゅ、ちゅるっっ・・・んんっ・・・っ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "んっ、ふぅ・・・れろっ・・・ぷはぁっ・・・♥"
+                                "\\c[17]Schlick...lick...♥ Chu, schlickkk...nnn...♥ Nn,\nfuu...lick...pheww...♥"
                             ]
                         },
                         {
@@ -7641,21 +6381,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[27]・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "・・・・・・・♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "・・・・・・・・・・♥♥♥"
+                                "\\c[27]...♥...♥♥...♥♥♥"
                             ]
                         },
                         {
@@ -7698,21 +6424,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "濃厚なキスがどれだけ続いたか分からなくなる程"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "頭が蕩け切ったところで、ゆっくりと男の唇が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ティーナから離れる・・・。"
+                                "After an intense kiss that made her head melt to the point\nof losing track of time, the man's lips slowly part from\nTina's..."
                             ]
                         },
                         {
@@ -7729,14 +6441,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[17]はぁ・・・♥はぁ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "んんっ・・・っっっ・・・ふぅ・・・ふぅ・・・♥"
+                                "\\c[17]Haa...♥ Haa...♥ Nnn...hnghhh...fuu...fuu...♥"
                             ]
                         },
                         {
@@ -7753,14 +6458,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "濃厚なキスによりティーナの口元は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "よだれまみれになりながら余韻に浸っていた・・・。"
+                                "After the deep kiss, Tina's mouth is covered in drool as she\nbasks in the afterglow..."
                             ]
                         },
                         {
@@ -7777,14 +6475,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ふぅ・・・施術は終わりましたよ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "それじゃあ目隠し外しますねぇ～。"
+                                "Fuu... The treatment is over. Now I'll take off your\nblindfold~."
                             ]
                         },
                         {
@@ -7829,14 +6520,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[17]はぁ・・・♥はぁ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "～～～っっっ♥♥♥"
+                                "\\c[17]Haa...♥ Haa...♥～～～hnghhh♥♥♥"
                             ]
                         },
                         {
@@ -7853,14 +6537,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "目隠しを外されて現れた表情は完全に脳まで蕩け切った"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "雌の顔だった・・・。"
+                                "Once the blindfold is removed, the expression on her face is\nthat of a female completely melted to the brain..."
                             ]
                         },
                         {
@@ -7877,21 +6554,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "良い顔してますねぇ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "もしよかったらスペシャルコースもありますが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "どうしましょうか？"
+                                "You have such a lovely face~. If you'd like, there's also a\nspecial course available... What do you say?"
                             ]
                         },
                         {
@@ -7920,14 +6583,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "そう言って発情しきったティーナの眼前に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "男がズボンを脱ぎチンコを見せつける・・・。"
+                                "As he says this, the man exposes his cock to the fully\naroused Tina by taking off his pants..."
                             ]
                         },
                         {
@@ -7944,14 +6600,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[17]はぁ・・・♥ごくりっ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "はぁ・・・すっごいオチンポ様の臭い・・・♥"
+                                "\\c[17]Haa...♥ Gulp...♥ Haa...such an amazing smell from Master's\ncock...♥"
                             ]
                         },
                         {
@@ -7968,14 +6617,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "蕩け切った頭に鼻から雄の強烈な匂いが入り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "雌の本能を刺激する・・・。"
+                                "The strong scent of a male enters her melted brain through\nher nose, stimulating her female instincts..."
                             ]
                         },
                         {
@@ -7992,14 +6634,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ふふっ・・・その様子ではスペシャルコースも御所望"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "のようですね・・・。"
+                                "Fufu~ It seems you desire the special course as well..."
                             ]
                         },
                         {
@@ -8016,14 +6651,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ではこちらを咥えてください・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "身体に良い特製ミルクで中から刺激しますねぇ～。"
+                                "Please take this in your mouth... I'll stimulate you from\nthe inside with some special milk that's good for your\nbody~."
                             ]
                         },
                         {
@@ -8056,7 +6684,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "それでは特別コースを始めさせていただきますね。"
+                                "Now then, let's begin the special course."
                             ]
                         },
                         {
@@ -8139,14 +6767,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[27]\\{\\{グポッ♥ジュポッ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ジュルルルッッ♥♥♥"
+                                "\\c[27]Gulp♥ Suckkk♥♥ Slurrrrrp♥♥♥"
                             ]
                         },
                         {
@@ -8276,21 +6897,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -8355,14 +6962,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "お疲れ様でした。またいつでも来てくださいね。"
+                                "Thank you for your hard work. Please come again anytime."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 7,
                                 0,
                                 2
@@ -8372,7 +6979,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "・・・ありがとうございました♥"
+                                "...Thank you very much♥"
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "バー",
+    "displayName": "Bar",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -2572,14 +2572,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おや、そこのキミ・・・ウェディングドレスを持っているね。"
+                                "Oh, you there... You have a wedding dress, don't you?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -2589,7 +2589,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・？はい、持っていますが・・・。"
+                                "...? Yes, I have one, but..."
                             ]
                         },
                         {
@@ -2606,14 +2606,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "実は今日の夜に予定していたイベントがあるんだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "当初予定していたキャストの方が急に来れなくなってね。"
+                                "Actually, there's an event planned for tonight, but the cast\nmember we had originally scheduled suddenly can't make it."
                             ]
                         },
                         {
@@ -2630,21 +2623,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うちの店のスポンサー様が来る大事なイベントだから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何とかしたくてね・・・もし良ければキミが代わりにその"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "イベントに出てくれないかな？"
+                                "It's an important event with our store's sponsors coming, so\nI really want to make it work... Would you be willing to\nstand in for the event?"
                             ]
                         },
                         {
@@ -2661,21 +2640,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "もちろんお礼は相応の額を出すよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どうかな？"
+                                "Of course, I'll pay you a suitable amount for your troubles.\nWhat do you say?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -2685,28 +2657,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そんな急に言われましても・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それにどうしてドレスが必要なんでしょうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんだか怪しい気もします・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どうしましょうか？"
+                                "It's so sudden... And why do you need a dress? It seems a\nbit suspicious... What should I do?"
                             ]
                         },
                         {
@@ -2714,8 +2665,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "やる",
-                                    "やらない"
+                                    "Do it",
+                                    "Don't do it"
                                 ],
                                 1,
                                 0,
@@ -2735,7 +2686,7 @@
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 3,
                                 0,
                                 2
@@ -2745,14 +2696,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "よく分かりませんが・・・困っている人は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "見逃せません。私に出来る事ならがんばります！"
+                                "I don't quite understand... but I can't ignore someone in\ntrouble. If there's anything I can do, I'll give it my all!"
                             ]
                         },
                         {
@@ -2769,14 +2713,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "本当かい！？凄く助かるよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "君ならスポンサーの方々もきっと気に入るだろう。"
+                                "Really!? That's a huge help! I'm sure the sponsors will love\nyou."
                             ]
                         },
                         {
@@ -2793,21 +2730,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "それじゃあ夜になったらスポンサーの方々が来るから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ドレスに着替えて待っててくれ！"
+                                "Then, when night falls and the sponsors arrive, please\nchange into the dress and wait for them!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -2817,14 +2747,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "分かりました！"
+                                "Understood!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -2834,14 +2764,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "（それでイベントって・・・何をするんでしょ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "うか？）"
+                                "(But what exactly is this event... What will I have to do?)"
                             ]
                         },
                         {
@@ -2863,21 +2786,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -2894,7 +2803,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "～数時間後～"
+                                "～A few hours later～"
                             ]
                         },
                         {
@@ -2944,14 +2853,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "さぁ、スポンサーのみなさん！こちら本日皆さまに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "可愛がっていただくティーナちゃんです！"
+                                "Ladies and gentlemen, our sponsors! Here is Tina-chan, who\nwill be charming you all tonight!"
                             ]
                         },
                         {
@@ -2968,14 +2870,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おぉ～、この子が今日のお相手かい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "なかなか・・・上玉でいいじゃないか。"
+                                "Oh~, is this girl our partner for tonight? Not bad at all...\nShe's quite the catch."
                             ]
                         },
                         {
@@ -2992,14 +2887,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "夜のバーの中でスポンサーのおじ様達がティーナの身体を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ニヤニヤと下卑た笑みを浮かべながら見つめている・・・。"
+                                "In the bar at night, the sponsors' gentlemen leer at Tina's\nbody with smirks of lewd delight..."
                             ]
                         },
                         {
@@ -3016,14 +2904,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]（うぅ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "まさかイベントがこんなえっちな事だったなんて・・・！！）"
+                                "\\c[17](Ugh... I had no idea the event would be something so\nerotic...!!)"
                             ]
                         },
                         {
@@ -3040,21 +2921,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "依頼を受けた後にイベントについての詳細をバーのマスター"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "に聞いたところ、今回のイベントがスポンサー様との"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ご奉仕乱交パーティーと知らされたティーナ。"
+                                "After accepting the request, Tina asked the bar master for\ndetails and found out that the event was a service orgy\nparty with the sponsors."
                             ]
                         },
                         {
@@ -3071,21 +2938,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そんなイベントとは知らなかったと帰ろうとしたティーナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "だったが、マスターに帰るなら違約金を請求すると脅されて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "しまい恐くなったティーナは断り切れなかった・・・。"
+                                "Tina wanted to leave upon learning what the event was about,\nbut the master threatened to charge her a penalty fee if she\nleft, and scared Tina couldn't refuse..."
                             ]
                         },
                         {
@@ -3102,21 +2955,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "フフッ、今日のパーティーは楽しめそうだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "色んな女の子を抱いてきた私にはわかるよ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ティーナちゃん・・・。"
+                                "Heheh, tonight's party seems like it'll be fun. I can tell,\nTina-chan..."
                             ]
                         },
                         {
@@ -3133,21 +2972,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "君は最初はえっちな事に初心な顔を出すが、実は内心えっち"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "大好きなムッツリスケベで一度ヤッてしまえば淫らな顔を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "晒して腰を振るドスケベな女だという事が・・・フフッ。"
+                                "You might look innocent about lewd things at first, but I\nknow deep down you're a closet pervert who loves sex, and\nonce you get started, you'll show your slutty face and start\ngrinding your hips... Heheh."
                             ]
                         },
                         {
@@ -3164,7 +2989,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]なっ・・・！！私はそんなことっ・・・！！"
+                                "\\c[17]Wha...!! I'm not like that...!!"
                             ]
                         },
                         {
@@ -3181,14 +3006,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おお、すまないね。怒らせるつもりじゃなかったんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "キミがそういうならそうなんだろう・・・。"
+                                "Oh, my apologies. I didn't mean to anger you. If you say so,\nthen it must be true..."
                             ]
                         },
                         {
@@ -3233,7 +3051,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ボロンッ！！！"
+                                "\\c[27]Boron!!"
                             ]
                         },
                         {
@@ -3250,14 +3068,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "それじゃあ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "こいつで君がどうなるか試してみようか。"
+                                "Well then... let's see what happens when you're tested with\nthis."
                             ]
                         },
                         {
@@ -3274,7 +3085,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]（この人のオチンポ様ッ・・・お、大きいです・・・！）"
+                                "\\c[17](This man's cock... Oh, it's big...!)"
                             ]
                         },
                         {
@@ -3291,21 +3102,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おお、いつ見ても会長のチンコは大きいですなぁ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "アレをぶち込まれた後の女性はアヘ顔を晒すのが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お約束ですからね～。"
+                                "Oh, every time I see it, the chairman's dick is impressive.\nIt's a given that after being penetrated by that, women show\ntheir orgasm faces."
                             ]
                         },
                         {
@@ -3322,7 +3119,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "取り巻きの男達が会長のチンコを見て歓声をあげる・・・！"
+                                "The surrounding men cheer at the sight of the chairman's\ndick...!"
                             ]
                         },
                         {
@@ -3339,14 +3136,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]（こんな大きいオチンポ様を挿入されたら・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "私どうなっちゃうんでしょうか・・・！）"
+                                "\\c[17](If such a big cock is inserted into me... What will happen\nto me...!)"
                             ]
                         },
                         {
@@ -3391,7 +3181,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{クチュッ・・・♥"
+                                "\\c[27]Squish...♥"
                             ]
                         },
                         {
@@ -3408,7 +3198,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]ンンッ・・・あっ♥"
+                                "\\c[17]Nngh... Ahh♥"
                             ]
                         },
                         {
@@ -3425,14 +3215,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "会長のオチンポがティーナの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "濡れそぼったおまんこに触れる・・・。"
+                                "The chairman's cock touches Tina's dripping wet pussy..."
                             ]
                         },
                         {
@@ -3449,14 +3232,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おや、もう既におまんこが濡れてるじゃないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "フフフッ・・・下の口は正直なようだねぇ。"
+                                "Oh my, your pussy is already wet. Heheheh... The lower mouth\nis honest, isn't it?"
                             ]
                         },
                         {
@@ -3473,14 +3249,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "さぁ、これを挿入した後キミがどんな反応をするのか・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "楽しみだ。"
+                                "Now, let's see how you react after this is inserted... I'm\nlooking forward to it."
                             ]
                         },
                         {
@@ -3535,7 +3304,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{ジュプッ・・・♥ジュプププププッ♥♥♥"
+                                "\\c[27]Schlop...♥ Schlopppppp♥♥♥"
                             ]
                         },
                         {
@@ -3552,7 +3321,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{\\{んぅうぅぅううう！！"
+                                "\\c[17]Nnnuuuuuuu!!"
                             ]
                         },
                         {
@@ -3569,14 +3338,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "会長が腰を押し込み、ティーナの膣奥までオチンポを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "突き刺した・・・！！"
+                                "The chairman thrusts his hips forward, piercing Tina's\nvaginal depths with his cock...!!"
                             ]
                         },
                         {
@@ -3593,14 +3355,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "フフッ、意外と抵抗もなく入ってしまったね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "やはり遊び慣れてるのかな。"
+                                "Heheh, it went in without much resistance. Perhaps you're\nused to playing around."
                             ]
                         },
                         {
@@ -3617,7 +3372,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{んっ♥そんな事ありまっ・・・あぁっ♥"
+                                "\\c[17]Nn♥ That's not true at all... Ahh♥"
                             ]
                         },
                         {
@@ -3634,14 +3389,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "隠そうとしても無駄ですよ、キミの本性はすぐ露わになる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "では、動くとしましょうか。"
+                                "It's useless to try and hide it; your true nature will soon\nbe exposed. Now then, let's get moving."
                             ]
                         },
                         {
@@ -3658,7 +3406,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{だ、ダメです！今動いちゃ・・・ッ！！"
+                                "\\c[17]No, don't! If you move now...!!"
                             ]
                         },
                         {
@@ -3703,14 +3451,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{ドチュッ♥ドチュッ♥パンパン♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ドチュッ♥ドチュッ♥パンパン♥"
+                                "\\c[27]Squish♥ Squish♥ Thump Thump♥ Squish♥ Squish♥ Thump Thump♥"
                             ]
                         },
                         {
@@ -3727,14 +3468,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{\\{お゛ぉ゛っ゛・・・ッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ほぉッ・・・ッッッ♥♥♥"
+                                "\\c[17]Ahhh...♥ Ohhh...♥♥♥"
                             ]
                         },
                         {
@@ -3751,14 +3485,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "会長は腰を掴み激しくピストンし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ティーナの膣肉をほじり犯し始める・・・！！"
+                                "The chairman grips her hips and begins to piston violently,\ndigging into Tina's vaginal flesh...!!"
                             ]
                         },
                         {
@@ -3775,14 +3502,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{んぅぅっ・・・お、おぉっ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "はぁんっ♥うぅぅうう・・・んっ♥"
+                                "\\c[17]Nngh... Oh, ohhh...♥ Ahhn♥ Uuuuu...nn♥"
                             ]
                         },
                         {
@@ -3799,14 +3519,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{オチンポ様がっ・・・激しくっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "おまんこ突いてぇ、あぁ♥んぅぅうう♥♥"
+                                "\\c[17]Your cock... it's pounding me so hard♥ My pussy is getting\ndrilled, ahh♥ Nnghuuu♥♥"
                             ]
                         },
                         {
@@ -3840,14 +3553,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{ドチュッ♥ドチュッ♥パンパン♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ドチュッ♥ドチュッ♥パンパン♥"
+                                "\\c[27]Squish♥ Squish♥ Thump Thump♥ Squish♥ Squish♥ Thump Thump♥"
                             ]
                         },
                         {
@@ -3864,14 +3570,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おやおや、チンコでマンコを突かれた途端に卑らしいメスの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "顔をするようになったじゃないか。"
+                                "Oh my, the moment your pussy gets pounded by a cock, you\nstart making such a lewd face."
                             ]
                         },
                         {
@@ -3888,14 +3587,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]こんなっおっきいオチンポ様で突かれて・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "おまんこほじられたらっ・・・あぁんッ♥"
+                                "\\c[17]Being thrust into by such a big cock...♥ If my pussy is\nstirred like this... Ahnnn♥"
                             ]
                         },
                         {
@@ -3912,14 +3604,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "チンコに喘ぐ花嫁・・・そそりますねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "会長、そろそろ私も失礼します。"
+                                "A bride gasping on a cock... how arousing. Chairman, I'll be\ntaking my leave soon."
                             ]
                         },
                         {
@@ -3969,7 +3654,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{ぶちゅっ、ちゅっ、ぢゅぅうう・・・♥"
+                                "\\c[27]Splurt, suck, slurrrp...♥"
                             ]
                         },
                         {
@@ -3998,7 +3683,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{\\{！！！？"
+                                "\\c[17]!!!?"
                             ]
                         },
                         {
@@ -4015,7 +3700,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "突然のキスに目を開いて驚くティーナ・・・！！"
+                                "Tina opens her eyes in surprise at the sudden kiss...!!"
                             ]
                         },
                         {
@@ -4032,7 +3717,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{んんっ！？んんぅぅぅううッッ！！"
+                                "\\c[17]Nnnh!? Nnnghuuuuu!!"
                             ]
                         },
                         {
@@ -4049,21 +3734,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "チンコで突かれて喘ぐティーナの不意を突いての濃厚な"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ディ―プキス。男の舌がティーナの口内に入り込みお互いの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "舌が絡み合う・・・！！"
+                                "Caught off guard by the intense deep kiss while being\npounded by the cock, the man's tongue invades Tina's mouth\nand their tongues entwine...!!"
                             ]
                         },
                         {
@@ -4080,14 +3751,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "まったく・・・君は相変わらず私が犯している最中の女の子"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "に不意打ちでキスをするのが好きだな。"
+                                "Really... You always seem to enjoy kissing the girls I'm\nfucking out of the blue."
                             ]
                         },
                         {
@@ -4104,14 +3768,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "キミのキステクと私のチンコ、これで今まで何人の女の子が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "イキ狂いになったか・・・。"
+                                "Your kissing technique and my cock, I wonder how many girls\nhave gone crazy with pleasure because of them..."
                             ]
                         },
                         {
@@ -4145,14 +3802,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{ぶちゅっ、ちゅっ、ぢゅぅうう・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "じゅぷっ♥れろぉっ♥ちゅぷっ♥"
+                                "\\c[27]Splurt, suck, slurrrp...♥ Slurp♥ Lickkk♥ Suck♥"
                             ]
                         },
                         {
@@ -4169,7 +3819,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]（このおじ様・・・キスが凄く上手いですっ♥）"
+                                "\\c[17](This gentleman... his kissing is incredibly skilled♥)"
                             ]
                         },
                         {
@@ -4186,14 +3836,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{ちゅぅぅう・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あっはぁ♥ちゅっ、れろっ♥れろれろぉ♥"
+                                "\\c[27]Suckkkk...♥ Ahhhaa♥ Suck, lick♥ Lick lickkk♥"
                             ]
                         },
                         {
@@ -4210,14 +3853,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "膣内と口、同時に攻められる快感を受け入れて自分から"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "舌を絡め出す・・・。"
+                                "Accepting the pleasure of being attacked in both her vagina\nand mouth, she starts to entwine her tongue on her own..."
                             ]
                         },
                         {
@@ -4234,14 +3870,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "やれやれ、すっかりキスの虜になりおって・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "そろそろこっちで一度イカせるとしよう。"
+                                "Good grief, you've become completely addicted to kissing...\nIt's about time I make you climax here."
                             ]
                         },
                         {
@@ -4275,14 +3904,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{ドチュッ♥ドチュッ♥パンパン♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ドチュッ♥ドチュッ♥パンパン♥"
+                                "\\c[27]Squish♥ Squish♥ Thump Thump♥ Squish♥ Squish♥ Thump Thump♥"
                             ]
                         },
                         {
@@ -4299,14 +3921,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{お゛ぉ゛ぉ゛ん゛♥オチンポ様乱暴に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "突かれてぇ♥気持ちいいですっ♥"
+                                "\\c[17]Ahhnnn♥ Your cock is pounding me so roughly♥ It feels so\ngood♥"
                             ]
                         },
                         {
@@ -4323,14 +3938,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "さぁ、キミの子宮に私の精を出すぞっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "しっかり締め付けて搾りなさいっ！！"
+                                "Come now, I'm going to release my seed into your womb...!!\nSqueeze it out tightly!!"
                             ]
                         },
                         {
@@ -4422,14 +4030,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ドピュッ♥ドピュルルルッッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ビュルルルルルルルルルッッッ♥♥♥"
+                                "\\c[27]Spurt♥ Spurrrrrlrlrlrlrlrlrlrlrlrlrlrlrlrlrlrlrlrlrlrlrlrlrl\nrlrlrlrlrlrlrlrlrlrlrlrlrlrlrlrlrlrlrlrlrlrlrlrlrlrlrlrlrlrl\nrlrlrlrlrlrlrlrlrlrlrlrlrlrlrlrlrlrlrlrlrlrlrlrlrlrlrlrlrlrl\nrlrlrlrlrlrlrlrlllllllllllllllllllllllllllllllllllllllllllll\nllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll\nllllllllllllllllllllllll ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥\n♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥\n♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥\n♥ ♥ ♥"
                             ]
                         },
                         {
@@ -4446,21 +4047,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{お゛ぉ゛ッ゛ッ゛♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "おじ様の出てるッ♥奥に、たくさんッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ドピュッドピュッされますぅうう♥♥♥"
+                                "\\c[17]Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh\nhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh!!!!!!!!\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n!!!!!"
                             ]
                         },
                         {
@@ -4489,14 +4076,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{ビュル♥ビュッビュッ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ビュル♥ビュッビュッ♥♥"
+                                "\\c[27]Spurt♥ Spurt Spurt♥♥ Spurt♥ Spurt Spurt♥♥"
                             ]
                         },
                         {
@@ -4513,14 +4093,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ディープキスで舌を絡ませ、おじ様の逞しいオチンポ様の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "濃厚なザーメンを子宮で受け止めて絶頂するティーナ・・・！"
+                                "Tina reaches climax while receiving a deep kiss and the\ngentleman's robust cock's rich semen in her womb...!"
                             ]
                         },
                         {
@@ -4549,14 +4122,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ビュク♥ビュルルッ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ドクッドクッドクッ・・・♥♥♥"
+                                "\\c[27]Spasm♥ Spurrrlrrlrrlrrlrrlrrlrrlrrlrrlrrlrrlrrlrrlrrlrrlrrlr\nrlrrlrrlrrlrrlrrlrrlrrlrrlrrlrrlrrlrrlrrlrrlrrlrrlrrlrrlrrlr\nrlrrlrrlrrlrrlrrlrrlrrlrrlrrlrrlrrlrrlrrlrrlrrlrrlrrlrrlrrlr\nrlrrlrrlrrlrrlrrlrrlrrlrrlrrlrrlrrlrrlrrlrrlrrlrrlrrlrrlrrlr\nrlrrlrrr...♥♥♥"
                             ]
                         },
                         {
@@ -4573,14 +4139,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{お゛ッ゛♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ん゛お゛ぉ゛ぉ゛・・・♥♥♥"
+                                "\\c[17]Ahhhnnn... Nnnghhhh... Ahhhh...♥♥♥"
                             ]
                         },
                         {
@@ -4597,21 +4156,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "良い声で喘ぎおって・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "そこで見てる君達もこっちに来て"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "彼女の相手をしてあげたまえ。"
+                                "You moan so beautifully... You guys watching over there,\ncome here and take care of her as well."
                             ]
                         },
                         {
@@ -4628,14 +4173,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "会長の指示で取り巻きの男達も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ティーナの身体を求めて近づいてくる・・・。"
+                                "Following the chairman's orders, the surrounding men also\napproach Tina, desiring her body..."
                             ]
                         },
                         {
@@ -4657,7 +4195,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "さぁ、性に溺れる花嫁の姿を私に見せておくれ・・・。"
+                                "Come now, show me the sight of a bride drowning in carnal\npleasure..."
                             ]
                         },
                         {
@@ -4674,21 +4212,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -4738,7 +4262,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{チュッ・・・チュポンッ♥"
+                                "\\c[27]Suck... Pop♥"
                             ]
                         },
                         {
@@ -4755,14 +4279,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]はぁ・・・♥はぁ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・ッッ・・・・んっ・・・はぁんっ♥"
+                                "\\c[17]Ah...♥ Ah...♥ ...Nn... Ahhn♥"
                             ]
                         },
                         {
@@ -4779,14 +4296,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "バーに来ていた男達全員とディープキス、中出しをされて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "純白のドレスは精液まみれになっていた・・・。"
+                                "All the men who were at the bar engage in deep kisses with\nher, and her pure white dress becomes covered in semen..."
                             ]
                         },
                         {
@@ -4803,14 +4313,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "いやぁ、ティーナちゃんもすっかりキスが上手くなったねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "最初とは大違いだよ。"
+                                "No way, Tina-chan has become quite good at kissing. It's a\nbig difference from the beginning."
                             ]
                         },
                         {
@@ -4827,21 +4330,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "今夜だけで何人もの男達とピッタリと唇と唇を合わせ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "まるで恋人のような熱いキスをしたティーナのキステクは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "かなり上達していた・・・。"
+                                "Tonight alone, Tina has kissed many men with lips tightly\npressed together, like lovers in passionate kisses. Her\nkissing technique has improved significantly..."
                             ]
                         },
                         {
@@ -4858,21 +4347,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]はぁ・・・♥はぁ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ありがとうございます・・・おじ様・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "とっても気持ち良くて・・・私、えっちな事が大好きです♥"
+                                "\\c[17]Haah...♥ Haah...♥ Thank you so much... Mister...♥ It feels\nso good... I really love naughty things♥"
                             ]
                         },
                         {
@@ -4889,21 +4364,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "キミの乱れた姿も最高だったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "もし気に入ったならまたここに来なさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "いつでも抱いてあげるよ。"
+                                "Your disheveled appearance was also the best. If you liked\nit, come here again. I'll embrace you anytime."
                             ]
                         },
                         {
@@ -4920,7 +4381,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]はい・・・おじ様♥"
+                                "\\c[17]Yes... Mister♥"
                             ]
                         },
                         {
@@ -4942,21 +4403,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -5044,14 +4491,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "お仕事お疲れ様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "これは報酬だよ。"
+                                "You've worked hard. This is your reward."
                             ]
                         },
                         {
@@ -5080,7 +4520,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "50000ジュエルを手に入れた！"
+                                "Gained 50000 jewels!"
                             ]
                         },
                         {
@@ -5118,7 +4558,7 @@
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -5128,14 +4568,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "すみません、ちょっと用事があるのでやめて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "おきます。"
+                                "I'm sorry, I have some errands to run, so I'll stop here."
                             ]
                         },
                         {
@@ -5152,7 +4585,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そうか・・・気が変わったらいつでもまた来てくれ。"
+                                "I see... If you change your mind, feel free to come back\nanytime."
                             ]
                         },
                         {
@@ -5189,7 +4622,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "紳士とお酒のお店「ネオンキャット」にようこそ。"
+                                "Welcome to the gentlemen and liquor establishment 'Neon\nCat'."
                             ]
                         },
                         {
@@ -5206,14 +4639,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おや、見たところ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "残念だけど君達にはお酒はまだ早そうだね。"
+                                "Oh, by the looks of it... Unfortunately, it seems you're too\nyoung for alcohol."
                             ]
                         },
                         {
@@ -5242,7 +4668,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ドレスを持っていると・・・。"
+                                "If you have a dress..."
                             ]
                         },
                         {
@@ -5320,28 +4746,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やぁ、ティーナちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また今度イベントの予定があるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セッティングしておいてあげるから楽しみにしててね。"
+                                "Hey, Tina-chan. I've got another event planned for next\ntime. I'll set it up for you, so look forward to it."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 7,
                                 0,
                                 2
@@ -5351,7 +4763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・はい、お願いします♥"
+                                "...Yes, please do♥"
                             ]
                         },
                         {
@@ -5428,21 +4840,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "う～ん、このワインは80年物のワイン！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やはり香りと言いコクと言い最高級の味わいだ！"
+                                "Umm, this wine is an 80-year-old vintage! Indeed, both its\naroma and richness are of the highest quality!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -5452,7 +4857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぇ～、高いワインは美味しいんだぁ。"
+                                "Wow, expensive wine is delicious, huh."
                             ]
                         },
                         {
@@ -5529,21 +4934,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "隣のお客さんが飲んでるワイン・・・実は特売日に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大量に仕入れた安物と間違えてるなんて言えないわ・・・。"
+                                "The customer next to us is drinking wine... I can't tell\nthem that it's actually the cheap stuff we stocked up on\nduring the sale."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -5553,14 +4951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本人は満足そうですし・・・教えない方が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良さそうですね。"
+                                "They seem satisfied with it... It's probably better not to\ntell them."
                             ]
                         },
                         {
@@ -5637,21 +5028,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここのバーは毎日イベントを開催しているので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はよく通っているデース！"
+                                "This bar hosts events every day, so I come here often!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -5661,7 +5045,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どんなイベントが開催されてるの？"
+                                "What kind of events do they hold?"
                             ]
                         },
                         {
@@ -5678,28 +5062,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この前はペロモンカードやポイブレード、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "モンスターハンティングのオンラインイベントも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "開催してましたデース！"
+                                "Last time, they had online events for Peromon Cards,\nPoibreeds, and Monster Hunting!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 1,
                                 0,
                                 2
@@ -5709,7 +5079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なにそれボクも参加したい！！！"
+                                "What's that? I want to join too!!!"
                             ]
                         },
                         {
@@ -5786,14 +5156,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ・・・お酒は日々の辛い事を忘れさせてくれるわ・・・。"
+                                "Sigh... Alcohol helps me forget the daily struggles..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -5803,14 +5173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お姉さん、何か辛いことがあったの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "話を聞こうか？"
+                                "Sister, is something bothering you? Shall I listen to your\nstory?"
                             ]
                         },
                         {
@@ -5827,14 +5190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え！聞いてくれるの！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お嬢ちゃんありがとう、実はね・・・ｸﾞﾁｸﾞﾁｸﾞﾁｸﾞﾁ。"
+                                "What! You'll listen!! Thank you, young lady, actually...\n*mumble mumble*"
                             ]
                         },
                         {
@@ -5856,14 +5212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "～でねぇ。～～～～そうそう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "酷いのよ！～～～～～分かってくれる？"
+                                "...and that's how it is. Exactly, it's terrible! Do you\nunderstand?"
                             ]
                         },
                         {
@@ -5880,7 +5229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "～数時間後"
+                                "～Several hours later～"
                             ]
                         },
                         {
@@ -5902,21 +5251,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぅ～すっきりしたわ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お話を聞いてくれてありがとね♪"
+                                "Phew~ I feel so much better now! Thank you for listening to\nme♪"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 7,
                                 0,
                                 2
@@ -5926,7 +5268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、はい・・・。（めっちゃ疲れた・・・。）"
+                                "Ah, yes... (I'm so exhausted...)"
                             ]
                         },
                         {
@@ -6003,14 +5345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いらっしゃいませぇ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紳士とお酒のお店「ネオンキャット」にようこそ♥"
+                                "Welcome~♪ to \"Neon Cat,\" the bar for gentlemen and spirits♥"
                             ]
                         },
                         {
@@ -6204,7 +5539,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -6214,14 +5549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おほー！スロットだー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これで一気にお金を稼いじゃうぜー！！"
+                                "Oh! A slot machine! I'm gonna make a fortune in no time!!"
                             ]
                         },
                         {
@@ -6238,7 +5566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スロットで遊びますか？"
+                                "Would you like to play the slot machine?"
                             ]
                         },
                         {
@@ -6246,8 +5574,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6288,7 +5616,7 @@
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -6298,7 +5626,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "いざ、勝負！"
+                                "Here goes, it's showtime!"
                             ]
                         },
                         {
@@ -6327,21 +5655,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ドドドドチュン! プシュン・・・・ポポポポポポポポポ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ピロピロピロピロピロ！ピロロロロロロロロロロロロロ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ﾌﾞｩｰｰｰｳ↑ﾌﾞｩｰｰｰｳ↑ﾌﾞｩｰｰｰｳ↑ﾌﾞｩｰｰｰｳ↑ﾌﾞｩｰｰｰｳ↑"
+                                "Dodododo chun! Pshun... popopopopopopopopo!! Piro piro piro\npiro piro! Pirolo rolo rolo rolo rolo rolo rolo rolo!!\nFoooooou↑ Foooooou↑ Foooooou↑ Foooooou↑ Foooooou↑"
                             ]
                         },
                         {
@@ -6370,21 +5684,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ドドドドドドン！!テレレレーレーレーレーテテテー♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ドヒュゥゥゥゥン！キュキュキュイン！キュキュイン！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ﾎﾟｫﾛﾎﾟﾎﾟﾎﾟﾎﾟﾍﾟﾍﾟﾍﾟﾍﾟﾋﾟﾋﾟﾋﾟﾋﾟﾋﾟｰﾍﾟﾍﾟﾍﾟﾍﾟﾍﾟﾍﾟﾍﾟﾍﾟｰ♪"
+                                "Dododododon!! Tererere-re-re-re-tetete♪ Dohyuuuuun!\nKyukyukyuin! Kyukyukyuin! Poroporopoporopepepepepepipipipipi\npiーpepepepepepepepepepepeー♪"
                             ]
                         },
                         {
@@ -6436,7 +5736,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\{\\{\\{\\{\\{\\{ハズレ！"
+                                "Miss!"
                             ]
                         },
                         {
@@ -6455,7 +5755,7 @@
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 7,
                                 0,
                                 2
@@ -6465,21 +5765,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\{\\{ぐわああああああああ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ああああああ！！！！！"
+                                "Gwaaaaaaaaaaaaaaaaaaaaaaahhhhhhhhhhhhhhhhhhh!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -6489,14 +5782,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "メメリスちゃん・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ぬとねの区別がつかなそうな顔になってますよ。"
+                                "Memerisu-chan... your face looks like you can't tell the\ndifference between 'nuto' and 'ne' anymore."
                             ]
                         },
                         {
@@ -6525,7 +5811,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "10000ジュエルを溶かしてしまった！"
+                                "Melted away 10000 jewels!"
                             ]
                         },
                         {
@@ -6584,7 +5870,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\{\\{\\{\\{\\{\\{ハズレ！"
+                                "Miss!"
                             ]
                         },
                         {
@@ -6603,7 +5889,7 @@
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 0,
                                 0,
                                 2
@@ -6613,21 +5899,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\{返して！ボクのお金返して！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "鬼！悪魔～！"
+                                "Give it back! Give me back my money! You demon! Devil～!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 6,
                                 0,
                                 2
@@ -6637,14 +5916,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "店のレビューに☆1付けてやる・・・！！"
+                                "I'm going to leave a one-star review for this shop...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -6654,7 +5933,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "そんな陰湿な反撃はしないでください！"
+                                "Please don't resort to such a spiteful retaliation!"
                             ]
                         },
                         {
@@ -6683,7 +5962,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "5000ジュエルを溶かしてしまった！"
+                                "Melted away 5000 jewels!"
                             ]
                         },
                         {
@@ -6742,7 +6021,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\{\\{\\{\\{\\{\\{ハズレ！"
+                                "Miss!"
                             ]
                         },
                         {
@@ -6761,7 +6040,7 @@
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -6771,21 +6050,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\{\\{ふざけんなあああああ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ああああああ！！！！！"
+                                "Don't mess with meeeeeeeeeeeeeeeeeeeeee!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -6795,14 +6067,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "メメリスちゃん、台パンはやめてください！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "怒られちゃいますよー！"
+                                "Memerisu-chan, please stop banging on the machine!! You'll\nget us in trouble!"
                             ]
                         },
                         {
@@ -6831,7 +6096,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "3000ジュエルを溶かしてしまった！"
+                                "Melted away 3000 jewels!"
                             ]
                         },
                         {
@@ -6890,7 +6155,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\{\\{\\{\\{\\{\\{ハズレ！"
+                                "Miss!"
                             ]
                         },
                         {
@@ -6909,7 +6174,7 @@
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -6919,21 +6184,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\{\\{スロットの10連目は遊ぶ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "からな！へーきへーき！"
+                                "The tenth spin on the slot is supposed to be played! Hehehe!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -6943,14 +6201,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "メメリスちゃん・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "それさっきから何度も言ってませんか・・・？"
+                                "Memerisu-chan... haven't you been saying that over and over?"
                             ]
                         },
                         {
@@ -6979,7 +6230,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "1000ジュエルを溶かしてしまった！"
+                                "Melted away 1000 jewels!"
                             ]
                         },
                         {
@@ -7038,7 +6289,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\{\\{\\{\\{\\{\\{ハズレ！"
+                                "Miss!"
                             ]
                         },
                         {
@@ -7057,7 +6308,7 @@
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -7067,21 +6318,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "こ、これは乱数調整だから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "まだまだ勝負はここからだよ・・・！！"
+                                "This, this is just RNG manipulation... the real battle\nstarts now...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -7091,14 +6335,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "メメリスちゃん・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "そろそろ現実を見ましょうね・・・。"
+                                "Memerisu-chan... it's about time to face reality..."
                             ]
                         },
                         {
@@ -7127,7 +6364,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "1000ジュエルを溶かしてしまった！"
+                                "Melted away 1000 jewels!"
                             ]
                         },
                         {
@@ -7186,14 +6423,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\{当たり！"
+                                "Hit!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -7203,21 +6440,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "流れはきてる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "次はもっと勝てるかもしれないぞ～！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "倍プッシュだ！！"
+                                "The tide is turning! I might win even more next time! Double\ndown!!"
                             ]
                         },
                         {
@@ -7246,7 +6469,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "2000ジュエルを手に入れた！"
+                                "Gained 2000 jewels!"
                             ]
                         },
                         {
@@ -7305,14 +6528,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\{当たり！"
+                                "Hit!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 0,
                                 0,
                                 2
@@ -7322,7 +6545,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "次はさらに大勝利したいなぁ！"
+                                "Next, I want an even bigger victory!"
                             ]
                         },
                         {
@@ -7351,7 +6574,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "1000ジュエルを手に入れた！"
+                                "Gained 1000 jewels!"
                             ]
                         },
                         {
@@ -7410,14 +6633,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\{当たり！"
+                                "Hit!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -7427,7 +6650,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "当たりかー、まぁこんなもんかな。"
+                                "A hit, huh? Well, that's probably about right."
                             ]
                         },
                         {
@@ -7456,7 +6679,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "1000ジュエルを手に入れた！"
+                                "Gained 1000 jewels!"
                             ]
                         },
                         {
@@ -7515,14 +6738,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\{\\{中当たり！"
+                                "Medium hit!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 1,
                                 0,
                                 2
@@ -7532,14 +6755,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "おおー！中当たり！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "これはめちゃめちゃ嬉しいぞー！！"
+                                "Oh! A medium hit! This is super exciting!!"
                             ]
                         },
                         {
@@ -7568,7 +6784,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "5000ジュエルを手に入れた！"
+                                "Gained 5000 jewels!"
                             ]
                         },
                         {
@@ -7627,14 +6843,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\{\\{中当たり！"
+                                "Medium hit!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 1,
                                 0,
                                 2
@@ -7644,14 +6860,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "成し遂げたぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "セクシーメメリスが負けるわけないだろ！"
+                                "I did it! Sexy Memerisu can't possibly lose!"
                             ]
                         },
                         {
@@ -7680,7 +6889,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "6000ジュエルを手に入れた！"
+                                "Gained 6000 jewels!"
                             ]
                         },
                         {
@@ -7739,14 +6948,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\{\\{\\{\\{\\{\\{大当たり！"
+                                "Jackpot!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -7756,21 +6965,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\{\\{やったぁ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "大当たりだあああああ！！"
+                                "Yes!! Jackpoooooooot!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -7780,21 +6982,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "おめでとうございます！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "これでもうお金には困りませんね♪"
+                                "Congratulations! With this, you won't have to worry about\nmoney anymore♪"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 1,
                                 0,
                                 2
@@ -7804,21 +6999,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "メメちゃん、明日からギャンブルで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "食っていこうと思うんだ。"
+                                "I'm thinking of living off gambling from tomorrow, Mem-chan\nstyle."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -7828,7 +7016,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "絶対にやめてくださーい！！"
+                                "Please, absolutely stop that!!"
                             ]
                         },
                         {
@@ -7857,7 +7045,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "15000ジュエルを手に入れた！"
+                                "Gained 15000 jewels!"
                             ]
                         },
                         {
@@ -7893,7 +7081,7 @@
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -7903,21 +7091,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "もうお金がないんですから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ギャンブルはやめてください。"
+                                "We're out of money... please stop gambling."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 7,
                                 0,
                                 2
@@ -7927,7 +7108,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "はい・・・。"
+                                "Yes..."
                             ]
                         },
                         {
@@ -7957,7 +7138,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -7967,14 +7148,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ギャンブルを我慢出来るなんて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "メメリスちゃんも成長しましたね♥"
+                                "To think you could resist gambling... Memerisu-chan has\nreally grown up♥"
                             ]
                         },
                         {
@@ -8061,28 +7235,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "所持金2000円しかないのに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "酔った勢いでつい色々と注文をしちゃって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お会計が14万円に・・・どうしよう。"
+                                "I only have 2,000 yen on me, but I got carried away while\ndrunk and ordered so much that the bill came to 140,000\nyen... What should I do."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -8092,7 +7252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんて絶望的な状況なんだ・・・。"
+                                "What a desperate situation..."
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ウタゲの村",
+    "displayName": "Village of Song",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -6555,14 +6555,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここはウタゲの村よ。"
+                                "This is the village of Utage."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -6572,7 +6572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この村の名産品とかってあるの？"
+                                "Does this village have any special local products?"
                             ]
                         },
                         {
@@ -6589,14 +6589,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここはウタゲの村よ。"
+                                "This is the village of Utage."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 3,
                                 0,
                                 2
@@ -6606,7 +6606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え？それは分かったんだけど・・・。"
+                                "Eh? I got that, but..."
                             ]
                         },
                         {
@@ -6623,7 +6623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここはウタゲの村よ。"
+                                "This is the village of Utage."
                             ]
                         },
                         {
@@ -6640,7 +6640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここはウタゲの村よ。"
+                                "This is the village of Utage."
                             ]
                         },
                         {
@@ -6657,14 +6657,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここはウタゲの村よ。"
+                                "This is the village of Utage."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -6674,14 +6674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こ、こここ怖いです！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "逃げましょう、メメリスちゃん！？"
+                                "Th-this is scary!! Let's escape, Memerisu-chan!?"
                             ]
                         },
                         {
@@ -6758,21 +6751,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うおおおおおおおお！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全身全霊で走り続けるんだああああ！！！"
+                                "Aaaaaahhhhhhh!!! Keep running with all your body and soul!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -6782,7 +6768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "止まるんじゃねぇぞー！"
+                                "Don't you dare stop-!"
                             ]
                         },
                         {
@@ -6891,21 +6877,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "井戸の水は冷たくておいしいから飲むと元気がでるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも飲みすぎは注意しないとねぇ。"
+                                "The water from the well is cold and delicious, so drinking\nit makes you feel energized. But you have to be careful not\nto drink too much."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -6915,7 +6894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はーい！"
+                                "Yes!"
                             ]
                         },
                         {
@@ -6992,7 +6971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ワン！ワン！ワン！"
+                                "Woof! Woof! Woof!"
                             ]
                         },
                         {
@@ -7009,14 +6988,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この廃墟はゴロツキが出るらしいワン！"
+                                "This ruin seems to be infested with thugs, woof!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -7026,7 +7005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "安直な語尾やめろ。"
+                                "Stop with the lazy speech endings."
                             ]
                         },
                         {
@@ -7221,7 +7200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "500\\G 手に入れた！"
+                                "Gained 500\\G!"
                             ]
                         },
                         {
@@ -7349,7 +7328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見てくれ団長！"
+                                "Look at me, Captain!"
                             ]
                         },
                         {
@@ -7377,7 +7356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宴を始めろ！！"
+                                "Let the feast begin!!"
                             ]
                         },
                         {
@@ -7454,14 +7433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先は回想部屋です！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エンディングをどれか一つでも見れば開放されますよ。"
+                                "This is the Recollection Room! It will be unlocked once\nyou've seen at least one ending."
                             ]
                         },
                         {
@@ -7673,14 +7645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私はベテラン冒険者！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "初心者の君達に良い事を教えてあげよう。"
+                                "I'm a veteran adventurer! Let me teach you newbies something\ngood."
                             ]
                         },
                         {
@@ -7697,14 +7662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔物の背後から戦闘を仕掛ければ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先制攻撃をすることできる。"
+                                "If you initiate combat from behind a monster, you can get a\npreemptive attack."
                             ]
                         },
                         {
@@ -7721,14 +7679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それに、君の背中はお友達が守ってくれているから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "敵からの不意打ちを受けることは滅多にないだろう。"
+                                "Plus, your friends have got your back, so it's rare to be\ncaught off guard by an enemy."
                             ]
                         },
                         {
@@ -7745,21 +7696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "雑魚エンカで敗北した場合敗北エッチは起きないぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自宅に送り返されてしまうが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゲームオーバーにはならないから安心してくれ。"
+                                "If you're defeated by minor enemies, there won't be a defeat\nH-scene! You'll be sent back home, but it won't be game\nover, so rest easy."
                             ]
                         },
                         {
@@ -7776,14 +7713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戦闘中のアイテム使用は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔物より素早く行動できるから覚えておいてくれ！"
+                                "Remember that you can use items during battle faster than\nthe monsters can act!"
                             ]
                         },
                         {
@@ -7800,14 +7730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ピンチになったときはアイテムを使えば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "敵に攻撃される前に回復出来るぞ。"
+                                "If you're in a pinch, use an item to heal before the enemy\ncan attack you."
                             ]
                         },
                         {
@@ -7824,7 +7747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もし戦闘を回避したい時は、逃走を選ぼう。"
+                                "If you want to avoid battle, choose to escape."
                             ]
                         },
                         {
@@ -7841,14 +7764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "逃走は確実に成功するから、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "めんどくさい敵はガンガン逃げるといいぞ！"
+                                "Escape is guaranteed to succeed, so feel free to run away\nfrom annoying enemies!"
                             ]
                         },
                         {
@@ -7865,21 +7781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "紫髪の子はアタッカーの素質がありそうだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに状態異常技も得意そうだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔物との戦いは状態異常を付与すると有利に進められるぞ！"
+                                "The girl with purple hair seems to have the makings of an\nattacker. She also seems good at inflicting status ailments.\nBattles against monsters can go smoothly if you inflict\nstatus ailments on them!"
                             ]
                         },
                         {
@@ -7896,21 +7798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黄色髪の子は魔法が得意そうだな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "通常攻撃は苦手だろうから常に魔法を使って攻撃するといい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "レベルが上がれば強力な魔法をバンバン習得できるさ。"
+                                "The girl with yellow hair seems to be good at magic! She's\nprobably not great at physical attacks, so it's best to\nalways use magic. As she levels up, she'll learn powerful\nspells one after another."
                             ]
                         },
                         {
@@ -7927,21 +7815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ステータス画面やスキル画面、装備画面で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キャラクターを変更するには"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「Qキー・Ｗキー」を押してくれ！"
+                                "To change characters in the status, skill, or equipment\nscreen, press 'Q Key' or 'W Key'!"
                             ]
                         },
                         {
@@ -7958,21 +7832,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうだい？ベテラン冒険者である私の話は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "参考になったかな。"
+                                "How about it? Was the advice from a veteran adventurer like\nme helpful?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -7982,7 +7849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、すみません。聞いてないです。"
+                                "Ah, sorry. I wasn't listening."
                             ]
                         },
                         {
@@ -8125,7 +7992,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -8135,7 +8002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たーるっ！"
+                                "Ah- So wet!"
                             ]
                         },
                         {
@@ -8202,7 +8069,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -8212,7 +8079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たーるっ！"
+                                "It's dripping!"
                             ]
                         },
                         {
@@ -8279,7 +8146,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -8289,21 +8156,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんなところに壺がある・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんか入ってたりするかな～。"
+                                "There's a pot here... I wonder if there's something inside."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -8313,28 +8173,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、木の種が入ってたよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゲームだと食べるとステータスが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上がったりするよね。"
+                                "Oh, there are tree seeds inside! In games, eating them\nusually boosts your stats, right?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -8344,21 +8190,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え、屋外に放置されている壺の中で見つけた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何の植物か分からない種を食べるんですか！？"
+                                "Wait, you're going to eat some unknown plant seeds you found\nin a pot left outside?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -8368,14 +8207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そう言われてみるとばっちぃかも。"
+                                "...Now that you mention it, that does sound gross."
                             ]
                         },
                         {
@@ -8452,14 +8284,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "井戸だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "水を飲もう！"
+                                "It's a well! Let's drink some water!"
                             ]
                         },
                         {
@@ -8467,8 +8292,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8489,9 +8314,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "メメリス",
-                                    "ティーナ",
-                                    "やっぱりやめる"
+                                    "Memerisu",
+                                    "Tina",
+                                    "I guess I'll stop."
                                 ],
                                 2,
                                 0,
@@ -8521,7 +8346,7 @@
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 3,
                                 0,
                                 2
@@ -8531,7 +8356,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "おしっこしたいし今はやめておこう・・・。"
+                                "I need to pee, so maybe I should hold off for now..."
                             ]
                         },
                         {
@@ -8558,14 +8383,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "メメリスは水を汲んで飲んだ！"
+                                "Memerisu drew water and drank it!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 1,
                                 0,
                                 2
@@ -8575,7 +8400,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "うーまーあーじー！！"
+                                "De-lic-ious!"
                             ]
                         },
                         {
@@ -8604,14 +8429,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "メメリスの体力は全回復した！"
+                                "Memerisu's health has been fully restored!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 3,
                                 0,
                                 2
@@ -8621,14 +8446,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "・・・むむっ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "なんだかトイレに行きたくなってきたかも。"
+                                "...Hmm, I kind of feel like I need to go to the bathroom\nnow."
                             ]
                         },
                         {
@@ -8657,14 +8475,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "メメリスはおしっこがしたくなってしまった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "トイレに行かないとお漏らししてしまうぞ！"
+                                "Memerisu now needs to pee! She needs to find a toilet or\nshe'll wet herself!"
                             ]
                         },
                         {
@@ -8732,7 +8543,7 @@
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -8742,14 +8553,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "今はおしっこもしたいですし・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "飲むのはやめておきましょう。"
+                                "I also need to pee right now... Let's not drink any more."
                             ]
                         },
                         {
@@ -8776,14 +8580,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ティーナは水を汲んで飲んだ！"
+                                "Tina drew water and drank it!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -8793,7 +8597,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "冷たくて美味しい・・・元気が出てきますね♪"
+                                "It's cold and tasty... It's invigorating♪"
                             ]
                         },
                         {
@@ -8822,14 +8626,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ティーナの体力は全回復した！"
+                                "Tina's health has been fully restored!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 7,
                                 0,
                                 2
@@ -8839,21 +8643,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "あっ・・・、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "なんだか少しおトイレに行きたくなって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "きちゃいましたね。"
+                                "Ah... I kind of feel like I need to go to the bathroom a\nlittle now."
                             ]
                         },
                         {
@@ -8882,14 +8672,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ティーナはおしっこがしたくなってしまった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "トイレに行かないとお漏らししてしまうぞ！"
+                                "Tina now needs to pee! She needs to find a toilet or she'll\nwet herself!"
                             ]
                         },
                         {

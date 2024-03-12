@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "道具屋",
+    "displayName": "Tool Shop",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -1245,7 +1245,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -1255,14 +1255,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ATMだ！お金を下ろそう！"
+                                "It's an ATM! Let's withdraw some money!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -1272,14 +1272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えぇ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メメリスちゃん、貯金ってあったんですか！？"
+                                "Eh!!! Memerisu-chan, you had savings?"
                             ]
                         },
                         {
@@ -1298,7 +1291,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 7,
                                 0,
                                 2
@@ -1308,14 +1301,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや、貯金なんて一度もしたことないよ。"
+                                "No, I've never saved money before."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -1325,21 +1318,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ですよね、メメリスちゃんが貯金してたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "偽物かと思っちゃいますよ♪"
+                                "I thought so, if Memerisu-chan had savings, I'd think she\nwas an imposter♪"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 6,
                                 0,
                                 2
@@ -1349,7 +1335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこまで！？"
+                                "Is it that surprising!?"
                             ]
                         },
                         {
@@ -1426,7 +1412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "らっしゃいませー。"
+                                "Welcome!"
                             ]
                         },
                         {
@@ -1434,9 +1420,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "買い物する",
-                                    "働きたい",
-                                    "やっぱり用はないや"
+                                    "Go shopping",
+                                    "I want to work",
+                                    "Actually, I don't need anything"
                                 ],
                                 2,
                                 0,
@@ -1557,7 +1543,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あざっしたー。"
+                                "Thanks!"
                             ]
                         },
                         {
@@ -1587,14 +1573,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うっす。バイト希望すか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "じゃあ、自分飯行ってくるんでその間店番オナシャス！"
+                                "Hey there. You looking for a part-time job? Then, I'm gonna\ngrab some food, so please mind the store for me!"
                             ]
                         },
                         {
@@ -1643,7 +1622,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウィーン。ポロリンポロリ～ン。"
+                                "Weeeng. The sound of something dropping..."
                             ]
                         },
                         {
@@ -1660,7 +1639,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]いらっしゃいませー。"
+                                "\\c[31]Welcome!"
                             ]
                         },
                         {
@@ -1677,7 +1656,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おう、その盾いくらじゃ？"
+                                "Hey, how much for that shield?"
                             ]
                         },
                         {
@@ -1694,7 +1673,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]こちら、14万3000ジュエルとなっております。"
+                                "\\c[31]That would be 143,000 jewels."
                             ]
                         },
                         {
@@ -1711,7 +1690,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その盾がかぁ！？ぼったくりやろこれぇ！！"
+                                "That much for a shield?! You're ripping me off here!!"
                             ]
                         },
                         {
@@ -1728,7 +1707,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]今ならポイント10倍キャンペーン中ですよ。"
+                                "\\c[17]We're currently running a 10x points campaign."
                             ]
                         },
                         {
@@ -1745,7 +1724,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ポイントカードぉ・・・？それはこれか？"
+                                "A points card...? Is this it?"
                             ]
                         },
                         {
@@ -1762,14 +1741,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]あ、そのポイントカードはうちでは使えませんね・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "申し訳ありません。"
+                                "\\c[17]Ah, that points card isn't valid here... I apologize."
                             ]
                         },
                         {
@@ -1786,14 +1758,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なんじゃぁ！おどれら、ワシの事なめとんのかぁ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もう帰るわ！！！"
+                                "What the heck! Are you guys making fun of me?! I'm\nleaving!!!"
                             ]
                         },
                         {
@@ -1810,14 +1775,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]ありがとうございましたー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]ありがとうございましたー。"
+                                "\\c[31]Thank you very much.\\c[17]Thank you very much."
                             ]
                         },
                         {
@@ -1834,7 +1792,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "一生懸命働いた！"
+                                "I worked really hard!"
                             ]
                         },
                         {
@@ -1865,7 +1823,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お疲れっす～、バイト代どぞ。"
+                                "You're tired, huh~ Here's your pay for the part-time job."
                             ]
                         },
                         {
@@ -1903,7 +1861,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1800ジュエルを手に入れた！"
+                                "Gained 1800 jewels!"
                             ]
                         },
                         {
@@ -1993,7 +1951,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 4,
                                 0,
                                 2
@@ -2003,21 +1961,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "焦がしにんにくの油とめちゃうま葱油が香る"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冷凍チャーハン！！食欲がそそられる・・・！！"
+                                "The aroma of scorched garlic oil and super delicious green\nonion oil is wafting from this frozen fried rice!! It's\nmaking me so hungry...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -2027,7 +1978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんなのばかり食べてたら太りますよ！"
+                                "If you keep eating stuff like that, you'll gain weight!"
                             ]
                         },
                         {
@@ -2094,7 +2045,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 4,
                                 0,
                                 2
@@ -2104,21 +2055,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "焦がしにんにくの油とめちゃうま葱油が香る"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冷凍チャーハン！！食欲がそそられる・・・！！"
+                                "The aroma of scorched garlic oil and super delicious green\nonion oil is wafting from this frozen fried rice!! It's\nmaking me so hungry...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -2128,7 +2072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんなのばかり食べてたら太りますよ！"
+                                "If you keep eating stuff like that, you'll gain weight!"
                             ]
                         },
                         {
@@ -2195,7 +2139,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 4,
                                 0,
                                 2
@@ -2205,21 +2149,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "焦がしにんにくの油とめちゃうま葱油が香る"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冷凍チャーハン！！食欲がそそられる・・・！！"
+                                "Garlic oil with a hint of char and super delicious green\nonion oil flavor this frozen fried rice!! It's so\nappetizing...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -2229,7 +2166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんなのばかり食べてたら太りますよ！"
+                                "If you keep eating stuff like that, you'll gain weight!"
                             ]
                         },
                         {

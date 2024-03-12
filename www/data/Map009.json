@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "民家",
+    "displayName": "Private House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 17,
@@ -2365,7 +2365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "力が欲しいか・・・？"
+                                "Do you desire power...?"
                             ]
                         },
                         {
@@ -2373,8 +2373,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2404,14 +2404,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうか・・・頑張れよ。"
+                                "I see... Hang in there."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -2421,7 +2421,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "は？"
+                                "Huh?"
                             ]
                         },
                         {
@@ -2438,14 +2438,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "今はその時ではない・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "また後で来るがいい。"
+                                "Now is not the time... Come back later."
                             ]
                         },
                         {
@@ -2475,7 +2468,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうか・・・。"
+                                "I see..."
                             ]
                         },
                         {
@@ -2553,7 +2546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "力が欲しいか・・・？"
+                                "Do you desire power...?"
                             ]
                         },
                         {
@@ -2561,8 +2554,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2592,7 +2585,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうか・・・ならこれをやろう。"
+                                "I see... Then take this."
                             ]
                         },
                         {
@@ -2621,7 +2614,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ニンジンを貰った！"
+                                "Received a carrot!"
                             ]
                         },
                         {
@@ -2670,7 +2663,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうか・・・。"
+                                "I see..."
                             ]
                         },
                         {
@@ -2748,7 +2741,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "力が欲しいか・・・？"
+                                "Do you desire power...?"
                             ]
                         },
                         {
@@ -2756,8 +2749,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2787,7 +2780,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "もうなにもやらんぞ。"
+                                "I won't do anything more."
                             ]
                         },
                         {
@@ -2817,7 +2810,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうか・・・。"
+                                "I see..."
                             ]
                         },
                         {
@@ -2904,7 +2897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぷるぷる・・・ボク、悪いスライムじゃないよ・・・。"
+                                "Wobble wobble... I'm not a bad slime..."
                             ]
                         },
                         {
@@ -2921,21 +2914,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ただ、20年ひきニートをしてるだけの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スライムだよ・・・。"
+                                "I'm just a slime that's been a shut-in for 20 years..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -2945,21 +2931,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こいつはここでトドメを刺した方が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良いかもしれない・・・。"
+                                "Maybe we should finish this one off here..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -2969,7 +2948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{やめてください！！"
+                                "Please stop!!"
                             ]
                         },
                         {
@@ -3165,7 +3144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポーションを手に入れた！"
+                                "Obtained a Potion!"
                             ]
                         },
                         {
@@ -3410,7 +3389,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -3420,7 +3399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たーるっ！"
+                                "It's dripping!"
                             ]
                         },
                         {
@@ -3487,7 +3466,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -3497,7 +3476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たーるっ！"
+                                "It's dripping!"
                             ]
                         },
                         {
@@ -3564,7 +3543,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -3574,14 +3553,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んあーっ！枕がデカすぎますっ！！"
+                                "Nn-ah! The pillow is too big!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -3591,14 +3570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やめてくださいメメリスちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それだけは！それだけはホントに！！"
+                                "Please stop, Memerisu-chan! Anything but that! Anything but\nthat, really!!"
                             ]
                         },
                         {
@@ -3665,7 +3637,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -3675,14 +3647,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んあーっ！枕がデカすぎますっ！！"
+                                "Nn-ah! The pillow is too big!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -3692,14 +3664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やめてくださいメメリスちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それだけは！それだけはホントに！！"
+                                "Please stop, Memerisu-chan! Anything but that! Really,\nanything but that!!"
                             ]
                         },
                         {
@@ -3766,7 +3731,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -3776,14 +3741,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "んあーっ！枕がデカすぎますっ！！"
+                                "Nn-ah! The pillow is too big!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -3793,14 +3758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やめてくださいメメリスちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それだけは！それだけはホントに！！"
+                                "Please stop, Memerisu-chan! Anything but that! Really,\nanything but that!!"
                             ]
                         },
                         {
@@ -3867,7 +3825,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 5,
                                 0,
                                 2
@@ -3877,21 +3835,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パンはパンでも食べられないパンは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なーんだ？"
+                                "What kind of bread can't you eat?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -3901,21 +3852,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（小学生レベルのなぞなぞ・・・これは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フライパン以外のひっかけですね・・・）"
+                                "(A riddle for elementary students... It must be a trick\nquestion that's not a frying pan...)"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -3925,21 +3869,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうですね・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（メメリスちゃんが言いそうな答えは・・・。）"
+                                "Let's see... (What would Memerisu-chan likely answer...)"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 3,
                                 0,
                                 2
@@ -3949,14 +3886,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パンツですね！ﾑﾌｰｯ"
+                                "It's panties! Mufufu~"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -3966,21 +3903,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え、フライパンだけど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしたの急にパンツだなんて・・・。"
+                                "Eh, it's a frying pan, but why suddenly panties..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -3990,7 +3920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "～～～～～～～～～～～っっっ！！！！"
+                                "~~~~~~~~~~~~!!!!"
                             ]
                         },
                         {
@@ -4057,7 +3987,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 0,
                                 0,
                                 2
@@ -4067,14 +3997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本棚がありますね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どんな本が置いてあるんでしょう・・・。"
+                                "There's a bookshelf here. I wonder what kind of books are on\nit..."
                             ]
                         },
                         {
@@ -4093,7 +4016,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 6,
                                 0,
                                 2
@@ -4103,7 +4026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・っ！！？"
+                                "...Huh?!"
                             ]
                         },
                         {
@@ -4122,7 +4045,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 7,
                                 0,
                                 2
@@ -4132,7 +4055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こ、これは・・・！！ｺﾞｸﾘ"
+                                "Th-This is...!! *gulp*"
                             ]
                         },
                         {
@@ -4151,7 +4074,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 6,
                                 0,
                                 2
@@ -4161,21 +4084,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・はわっ・・・あっ・・・あああっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そ、そんなこんな大きいのが・・・っ！！"
+                                "...Hah... Ah... Ahhh! S-Something this big...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -4185,14 +4101,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何を見てるの？"
+                                "What are you looking at?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -4202,14 +4118,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{ほっほっほわー！！！"
+                                "H-Ho-Hot...!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 7,
                                 0,
                                 2
@@ -4219,7 +4135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "な、なんでもありません！！"
+                                "It's nothing at all!!"
                             ]
                         },
                         {
@@ -4286,7 +4202,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -4296,14 +4212,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんでこんなに人参があるんだろう。"
+                                "I wonder why there are so many carrots here."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -4313,14 +4229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お馬さんの大好物ですし餌としてあげるのも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいかもしれませんね。"
+                                "They're a horse's favorite, so it might be good to give them\nas feed."
                             ]
                         },
                         {
@@ -4387,7 +4296,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -4397,14 +4306,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんでこんなに人参があるんだろう。"
+                                "I wonder why there are so many carrots here."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -4414,14 +4323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お馬さんの大好物ですし餌としてあげるのも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいかもしれませんね。"
+                                "They are a horse's favorite, so it might be good to give\nthem as feed."
                             ]
                         },
                         {
@@ -4488,7 +4390,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -4498,21 +4400,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "勇者特権でタンスの中身を調べて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頂いちゃうぜー！"
+                                "I'm gonna exercise my hero's privilege and check out the\ncontents of this dresser!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -4522,7 +4417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダメですよ、捕まりますよ！"
+                                "No, you can't do that, you'll get caught!"
                             ]
                         },
                         {

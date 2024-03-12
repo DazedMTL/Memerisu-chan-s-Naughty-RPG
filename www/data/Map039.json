@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "検問所",
+    "displayName": "Checkpoint",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -1489,21 +1489,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっと、ここから先は通行止めです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "通りたければ通行料を支払ってもらう必要があります。"
+                                "Oops, this road is closed. You'll need to pay a toll if you\nwant to pass."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -1513,7 +1506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いくら必要なんでしょうか？"
+                                "How much will it be?"
                             ]
                         },
                         {
@@ -1530,21 +1523,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "1人分で14万ですので、二人で合計28万ジュエルが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "必要となりますね。"
+                                "It's 140,000 for one person, so for two people, you'll need\na total of 280,000 jewels."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 6,
                                 0,
                                 2
@@ -1554,14 +1540,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "14万！？ボッタクリやろこれぇ！！！"
+                                "140,000!? That's a rip-off!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -1571,21 +1557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さてはこの辺りを根城にしてる悪党か"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何かが法外な値段をせびってるんだな！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぶちのめしてやる！！"
+                                "You must be some villain who's made this place your lair,\nextorting outrageous prices from people!! I'll take you\ndown!!"
                             ]
                         },
                         {
@@ -1602,14 +1574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いえ、こちらはこの島の規則に則って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "算出された額でして・・・こちら証明書です。"
+                                "No, this amount has been calculated according to the rules\nof this island... here is the certificate."
                             ]
                         },
                         {
@@ -1628,7 +1593,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -1638,14 +1603,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どれどれ・・・・・・・・・・・・・・・。"
+                                "Let's see..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -1655,21 +1620,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、これ本物の証明書ですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "偽造でもなさそうです。"
+                                "Ah, this is a real certificate. It doesn't seem to be a\nfake."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -1679,7 +1637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "嘘だろ！ティーナちゃん！？"
+                                "No way! Tina-chan!?"
                             ]
                         },
                         {
@@ -1696,14 +1654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先のダンジョンには他のダンジョンより"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "凄い財宝が眠っているとの伝説があります。"
+                                "There is a legend that the dungeon ahead contains treasures\nfar greater than any other dungeon."
                             ]
                         },
                         {
@@ -1720,21 +1671,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そのため、誰でも挑戦出来ないように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "管理されているわけですね。"
+                                "Therefore, it's managed so that not just anyone can attempt\nit."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -1744,14 +1688,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "な、なるほど・・・。"
+                                "I see..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -1761,7 +1705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "28万ジュエルなんてどうしたら・・・。"
+                                "How are we supposed to come up with 280,000 jewels..."
                             ]
                         },
                         {
@@ -1778,14 +1722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この島には小さなダンジョンと化した場所もあります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこを探索すれば多少のお金にはなると思いますよ。"
+                                "There are smaller dungeons on this island that have turned\ninto places to explore. You might be able to make some money\nif you search there."
                             ]
                         },
                         {
@@ -1802,14 +1739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それかお二人は若いので、コチヌカシティで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "働けばすぐに・・・いえ、失礼いたしました。"
+                                "Or since you two are young, you could work in the city of\nCochinukashi and earn it quickly... no, my apologies."
                             ]
                         },
                         {
@@ -1826,14 +1756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とにかくこちらとしてはお二人で28万ジュエルさえ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お支払いしていただければ通行を許可出来ます。"
+                                "Anyway, as long as you two can pay the 280,000 jewels, we\ncan grant you passage."
                             ]
                         },
                         {
@@ -1850,14 +1773,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お好きな方法で頑張ってください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでは。"
+                                "Please try your best by whatever means you like. Farewell."
                             ]
                         },
                         {
@@ -1895,7 +1811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "第一の島にあるギルドでガチャを回せるようになりました！"
+                                "You can now spin the gacha at the guild on the first island!"
                             ]
                         },
                         {
@@ -1963,7 +1879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "通行料を支払いますか？"
+                                "Will you pay the toll?"
                             ]
                         },
                         {
@@ -1971,8 +1887,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2011,7 +1927,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "通行料を支払った！"
+                                "You paid the toll!"
                             ]
                         },
                         {
@@ -2049,14 +1965,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "確かに通行料を頂きました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それではお通りください。"
+                                "Indeed, I have received the toll. Please go ahead."
                             ]
                         },
                         {
@@ -2073,14 +1982,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "噂ではこの先のダンジョンの秘宝は他のダンジョンよりも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "凄い・・・何でも望む結果が手に入るそうです。"
+                                "Rumor has it that the treasure in the dungeon ahead is more\nincredible than any other... It's said that you can obtain\nwhatever outcome you desire."
                             ]
                         },
                         {
@@ -2097,21 +1999,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "頑張ってください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "幸運を祈ります。"
+                                "Good luck. I wish you fortune."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 6,
                                 0,
                                 2
@@ -2121,21 +2016,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "何でも望む結果が手に入る！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "これは凄いお宝かも・・・！！"
+                                "Obtain whatever outcome I desire!? This could be an amazing\ntreasure...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -2145,7 +2033,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "がんばりましょう、メメリスちゃん！"
+                                "Let's do our best, Memerisu-chan!"
                             ]
                         },
                         {
@@ -2191,7 +2079,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "お金が足りません。"
+                                "You don't have enough money."
                             ]
                         },
                         {
@@ -2436,14 +2324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "噂ではこの先のダンジョンの秘宝は他のダンジョンよりも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "凄い・・・何でも望む結果が手に入るそうです。"
+                                "Rumor has it that the treasure in the dungeon ahead is more\namazing than any other... It's said that you can obtain\nwhatever outcome you desire."
                             ]
                         },
                         {
@@ -2460,14 +2341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "頑張ってください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "幸運を祈ります。"
+                                "Please do your best. I wish you luck."
                             ]
                         },
                         {

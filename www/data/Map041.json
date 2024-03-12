@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ウマ小屋",
+    "displayName": "Horse Stable",
     "encounterList": [],
     "encounterStep": 30,
     "height": 10,
@@ -1231,7 +1231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒヒーン！ヒヒーン！"
+                                "Hee-hin! Hee-hin!"
                             ]
                         },
                         {
@@ -1320,7 +1320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒヒーン！ヒヒーン！"
+                                "Hee-hin! Hee-hin!"
                             ]
                         },
                         {
@@ -1409,14 +1409,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒヒーン！ヒヒーン！"
+                                "Hee-haw! Hee-haw!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -1426,14 +1426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "隣にある宝箱を開けたいのに馬が邪魔だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ニンジンでもあれば餌で釣って退かせるかも？"
+                                "I want to open the treasure chest next to me, but the horse\nis in the way. Maybe if I had a carrot, I could lure it away\nwith food?"
                             ]
                         },
                         {
@@ -1458,7 +1451,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "馬がニンジンを欲しそうに見つめている。"
+                                "The horse is looking at you, as if it wants a carrot."
                             ]
                         },
                         {
@@ -1475,7 +1468,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ニンジンをあげますか？"
+                                "Will you give it a carrot?"
                             ]
                         },
                         {
@@ -1483,8 +1476,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -1526,7 +1519,7 @@
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -1536,7 +1529,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ほれほれ、ボクのニンジンをお食べ。ﾎﾞﾛﾝ"
+                                "Here you go, eat my carrot. Horon"
                             ]
                         },
                         {
@@ -1553,7 +1546,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "馬にニンジンをあげた！"
+                                "You gave the horse a carrot!"
                             ]
                         },
                         {
@@ -1582,28 +1575,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ヒヒーン！ヒヒーン！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\{\\{\\{ブチィ！！！！！！"
+                                "Hee-haw! Hee-haw! Bucchi!!!!!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 6,
                                 0,
                                 2
@@ -1613,7 +1592,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おわっー！ボクのニンジンが真っ二つに！？"
+                                "Whoa-! My carrot got snapped in half!?"
                             ]
                         },
                         {
@@ -1630,14 +1609,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ヒヒーン♪ヒヒーン♪"
+                                "Hee-haw♪ Hee-haw♪"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -1647,21 +1626,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あれ？どうやらこのお馬さん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "メメリスちゃんに懐いちゃったみたいですよ。"
+                                "Huh? It seems like this horse has taken a liking to\nMemerisu-chan."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -1671,21 +1643,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おほー！流石ボクちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "良い女ってのは動物にも好かれちゃうもんだな！"
+                                "Oh ho-! As expected of me! A good woman is liked even by\nanimals!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 1,
                                 0,
                                 2
@@ -1695,21 +1660,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "よしよし、馬よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "そこにある宝箱が取りたいからちょっと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "どいておくれ～。"
+                                "There there, horse. I want to get that treasure chest, so\ncould you move aside for me~."
                             ]
                         },
                         {
@@ -1738,7 +1689,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ヒヒーン♪ヒヒーン♪"
+                                "Hee-haw♪ Hee-haw♪"
                             ]
                         },
                         {
@@ -2131,7 +2082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おウマのキーホルダーを手に入れた！"
+                                "Obtained the Horse Keyholder!"
                             ]
                         },
                         {
@@ -2271,14 +2222,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒヒーン♪ヒヒーン♪"
+                                "Hee-hee♪ Hee-hee♪"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -2288,14 +2239,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よしよし、マグナムターボは今日も元気だな！"
+                                "There, there, Magnum Turbo is full of energy today too!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -2305,7 +2256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え、それ名前ですか・・・？"
+                                "Eh, that's its name...?"
                             ]
                         },
                         {
@@ -2628,7 +2579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鋼の石を手に入れた！"
+                                "Obtained the Steel Stone!"
                             ]
                         },
                         {

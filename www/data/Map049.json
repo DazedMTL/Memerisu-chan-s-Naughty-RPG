@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ほじりの森",
+    "displayName": "Forest of Fondling",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2013,7 +2013,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -2023,7 +2023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっさん・・・大丈夫・・・？"
+                                "Old man... are you okay...?"
                             ]
                         },
                         {
@@ -2040,14 +2040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ・・・もう少しで取り返しのつかない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "世界に行くところだった・・・ありがとう。"
+                                "Ah... I was almost gone to a point of no return... Thank\nyou."
                             ]
                         },
                         {
@@ -2064,14 +2057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大した物ではないが、せめてものお礼として"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これを受け取ってくれ。"
+                                "It's not much, but please accept this as a token of my\ngratitude."
                             ]
                         },
                         {
@@ -2110,7 +2096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スライムの欠片を50個手に入れた！"
+                                "Gained 50 Slime Fragments!"
                             ]
                         },
                         {
@@ -2187,14 +2173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おケツほじりスライムにおケツをほじられて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "以来、痔や便秘が治ったんだ。"
+                                "Ever since the Butt-Poking Slime poked my butt, my\nhemorrhoids and constipation have been cured."
                             ]
                         },
                         {
@@ -2211,28 +2190,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もしかするとおケツほじりスライムは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この島の生き物のおケツを守ってくれている"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "神聖な生き物なのかもしれないな。"
+                                "Perhaps the Butt-Poking Slime is a sacred creature that\nprotects the butts of all the creatures on this island."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -2242,7 +2207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（おっさん、正気度を下げられてる・・・）"
+                                "(This old man... his sanity must be decreasing...)"
                             ]
                         },
                         {
@@ -2874,21 +2839,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{お゛ぉ゛♥♥！！！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お゛お゛ォ゛オ゛ン゛♥"
+                                "Ahhh♥♥!!!! Ah, ahhh♥"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -2898,21 +2856,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "た、大変ですー！！冒険者の方が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おケツほじりスライムに襲われています！"
+                                "T-this is terrible-!! An adventurer is being attacked by a\nbutt-digging slime!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 6,
                                 0,
                                 2
@@ -2922,14 +2873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、それに・・・ひゃぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お、男の人が・・・す、すごいですぅ・・・！"
+                                "And... eek... the man is... so amazing...!"
                             ]
                         },
                         {
@@ -2946,21 +2890,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{お゛ぉ゛♥♥！！！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だ、だれか！助けんぉおお！！"
+                                "Ahhh♥♥!!!! Someone! Help meee!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -2970,7 +2907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こ、この世の終わりのような光景だ・・・。"
+                                "This is like a scene from the end of the world..."
                             ]
                         },
                         {
@@ -2987,14 +2924,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴポゴポ・・・♥"
+                                "Glop glop...♥"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -3004,21 +2941,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひぇ・・・こ、こっちに来ましたよ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メメリスちゃん！！"
+                                "Eek... it's coming this way! Memerisu-chan!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -3028,21 +2958,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ケツ向けて逃げればおケツをほじられる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "臆せば敗北しておケツをほじられる・・・！！"
+                                "If you turn your butt and run, you'll get your butt dug\ninto. If you hesitate, you'll be defeated and get your butt\ndug into...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -3052,21 +2975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "行くぞ！ティーナちゃん！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ケツの穴締めておケツほじりスライムと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "決戦じゃーい！！"
+                                "Let's go! Tina-chan!! Clench your butt and prepare for the\nfinal battle with the butt-digging slime!!"
                             ]
                         },
                         {
@@ -3088,7 +2997,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -3098,14 +3007,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\{\\{どりゃー！！"
+                                "Take this-!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -3115,14 +3024,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "どうだ！これでやったか！？"
+                                "How about that! Did I get it?!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -3132,7 +3041,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いえ、まだいます！"
+                                "No, it's still there!"
                             ]
                         },
                         {
@@ -3149,14 +3058,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ゴポゴポ・・・！ゴポゴポ・・・！！"
+                                "Glop glop...! Glop glop...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 6,
                                 0,
                                 2
@@ -3166,14 +3075,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おわっ！？こいつ他の個体より攻撃的だ！！"
+                                "Whoa!? This one is more aggressive than the others!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -3183,14 +3092,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "この個体がターゲットでしょうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一応調査が目的ですが・・・。"
+                                "Is this the target? Our goal was to investigate, but..."
                             ]
                         },
                         {
@@ -3207,21 +3109,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\{\\{お゛ぉ゛♥♥！！！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お゛お゛ォ゛ォ゛オ゛ン゛ン゛♥"
+                                "Ahhh♥♥!!!! Ah, ahhh♥"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -3231,21 +3126,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "流石に目の前でおケツほじられてるおっさんを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "見捨てたら夢に出てきそうだ！！！"
+                                "I can't just leave this old man getting his butt dug into\nright before my eyes, it would haunt my dreams!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -3255,21 +3143,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "待ってろおっさん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今あんたのケツイキアクメ地獄を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "止めてみせる！！"
+                                "Hang on old man! I'm going to stop your anal climax hell\nright now!!"
                             ]
                         },
                         {
@@ -3286,14 +3160,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ニュルル！ニュルルルル！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ニュルルルルルルン！！！"
+                                "Nyururu! Nyururururu! Nyururururururun!!!"
                             ]
                         },
                         {
@@ -3324,7 +3191,7 @@
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -3334,14 +3201,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "よし！おケツほじりスライムを捕獲出来た！"
+                                "Alright! We've captured the butt-digging slime!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -3351,21 +3218,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "勢いで捕獲しちゃいましたけど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "どうしましょうこれ・・・？"
+                                "We caught it in the heat of the moment, but... what do we do\nwith this...?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 0,
                                 0,
                                 2
@@ -3375,14 +3235,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "とりあえず調査員の人に報告しに行こうか。"
+                                "For now, let's go report back to the investigator."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 6,
                                 0,
                                 2
@@ -3392,7 +3252,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あっ！ところでおっさんの様子は！？"
+                                "Oh! But what about the old man's condition!?"
                             ]
                         },
                         {
@@ -3409,7 +3269,7 @@
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -3419,28 +3279,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ティーナちゃん、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ここはボクが時間を稼ぐから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "助けを呼んできて！"
+                                "Tina-chan, I'll buy us some time here... go call for help!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -3450,14 +3296,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "で、でも・・・！！"
+                                "But...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -3467,14 +3313,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\{\\{いいからはよいけー！"
+                                "Just go quickly!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -3484,7 +3330,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "わ、分かりました！すぐに戻ってきますから！"
+                                "O-okay! I'll be right back!"
                             ]
                         },
                         {
@@ -3501,14 +3347,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ティーナが走り出したと同時に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "おケツほじりスライムがメメリスに襲い掛かった！"
+                                "As Tina started running, the butt-digging slime attacked\nMemerisu!"
                             ]
                         },
                         {
@@ -3575,14 +3414,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おケツほじりスライムは衣服を剥ぎ取り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "おケツがよく見えるように足を開かせる・・・。"
+                                "The butt-digging slime stripped off her clothes and spread\nher legs to make her butt more visible..."
                             ]
                         },
                         {
@@ -3599,14 +3431,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]うぅ・・・スライムがネチョネチョして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "気持ち悪い・・・。"
+                                "\\c[31]Ugh... The slime is slimy and feels disgusting..."
                             ]
                         },
                         {
@@ -3623,28 +3448,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "粘着性のあるスライムに絡み付かれ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "動きを封じられてしまう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "脱出しようと暴れるが余計に体にスライムが付着"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "するだけだった・・・。"
+                                "Tangled in the sticky slime, her movements were sealed.\nStruggling to escape only caused more slime to adhere to her\nbody..."
                             ]
                         },
                         {
@@ -3689,7 +3493,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "にちゃっぴちゃっ・・・ごぽっ・・・。"
+                                "Squish splash... glop..."
                             ]
                         },
                         {
@@ -3706,14 +3510,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "動きを完全に封じた事を確認したスライムは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "より多くメメリスの元に集まっていく・・・。"
+                                "Confirming that her movements were completely sealed, more\nslimes gathered around Memerisu..."
                             ]
                         },
                         {
@@ -3730,14 +3527,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]な、何・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "どんどんおっきくなってく・・・！！"
+                                "\\c[31]What...? It's getting bigger and bigger...!!"
                             ]
                         },
                         {
@@ -3782,7 +3572,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]こ、これって・・・おちんちん・・・！！"
+                                "\\c[31]This is... a dick...!!"
                             ]
                         },
                         {
@@ -3799,14 +3589,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "メメリスの目の前におケツをほじるのに適した"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "カリ高で太く長いスライムチンポが現れる・・・。"
+                                "In front of Memerisu appeared a slime dick, suitably ribbed\nand thick and long for butt-digging..."
                             ]
                         },
                         {
@@ -3823,7 +3606,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]こ、こんなのでお尻ほじられたら・・・！！"
+                                "\\c[31]If I get my ass dug out by something like this...!!"
                             ]
                         },
                         {
@@ -3840,21 +3623,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "出す事はあっても入れる事はない部分・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "そこに異物を挿入される事に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "今更になり恐怖を感じる・・・。"
+                                "A place meant for exit but not for entry... The fear of\nhaving a foreign object inserted there struck her anew..."
                             ]
                         },
                         {
@@ -3871,14 +3640,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "スライムはそんなことには構わず、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "メメリスのアナルを刺激する・・・。"
+                                "The slime didn't care about such things and stimulated\nMemerisu's anus..."
                             ]
                         },
                         {
@@ -3895,7 +3657,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]やめ・・・やめて・・・！！"
+                                "\\c[31]Stop... stop it...!!"
                             ]
                         },
                         {
@@ -3940,21 +3702,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]クチュ・・・グプププ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\{\\{\\{に゛ゅるんっ♥♥♥"
+                                "\\c[27]Squish... gulp... nnngh♥♥♥"
                             ]
                         },
                         {
@@ -3971,7 +3719,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{ひぎゅっ・・・・！！お゛ぉ・・・！！"
+                                "\\c[31]Higyuu...!! Ohh...!!"
                             ]
                         },
                         {
@@ -3988,21 +3736,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "柔らかく弾力のあるスライムチンポは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "思いのほか抵抗や痛みを感じずメメリスのアナルに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "挿入された・・・。"
+                                "The soft and elastic slime cock, to her surprise, slid into\nMemerisu's anus without much resistance or pain..."
                             ]
                         },
                         {
@@ -4035,7 +3769,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]（お尻に・・・お尻にホントに入って・・・る・・・！）"
+                                "\\c[31](In my butt... it's really going inside...!)"
                             ]
                         },
                         {
@@ -4052,21 +3786,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "自ら挿入した事のないお尻に感じる初めての感覚・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "アナルが広がってお尻の中にひんやりとした"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "スライムチンポを感じる・・・。"
+                                "Feeling something inside her butt for the first time, her\nanus stretched to accommodate the cool slime cock..."
                             ]
                         },
                         {
@@ -4083,7 +3803,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]ぐちゅ・・・ぷちゅっ・・・にゅちゅっ・・・♥"
+                                "\\c[27]Gush... plop... squelch...♥"
                             ]
                         },
                         {
@@ -4116,14 +3836,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "アナルに挿入したスライムだが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "すぐには動かない。"
+                                "The slime, now inserted in her anus, didn't move right away."
                             ]
                         },
                         {
@@ -4140,21 +3853,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おケツほじりスライムは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "おケツを決して傷つけないモンスター。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "おケツをほじる前には入念にアナルをほぐす・・・。"
+                                "The butt-digging slime is a monster that never harms the\nbutt. Before digging, it thoroughly loosens up the anus..."
                             ]
                         },
                         {
@@ -4171,14 +3870,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]（うぅ・・・お尻の中のスライムチンポの形が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "分かっちゃう・・・。）"
+                                "\\c[31](Ugh... I can feel the shape of the slime cock inside my\nbutt...)"
                             ]
                         },
                         {
@@ -4195,14 +3887,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]（それになんだか・・・お尻が熱くなって・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "不思議な感覚・・・きもち・・・いい？）"
+                                "\\c[31](And somehow... my butt feels hot... a strange sensation...\nis it... feeling good?)"
                             ]
                         },
                         {
@@ -4247,14 +3932,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "スライムはアナルに挿入したまま、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "メメリスのクリトリスを責め始めた・・・。"
+                                "While the slime remained inserted in her anus, it began to\ntease Memerisu's clitoris..."
                             ]
                         },
                         {
@@ -4271,7 +3949,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]あっ・・・♥そ、そこっ・・・あっ・・・あっ・・・♥"
+                                "\\c[31]Ah...! Th-that spot... ah... ah...♥"
                             ]
                         },
                         {
@@ -4288,14 +3966,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "メメリスの口から甘い声が聞こえ始め、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "スライムは丁寧にクリトリスの皮を剥き露出させる・・・。"
+                                "Sweet moans began to escape from Memerisu's lips as the\nslime carefully peeled back the hood of her clitoris to\nexpose it..."
                             ]
                         },
                         {
@@ -4312,14 +3983,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]んんっ！そこだ、だめ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "剥か・・・ないで・・・ボクのクリ・・・あんっ♥"
+                                "\\c[31]Nnnh! Not there, no... don't peel it... my clit... ahhn♥"
                             ]
                         },
                         {
@@ -4352,14 +4016,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おまんこからは蜜が溢れ出し、クリトリスは勃起。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "優しく、かつ正確にコリコリとクリトリスを責め続ける。"
+                                "Honey overflowed from her pussy, and her clitoris was erect.\nGently yet precisely, it continued to tease and roll her\nclitoris."
                             ]
                         },
                         {
@@ -4376,14 +4033,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]あっ・・・♥だめ・・・イク♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "イッちゃう・・・♥"
+                                "\\c[31]Ah...! No... I'm going to cum♥ I'm cumming...♥"
                             ]
                         },
                         {
@@ -4400,7 +4050,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "メメリスがクリ責めで絶頂しようとした瞬間・・・。"
+                                "Just as Memerisu was about to climax from the clit\nteasing..."
                             ]
                         },
                         {
@@ -4455,7 +4105,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{お゛ぉ゛ぉ゛っっ♥♥♥"
+                                "\\c[31]Ooohhh♥♥♥"
                             ]
                         },
                         {
@@ -4484,7 +4134,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{ヌリュ♥ズチュ♥ズチュチュチュ♥♥"
+                                "\\c[27]Nuryu♥ Zuchu♥ Zuchuchuchu♥♥"
                             ]
                         },
                         {
@@ -4501,14 +4151,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "すっかりほぐれたアナルを極太カリ高スライムチンポで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "容赦なくほじり始めた・・・！！"
+                                "With her anus now fully loosened, the thick-ridged slime\ncock began to mercilessly dig into her..."
                             ]
                         },
                         {
@@ -4525,14 +4168,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ブポッ！ジュチュ♥プチュチュ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "にゅちゅっ♥♥♥"
+                                "\\c[27]Bupo! Juchu♥ Puchuchu♥ Nyuchu♥♥♥"
                             ]
                         },
                         {
@@ -4565,14 +4201,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "激しくピストンされるスライムチンポをアナルで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "咥え込み、下品な音を立てながらほじられる・・・。"
+                                "As the slime cock pistoned violently, she clenched it with\nher anus, making lewd noises as she was dug out..."
                             ]
                         },
                         {
@@ -4589,14 +4218,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]お尻が・・・熱い♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "なにこれ・・・なにこれ♥♥♥"
+                                "\\c[31]My butt is... hot♥♥ What is this... what is this♥♥♥"
                             ]
                         },
                         {
@@ -4613,14 +4235,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]だめ・・・イク♥イッちゃう♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "スライムにおケツほじられてケツイキアクメしちゃう♥"
+                                "\\c[31]No... I'm cumming♥ I'm going to cum♥ Getting my butt dug out\nby a slime and having an anal orgasm♥"
                             ]
                         },
                         {
@@ -4637,14 +4252,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{イク♥イクイクイク♥♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "イックぅうううううううう♥♥♥"
+                                "\\c[31]I'm cumming♥ Cummingcummingcumming♥♥♥ Cummingggggggggggg♥♥♥"
                             ]
                         },
                         {
@@ -4731,14 +4339,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ビュルッ♥ビュルルルッッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ビュルルルルルルルルルッッッ♥♥♥"
+                                "\\c[27]Byururu♥ Byururururuuuu♥ Byurururururururururuuuuuu♥♥♥"
                             ]
                         },
                         {
@@ -4755,14 +4356,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{お゛ぉ゛♥♥！！！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お゛お゛ォ゛オ゛ン゛♥"
+                                "\\c[31]Ooohhh♥♥！！！！！Ohhhhhn♥"
                             ]
                         },
                         {
@@ -4779,14 +4373,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{出てる♥ケツイキアクメしながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "スライムの中出しでイッちゃううううう♥"
+                                "\\c[31]I'm cumming out♥ Having an anal orgasm while getting a\ncreampie from a slime♥"
                             ]
                         },
                         {
@@ -4873,14 +4460,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ケツイキアクメをキメながら絶頂するメメリスに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "スライムは際限なくスライム汁を流し込む・・・。"
+                                "As Memerisu climaxed with an anal orgasm, the slime kept\npouring its juices into her without limit..."
                             ]
                         },
                         {
@@ -4897,14 +4477,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{お゛ッ゛！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ん゛お゛ぉ゛ぉ゛・・・！！！"
+                                "\\c[31]Ooh!? Nnnoooohhh...!!!"
                             ]
                         },
                         {
@@ -4937,14 +4510,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "止まらぬ中出しにメメリスのお腹がまるで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "妊婦の如く膨れ上がってしまう・・・。"
+                                "With the relentless creampie, Memerisu's belly swelled up as\nif she were pregnant..."
                             ]
                         },
                         {
@@ -4961,14 +4527,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]お、お腹が・・・パンパンに・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "スライム出されて・・・詰まってる・・・♥"
+                                "\\c[31]My, my belly is... so full... filled with slime...♥"
                             ]
                         },
                         {
@@ -4997,14 +4556,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ビュク♥ビュルルッ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ドクッドクッドクッ・・・♥♥♥"
+                                "\\c[27]Byuku♥ Byururuu♥♥ Dokudokudokudoku...♥♥♥"
                             ]
                         },
                         {
@@ -5021,14 +4573,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "限界まで膨れ上がったところで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ようやくスライムの動きが止まった・・・。"
+                                "Finally, as she swelled to her limits, the slime's movements\nceased..."
                             ]
                         },
                         {
@@ -5045,14 +4590,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]はぁ・・・♥はぁ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "終わっ・・・た・・・？"
+                                "\\c[31]Haa...♥ Haa...♥ Is it over...?"
                             ]
                         },
                         {
@@ -5069,14 +4607,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "このケツイキアクメからようやく解放されると安心すると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "遠くから声が聞こえてきた。"
+                                "Just as she felt relieved from the anal orgasm, a voice\ncould be heard from afar."
                             ]
                         },
                         {
@@ -5093,7 +4624,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]メメリスちゃーーーん！！"
+                                "\\c[17]Memerisu-chaaan!!"
                             ]
                         },
                         {
@@ -5110,14 +4641,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]（ティ、ティーナちゃん・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "助けにきてくれたんだ・・・。）"
+                                "\\c[31](Ti-Tina-chan... she came to save me...)"
                             ]
                         },
                         {
@@ -5134,21 +4658,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "すっかりおケツをほじり尽くされ、ケツイキアクメ開発を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "されてしまった後だが、親友の声を聞くと安心する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "助けに何人もの冒険者も付いてきてくれたようだ。"
+                                "Having been thoroughly butt-dug and developed for anal\norgasms, she felt reassured upon hearing her best friend's\nvoice. It seems that several adventurers had also come along\nto help."
                             ]
                         },
                         {
@@ -5165,7 +4675,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]（よ、よかった・・・これで助かる・・・。）"
+                                "\\c[31](Thank goodness... I'm saved now...)"
                             ]
                         },
                         {
@@ -5182,7 +4692,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そう・・・安心した途端・・・。"
+                                "Yes... just as I felt relieved..."
                             ]
                         },
                         {
@@ -5211,7 +4721,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{グギュルルルルルルルルルルル！！！"
+                                "\\c[27]Gurglingggggggggggggg!!!"
                             ]
                         },
                         {
@@ -5228,14 +4738,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "お腹から唸るような音と共に強烈な排泄感が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "メメリスに襲い掛かった・・・！！"
+                                "Along with a growling sound from her belly, an intense urge\nto expel hit Memerisu...!!"
                             ]
                         },
                         {
@@ -5252,7 +4755,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]（こ、これって・・・あっ・・・あっ・・・！！）"
+                                "\\c[31](Th-this is... ah... ah...!!)"
                             ]
                         },
                         {
@@ -5269,21 +4772,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "我慢出来ない強烈な排泄感・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "もし今、スライムのチンポを引き抜いたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ティーナちゃんや大勢の冒険者達の前で・・・！！"
+                                "An unbearable intense urge to expel...!! If I pull out the\nslime's cock now, in front of Tina-chan and all the other\nadventurers...!!"
                             ]
                         },
                         {
@@ -5300,7 +4789,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]大丈夫ですか、メメリスちゃん！"
+                                "\\c[17]Are you okay, Memerisu-chan?"
                             ]
                         },
                         {
@@ -5317,21 +4806,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ティーナちゃんが駆け寄って声を掛けてくる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "大きく膨れたお腹に、極太チンポを咥え込んでいる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ボクのアナルを見て驚きを堪え必死に声を掛けてくれる。"
+                                "Tina-chan rushed over and called out. She tried to hide her\nsurprise at the sight of my hugely swollen belly and my anus\nengulfing the thick cock."
                             ]
                         },
                         {
@@ -5348,14 +4823,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]ふーっ♥・・・ふーっ♥・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ティ、ティーナちゃん・・・！！"
+                                "\\c[31]Huff♥... Huff♥... Ti, Tina-chan...!!"
                             ]
                         },
                         {
@@ -5372,14 +4840,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "チンポを抜かないでほしいと言おうとするも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お腹の圧迫感と痛みで声が出せない・・・。"
+                                "I wanted to say not to pull out the cock, but I couldn't\nspeak because of the pressure and pain in my belly..."
                             ]
                         },
                         {
@@ -5396,14 +4857,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]い、今このスライムをどかしますね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "え、えーい！！"
+                                "\\c[17]I'll move this slime away now! Ei, ei-!!"
                             ]
                         },
                         {
@@ -5420,7 +4874,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]や、やめっ・・・！！"
+                                "\\c[31]No, stop...!!"
                             ]
                         },
                         {
@@ -5449,21 +4903,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]ズチュ・・・ブチュ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\{\\{ブポンッッ！！！"
+                                "\\c[27]Squish... Splat... Popppp!!!"
                             ]
                         },
                         {
@@ -5480,28 +4920,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ティーナがアナルに挿入していたスライムを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "勢いよく引き抜いた・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "その瞬間・・・！！"
+                                "Tina forcefully pulled out the slime that was inserted in my\nanus...!! And at that moment...!!"
                             ]
                         },
                         {
@@ -5622,14 +5041,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ブピッ！！ブポッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ブチュリュリュリュ！！！！"
+                                "\\c[27]Pffft!! Pop!! Squelchhhhhhhhh!!!"
                             ]
                         },
                         {
@@ -5646,21 +5058,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "カリ高チンポを勢いよく抜かれた衝撃で絶頂し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "親友と大勢の冒険者達の前で強烈な排泄音を響かせ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お腹に溜まった大量のスライムをひり出した・・・！！"
+                                "The shock of having the ridge-covered cock pulled out so\nforcefully made me climax, and in front of my best friend\nand all the adventurers, I let out intense expulsion noises\nas I released a large amount of slime that had accumulated\nin my belly...!!"
                             ]
                         },
                         {
@@ -5717,7 +5115,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{お゛ぉ゛ぉおおお゛♥♥！！！！"
+                                "\\c[31]Oooohhh♥♥!!!!"
                             ]
                         },
                         {
@@ -5734,7 +5132,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{出る！出るぅうううう！！！！"
+                                "\\c[31]It's coming out! It's coming ouuuutttt!!!!"
                             ]
                         },
                         {
@@ -5751,14 +5149,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "獣のようなイキ声を晒し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "止まらぬスライム排泄の快感に溺れるメメリス・・・。"
+                                "Exposing beast-like cries of climax, Memerisu drowned in the\nunstoppable pleasure of slime expulsion..."
                             ]
                         },
                         {
@@ -5803,14 +5194,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]ビュチッ！ブップゥ！ブピッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ブピ・・・ブピ・・・。"
+                                "\\c[27]Splurt! Plop! Pfft! Pfft... Pfft..."
                             ]
                         },
                         {
@@ -5827,14 +5211,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "情けないオナラを2度鳴らし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "排泄アクメをキメる無様な姿を晒してしまう・・・。"
+                                "Letting out a pathetic fart twice, she displayed a\ndisgraceful figure climaxing from expulsion..."
                             ]
                         },
                         {
@@ -5851,21 +5228,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "だが、メメリスは周りの反応など気にしていなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "すっかりおケツを開発されアクメを何度もキメたゆえに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "正気度を失ってしまった・・・。"
+                                "But Memerisu wasn't concerned about the reactions around\nher. She had completely lost her sanity after having her\nbutt developed and climaxing so many times..."
                             ]
                         },
                         {
@@ -5882,14 +5245,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "正気を失った彼女がその後どうなったのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それは語る必要もないだろう・・・。"
+                                "What happened to her after she lost her sanity is something\nthat doesn't need to be told..."
                             ]
                         },
                         {
@@ -5911,21 +5267,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -6033,7 +5375,7 @@
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 6,
                                 0,
                                 2
@@ -6043,7 +5385,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "・・・はっ！？夢か！！"
+                                "...Huh!? A dream?!!"
                             ]
                         },
                         {
@@ -6090,7 +5432,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -6100,14 +5442,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ちょっと数が多すぎるっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一旦退却だーっ！！"
+                                "There are too many of them!! Time to retreat-!!"
                             ]
                         },
                         {
@@ -6245,7 +5580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほじほじ？"
+                                "Poke poke?"
                             ]
                         },
                         {
@@ -6262,7 +5597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（何だろう？何か質問してるみたいだけど・・・）"
+                                "(What could it be? It seems like it's asking something...)"
                             ]
                         },
                         {
@@ -6270,8 +5605,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6301,7 +5636,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ほじッ！ほじほじ～？"
+                                "Poke! Poke poke~?"
                             ]
                         },
                         {
@@ -6309,8 +5644,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "うーん・・・はい",
-                                    "むむっ・・・いいえ"
+                                    "Umm... Yes.",
+                                    "Mmm... No."
                                 ],
                                 1,
                                 0,
@@ -6340,7 +5675,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ほじー・・・ほじほじ。ほじー？"
+                                "Poke-...poke poke. Poke-?"
                             ]
                         },
                         {
@@ -6348,8 +5683,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "えーと・・・はい",
-                                    "うっ・・・いいえ"
+                                    "Um... yes",
+                                    "Ugh... no"
                                 ],
                                 1,
                                 0,
@@ -6379,14 +5714,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ほじほじ！！！"
+                                "Poke poke!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -6396,7 +5731,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "何だろう・・・？怒らせちゃったかな？"
+                                "What could it be...? Did I make it angry?"
                             ]
                         },
                         {
@@ -6426,14 +5761,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ほじほじ！ほじーほじほじー！"
+                                "Poke poke! Poke-poke poke-!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 1,
                                 0,
                                 2
@@ -6443,7 +5778,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "なんかうまくいった・・・気がする！"
+                                "Somehow, it feels like it worked... I think!"
                             ]
                         },
                         {
@@ -6502,7 +5837,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "おケツほじりスライムが仲間になった！"
+                                "The Butt-Poking Slime has become an ally!"
                             ]
                         },
                         {
@@ -6542,14 +5877,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ほじほじ！！！"
+                                "Poke poke!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -6559,7 +5894,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "何だろう・・・？怒らせちゃったかな？"
+                                "What could it be...? Did I make it angry?"
                             ]
                         },
                         {
@@ -6599,14 +5934,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ほじほじ！！！"
+                                "Poke poke!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -6616,7 +5951,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何だろう・・・？怒らせちゃったかな？"
+                                "What could it be...? Did I make it angry?"
                             ]
                         },
                         {
@@ -7135,14 +6470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おケツほじりスライムと再戦しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（敗北してもエロステはカウントされません）"
+                                "Would you like to rematch the Butt-Digging Slime? (Losing\nwill not count towards your Eroge stats)"
                             ]
                         },
                         {
@@ -7150,8 +6478,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -7206,7 +6534,7 @@
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -7216,21 +6544,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ティーナちゃん、ここはボクが時間を稼ぐ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "から・・・助けを呼んできて！"
+                                "Tina-chan, I'll buy us some time... go get help!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -7240,14 +6561,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "で、でも・・・！！"
+                                "But...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -7257,14 +6578,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\{\\{いいからはよいけー！"
+                                "Just go, hurry!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -7274,7 +6595,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "わ、分かりました！すぐに戻ってきますから！"
+                                "O-okay! I'll be back as soon as I can!"
                             ]
                         },
                         {
@@ -7291,14 +6612,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ティーナが走り出したと同時に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "おケツほじりスライムがメメリスに襲い掛かった！"
+                                "As Tina dashed off, the Butt-Digging Slime lunged at\nMemerisu!"
                             ]
                         },
                         {
@@ -7365,14 +6679,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おケツほじりスライムは衣服を剥ぎ取り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "おケツがよく見えるように足を開かせる・・・。"
+                                "The slime stripped off her clothes and spread her legs to\nmake her butt clearly visible..."
                             ]
                         },
                         {
@@ -7389,14 +6696,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]うぅ・・・スライムがネチョネチョして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "気持ち悪い・・・。"
+                                "\\c[31]Ugh... the slime is slimy and feels disgusting..."
                             ]
                         },
                         {
@@ -7413,28 +6713,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "粘着性のあるスライムに絡み付かれ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "動きを封じられてしまう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "脱出しようと暴れるが余計に体にスライムが付着"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "するだけだった・・・。"
+                                "Entangled in the sticky slime, her movements were sealed.\nStruggling only caused more slime to adhere to her body..."
                             ]
                         },
                         {
@@ -7479,7 +6758,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "にちゃっぴちゃっ・・・ごぽっ・・・。"
+                                "Squish, splat... gloop..."
                             ]
                         },
                         {
@@ -7496,14 +6775,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "動きを完全に封じた事を確認したスライムは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "より多くメメリスの元に集まっていく・・・。"
+                                "Confirming that her movements were completely sealed, more\nslime began to gather around Memerisu..."
                             ]
                         },
                         {
@@ -7520,14 +6792,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]な、何・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "どんどんおっきくなってく・・・！！"
+                                "\\c[31]What...? It's getting bigger and bigger...!!"
                             ]
                         },
                         {
@@ -7572,7 +6837,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]こ、これって・・・おちんちん・・・！！"
+                                "\\c[31]This is... a dick...!!"
                             ]
                         },
                         {
@@ -7589,14 +6854,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "メメリスの目の前におケツをほじるのに適した"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "カリ高で太く長いスライムチンポが現れる・・・。"
+                                "In front of Memerisu appeared a slime cock, perfectly shaped\nfor digging into butts, thick and long..."
                             ]
                         },
                         {
@@ -7613,7 +6871,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]こ、こんなのでお尻ほじられたら・・・！！"
+                                "\\c[31]If I get dug out by something like this...!!"
                             ]
                         },
                         {
@@ -7630,21 +6888,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "出す事はあっても入れる事はない部分・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "そこに異物を挿入される事に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "今更になり恐怖を感じる・・・。"
+                                "A place meant for exit but not for entry... The fear of\nhaving a foreign object inserted there hits her anew..."
                             ]
                         },
                         {
@@ -7661,14 +6905,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "スライムはそんなことには構わず、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "メメリスのアナルを刺激する・・・。"
+                                "The slime didn't care about such things and began to\nstimulate Memerisu's anus..."
                             ]
                         },
                         {
@@ -7685,7 +6922,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]やめ・・・やめて・・・！！"
+                                "\\c[31]Stop... stop it...!!"
                             ]
                         },
                         {
@@ -7730,21 +6967,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]クチュ・・・グプププ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\{\\{\\{に゛ゅるんっ♥♥♥"
+                                "\\c[27]Squelch... gurgle... nyurun♥♥♥"
                             ]
                         },
                         {
@@ -7761,7 +6984,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{ひぎゅっ・・・・！！お゛ぉ・・・！！"
+                                "\\c[31]Higyuu...!! Ohh...!!"
                             ]
                         },
                         {
@@ -7778,21 +7001,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "柔らかく弾力のあるスライムチンポは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "思いのほか抵抗や痛みを感じずメメリスのアナルに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "挿入された・・・。"
+                                "The soft and elastic slime cock slid into Memerisu's anus\nwithout much resistance or pain..."
                             ]
                         },
                         {
@@ -7825,7 +7034,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]（お尻に・・・お尻にホントに入って・・・る・・・！）"
+                                "\\c[31](It's really going into my butt... it's inside...!)"
                             ]
                         },
                         {
@@ -7842,21 +7051,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "自ら挿入した事のないお尻に感じる初めての感覚・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "アナルが広がってお尻の中にひんやりとした"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "スライムチンポを感じる・・・。"
+                                "The unfamiliar sensation felt in her ass for the first\ntime... Her anus stretched to accommodate the cool slime\ncock inside..."
                             ]
                         },
                         {
@@ -7873,7 +7068,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]ぐちゅ・・・ぷちゅっ・・・にゅちゅっ・・・♥"
+                                "\\c[27]Gooey... plop... squelch...♥"
                             ]
                         },
                         {
@@ -7906,14 +7101,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "アナルに挿入したスライムだが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "すぐには動かない。"
+                                "Though the slime was inserted in her anus, it didn't move\nright away."
                             ]
                         },
                         {
@@ -7930,21 +7118,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おケツほじりスライムは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "おケツを決して傷つけないモンスター。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "おケツをほじる前には入念にアナルをほぐす・・・。"
+                                "The Butt-Digging Slime is a monster that never harms the\nbutt. Before digging in, it carefully loosens up the anus..."
                             ]
                         },
                         {
@@ -7961,14 +7135,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]（うぅ・・・お尻の中のスライムチンポの形が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "分かっちゃう・・・。）"
+                                "\\c[31](Ugh... I can feel the shape of the slime cock inside my\nbutt...)"
                             ]
                         },
                         {
@@ -7985,14 +7152,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]（それになんだか・・・お尻が熱くなって・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "不思議な感覚・・・きもち・・・いい？）"
+                                "\\c[31](And somehow... my butt is getting hot... It's a strange\nsensation... does it feel... good?)"
                             ]
                         },
                         {
@@ -8037,14 +7197,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "スライムはアナルに挿入したまま、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "メメリスのクリトリスを責め始めた・・・。"
+                                "While inserted in the anus, the slime began to tease\nMemerisu's clitoris..."
                             ]
                         },
                         {
@@ -8061,7 +7214,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]あっ・・・♥そ、そこっ・・・あっ・・・あっ・・・♥"
+                                "\\c[31]Ah...♥ That spot... ah... ah...♥"
                             ]
                         },
                         {
@@ -8078,14 +7231,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "メメリスの口から甘い声が聞こえ始め、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "スライムは丁寧にクリトリスの皮を剥き露出させる・・・。"
+                                "Sweet moans began to escape from Memerisu's lips as the\nslime carefully peeled back the hood of her clitoris to\nexpose it..."
                             ]
                         },
                         {
@@ -8102,14 +7248,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]んんっ！そこだ、だめ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "剥か・・・ないで・・・ボクのクリ・・・あんっ♥"
+                                "\\c[31]Nnnh! Not there, that's bad...♥ Don't peel it... My clit...\nahn♥"
                             ]
                         },
                         {
@@ -8142,14 +7281,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おまんこからは蜜が溢れ出し、クリトリスは勃起。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "優しく、かつ正確にコリコリとクリトリスを責め続ける。"
+                                "Honey began to overflow from her pussy, and her clitoris was\nerect. Gently yet precisely, it continued to tease and flick\nher clitoris."
                             ]
                         },
                         {
@@ -8166,14 +7298,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]あっ・・・♥だめ・・・イク♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "イッちゃう・・・♥"
+                                "\\c[31]Ah...♥ No... I'm going to cum♥ I'm cumming...♥"
                             ]
                         },
                         {
@@ -8190,7 +7315,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "メメリスがクリ責めで絶頂しようとした瞬間・・・。"
+                                "Just as Memerisu was about to climax from the clit\nteasing..."
                             ]
                         },
                         {
@@ -8245,7 +7370,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{お゛ぉ゛ぉ゛っっ♥♥♥"
+                                "\\c[31]Ooohhh♥♥♥"
                             ]
                         },
                         {
@@ -8274,7 +7399,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{ヌリュ♥ズチュ♥ズチュチュチュ♥♥"
+                                "\\c[27]Nuryu♥ Zuchu♥ Zuchuchuchu♥♥"
                             ]
                         },
                         {
@@ -8291,14 +7416,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "すっかりほぐれたアナルを極太カリ高スライムチンポで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "容赦なくほじり始めた・・・！！"
+                                "The thoroughly loosened anus was mercilessly dug into by the\nthick, bulbous slime cock...!!"
                             ]
                         },
                         {
@@ -8315,14 +7433,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ブポッ！ジュチュ♥プチュチュ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "にゅちゅっ♥♥♥"
+                                "\\c[27]Bupo! Juchu♥ Puchuchu♥ Nyuchu♥♥♥"
                             ]
                         },
                         {
@@ -8355,14 +7466,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "激しくピストンされるスライムチンポをアナルで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "咥え込み、下品な音を立てながらほじられる・・・。"
+                                "Her anus engulfed the violently pistoning slime cock, making\nvulgar noises as it was dug into..."
                             ]
                         },
                         {
@@ -8379,14 +7483,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]お尻が・・・熱い♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "なにこれ・・・なにこれ♥♥♥"
+                                "\\c[31]My butt... it's so hot♥♥ What is this... what's happening♥♥♥"
                             ]
                         },
                         {
@@ -8403,14 +7500,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]だめ・・・イク♥イッちゃう♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "スライムにおケツほじられてケツイキアクメしちゃう♥"
+                                "\\c[31]No... I'm cumming♥ I'm going to cum♥ My ass is being drilled\nby the slime and I'm having an anal orgasm♥"
                             ]
                         },
                         {
@@ -8427,14 +7517,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{イク♥イクイクイク♥♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "イックぅうううううううう♥♥♥"
+                                "\\c[31]I'm cumming♥ I'm cumming, cumming, cumming♥♥♥ I'm\ncuuummmiiinggg♥♥♥"
                             ]
                         },
                         {
@@ -8521,14 +7604,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ビュルッ♥ビュルルルッッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ビュルルルルルルルルルッッッ♥♥♥"
+                                "\\c[27]Squirt♥ Squuuirttt♥ Squiiirrrtttiiinnngggg♥♥♥"
                             ]
                         },
                         {
@@ -8545,14 +7621,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{お゛ぉ゛♥♥！！！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お゛お゛ォ゛オ゛ン゛♥"
+                                "\\c[31]Ooohhh♥♥！！！！！Ohhhhhn♥"
                             ]
                         },
                         {
@@ -8569,14 +7638,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{出てる♥ケツイキアクメしながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "スライムの中出しでイッちゃううううう♥"
+                                "\\c[31]I'm coming out♥ While having an anal orgasm, I'm cumming\nfrom the slime's creampie♥"
                             ]
                         },
                         {
@@ -8663,14 +7725,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ケツイキアクメをキメながら絶頂するメメリスに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "スライムは際限なくスライム汁を流し込む・・・。"
+                                "As Memerisu climaxes from the anal orgasm, the slime\nrelentlessly pumps its slime juice into her..."
                             ]
                         },
                         {
@@ -8687,14 +7742,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{お゛ッ゛！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ん゛お゛ぉ゛ぉ゛・・・！！！"
+                                "\\c[31]Oohh!? Nnhh... ohhh...！！！"
                             ]
                         },
                         {
@@ -8727,14 +7775,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "止まらぬ中出しにメメリスのお腹がまるで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "妊婦の如く膨れ上がってしまう・・・。"
+                                "With the unceasing creampie, Memerisu's belly swells up as\nif she were pregnant..."
                             ]
                         },
                         {
@@ -8751,14 +7792,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]お、お腹が・・・パンパンに・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "スライム出されて・・・詰まってる・・・♥"
+                                "\\c[31]My, my stomach is... so full... filled with slime...\nstuffed...♥"
                             ]
                         },
                         {
@@ -8787,14 +7821,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ビュク♥ビュルルッ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ドクッドクッドクッ・・・♥♥♥"
+                                "\\c[27]Spurt♥ Squirttt♥♥ Throb, throb, throb...♥♥♥"
                             ]
                         },
                         {
@@ -8811,14 +7838,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "限界まで膨れ上がったところで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ようやくスライムの動きが止まった・・・。"
+                                "Finally, as her belly swells to its limit, the slime's\nmovements come to a halt..."
                             ]
                         },
                         {
@@ -8835,14 +7855,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]はぁ・・・♥はぁ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "終わっ・・・た・・・？"
+                                "\\c[31]Haa...♥ Haa...♥ Is it over...?"
                             ]
                         },
                         {
@@ -8859,14 +7872,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "このケツイキアクメからようやく解放されると安心すると、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "遠くから声が聞こえてきた。"
+                                "Just as she feels relieved from the anal orgasm, a voice can\nbe heard from afar."
                             ]
                         },
                         {
@@ -8883,7 +7889,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]メメリスちゃーーーん！！"
+                                "\\c[17]Memerisu-chaaan!!"
                             ]
                         },
                         {
@@ -8900,14 +7906,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]（ティ、ティーナちゃん・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "助けにきてくれたんだ・・・。）"
+                                "\\c[31](Ti, Tina-chan... she came to save me...)"
                             ]
                         },
                         {
@@ -8924,21 +7923,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "すっかりおケツをほじり尽くされ、ケツイキアクメ開発を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "されてしまった後だが、親友の声を聞くと安心する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "助けに何人もの冒険者も付いてきてくれたようだ。"
+                                "Having her ass thoroughly plundered and developed for anal\norgasms, she feels relieved upon hearing her best friend's\nvoice. It seems that several adventurers have also come to\nhelp."
                             ]
                         },
                         {
@@ -8955,7 +7940,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]（よ、よかった・・・これで助かる・・・。）"
+                                "\\c[31](Tha, thank goodness... I'm saved...)"
                             ]
                         },
                         {
@@ -8972,7 +7957,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そう・・・安心した途端・・・。"
+                                "And just as she felt relieved..."
                             ]
                         },
                         {
@@ -9001,7 +7986,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{グギュルルルルルルルルルルル！！！"
+                                "\\c[27]Gurglingggggggggggggggg！！！"
                             ]
                         },
                         {
@@ -9018,14 +8003,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "お腹から唸るような音と共に強烈な排泄感が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "メメリスに襲い掛かった・・・！！"
+                                "An ominous growling sound from her belly is accompanied by\nan intense urge to expel..."
                             ]
                         },
                         {
@@ -9042,7 +8020,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]（こ、これって・・・あっ・・・あっ・・・！！）"
+                                "\\c[31](Thi, this is... ah... ah...！！)"
                             ]
                         },
                         {
@@ -9059,21 +8037,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "我慢出来ない強烈な排泄感・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "もし今、スライムのチンポを引き抜いたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ティーナちゃんや大勢の冒険者達の前で・・・！！"
+                                "An unbearable urge to expel...!! If the slime's cock is\npulled out now, in front of Tina-chan and all the\nadventurers..."
                             ]
                         },
                         {
@@ -9090,7 +8054,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]大丈夫ですか、メメリスちゃん！"
+                                "\\c[17]Are you okay, Memerisu-chan?"
                             ]
                         },
                         {
@@ -9107,21 +8071,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ティーナちゃんが駆け寄って声を掛けてくる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "大きく膨れたお腹に、極太チンポを咥え込んでいる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ボクのアナルを見て驚きを堪え必死に声を掛けてくれる。"
+                                "Tina-chan rushes over and calls out. She tries to contain\nher shock at the sight of my hugely swollen belly and my\nanus engulfing the thick cock, desperately speaking to me."
                             ]
                         },
                         {
@@ -9138,14 +8088,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]ふーっ♥・・・ふーっ♥・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ティ、ティーナちゃん・・・！！"
+                                "\\c[31]Hu-uh♥... Hu-uh♥... Ti, Tina-chan...!!"
                             ]
                         },
                         {
@@ -9162,14 +8105,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "チンポを抜かないでほしいと言おうとするも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お腹の圧迫感と痛みで声が出せない・・・。"
+                                "I want to say not to pull out the cock, but I can't speak\nbecause of the pressure and pain in my stomach..."
                             ]
                         },
                         {
@@ -9186,14 +8122,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]い、今このスライムをどかしますね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "え、えーい！！"
+                                "\\c[17]I'll move this slime away now! Ei, ei-ii!!"
                             ]
                         },
                         {
@@ -9210,7 +8139,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]や、やめっ・・・！！"
+                                "\\c[31]No, stop...!!"
                             ]
                         },
                         {
@@ -9239,21 +8168,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]ズチュ・・・ブチュ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\{\\{ブポンッッ！！！"
+                                "\\c[27]Squelch... Splotch... Popppp！！！"
                             ]
                         },
                         {
@@ -9270,28 +8185,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ティーナがアナルに挿入していたスライムを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "勢いよく引き抜いた・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "その瞬間・・・！！"
+                                "Tina forcefully pulls out the slime that was inserted in my\nanus...!! And at that moment...!!"
                             ]
                         },
                         {
@@ -9412,14 +8306,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ブピッ！！ブポッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ブチュリュリュリュ！！！！"
+                                "\\c[27]Plop!! Pop!! Squelch-squelch-squelch！！！！"
                             ]
                         },
                         {
@@ -9436,21 +8323,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "カリ高チンポを勢いよく抜かれた衝撃で絶頂し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "親友と大勢の冒険者達の前で強烈な排泄音を響かせ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お腹に溜まった大量のスライムをひり出した・・・！！"
+                                "The shock of having the ridged cock pulled out so quickly\nmakes me climax, and in front of my best friend and all the\nadventurers, I let out a loud expulsion sound as I release a\nmassive amount of slime that had accumulated in my\nbelly...!!"
                             ]
                         },
                         {
@@ -9507,7 +8380,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{お゛ぉ゛ぉおおお゛♥♥！！！！"
+                                "\\c[31]Oooohhhhhhhhhhhhhhhhhh♥♥！！！！"
                             ]
                         },
                         {
@@ -9524,7 +8397,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{出る！出るぅうううう！！！！"
+                                "\\c[31]It's coming out! It's coming ouuuutttttt！！！！"
                             ]
                         },
                         {
@@ -9541,14 +8414,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "獣のようなイキ声を晒し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "止まらぬスライム排泄の快感に溺れるメメリス・・・。"
+                                "With a beast-like climaxing voice, Memerisu drowns in the\nunstoppable pleasure of expelling slime..."
                             ]
                         },
                         {
@@ -9593,14 +8459,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]ビュチッ！ブップゥ！ブピッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ブピ・・・ブピ・・・。"
+                                "\\c[27]Squirt! Plop! Plop! Plop... Plop..."
                             ]
                         },
                         {
@@ -9617,14 +8476,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "情けないオナラを2度鳴らし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "排泄アクメをキメる無様な姿を晒してしまう・・・。"
+                                "Letting out a pathetic fart twice, she displays a\ndisgraceful figure as she climaxes from expulsion..."
                             ]
                         },
                         {
@@ -9641,21 +8493,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "だが、メメリスは周りの反応など気にしていなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "すっかりおケツを開発されアクメを何度もキメたゆえに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "正気度を失ってしまった・・・。"
+                                "But Memerisu wasn't concerned about the reactions around\nher. Having been thoroughly developed for anal orgasms, she\nhad lost her sanity..."
                             ]
                         },
                         {
@@ -9672,14 +8510,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "正気を失った彼女がその後どうなったのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それは語る必要もないだろう・・・。"
+                                "What happened to her after she lost her sanity is something\nthat need not be spoken of..."
                             ]
                         },
                         {
@@ -9701,21 +8532,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {

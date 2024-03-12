@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "謎の部屋",
+    "displayName": "Mysterious Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -1395,7 +1395,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -1405,21 +1405,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれ、何だろうこの部屋・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと気になるなぁ。"
+                                "Hm, what's this room... It's kind of intriguing."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -1429,14 +1422,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人様のお部屋に勝手に入るのは良くないですよ！"
+                                "It's not good to enter someone else's room without\npermission!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -1446,14 +1439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや、もう家の中入ってるじゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うーん、なんか気になるなぁ。"
+                                "No, we're already inside the house. Hmm, it's really piquing\nmy interest."
                             ]
                         },
                         {
@@ -1470,7 +1456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "部屋の中に入りますか？"
+                                "Will you enter the room?"
                             ]
                         },
                         {
@@ -1478,8 +1464,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -1516,7 +1502,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 1,
                                 0,
                                 2
@@ -1526,14 +1512,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よーし、入っちゃえー！！"
+                                "Alright, let's go in!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -1543,7 +1529,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あ、待ってくださいメメリスちゃーん！"
+                                "Ah, wait please, Memerisu-chan!"
                             ]
                         },
                         {
@@ -1600,7 +1586,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ピッ。入室者ヲ感知。移動マスヲ起動シマス。"
+                                "Beep. Intruder detected. Activating movement tiles."
                             ]
                         },
                         {
@@ -1629,14 +1615,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ゴゴゴゴゴッ！！！！！"
+                                "Rumble Rumble Rumble!!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 6,
                                 0,
                                 2
@@ -1646,14 +1632,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おわっ！なんだなんだ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "床が動き出して・・・！！"
+                                "Whoa! What's happening?! The floor is starting to move...!!"
                             ]
                         },
                         {
@@ -1670,21 +1649,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -1792,14 +1757,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴゴゴゴゴッ！！！！！"
+                                "Rumble rumble rumble!!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -1809,21 +1774,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "床が動いて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "部屋から出る事が出来ませんね・・・。"
+                                "We can't seem to get out of the room with the floor moving\nlike this..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -1833,21 +1791,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これ、1マスぐらい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ジャンプして飛び越せないのかな？"
+                                "Can't we just jump over it if it's about one square wide?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -1857,14 +1808,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それは・・・大人の都合で無理そうですね。"
+                                "That seems... impossible due to adult circumstances."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -1874,14 +1825,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちくしょおおおおおおおおお！！！！"
+                                "Damn it all!!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -1891,14 +1842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひとまずこの部屋から脱出する方法を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "探してみましょう。"
+                                "For now, let's look for a way to escape from this room."
                             ]
                         },
                         {
@@ -1956,7 +1900,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -1966,21 +1910,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "も、もうSEXをしないと出られない部屋は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コリゴリだよぉ～・・・！！"
+                                "I'm totally fed up with rooms where you can't leave unless\nyou have SEX...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -1990,7 +1927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・うふふっ♥"
+                                "...Ufufu♥"
                             ]
                         },
                         {
@@ -2079,7 +2016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ビーガガガッビビビッー・・・。"
+                                "Bee-gagagabibibit-..."
                             ]
                         },
                         {
@@ -2096,21 +2033,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここはセックスをしないと出られない部屋です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "部屋から出る際はセックスをしてください。"
+                                "This is a room where you can't leave without having sex.\nPlease have sex before leaving the room."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 6,
                                 0,
                                 2
@@ -2120,14 +2050,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "な、なにぃいいいいい！！？？"
+                                "Wha, whaaaaat!!??"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -2137,28 +2067,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あの時止めAVと同じく9割は偽物と言われている"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セックスしないと出られない部屋・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本物が実在したんだ・・・。"
+                                "Just like those fake stop AVs, they say 90% of the \"can't\nleave without having sex\" rooms are fake... but a real one\nactually exists..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -2168,14 +2084,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "1割は本物なんですか！？"
+                                "So 10% are real!?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 6,
                                 0,
                                 2
@@ -2185,28 +2101,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "って、それはひとまず置いておいて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "つまり私とメメリスちゃんがエ、エッチな事を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しないと出られないって事ですか・・・！？"
+                                "But, setting that aside for now... does this mean that\nMemerisu-chan and I can't leave unless we do, do lewd\nthings...!?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 5,
                                 0,
                                 2
@@ -2216,21 +2118,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや・・・でも女の子同士だし・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セックスしても出られるのかな・・・？"
+                                "No... but we're both girls... I wonder if we can really\nleave even if we have sex...?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 5,
                                 0,
                                 2
@@ -2240,14 +2135,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・チラッ♥"
+                                "...Peek♥"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 7,
                                 0,
                                 2
@@ -2257,14 +2152,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・チラッ♥"
+                                "...Peek♥"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 3,
                                 0,
                                 2
@@ -2274,21 +2169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょ、ちょっと他に脱出する方法がないか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "探索してみよう！"
+                                "...! Wait, let's try to look for another way to escape!"
                             ]
                         },
                         {
@@ -2377,7 +2258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ビーガガガッビビビッー・・・。"
+                                "Bee-gagagabibibit-..."
                             ]
                         },
                         {
@@ -2394,21 +2275,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここはセックスをしないと出られない部屋です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "部屋から出る際はセックスをしてください。"
+                                "This is a room where you can't leave without having sex.\nPlease have sex before you leave the room."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 5,
                                 0,
                                 2
@@ -2418,14 +2292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょ、ちょっと他に脱出する方法がないか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "探索してみよう！"
+                                "Hey, let's try to look for another way to escape!"
                             ]
                         },
                         {
@@ -2543,7 +2410,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -2553,21 +2420,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "きゃっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ど、どうしてこんなところに骸骨が・・・！！"
+                                "Eek! Why is there a skeleton in a place like this...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -2577,21 +2437,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もしかしてボク達より先にこの部屋に入った"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人なんじゃ・・・。"
+                                "Maybe someone entered this room before us..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -2601,21 +2454,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんな・・・この部屋に閉じ込められて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのままお亡くなりに・・・！！"
+                                "No way... Trapped in this room and then passed away...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -2625,14 +2471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この人に一体何があったんだ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か手がかりがないか調べてみよう。"
+                                "What on earth happened to this person... Let's look around\nfor some clues."
                             ]
                         },
                         {
@@ -2769,14 +2608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "日誌があります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "読みますか？"
+                                "There's a diary here. Would you like to read it?"
                             ]
                         },
                         {
@@ -2784,8 +2616,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2827,7 +2659,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1日目。"
+                                "Day 1."
                             ]
                         },
                         {
@@ -2844,21 +2676,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ちょっと下着泥棒をしようと忍び込んだがこの家はなんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "部屋に入った途端に閉じ込められて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "SEXをしないと出られないだと！"
+                                "I tried to sneak in to steal some underwear, but what is\nthis house?! As soon as I entered the room, I was trapped\nand told I can't leave unless I have SEX!"
                             ]
                         },
                         {
@@ -2875,14 +2693,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふざけるな、バカバカしい！俺は一人だぞ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一人でどうやってSEXしろって言うんだっ！！"
+                                "Don't be ridiculous, this is absurd! I'm alone here!! How am\nI supposed to have SEX by myself?!!"
                             ]
                         },
                         {
@@ -2911,7 +2722,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "2日目。"
+                                "Day 2."
                             ]
                         },
                         {
@@ -2928,21 +2739,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SEXをする以外に脱出の方法がないか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "部屋中を調べてみたがベッドと空の衣装棚ぐらいしか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この部屋にはなかった。"
+                                "I searched the room for another way to escape besides having\nSEX, but all that was there was a bed and an empty wardrobe."
                             ]
                         },
                         {
@@ -2959,21 +2756,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "モニターに声をかけても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "無機質なアナウンスが流れるだけだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "くそったれめっ！"
+                                "Even when I call out to the monitor, only a mechanical\nannouncement plays. Damn it all!"
                             ]
                         },
                         {
@@ -2990,21 +2773,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何か役に立ちそうな物はないか手持ちの物を見てみるが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "少しの水とお菓子、盗んだ下着とパチンコの景品で貰った"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ふたなりになる薬しかなかった。"
+                                "I looked at what I had on hand to see if there was anything\nuseful, but all I had was a little water, some snacks, the\nstolen underwear, and a drug I got as a pachinko prize that\nturns you into a futanari."
                             ]
                         },
                         {
@@ -3021,14 +2790,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こんなもんが何の役に立つんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "イライラが止まらず薬をゴミ箱に捨ててやった。"
+                                "How is any of this supposed to be helpful?! Frustrated, I\nthrew the drug into the trash can."
                             ]
                         },
                         {
@@ -3057,7 +2819,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "3日目。"
+                                "Day 3."
                             ]
                         },
                         {
@@ -3074,21 +2836,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "水と食料が尽きた."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "このままだとこの部屋で飢え死にしてしまう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "他に誰かがこの家にやってくる様子はない。"
+                                "My water and food have run out. If this continues, I'll\nstarve to death in this room. There's no sign of anyone else\ncoming to this house."
                             ]
                         },
                         {
@@ -3105,28 +2853,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "出入口の移動マスをジャンプで飛び越えようとするが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どうしても飛び越えられない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "1マスぐらい出来るだろと思ったが仕様的に無理らしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ジャンプコマンドが欲しい。"
+                                "I tried to jump over the exit square, but no matter what, I\ncan't make it over! I thought I could manage at least one\nsquare, but it seems impossible by design. I wish I had a\njump command."
                             ]
                         },
                         {
@@ -3155,7 +2882,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "4日目。"
+                                "Day 4."
                             ]
                         },
                         {
@@ -3172,28 +2899,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "この部屋のSEXの定義とはなんなのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オナニーをしてみたがこの部屋からは出られなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "チンコをマンコに挿入すること？男同士のアナルSEXや"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "女同士のレズSEXでも部屋から出る事が出来るのだろうか。"
+                                "What is the definition of SEX in this room. I tried\nmasturbating, but I couldn't leave the room. Does it mean\ninserting a dick into a pussy? Can anal SEX between men or\nlesbian SEX between women also allow one to leave the room?"
                             ]
                         },
                         {
@@ -3210,28 +2916,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そもそも男女で入る前提の部屋に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "1人で入れてしまうのは設計ミスだろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こんなふざけた部屋を作った奴はまともじゃないぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "布団の寝心地の良さだけは救いだ。"
+                                "First of all, it's a design flaw to allow one person into a\nroom that's meant for a man and a woman! Whoever made this\nridiculous room isn't right in the head! At least the futon\nis comfortable to sleep on."
                             ]
                         },
                         {
@@ -3260,7 +2945,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "5日目。"
+                                "Day 5."
                             ]
                         },
                         {
@@ -3277,21 +2962,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "腹がへ　た　　もうせくすどころ　じゃない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "せめてぬすんだおきにいり、下ぎを衣装だな　に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いれておく。　これは　よごし　たくない"
+                                "I'm so hungry, SEX is the last thing on my mind. At least\nlet me put my favorite stolen panties in the wardrobe. I\ndon't want to dirty them."
                             ]
                         },
                         {
@@ -3308,21 +2979,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いちるのぞみ　かけて　おなにー　　する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "かこくなおなにーならせっくすになる　かもしれない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おれ　かくご、するしかない"
+                                "Maybe if I masturbate with all my might, it might count as\nSEX. It seems like my only option is to prepare myself and\ndo it."
                             ]
                         },
                         {
@@ -3351,7 +3008,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "6日目。"
+                                "Day 6."
                             ]
                         },
                         {
@@ -3368,28 +3025,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "せっくすせっくすせっくすせっくすせっくすせっくすせっくす"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "せっくすせっくすせっくすせっくすせっくすせっくすせっくす"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "せっくすせっくすせっくすせっくすせっくすせっくすせっくす"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "せっくすせっくすせっくすせっくすせっくすせっくすせっくす"
+                                "SEX SEX SEX SEX SEX SEX SEX SEX SEX SEX SEX SEX SEX SEX SEX\nSEX SEX SEX SEX SEX SEX SEX SEX SEX SEX SEX SEX SEX SEX SEX"
                             ]
                         },
                         {
@@ -3406,28 +3042,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "しこしこしこしこしこしこしこしこしこしこしこしこしこしこ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しこしこしこしこしこしこしこしこしこしこしこしこしこしこ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しこしこしこしこしこしこしこしこしこしこしこしこしこしこ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しこしこしこしこしこしこしこしこしこしこしこしこしこしこ"
+                                "Masturbate masturbate masturbate masturbate masturbate\nmasturbate masturbate masturbate masturbate masturbate\nmasturbate masturbate masturbate masturbate masturbate\nmasturbate masturbate masturbate masturbate masturbate\nmasturbate masturbate masturbate masturbate masturbate\nmasturbate masturbate masturbate masturbate masturbate\nmasturbate masturbate"
                             ]
                         },
                         {
@@ -3456,7 +3071,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "7日目"
+                                "Day 7"
                             ]
                         },
                         {
@@ -3519,14 +3134,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "めちゃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しこ"
+                                "Crazy masturbation"
                             ]
                         },
                         {
@@ -3626,14 +3234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "日誌があります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "読みますか？"
+                                "There's a journal here. Would you like to read it?"
                             ]
                         },
                         {
@@ -3641,8 +3242,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3684,7 +3285,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1日目。"
+                                "Day 1."
                             ]
                         },
                         {
@@ -3701,21 +3302,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ちょっと下着泥棒をしようと忍び込んだがこの家はなんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "部屋に入った途端に閉じ込められて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "SEXをしないと出られないだと！"
+                                "I tried to sneak in to steal some underwear, but what is\nthis house?! As soon as I entered the room, I was trapped\nand told I can't leave unless I have SEX!"
                             ]
                         },
                         {
@@ -3732,14 +3319,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふざけるな、バカバカしい！俺は一人だぞ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一人でどうやってSEXしろって言うんだっ！！"
+                                "Don't be ridiculous, this is absurd! I'm alone here!! How am\nI supposed to have SEX by myself?!!"
                             ]
                         },
                         {
@@ -3768,7 +3348,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "2日目。"
+                                "Day 2."
                             ]
                         },
                         {
@@ -3785,21 +3365,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "SEXをする以外に脱出の方法がないか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "部屋中を調べてみたがベッドと空の衣装棚ぐらいしか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この部屋にはなかった。"
+                                "I searched the room for another way to escape besides having\nSEX, but all that was there was a bed and an empty wardrobe."
                             ]
                         },
                         {
@@ -3816,21 +3382,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "モニターに声をかけても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "無機質なアナウンスが流れるだけだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "くそったれめっ！"
+                                "Even when I call out to the monitor, only a soulless\nannouncement plays. Damn it all!"
                             ]
                         },
                         {
@@ -3847,21 +3399,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何か役に立ちそうな物はないか手持ちの物を見てみるが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "少しの水とお菓子、盗んだ下着とパチンコの景品で貰った"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ふたなりになる薬しかなかった。"
+                                "I checked my belongings for something useful, but all I had\nwas a little water, some snacks, the stolen underwear, and a\ndrug from a pachinko prize that turns you into a futanari."
                             ]
                         },
                         {
@@ -3878,14 +3416,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こんなもんが何の役に立つんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "イライラが止まらず薬をゴミ箱に捨ててやった。"
+                                "How is any of this supposed to be helpful?! Frustrated, I\nthrew the medicine into the trash can."
                             ]
                         },
                         {
@@ -3914,7 +3445,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "3日目。"
+                                "Day 3."
                             ]
                         },
                         {
@@ -3931,21 +3462,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "水と食料が尽きた."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "このままだとこの部屋で飢え死にしてしまう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "他に誰かがこの家にやってくる様子はない。"
+                                "My water and food have run out. If this continues, I'll\nstarve to death in this room. There's no sign of anyone else\ncoming to this house."
                             ]
                         },
                         {
@@ -3962,28 +3479,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "出入口の移動マスをジャンプで飛び越えようとするが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どうしても飛び越えられない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "1マスぐらい出来るだろと思ったが仕様的に無理らしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ジャンプコマンドが欲しい。"
+                                "I tried to jump over the exit square, but no matter what, I\ncan't make it over! I thought I could manage at least one\nsquare, but it seems impossible by design. I wish I had a\njump command."
                             ]
                         },
                         {
@@ -4012,7 +3508,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "4日目。"
+                                "Day 4."
                             ]
                         },
                         {
@@ -4029,28 +3525,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "この部屋のSEXの定義とはなんなのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オナニーをしてみたがこの部屋からは出られなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "チンコをマンコに挿入すること？男同士のアナルSEXや"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "女同士のレズSEXでも部屋から出る事が出来るのだろうか。"
+                                "What's the definition of SEX in this room? I tried\nmasturbating, but I couldn't leave the room. Does it mean\ninserting a dick into a pussy? Can anal SEX between men or\nlesbian SEX between women also allow one to leave the room?"
                             ]
                         },
                         {
@@ -4067,28 +3542,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そもそも男女で入る前提の部屋に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "1人で入れてしまうのは設計ミスだろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こんなふざけた部屋を作った奴はまともじゃないぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "布団の寝心地の良さだけは救いだ。"
+                                "First of all, it's a design flaw to allow one person into a\nroom that's meant for a man and a woman! Whoever made this\nridiculous room isn't right in the head! The only saving\ngrace is the comfort of the futon."
                             ]
                         },
                         {
@@ -4117,7 +3571,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "5日目。"
+                                "Day 5."
                             ]
                         },
                         {
@@ -4134,21 +3588,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "腹がへ　た　　もうせくすどころ　じゃない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "せめてぬすんだおきにいり、下ぎを衣装だな　に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いれておく。　これは　よごし　たくない"
+                                "I'm so hungry, SEX is the last thing on my mind. At least\nlet me put my favorite stolen panties in the wardrobe. I\ndon't want to dirty them."
                             ]
                         },
                         {
@@ -4165,21 +3605,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いちるのぞみ　かけて　おなにー　　する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "かこくなおなにーならせっくすになる　かもしれない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おれ　かくご、するしかない"
+                                "I'm desperate, maybe masturbating will count as SEX. It\nseems like my only option is to prepare myself and do it."
                             ]
                         },
                         {
@@ -4208,7 +3634,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "6日目。"
+                                "Day 6."
                             ]
                         },
                         {
@@ -4225,28 +3651,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "せっくすせっくすせっくすせっくすせっくすせっくすせっくす"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "せっくすせっくすせっくすせっくすせっくすせっくすせっくす"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "せっくすせっくすせっくすせっくすせっくすせっくすせっくす"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "せっくすせっくすせっくすせっくすせっくすせっくすせっくす"
+                                "SEX SEX SEX SEX SEX SEX SEX SEX SEX SEX SEX SEX SEX SEX SEX\nSEX SEX SEX SEX SEX SEX SEX SEX SEX SEX SEX"
                             ]
                         },
                         {
@@ -4263,28 +3668,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "しこしこしこしこしこしこしこしこしこしこしこしこしこしこ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しこしこしこしこしこしこしこしこしこしこしこしこしこしこ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しこしこしこしこしこしこしこしこしこしこしこしこしこしこ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しこしこしこしこしこしこしこしこしこしこしこしこしこしこ"
+                                "fap fap fap fap fap fap fap fap fap fap fap fap fap fap fap\nfap fap fap fap fap fap fap fap fap fap fap fap fap fap fap\nfap fap fap fap fap fap"
                             ]
                         },
                         {
@@ -4313,7 +3697,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "7日目"
+                                "Day 7"
                             ]
                         },
                         {
@@ -4376,14 +3760,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "めちゃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しこ"
+                                "Super fap"
                             ]
                         },
                         {
@@ -4546,7 +3923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっちな下着を手に入れた！"
+                                "Obtained lewd underwear!"
                             ]
                         },
                         {
@@ -4695,7 +4072,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふたなりになる薬を手に入れた！"
+                                "I've obtained the medicine to become a futanari!"
                             ]
                         },
                         {
@@ -4822,7 +4199,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 5,
                                 0,
                                 2
@@ -4832,35 +4209,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "探索の結果、SEXしない限り"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対この部屋から出られない事が分かって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えっちな下着とふたなりになる薬が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手に入ったわけだけど・・・。"
+                                "After exploring, we've discovered that we absolutely can't\nleave this room without having sex, and we've obtained some\nlewd underwear and a potion that turns one into a\nfutanari..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 5,
                                 0,
                                 2
@@ -4870,7 +4226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その・・・せっ・・・エッチする・・・？"
+                                "So... um... shall we... have sex...?"
                             ]
                         },
                         {
@@ -4878,8 +4234,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4899,7 +4255,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 7,
                                 0,
                                 2
@@ -4909,14 +4265,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・はい♥"
+                                "...Yes♥"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 5,
                                 0,
                                 2
@@ -4926,7 +4282,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ゴクリ・・・。"
+                                "Gulp..."
                             ]
                         },
                         {
@@ -4960,14 +4316,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ヌギヌギ・・・ゴソゴソ・・・♥"
+                                "Rustle rustle... fumble fumble...♥"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 4,
                                 0,
                                 2
@@ -4977,21 +4333,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まぁ、SEXしないと出られないからね、うん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "せっかくだし雰囲気出すのと供養ついでに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "えっちな下着も着ちゃおうか！"
+                                "Well, since we can't leave without having sex, yeah! Might\nas well get into the mood and wear the lewd underwear as a\nsort of tribute!"
                             ]
                         },
                         {
@@ -5008,21 +4350,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -5072,14 +4400,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]うぅ・・・まさかボクがふたなり側なんて・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "股間のところがもっこりしてる・・・。"
+                                "\\c[31]Ugh... I can't believe I'm the one with a futanari dick...!!\nIt's bulging in my crotch..."
                             ]
                         },
                         {
@@ -5096,7 +4417,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]わぁ、メメリスちゃん似合ってますよぉ♥"
+                                "\\c[17]Wow, Memerisu-chan, it suits you♥"
                             ]
                         },
                         {
@@ -5113,14 +4434,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]それにしてもこの下着・・・なんだかウェディングドレス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "みたいですね。"
+                                "\\c[17]And this underwear... it kind of looks like a wedding dress."
                             ]
                         },
                         {
@@ -5137,14 +4451,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]なんだかメメリスちゃんと結婚するみたい・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "少し・・・いえ、とっても・・・ドキドキしますっ♥"
+                                "\\c[17]It feels like I'm getting married to Memerisu-chan... I'm a\nlittle... no, very... excited♥"
                             ]
                         },
                         {
@@ -5161,7 +4468,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]ティ、ティーナちゃん・・・！！ゴクリッ"
+                                "\\c[31]T-Tina-chan...!! Gulp"
                             ]
                         },
                         {
@@ -5178,14 +4485,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]（なんだろう、ふたなりになったせいかティーナちゃんを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "見てると股間が、チンコがムズムズしてくるっ・・・！）"
+                                "\\c[31](What's this feeling? Ever since I became a futanari,\nlooking at Tina-chan makes my crotch, my dick, tingle...!)"
                             ]
                         },
                         {
@@ -5202,14 +4502,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お互いのえっちな姿に何とも言えない胸の高鳴りを感じる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "メメリスとティーナ・・・。"
+                                "Memerisu and Tina feel an indescribable thrill at the sight\nof each other's lewd appearances..."
                             ]
                         },
                         {
@@ -5226,14 +4519,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]それじゃあ・・・メメリスちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ベッドに行きましょうか・・・♥"
+                                "\\c[17]Then... Memerisu-chan. Shall we go to the bed...♥"
                             ]
                         },
                         {
@@ -5250,7 +4536,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]う、うん・・・♥"
+                                "\\c[31]Y-Yeah...♥"
                             ]
                         },
                         {
@@ -5295,7 +4581,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]ゴソゴソ・・・ボロンッ♥"
+                                "\\c[27]Rustle rustle... plop♥"
                             ]
                         },
                         {
@@ -5312,14 +4598,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ベッドの上に乗った途端、ティーナに下着を脱がされて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おちんちんを曝け出してしまうメメリス・・・！！"
+                                "The moment Memerisu gets on the bed, Tina strips her down\nand exposes her dick...!!"
                             ]
                         },
                         {
@@ -5336,14 +4615,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]メメリスちゃんのオチンポ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "皮被りで・・・ちっちゃくて・・・可愛いです♥"
+                                "\\c[17]Memerisu-chan's dick...♥ It's foreskinned and... so small\nand cute♥"
                             ]
                         },
                         {
@@ -5360,14 +4632,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]ニギニギ・・・♥ニギニギ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ニギニギ・・・♥ニギニギ・・・♥"
+                                "\\c[27]Squeeze squeeze...♥ Squeeze squeeze...♥ Squeeze squeeze...♥\nSqueeze squeeze...♥"
                             ]
                         },
                         {
@@ -5384,14 +4649,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]そんないきなりっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "んっ・・・ッッ・・・アッ・・・・触られるとッ♥"
+                                "\\c[31]So sudden...!! Ahn... Ahh... When you touch it♥"
                             ]
                         },
                         {
@@ -5408,14 +4666,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]メメリスちゃんそんなに慌てるなんて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんだか少しイタズラしたくなっちゃいます♥"
+                                "\\c[17]Memerisu-chan, you're panicking so much... it makes me want\nto tease you a little♥"
                             ]
                         },
                         {
@@ -5432,7 +4683,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]クンクン・・・♥クンクン・・・♥"
+                                "\\c[27]Sniff sniff...♥ Sniff sniff...♥"
                             ]
                         },
                         {
@@ -5449,14 +4700,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]はぁっ・・・ッッ♥オチンポの匂いッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "メメリスちゃんのオチンポの匂いがします♥"
+                                "\\c[17]Ahh... Ahh♥ The smell of a dick♥ I can smell Memerisu-chan's\ndick♥"
                             ]
                         },
                         {
@@ -5473,14 +4717,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]そんなところの匂いなんて嗅がないでいいからっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "流石にボクでも恥ずかしいよぉ！！"
+                                "\\c[31]Please don't smell there! Even I'm embarrassed by that!!"
                             ]
                         },
                         {
@@ -5497,14 +4734,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]フフッ♥そうですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それなら次は・・・えいっ♥"
+                                "\\c[17]Hehe♥ Is that so? Then next is... here I go♥"
                             ]
                         },
                         {
@@ -5549,7 +4779,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{・・・チュッ♥"
+                                "\\c[27]...Smooch♥"
                             ]
                         },
                         {
@@ -5566,7 +4796,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{ひょわっ！？"
+                                "\\c[31]Eek!? What?"
                             ]
                         },
                         {
@@ -5583,14 +4813,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ティーナは優しくおちんちんに口付けをし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ゆっくりと丁寧に舐め始める・・・。"
+                                "Tina gently kisses the dick and begins to lick it slowly and\ncarefully..."
                             ]
                         },
                         {
@@ -5607,7 +4830,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]（メメリスちゃんのオチンポ様・・・頂きます♥）"
+                                "\\c[17](Memerisu-chan's dick-sama... I humbly partake♥)"
                             ]
                         },
                         {
@@ -5636,14 +4859,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]チュッ♥チュッ♥クチュッ・・・ペロッ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "チュププッ♥レロッ・・・レロッ・・・チュッチュッ♥"
+                                "\\c[27]Smooch♥ Smooch♥ Slurp... Lick...♥ Suck suck♥ Lick... Lick...\nSmooch smooch♥"
                             ]
                         },
                         {
@@ -5660,21 +4876,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]（メメリスちゃんのオチンポの味・・・しょっぱくて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "少し舌がピリッとして・・・でも甘いお汁もピュッピュして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・ドキドキが止まりませんッ♥）"
+                                "\\c[17](The taste of Memerisu-chan's dick... it's salty and my\ntongue tingles a bit... but the sweet juice is spurting\nout... I can't stop my heart from racing♥)"
                             ]
                         },
                         {
@@ -5691,14 +4893,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]ティーナちゃんが・・・んんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ボクのチンコ舐めて・・・ッッあっ♥"
+                                "\\c[31]Tina-chan is licking my dick... Ahh♥"
                             ]
                         },
                         {
@@ -5715,21 +4910,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ティーナはメメリスの皮被りおちんちんの皮の間に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "舌を入れて亀頭を刺激しながらゆっくりと皮を剥いていく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・。"
+                                "Tina slides her tongue under the foreskin of Memerisu's\ndick, stimulating the glans while slowly peeling back the\nskin..."
                             ]
                         },
                         {
@@ -5763,14 +4944,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]チュププッ♥クチュッ・・・ペロッ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ジュプッ♥レロッ・・・レロッ・・・チュッチュッ♥"
+                                "\\c[27]Suck suck♥ Slurp... Lick...♥ Slurp♥ Lick... Lick... Smooch\nsmooch♥"
                             ]
                         },
                         {
@@ -5787,21 +4961,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]（もっと・・・もっとメメリスちゃんのオチンポを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "味わいたいですッ・・・♥メメリスちゃんの皮被りオチンポ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "舐めるの好き♥好き♥）"
+                                "\\c[17](I want to taste more... more of Memerisu-chan's dick♥ I\nlove licking Memerisu-chan's foreskinned dick♥ Love it♥ Love\nit♥)"
                             ]
                         },
                         {
@@ -5851,21 +5011,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "皮の間に舌を入れてゆっくりとおちんちんの皮を剥き、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "メメリスの亀頭が姿を現すとティーナは我慢出来ない様子で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おちんちんを咥え込む・・・！！"
+                                "As Tina slides her tongue under the skin and slowly peels\nback the foreskin, Memerisu's glans is revealed and Tina\ncan't resist engulfing the dick in her mouth...!!"
                             ]
                         },
                         {
@@ -5882,14 +5028,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]ボクのチンコの皮剥かれてっ・・・あんっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・ッッ、ティーナちゃんに食べられちゃってる♥"
+                                "\\c[31]My dick's skin is being peeled back... Ahn♥ ...Ahh, Tina-\nchan is devouring me♥"
                             ]
                         },
                         {
@@ -5906,14 +5045,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{ジュボッ♥ジュボッ♥ジュルルルルッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ヂュルッ♥ヂュルッ♥ヂュルルルルッ♥♥"
+                                "\\c[27]Slob slob♥ Slob slob♥ Slurrrrrp♥ Slurp♥ Slurp♥ Slurrrrrp♥♥"
                             ]
                         },
                         {
@@ -5930,14 +5062,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]（メメリスちゃん気持ちよさそう♥嬉しいです♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もっと気持ち良くしてあげたいっ♥好きっ♥好きっ♥）"
+                                "\\c[17](Memerisu-chan looks so pleased♥ I'm happy♥ I want to make\nher feel even better♥ Love her♥ Love her♥)"
                             ]
                         },
                         {
@@ -5954,14 +5079,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ティーナはおちんちんを咥えながらメメリスの金玉を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "左の掌で優しく握ったり転がしたりと愛撫をする・・・。"
+                                "While sucking on the dick, Tina gently grasps and rolls\nMemerisu's balls in her left palm..."
                             ]
                         },
                         {
@@ -5978,14 +5096,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{ニギニギ♥ニギニギ♥モミモミ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "モミモミ♥コロコロ♥コロコロ♥"
+                                "\\c[27]Squeeze♥ Squeeze♥ Massage♥ Massage♥ Roll roll♥ Roll roll♥"
                             ]
                         },
                         {
@@ -6002,14 +5113,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]ここにメメリスちゃんの精子が詰まってるんですね♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いっぱい気持ち良くなってたくさん精子を作ってください♥"
+                                "\\c[17]This is where Memerisu-chan's sperm is packed, right?♥\nPlease feel really good and make lots of sperm♥"
                             ]
                         },
                         {
@@ -6043,14 +5147,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]ッッ・・・はぁ・・・♥はぁ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おっ・・・ッッ・・・あんっ・・・♥ふーっ♥ふーっ♥"
+                                "\\c[31]Ahh... Haa...♥ Haa...♥ Ohh... Ahn...♥ Fuu-♥ Fuu-♥"
                             ]
                         },
                         {
@@ -6067,14 +5164,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]チンコの先っぽがっ・・・ジンジンしてきて・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "はぁ・・・んんっ・・・なんかで、出そう・・・♥"
+                                "\\c[31]The tip of my cock... it's starting to throb...♥ Haa...\nNnn... It feels like something's going to come out...♥"
                             ]
                         },
                         {
@@ -6091,21 +5181,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ティーナの口と手の中で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "メメリスが腰をヘコヘコ浮かせながら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おちんちんがビクンビクンと震える・・・！！"
+                                "As Tina's mouth and hand work together, Memerisu thrusts her\nhips up and down, and her dick twitches violently...!!"
                             ]
                         },
                         {
@@ -6122,21 +5198,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]（あっ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "メメリスちゃん、もう出ちゃいそうなんですね♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "たくさんピュッピュしてください♥）"
+                                "\\c[17](Ah...♥ Memerisu-chan looks like she's about to cum♥ Please\nlet out lots of it♥)"
                             ]
                         },
                         {
@@ -6153,14 +5215,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{ジュボッ♥ジュボッ♥ジュルルルルッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ヂュルッ♥ヂュルッ♥ヂュルルルルッ♥♥"
+                                "\\c[27]Gulp♥ Gulp♥ Slurrrrrp♥ Slurp♥ Slurp♥ Slurrrrrp♥♥"
                             ]
                         },
                         {
@@ -6177,14 +5232,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{ニギニギ♥ニギニギ♥モミモミ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "モミモミ♥コロコロ♥コロコロ♥"
+                                "\\c[27]Squeeze♥ Squeeze♥ Massage♥ Massage♥ Roll roll♥ Roll roll♥"
                             ]
                         },
                         {
@@ -6201,14 +5249,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{あっ♥あっ♥ッッッ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "イクッ♥イッちゃうぅううう♥♥♥"
+                                "\\c[31]Ah! Ah! Ahhh!♥ I'm cumming! I'm gonna cummmmm!♥♥♥"
                             ]
                         },
                         {
@@ -6310,14 +5351,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ビュク♥ビュルル♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ドプッ♥ドビュッ♥♥ビュルル♥"
+                                "\\c[27]Spurt♥ Sploosh♥♥ Gush♥ Squirt♥♥ Sploosh♥"
                             ]
                         },
                         {
@@ -6334,7 +5368,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{\\{んんっ♥むぅっ♥♥♥"
+                                "\\c[17]Nnnn! Mmm!♥♥♥"
                             ]
                         },
                         {
@@ -6351,7 +5385,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]（メメリスちゃんの精子、きましたぁ♥♥）"
+                                "\\c[17](Memerisu-chan's sperm, it's hereee♥♥)"
                             ]
                         },
                         {
@@ -6368,14 +5402,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]～～～～～ッッッ♥♥♥精液出るっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ティーナちゃんのお口にドピュドピュしちゃう♥"
+                                "\\c[31]～～～～～Ahhh!♥♥♥ I'm ejaculating! I'm spurting into Tina-chan's\nmouth!♥"
                             ]
                         },
                         {
@@ -6392,14 +5419,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ビュク♥ビュルルッ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ドクッドクッドクッ・・・♥♥♥"
+                                "\\c[27]Spurt♥ Sploosh!♥♥ Throb throb throb...♥♥♥"
                             ]
                         },
                         {
@@ -6416,14 +5436,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{ジュボッ♥ジュボッ♥ジュルルルルッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ゴクッ♥ゴクッ♥ゴクンッ♥"
+                                "\\c[17]Gulp♥ Gulp♥ Slurrrrrp♥ Swallow♥ Swallow♥ Swallowing♥"
                             ]
                         },
                         {
@@ -6468,7 +5481,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{・・・チュッポンッ♥"
+                                "\\c[27]...Pop off!♥"
                             ]
                         },
                         {
@@ -6485,14 +5498,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]はぁ・・・はぁ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "メメリスちゃんの精子・・・ごちそうさまでした♥"
+                                "\\c[17]Haa... Haa...♥ Thank you for the delicious sperm, Memerisu-\nchan.♥"
                             ]
                         },
                         {
@@ -6509,14 +5515,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ティーナはメメリスが出した精子を丁寧に舐め取り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "尿道に残った精液を吸い出していく・・・。"
+                                "Tina carefully licks up the sperm that Memerisu released and\nsucks out the semen remaining in the urethra..."
                             ]
                         },
                         {
@@ -6533,14 +5532,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]はぁ・・・はぁ・・・射精がこんなに気持ちいいなんて♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こ、腰が抜けちゃったよ・・・♥"
+                                "\\c[31]Haa... Haa... I never knew ejaculation could feel so good.\nMy legs are giving out...♥"
                             ]
                         },
                         {
@@ -6557,7 +5549,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]って、口で出しちゃったらこの部屋から出られないじゃん！"
+                                "\\c[31]But if I let it out with my mouth, we can't leave this room!"
                             ]
                         },
                         {
@@ -6574,21 +5566,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]んっ・・・♥大丈夫ですよ、メメリスちゃん♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私はまだまだイケますから・・・♥今からが本番・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "はぁ♥はぁ♥もっとしたいです♥"
+                                "\\c[17]Nn...♥ It's okay, Memerisu-chan. I can still go on...♥ The\nreal show starts now... Haa♥ Haa♥ I want more.♥"
                             ]
                         },
                         {
@@ -6605,14 +5583,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メメリスの精液を飲んで興奮がさらに高まり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "発情しきったティーナがメメリスに襲い掛かる・・・！！"
+                                "The excitement from drinking Memerisu's semen escalates\nfurther, and the fully aroused Tina pounces on Memerisu...!!"
                             ]
                         },
                         {
@@ -6629,14 +5600,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]そ、そんなすぐにはっ・・・ちょっと休憩を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あっ！あっ！ンアアアアアアアアッ♥♥♥"
+                                "\\c[31]So, so soon you can't... Let's take a little break—Ah! Ah!\nNAAAAAAAH!♥♥♥"
                             ]
                         },
                         {
@@ -6831,21 +5795,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "この後セックスをして部屋から出られるようになっても、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おちんちんが完全に消えるまで延々とティーナちゃんに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "精液を搾り尽くされ続けた・・・。"
+                                "Even after they had sex and could leave the room, Tina-chan\ncontinued to milk Memerisu's dick for semen until it\ncompletely disappeared..."
                             ]
                         },
                         {
@@ -6867,21 +5817,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -7048,7 +5984,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メメリスは力尽きた！！！！！！"
+                                "Memerisu is exhausted!!"
                             ]
                         },
                         {
@@ -7077,7 +6013,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ティーナちゃんは全回復した！！！！！"
+                                "Tina-chan has fully recovered!!"
                             ]
                         },
                         {

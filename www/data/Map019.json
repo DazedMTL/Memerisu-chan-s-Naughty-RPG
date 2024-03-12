@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ダンジョン",
+    "displayName": "Dungeon",
     "encounterList": [],
     "encounterStep": 120,
     "height": 30,
@@ -8634,7 +8634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポーションを手に入れた！"
+                                "Gained a Potion!"
                             ]
                         },
                         {
@@ -8880,7 +8880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "1500\\G 手に入れた！"
+                                "Gained 1500\\G!"
                             ]
                         },
                         {
@@ -9127,7 +9127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ディスペルハーブを手に入れた！"
+                                "Acquired Dispel Herb!"
                             ]
                         },
                         {
@@ -9374,7 +9374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鋼の石を手に入れた！"
+                                "Obtained the Steel Stone!"
                             ]
                         },
                         {
@@ -11255,7 +11255,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -11265,21 +11265,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わーっ！大きなクヌギの木だなぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カブトムシはいないかなー。"
+                                "Wow! What a huge oak tree! I wonder if there are any\nrhinoceros beetles around..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -11289,28 +11282,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスちゃんって虫は苦手なのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何故か小さい頃からカブトムシだけは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きでしたよねぇ・・・。"
+                                "Memerisu-chan, even though you're not fond of insects,\nyou've always liked rhinoceros beetles since you were\nlittle, haven't you..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -11320,21 +11299,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だって他の虫と違ってかっちょいいじゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの角は少年少女の心を鷲掴みするよ～。"
+                                "That's because they're different from other bugs, they look\nso cool! Those horns can really capture the hearts of boys\nand girls alike~"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -11344,21 +11316,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だからと言って将来の夢にカブトムシと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "書くのはどうかと思いますけど・・・。"
+                                "Even so, I think it's a bit much to write \"rhinoceros\nbeetle\" as your future dream..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -11368,14 +11333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だ、誰にだって黒歴史はあるから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はい、この話終わり！しゅーりょー！！"
+                                "E-everyone has their embarrassing past... Okay, end of this\ntopic! That's a wrap!!"
                             ]
                         },
                         {
@@ -11442,7 +11400,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -11452,21 +11410,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わーっ！大きなクヌギの木だなぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カブトムシはいないかなー。"
+                                "Wow! That's a huge oak tree! I wonder if there are any\nrhinoceros beetles around..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -11476,28 +11427,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスちゃんって虫は苦手なのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何故か小さい頃からカブトムシだけは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きでしたよねぇ・・・。"
+                                "Memerisu-chan, you've always been scared of bugs, but for\nsome reason, you've always liked rhinoceros beetles since\nyou were little, haven't you..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -11507,21 +11444,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だって他の虫と違ってかっちょいいじゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの角は少年少女の心を鷲掴みするよ～。"
+                                "That's because they're different from other bugs; they look\nso cool! Those horns can really capture the hearts of boys\nand girls."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -11531,21 +11461,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だからと言って将来の夢にカブトムシと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "書くのはどうかと思いますけど・・・。"
+                                "Even so, I think it's a bit much to write \"rhinoceros\nbeetle\" as your future dream..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -11555,14 +11478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だ、誰にだって黒歴史はあるから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はい、この話終わり！しゅーりょー！！"
+                                "E-everyone has their embarrassing past... Okay, end of this\ntopic! Fini~shed!!"
                             ]
                         },
                         {
@@ -11629,7 +11545,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -11639,21 +11555,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わーっ！大きなクヌギの木だなぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カブトムシはいないかなー。"
+                                "Wow! What a big oak tree! I wonder if there are any\nrhinoceros beetles around..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -11663,28 +11572,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスちゃんって虫は苦手なのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何故か小さい頃からカブトムシだけは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きでしたよねぇ・・・。"
+                                "Even though you're not fond of bugs, Memerisu-chan, you've\nalways liked rhinoceros beetles since you were little,\nhaven't you..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -11694,21 +11589,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だって他の虫と違ってかっちょいいじゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの角は少年少女の心を鷲掴みするよ～。"
+                                "That's because they're different from other bugs; they look\nso cool! Those horns can really capture the hearts of boys\nand girls."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -11718,21 +11606,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だからと言って将来の夢にカブトムシと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "書くのはどうかと思いますけど・・・。"
+                                "Still, I think it's questionable to write 'rhinoceros\nbeetle' as your future dream..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -11742,14 +11623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だ、誰にだって黒歴史はあるから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はい、この話終わり！しゅーりょー！！"
+                                "E-everyone has their embarrassing past... Okay, end of this\ntopic! Fin-ished!!"
                             ]
                         },
                         {
@@ -11816,7 +11690,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -11826,21 +11700,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わーっ！大きなクヌギの木だなぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カブトムシはいないかなー。"
+                                "Wow! That's a huge oak tree! I wonder if there are any\nrhinoceros beetles around..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -11850,28 +11717,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスちゃんって虫は苦手なのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何故か小さい頃からカブトムシだけは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きでしたよねぇ・・・。"
+                                "Memerisu-chan, you've always been scared of bugs, but for\nsome reason, you've always liked rhinoceros beetles since\nyou were little..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -11881,21 +11734,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だって他の虫と違ってかっちょいいじゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの角は少年少女の心を鷲掴みするよ～。"
+                                "That's because they're different from other bugs; they look\nso cool! Those horns can really capture the hearts of boys\nand girls."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -11905,21 +11751,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だからと言って将来の夢にカブトムシと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "書くのはどうかと思いますけど・・・。"
+                                "Even so, I think it's a bit much to write \"rhinoceros\nbeetle\" as your future dream..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -11929,14 +11768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だ、誰にだって黒歴史はあるから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はい、この話終わり！しゅーりょー！！"
+                                "E-everyone has their embarrassing past... Okay, end of this\ntopic! The end—!!"
                             ]
                         },
                         {
@@ -12003,7 +11835,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -12013,21 +11845,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わーっ！大きなクヌギの木だなぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カブトムシはいないかなー。"
+                                "Wow! What a huge oak tree! I wonder if there are any\nrhinoceros beetles around..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -12037,28 +11862,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスちゃんって虫は苦手なのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何故か小さい頃からカブトムシだけは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きでしたよねぇ・・・。"
+                                "Memerisu-chan, you've always been scared of bugs, but for\nsome reason, you've always liked rhinoceros beetles since\nyou were little..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -12068,21 +11879,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だって他の虫と違ってかっちょいいじゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの角は少年少女の心を鷲掴みするよ～。"
+                                "That's because they're different from other bugs, they look\nso cool! Those horns can really capture the hearts of boys\nand girls."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -12092,21 +11896,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だからと言って将来の夢にカブトムシと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "書くのはどうかと思いますけど・・・。"
+                                "Even so, I think it's a bit much to write \"rhinoceros\nbeetle\" as your future dream..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -12116,14 +11913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だ、誰にだって黒歴史はあるから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はい、この話終わり！しゅーりょー！！"
+                                "E-everyone has their embarrassing past... Okay, end of this\ntopic! That's a wrap!!"
                             ]
                         },
                         {
@@ -12190,7 +11980,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -12200,21 +11990,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わーっ！大きなクヌギの木だなぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カブトムシはいないかなー。"
+                                "Wow! What a huge oak tree! I wonder if there are any\nrhinoceros beetles around..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -12224,28 +12007,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスちゃんって虫は苦手なのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何故か小さい頃からカブトムシだけは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きでしたよねぇ・・・。"
+                                "Memerisu-chan, even though you're not fond of insects,\nyou've always liked rhinoceros beetles since you were\nlittle, haven't you..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -12255,21 +12024,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だって他の虫と違ってかっちょいいじゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの角は少年少女の心を鷲掴みするよ～。"
+                                "That's because they're different from other bugs; they look\nso cool! Those horns can really capture the hearts of boys\nand girls."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -12279,21 +12041,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だからと言って将来の夢にカブトムシと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "書くのはどうかと思いますけど・・・。"
+                                "Even so, I think it's a bit much to write \"rhinoceros\nbeetle\" as your future dream..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -12303,14 +12058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だ、誰にだって黒歴史はあるから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はい、この話終わり！しゅーりょー！！"
+                                "E-everyone has their embarrassing past... Okay, end of this\ntopic! That's a wrap!!"
                             ]
                         },
                         {
@@ -12377,7 +12125,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -12387,21 +12135,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わーっ！大きなクヌギの木だなぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カブトムシはいないかなー。"
+                                "Wow! That's a huge oak tree! I wonder if there are any\nrhinoceros beetles around."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -12411,28 +12152,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスちゃんって虫は苦手なのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何故か小さい頃からカブトムシだけは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きでしたよねぇ・・・。"
+                                "Memerisu-chan, even though you're not fond of insects,\nyou've always liked rhinoceros beetles since you were\nlittle, haven't you..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -12442,21 +12169,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だって他の虫と違ってかっちょいいじゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの角は少年少女の心を鷲掴みするよ～。"
+                                "That's because they're different from other bugs; they look\nso cool! Those horns can really capture the hearts of boys\nand girls."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -12466,21 +12186,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だからと言って将来の夢にカブトムシと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "書くのはどうかと思いますけど・・・。"
+                                "Even so, I think it's a bit much to write \"rhinoceros\nbeetle\" as your future dream..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -12490,14 +12203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だ、誰にだって黒歴史はあるから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はい、この話終わり！しゅーりょー！！"
+                                "E-everyone has their embarrassing past... Okay, end of this\ntopic! Fin-ished!!"
                             ]
                         },
                         {
@@ -12564,7 +12270,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -12574,21 +12280,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わーっ！大きなクヌギの木だなぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カブトムシはいないかなー。"
+                                "Wow! What a huge oak tree! I wonder if there are any\nrhinoceros beetles around."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -12598,28 +12297,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスちゃんって虫は苦手なのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何故か小さい頃からカブトムシだけは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きでしたよねぇ・・・。"
+                                "Memerisu-chan, you've always been scared of bugs, but for\nsome reason, you've always liked rhinoceros beetles since\nyou were little."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -12629,21 +12314,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だって他の虫と違ってかっちょいいじゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの角は少年少女の心を鷲掴みするよ～。"
+                                "That's because they're cooler than other bugs! Those horns\ncan really capture the hearts of boys and girls."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -12653,21 +12331,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だからと言って将来の夢にカブトムシと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "書くのはどうかと思いますけど・・・。"
+                                "Even so, I think it's a bit much to write \"rhinoceros\nbeetle\" as your future dream..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -12677,14 +12348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だ、誰にだって黒歴史はあるから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はい、この話終わり！しゅーりょー！！"
+                                "E-everyone has their embarrassing past... Okay, end of this\ntopic! Fini~shed!!"
                             ]
                         },
                         {
@@ -12751,7 +12415,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -12761,21 +12425,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わーっ！大きなクヌギの木だなぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カブトムシはいないかなー。"
+                                "Wow! What a huge oak tree! I wonder if there are any\nrhinoceros beetles around..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -12785,28 +12442,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスちゃんって虫は苦手なのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何故か小さい頃からカブトムシだけは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きでしたよねぇ・・・。"
+                                "Memerisu-chan, you've always been scared of bugs, but for\nsome reason, you've always liked rhinoceros beetles since\nyou were little..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -12816,21 +12459,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だって他の虫と違ってかっちょいいじゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの角は少年少女の心を鷲掴みするよ～。"
+                                "That's because they're different from other bugs; they look\nso cool! Those horns can really capture the hearts of boys\nand girls."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -12840,21 +12476,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だからと言って将来の夢にカブトムシと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "書くのはどうかと思いますけど・・・。"
+                                "Even so, I think it's a bit much to write \"rhinoceros\nbeetle\" as your future dream..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -12864,14 +12493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だ、誰にだって黒歴史はあるから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はい、この話終わり！しゅーりょー！！"
+                                "E-everyone has their embarrassing past... Okay, end of this\ntopic! That's a wrap!!"
                             ]
                         },
                         {
@@ -12938,7 +12560,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -12948,21 +12570,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わーっ！大きなクヌギの木だなぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カブトムシはいないかなー。"
+                                "Wow! That's a huge oak tree! I wonder if there are any\nrhinoceros beetles around."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -12972,28 +12587,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスちゃんって虫は苦手なのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何故か小さい頃からカブトムシだけは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きでしたよねぇ・・・。"
+                                "Memerisu-chan, you've always been scared of bugs, but for\nsome reason, you've always liked rhinoceros beetles since\nyou were little."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -13003,21 +12604,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だって他の虫と違ってかっちょいいじゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの角は少年少女の心を鷲掴みするよ～。"
+                                "That's because they're cooler than other bugs! Those horns\ncan really grab a boy's or girl's heart."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -13027,21 +12621,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だからと言って将来の夢にカブトムシと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "書くのはどうかと思いますけど・・・。"
+                                "Even so, I think it's a bit much to write \"rhinoceros\nbeetle\" as your future dream..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -13051,14 +12638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だ、誰にだって黒歴史はあるから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はい、この話終わり！しゅーりょー！！"
+                                "E-everyone has their embarrassing past... Okay, end of this\ntopic! That's a wrap!!"
                             ]
                         },
                         {
@@ -13125,7 +12705,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -13135,21 +12715,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わーっ！大きなクヌギの木だなぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カブトムシはいないかなー。"
+                                "Wow! What a big oak tree! I wonder if there are any\nrhinoceros beetles around."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -13159,28 +12732,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスちゃんって虫は苦手なのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何故か小さい頃からカブトムシだけは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きでしたよねぇ・・・。"
+                                "Memerisu-chan, even though you're not fond of insects,\nyou've always liked rhinoceros beetles since you were\nlittle, haven't you?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -13190,21 +12749,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だって他の虫と違ってかっちょいいじゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの角は少年少女の心を鷲掴みするよ～。"
+                                "That's because they're different from other bugs; they look\nso cool! Those horns can really capture the hearts of boys\nand girls."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -13214,21 +12766,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だからと言って将来の夢にカブトムシと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "書くのはどうかと思いますけど・・・。"
+                                "Even so, I think it's questionable to write 'rhinoceros\nbeetle' as your future dream..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -13238,14 +12783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だ、誰にだって黒歴史はあるから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はい、この話終わり！しゅーりょー！！"
+                                "E-everyone has their embarrassing past... Okay, end of this\ntopic! That's a wrap!!"
                             ]
                         },
                         {
@@ -13312,7 +12850,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -13322,21 +12860,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わーっ！大きなクヌギの木だなぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カブトムシはいないかなー。"
+                                "Wow! What a big oak tree! I wonder if there are any\nrhinoceros beetles around."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -13346,28 +12877,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスちゃんって虫は苦手なのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何故か小さい頃からカブトムシだけは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きでしたよねぇ・・・。"
+                                "Memerisu-chan, even though you're not fond of insects,\nyou've always liked rhinoceros beetles since you were\nlittle, haven't you?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -13377,21 +12894,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だって他の虫と違ってかっちょいいじゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの角は少年少女の心を鷲掴みするよ～。"
+                                "That's because they're different from other bugs; they look\nso cool! Those horns can really capture the hearts of boys\nand girls."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -13401,21 +12911,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だからと言って将来の夢にカブトムシと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "書くのはどうかと思いますけど・・・。"
+                                "Even so, I think it's a bit much to write \"rhinoceros\nbeetle\" as your future dream..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -13425,14 +12928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だ、誰にだって黒歴史はあるから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はい、この話終わり！しゅーりょー！！"
+                                "E-everyone has their embarrassing past... Okay, end of this\ntopic! That's a wrap!!"
                             ]
                         },
                         {
@@ -13499,7 +12995,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -13509,21 +13005,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わーっ！大きなクヌギの木だなぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カブトムシはいないかなー。"
+                                "Woah! That's a huge oak tree! I wonder if there are any\nrhinoceros beetles around..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -13533,28 +13022,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスちゃんって虫は苦手なのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何故か小さい頃からカブトムシだけは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きでしたよねぇ・・・。"
+                                "Memerisu-chan, you've always been scared of bugs, but for\nsome reason, you've always liked rhinoceros beetles since\nyou were little..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -13564,21 +13039,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だって他の虫と違ってかっちょいいじゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの角は少年少女の心を鷲掴みするよ～。"
+                                "That's because they're different from other bugs; they look\nso cool! Those horns can really capture the hearts of boys\nand girls."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -13588,21 +13056,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だからと言って将来の夢にカブトムシと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "書くのはどうかと思いますけど・・・。"
+                                "Even so, I think it's a bit much to write \"rhinoceros\nbeetle\" as your future dream..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -13612,14 +13073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だ、誰にだって黒歴史はあるから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はい、この話終わり！しゅーりょー！！"
+                                "Hey, everyone has their embarrassing past... Okay, end of\nthis topic! That's a wrap!!"
                             ]
                         },
                         {
@@ -13686,7 +13140,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -13696,21 +13150,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わーっ！大きなクヌギの木だなぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カブトムシはいないかなー。"
+                                "Wow! What a huge oak tree! I wonder if there are any\nrhinoceros beetles around."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -13720,28 +13167,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスちゃんって虫は苦手なのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何故か小さい頃からカブトムシだけは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きでしたよねぇ・・・。"
+                                "Memerisu-chan, you've always been scared of bugs, but for\nsome reason, you've liked rhinoceros beetles since you were\nlittle, haven't you..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -13751,21 +13184,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だって他の虫と違ってかっちょいいじゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの角は少年少女の心を鷲掴みするよ～。"
+                                "That's because they're different from other bugs, they look\nso cool! Those horns can really capture the hearts of boys\nand girls."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -13775,21 +13201,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だからと言って将来の夢にカブトムシと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "書くのはどうかと思いますけど・・・。"
+                                "Even so, I think it's a bit much to write \"rhinoceros\nbeetle\" as your future dream..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -13799,14 +13218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だ、誰にだって黒歴史はあるから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はい、この話終わり！しゅーりょー！！"
+                                "E-everyone has their embarrassing past... Okay, end of this\ntopic! Fini~shed!!"
                             ]
                         },
                         {
@@ -13873,7 +13285,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -13883,21 +13295,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わーっ！大きなクヌギの木だなぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カブトムシはいないかなー。"
+                                "Wow! What a huge oak tree! I wonder if there are any\nrhinoceros beetles around..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -13907,28 +13312,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスちゃんって虫は苦手なのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何故か小さい頃からカブトムシだけは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きでしたよねぇ・・・。"
+                                "Memerisu-chan, even though you're not fond of insects,\nyou've always liked rhinoceros beetles since you were\nlittle, haven't you..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -13938,21 +13329,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だって他の虫と違ってかっちょいいじゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの角は少年少女の心を鷲掴みするよ～。"
+                                "That's because they're different from other bugs; they look\nso cool! Those horns can really capture the hearts of boys\nand girls."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -13962,21 +13346,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だからと言って将来の夢にカブトムシと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "書くのはどうかと思いますけど・・・。"
+                                "Even so, I think it's a bit much to write \"rhinoceros\nbeetle\" as your future dream..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -13986,14 +13363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だ、誰にだって黒歴史はあるから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はい、この話終わり！しゅーりょー！！"
+                                "E-everyone has their embarrassing past... Okay, end of this\ntopic! Over and out!!"
                             ]
                         },
                         {
@@ -14060,7 +13430,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -14070,21 +13440,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わーっ！大きなクヌギの木だなぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カブトムシはいないかなー。"
+                                "Wow! That's a huge oak tree! I wonder if there are any\nrhinoceros beetles around..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -14094,28 +13457,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスちゃんって虫は苦手なのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何故か小さい頃からカブトムシだけは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きでしたよねぇ・・・。"
+                                "Memerisu-chan, you've always been scared of bugs, but for\nsome reason, you've always liked rhinoceros beetles since\nyou were little..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -14125,21 +13474,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だって他の虫と違ってかっちょいいじゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの角は少年少女の心を鷲掴みするよ～。"
+                                "That's because they're cooler than other bugs! Those horns\ncan really capture the hearts of boys and girls."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -14149,21 +13491,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だからと言って将来の夢にカブトムシと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "書くのはどうかと思いますけど・・・。"
+                                "Even so, I think it's a bit much to write \"rhinoceros\nbeetle\" as your future dream..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -14173,14 +13508,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だ、誰にだって黒歴史はあるから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はい、この話終わり！しゅーりょー！！"
+                                "E-everyone has their embarrassing past... Okay, end of this\ntopic! The end—!!"
                             ]
                         },
                         {
@@ -14247,7 +13575,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -14257,21 +13585,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わーっ！大きなクヌギの木だなぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カブトムシはいないかなー。"
+                                "Wow! What a huge oak tree! I wonder if there are any\nrhinoceros beetles around."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -14281,28 +13602,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスちゃんって虫は苦手なのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何故か小さい頃からカブトムシだけは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きでしたよねぇ・・・。"
+                                "Memerisu-chan, you've always been scared of bugs, but for\nsome reason, you've always liked rhinoceros beetles since\nyou were little."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -14312,21 +13619,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だって他の虫と違ってかっちょいいじゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの角は少年少女の心を鷲掴みするよ～。"
+                                "That's because they're different from other bugs, they look\nso cool! Those horns can really capture the hearts of boys\nand girls."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -14336,21 +13636,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だからと言って将来の夢にカブトムシと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "書くのはどうかと思いますけど・・・。"
+                                "Even so, I think it's a bit much to write \"rhinoceros\nbeetle\" as your future dream..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -14360,14 +13653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だ、誰にだって黒歴史はあるから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はい、この話終わり！しゅーりょー！！"
+                                "E-everyone has their embarrassing past... Okay, end of\ndiscussion! That's it!!"
                             ]
                         },
                         {
@@ -14434,7 +13720,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -14444,21 +13730,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わーっ！大きなクヌギの木だなぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カブトムシはいないかなー。"
+                                "Wow! What a big oak tree! I wonder if there are any\nrhinoceros beetles around."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -14468,28 +13747,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスちゃんって虫は苦手なのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何故か小さい頃からカブトムシだけは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きでしたよねぇ・・・。"
+                                "Memerisu-chan, you've always been scared of bugs, but for\nsome reason, you've always liked rhinoceros beetles since\nyou were little."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -14499,21 +13764,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だって他の虫と違ってかっちょいいじゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの角は少年少女の心を鷲掴みするよ～。"
+                                "That's because they're different from other bugs; they look\nso cool! Those horns can really capture the hearts of boys\nand girls."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -14523,21 +13781,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だからと言って将来の夢にカブトムシと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "書くのはどうかと思いますけど・・・。"
+                                "Even so, I think it's a bit much to write \"rhinoceros\nbeetle\" as your future dream..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -14547,14 +13798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だ、誰にだって黒歴史はあるから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はい、この話終わり！しゅーりょー！！"
+                                "E-everyone has their embarrassing past... Okay, end of this\ntopic! The end—!!"
                             ]
                         },
                         {
@@ -14621,7 +13865,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -14631,21 +13875,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わーっ！大きなクヌギの木だなぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カブトムシはいないかなー。"
+                                "Wow! What a huge oak tree! I wonder if there are any\nrhinoceros beetles around..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -14655,28 +13892,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスちゃんって虫は苦手なのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何故か小さい頃からカブトムシだけは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きでしたよねぇ・・・。"
+                                "Memerisu-chan, even though you're not fond of insects,\nyou've always liked rhinoceros beetles since you were\nlittle, haven't you..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -14686,21 +13909,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だって他の虫と違ってかっちょいいじゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの角は少年少女の心を鷲掴みするよ～。"
+                                "That's because they're different from other bugs; they look\nso cool! Those horns can really capture the hearts of boys\nand girls."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -14710,21 +13926,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だからと言って将来の夢にカブトムシと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "書くのはどうかと思いますけど・・・。"
+                                "Even so, I think it's a bit much to write \"rhinoceros\nbeetle\" as your future dream..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -14734,14 +13943,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だ、誰にだって黒歴史はあるから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はい、この話終わり！しゅーりょー！！"
+                                "E-everyone has their embarrassing past... Okay, end of this\ntopic! That's a wrap!!"
                             ]
                         },
                         {
@@ -14808,7 +14010,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -14818,21 +14020,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わーっ！大きなクヌギの木だなぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カブトムシはいないかなー。"
+                                "Wow! What a big oak tree! I wonder if there are any\nrhinoceros beetles around."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -14842,28 +14037,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスちゃんって虫は苦手なのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何故か小さい頃からカブトムシだけは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きでしたよねぇ・・・。"
+                                "Memerisu-chan, you've always been scared of bugs, but for\nsome reason, you've always liked rhinoceros beetles since\nyou were little."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -14873,21 +14054,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だって他の虫と違ってかっちょいいじゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの角は少年少女の心を鷲掴みするよ～。"
+                                "That's because they're different from other bugs, they look\nso cool! Those horns can really capture the hearts of boys\nand girls."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -14897,21 +14071,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だからと言って将来の夢にカブトムシと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "書くのはどうかと思いますけど・・・。"
+                                "Even so, I think it's questionable to write 'rhinoceros\nbeetle' as your future dream..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -14921,14 +14088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だ、誰にだって黒歴史はあるから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はい、この話終わり！しゅーりょー！！"
+                                "E-everyone has their embarrassing past... Okay, end of this\ntopic! That's a wrap!!"
                             ]
                         },
                         {
@@ -14995,7 +14155,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -15005,21 +14165,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わーっ！大きなクヌギの木だなぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カブトムシはいないかなー。"
+                                "Wow! What a huge oak tree! I wonder if there are any\nrhinoceros beetles around."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -15029,28 +14182,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスちゃんって虫は苦手なのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何故か小さい頃からカブトムシだけは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きでしたよねぇ・・・。"
+                                "Memerisu-chan, even though you're not fond of insects,\nyou've always liked rhinoceros beetles since you were\nlittle, haven't you..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -15060,21 +14199,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だって他の虫と違ってかっちょいいじゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの角は少年少女の心を鷲掴みするよ～。"
+                                "That's because they're different from other bugs, they look\nso cool! Those horns can really capture the hearts of boys\nand girls."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -15084,21 +14216,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だからと言って将来の夢にカブトムシと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "書くのはどうかと思いますけど・・・。"
+                                "Even so, I think it's a bit much to write \"rhinoceros\nbeetle\" as your future dream..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -15108,14 +14233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だ、誰にだって黒歴史はあるから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はい、この話終わり！しゅーりょー！！"
+                                "E-everyone has their embarrassing past... Okay, end of this\ntopic! That's a wrap!!"
                             ]
                         },
                         {
@@ -15182,7 +14300,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -15192,21 +14310,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わーっ！大きなクヌギの木だなぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カブトムシはいないかなー。"
+                                "Wow! What a huge oak tree! I wonder if there are any\nrhinoceros beetles around..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -15216,28 +14327,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスちゃんって虫は苦手なのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何故か小さい頃からカブトムシだけは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きでしたよねぇ・・・。"
+                                "Memerisu-chan, even though you're not fond of insects,\nyou've always liked rhinoceros beetles since you were\nlittle, haven't you..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -15247,21 +14344,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だって他の虫と違ってかっちょいいじゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの角は少年少女の心を鷲掴みするよ～。"
+                                "That's because they're different from other bugs; they look\nso cool! Those horns can really capture the hearts of boys\nand girls."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -15271,21 +14361,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だからと言って将来の夢にカブトムシと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "書くのはどうかと思いますけど・・・。"
+                                "Even so, I think it's a bit much to write \"rhinoceros\nbeetle\" as your future dream..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -15295,14 +14378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だ、誰にだって黒歴史はあるから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はい、この話終わり！しゅーりょー！！"
+                                "E-everyone has their embarrassing past... Okay, end of this\ntopic! That's a wrap!!"
                             ]
                         },
                         {
@@ -15369,7 +14445,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -15379,14 +14455,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわっ！なんだこの花、くっせぇ！！！"
+                                "Ugh! What's with this flower, it stinks!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -15396,14 +14472,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "は、鼻が曲がりそうです・・・っ！！"
+                                "My, my nose feels like it's going to bend...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 6,
                                 0,
                                 2
@@ -15413,14 +14489,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "花だけに？"
+                                "Just because it's a flower?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -15430,7 +14506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・は？"
+                                "...Huh?"
                             ]
                         },
                         {
@@ -15497,7 +14573,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -15507,14 +14583,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわっ！なんだこの花、くっせぇ！！！"
+                                "Ugh! What's with this flower, it stinks!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -15524,14 +14600,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "は、鼻が曲がりそうです・・・っ！！"
+                                "My, my nose is about to bend...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 6,
                                 0,
                                 2
@@ -15541,14 +14617,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "花だけに？"
+                                "Just because it's a flower?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -15558,7 +14634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・は？"
+                                "...Huh?"
                             ]
                         },
                         {
@@ -15625,7 +14701,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -15635,14 +14711,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわっ！なんだこの花、くっせぇ！！！"
+                                "Ugh! What's with this flower, it stinks!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -15652,14 +14728,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "は、鼻が曲がりそうです・・・っ！！"
+                                "My, my nose feels like it's going to bend...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 6,
                                 0,
                                 2
@@ -15669,14 +14745,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "花だけに？"
+                                "Just because it's a flower?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -15686,7 +14762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・は？"
+                                "...Huh?"
                             ]
                         },
                         {
@@ -15753,7 +14829,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -15763,14 +14839,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわっ！なんだこの花、くっせぇ！！！"
+                                "Ugh! What's with this flower, it stinks!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -15780,14 +14856,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "は、鼻が曲がりそうです・・・っ！！"
+                                "My, my nose feels like it's going to bend...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 6,
                                 0,
                                 2
@@ -15797,14 +14873,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "花だけに？"
+                                "Just because it's a flower?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -15814,7 +14890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・は？"
+                                "...Huh?"
                             ]
                         },
                         {
@@ -15881,7 +14957,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -15891,14 +14967,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわっ！なんだこの花、くっせぇ！！！"
+                                "Ugh! What's with this flower, it stinks!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -15908,14 +14984,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "は、鼻が曲がりそうです・・・っ！！"
+                                "My, my nose feels like it's going to bend...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 6,
                                 0,
                                 2
@@ -15925,14 +15001,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "花だけに？"
+                                "Just because it's a flower?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -15942,7 +15018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・は？"
+                                "...Huh?"
                             ]
                         },
                         {
@@ -16009,7 +15085,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -16019,14 +15095,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわっ！なんだこの花、くっせぇ！！！"
+                                "Ugh! What's with this flower, it stinks!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -16036,14 +15112,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "は、鼻が曲がりそうです・・・っ！！"
+                                "My, my nose feels like it's going to bend...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 6,
                                 0,
                                 2
@@ -16053,14 +15129,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "花だけに？"
+                                "Just because it's a flower?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -16070,7 +15146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・は？"
+                                "...Huh?"
                             ]
                         },
                         {
@@ -16137,7 +15213,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -16147,21 +15223,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わーっ！大きなクヌギの木だなぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カブトムシはいないかなー。"
+                                "Wow! What a big oak tree! I wonder if there are any\nrhinoceros beetles around."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -16171,28 +15240,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスちゃんって虫は苦手なのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何故か小さい頃からカブトムシだけは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きでしたよねぇ・・・。"
+                                "Memerisu-chan, you've always been scared of bugs, but for\nsome reason, you've always liked rhinoceros beetles since\nyou were little."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -16202,21 +15257,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だって他の虫と違ってかっちょいいじゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの角は少年少女の心を鷲掴みするよ～。"
+                                "That's because they're different from other bugs, they look\nso cool! Those horns can really capture the hearts of boys\nand girls."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -16226,21 +15274,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だからと言って将来の夢にカブトムシと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "書くのはどうかと思いますけど・・・。"
+                                "Even so, I think it's a bit much to write \"rhinoceros\nbeetle\" as your future dream..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -16250,14 +15291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だ、誰にだって黒歴史はあるから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はい、この話終わり！しゅーりょー！！"
+                                "E-everyone has their embarrassing past... Okay, this\nconversation is over! The end!!"
                             ]
                         },
                         {
@@ -16324,7 +15358,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -16334,21 +15368,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わーっ！大きなクヌギの木だなぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カブトムシはいないかなー。"
+                                "Wow! What a huge oak tree! I wonder if there are any\nrhinoceros beetles around..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -16358,28 +15385,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスちゃんって虫は苦手なのに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何故か小さい頃からカブトムシだけは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きでしたよねぇ・・・。"
+                                "Memerisu-chan, even though you're not fond of insects,\nyou've always liked rhinoceros beetles since you were\nlittle, haven't you..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -16389,21 +15402,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だって他の虫と違ってかっちょいいじゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの角は少年少女の心を鷲掴みするよ～。"
+                                "That's because they're different from other bugs, they look\nso cool! Those horns can really capture the hearts of boys\nand girls."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -16413,21 +15419,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だからと言って将来の夢にカブトムシと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "書くのはどうかと思いますけど・・・。"
+                                "Even so, I think it's a bit much to write \"rhinoceros\nbeetle\" as your future dream..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -16437,14 +15436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だ、誰にだって黒歴史はあるから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はい、この話終わり！しゅーりょー！！"
+                                "E-everyone has their embarrassing past... Okay, end of this\ntopic! That's a wrap!!"
                             ]
                         },
                         {

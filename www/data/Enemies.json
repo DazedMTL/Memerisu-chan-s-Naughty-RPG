@@ -61,7 +61,7 @@
             }
         ],
         "gold": 300,
-        "name": "こうもり",
+        "name": "Bat",
         "note": "<PosY:350>\n",
         "params": [
             60,
@@ -142,7 +142,7 @@
             }
         ],
         "gold": 300,
-        "name": "スライム",
+        "name": "Slime",
         "note": "<PosY:350>\n",
         "params": [
             70,
@@ -211,7 +211,7 @@
             }
         ],
         "gold": 300,
-        "name": "オーク",
+        "name": "Orc",
         "note": "<PosY:350>\n",
         "params": [
             200,
@@ -280,7 +280,7 @@
             }
         ],
         "gold": 400,
-        "name": "ミノタウロス",
+        "name": "Minotaur",
         "note": "<PosY:360>\n",
         "params": [
             250,
@@ -373,7 +373,7 @@
             }
         ],
         "gold": 1200,
-        "name": "ゴロツキ",
+        "name": "Hoodlum",
         "note": "<PosX:220>\n<PosY:320>",
         "params": [
             350,
@@ -476,7 +476,7 @@
             }
         ],
         "gold": 1,
-        "name": "怒り狂った孫",
+        "name": "Enraged Grandson",
         "note": "<PosX:220>\n<PosY:340>",
         "params": [
             3980,
@@ -557,7 +557,7 @@
             }
         ],
         "gold": 2000,
-        "name": "ゴロツキのボス",
+        "name": "Hoodlum Boss",
         "note": "<PosX:220>\n<PosY:340>",
         "params": [
             800,
@@ -633,7 +633,7 @@
             }
         ],
         "gold": 2000,
-        "name": "薄汚いオーク君",
+        "name": "Filthy Orc-kun",
         "note": "<PosX:220>\n<PosY:340>\n",
         "params": [
             700,
@@ -702,7 +702,7 @@
             }
         ],
         "gold": 300,
-        "name": "ノヅチ",
+        "name": "Nozuchi",
         "note": "<PosY:350>\n",
         "params": [
             50,
@@ -783,7 +783,7 @@
             }
         ],
         "gold": 300,
-        "name": "ゴースト",
+        "name": "Ghost",
         "note": "<PosY:350>\n",
         "params": [
             70,
@@ -852,7 +852,7 @@
             }
         ],
         "gold": 300,
-        "name": "ジグモ",
+        "name": "Jigumo",
         "note": "<PosY:350>\n",
         "params": [
             85,
@@ -926,7 +926,7 @@
             }
         ],
         "gold": 550,
-        "name": "モリの精",
+        "name": "Forest Spirit",
         "note": "<PosY:350>\n",
         "params": [
             100,
@@ -993,7 +993,7 @@
             }
         ],
         "gold": 400,
-        "name": "血吸いフラワー",
+        "name": "Bloodsucking Flower",
         "note": "<PosY:350>\n",
         "params": [
             120,
@@ -1069,7 +1069,7 @@
             }
         ],
         "gold": 2500,
-        "name": "ぬめぬめぬめぬ",
+        "name": "Slimey Slimey Slimey",
         "note": "<PosY:350>\n",
         "params": [
             1200,
@@ -1145,7 +1145,7 @@
             }
         ],
         "gold": 1000,
-        "name": "泥棒",
+        "name": "Thief",
         "note": "<PosX:220>\n<PosY:340>",
         "params": [
             300,
@@ -1214,7 +1214,7 @@
             }
         ],
         "gold": 800,
-        "name": "ワーウルフ",
+        "name": "Werewolf",
         "note": "<PosY:350>\n",
         "params": [
             220,
@@ -1283,7 +1283,7 @@
             }
         ],
         "gold": 800,
-        "name": "火の玉",
+        "name": "Fireball",
         "note": "<PosY:350>\n",
         "params": [
             130,
@@ -1364,7 +1364,7 @@
             }
         ],
         "gold": 800,
-        "name": "インプ",
+        "name": "Imp",
         "note": "<PosY:350>\n",
         "params": [
             220,
@@ -1454,7 +1454,7 @@
             }
         ],
         "gold": 3000,
-        "name": "学びを得たオーク君",
+        "name": "Orc-kun with Knowledge",
         "note": "<PosX:220>\n<PosY:340>",
         "params": [
             1600,
@@ -1516,7 +1516,7 @@
             }
         ],
         "gold": 0,
-        "name": "経験値スライム",
+        "name": "EXP Slime",
         "note": "",
         "params": [
             1,
@@ -1592,7 +1592,7 @@
             }
         ],
         "gold": 3000,
-        "name": "野獣",
+        "name": "Wild Beast",
         "note": "<PosX:220>\n<PosY:340>",
         "params": [
             1500,
@@ -1668,7 +1668,7 @@
             }
         ],
         "gold": 600,
-        "name": "おケツほじりスライム",
+        "name": "Butt-Digging Slime",
         "note": "<PosY:350>\n",
         "params": [
             240,
@@ -1725,7 +1725,7 @@
             }
         ],
         "gold": 0,
-        "name": "素敵な仲間",
+        "name": "Lovely Companion",
         "note": "<PosY:350>\n",
         "params": [
             1,
@@ -1782,7 +1782,7 @@
             }
         ],
         "gold": 0,
-        "name": "素敵な仲間",
+        "name": "Lovely Companion",
         "note": "<PosY:350>\n",
         "params": [
             1,
@@ -1839,7 +1839,7 @@
             }
         ],
         "gold": 0,
-        "name": "素敵な仲間（金）",
+        "name": "Lovely Companion (Gold)",
         "note": "<PosY:350>\n",
         "params": [
             1,
@@ -1915,7 +1915,7 @@
             }
         ],
         "gold": 4000,
-        "name": "キングおケツほじりスライム",
+        "name": "King Butt-Digging Slime",
         "note": "<PosY:350>\n",
         "params": [
             1200,
@@ -1991,7 +1991,7 @@
             }
         ],
         "gold": 4000,
-        "name": "帰ってきたぬめぬめぬめぬ",
+        "name": "Return of the Slimey Slimey Slimey",
         "note": "<PosY:350>\n",
         "params": [
             1600,
@@ -2072,7 +2072,7 @@
             }
         ],
         "gold": 1300,
-        "name": "スラまる",
+        "name": "Slamaru",
         "note": "<PosY:350>\n",
         "params": [
             800,
@@ -2148,7 +2148,7 @@
             }
         ],
         "gold": 2000,
-        "name": "ゴレちん",
+        "name": "Gorechin",
         "note": "\n",
         "params": [
             1300,
@@ -2229,7 +2229,7 @@
             }
         ],
         "gold": 1500,
-        "name": "ホネきち",
+        "name": "Honekichi",
         "note": "<PosY:350>\n",
         "params": [
             600,
@@ -2305,7 +2305,7 @@
             }
         ],
         "gold": 2000,
-        "name": "怪しい研究員",
+        "name": "Suspicious Researcher",
         "note": "<PosX:230>\n<PosY:340>",
         "params": [
             1400,
@@ -2388,7 +2388,7 @@
             }
         ],
         "gold": 4000,
-        "name": "キマイラーン",
+        "name": "Chimaeran",
         "note": "<PosX:260>\n<PosY:400>",
         "params": [
             2500,
@@ -2457,7 +2457,7 @@
             }
         ],
         "gold": 10000,
-        "name": "経験値スライム",
+        "name": "EXP Slime",
         "note": "",
         "params": [
             1000,
@@ -2519,7 +2519,7 @@
             }
         ],
         "gold": 800,
-        "name": "ゴブリン",
+        "name": "Goblin",
         "note": "<PosY:350>\n",
         "params": [
             230,
@@ -2581,7 +2581,7 @@
             }
         ],
         "gold": 900,
-        "name": "ゴブリン兵士",
+        "name": "Goblin Soldier",
         "note": "<PosY:350>\n",
         "params": [
             250,
@@ -2650,7 +2650,7 @@
             }
         ],
         "gold": 900,
-        "name": "ゴブリンライダー",
+        "name": "Goblin Rider",
         "note": "<PosY:350>\n",
         "params": [
             290,
@@ -2733,7 +2733,7 @@
             }
         ],
         "gold": 3000,
-        "name": "ゴブリンシャーマン",
+        "name": "Goblin Shaman",
         "note": "<PosY:350>\n",
         "params": [
             1000,
@@ -2814,7 +2814,7 @@
             }
         ],
         "gold": 4000,
-        "name": "地獄からの使者",
+        "name": "Messenger from Hell",
         "note": "<PosY:350>\n",
         "params": [
             3000,
@@ -2883,7 +2883,7 @@
             }
         ],
         "gold": 700,
-        "name": "じむぐり",
+        "name": "Jimguri",
         "note": "<PosY:350>\n",
         "params": [
             300,
@@ -2964,7 +2964,7 @@
             }
         ],
         "gold": 700,
-        "name": "生き血を啜るフラワー",
+        "name": "Blood-Sipping Flower",
         "note": "<PosY:350>\n",
         "params": [
             400,
@@ -3033,7 +3033,7 @@
             }
         ],
         "gold": 900,
-        "name": "くさったゾンビ",
+        "name": "Rotten Zombie",
         "note": "<PosY:350>\n",
         "params": [
             550,
@@ -3116,7 +3116,7 @@
             }
         ],
         "gold": 4000,
-        "name": "マミー",
+        "name": "Mummy",
         "note": "<PosY:350>\n",
         "params": [
             3300,
@@ -3199,7 +3199,7 @@
             }
         ],
         "gold": 4000,
-        "name": "サキュ子",
+        "name": "Succubus",
         "note": "<PosX:220>\n<PosY:370>",
         "params": [
             3200,
@@ -3282,7 +3282,7 @@
             }
         ],
         "gold": 4000,
-        "name": "覚悟したオーク君",
+        "name": "Resolved Orc-kun",
         "note": "<PosX:220>\n<PosY:340>",
         "params": [
             3600,
@@ -3358,7 +3358,7 @@
             }
         ],
         "gold": 4000,
-        "name": "ミミック",
+        "name": "Mimic",
         "note": "<PosX:220>\n<PosY:340>",
         "params": [
             3600,
@@ -3485,7 +3485,7 @@
             }
         ],
         "gold": 0,
-        "name": "護衛兵",
+        "name": "Guard",
         "note": "<PosY:350>",
         "params": [
             999999,
@@ -3554,7 +3554,7 @@
             }
         ],
         "gold": 1000,
-        "name": "冒険者A",
+        "name": "Adventurer A",
         "note": "\n",
         "params": [
             1800,
@@ -3616,7 +3616,7 @@
             }
         ],
         "gold": 1000,
-        "name": "冒険者B",
+        "name": "Adventurer B",
         "note": "",
         "params": [
             1500,
@@ -3685,7 +3685,7 @@
             }
         ],
         "gold": 1000,
-        "name": "冒険者C",
+        "name": "Adventurer C",
         "note": "<PosY:350>\n",
         "params": [
             600,
@@ -3747,7 +3747,7 @@
             }
         ],
         "gold": 1000,
-        "name": "冒険者D",
+        "name": "Adventurer D",
         "note": "<PosY:350>\n",
         "params": [
             600,
@@ -3809,7 +3809,7 @@
             }
         ],
         "gold": 1000,
-        "name": "冒険者E",
+        "name": "Adventurer E",
         "note": "<PosY:350>\n<PosX:680>",
         "params": [
             900,
@@ -3871,7 +3871,7 @@
             }
         ],
         "gold": 1000,
-        "name": "冒険者F",
+        "name": "Adventurer F",
         "note": "\n",
         "params": [
             1000,
@@ -3954,7 +3954,7 @@
             }
         ],
         "gold": 5000,
-        "name": "半魚人",
+        "name": "Mermaid Man",
         "note": "<PosX:220>\n<PosY:370>",
         "params": [
             3200,
@@ -4030,7 +4030,7 @@
             }
         ],
         "gold": 5000,
-        "name": "ウマ男",
+        "name": "Horse Man",
         "note": "<PosX:220>\n<PosY:370>",
         "params": [
             3200,
@@ -4128,7 +4128,7 @@
             }
         ],
         "gold": 30000,
-        "name": "クソ女神",
+        "name": "Crappy Goddess",
         "note": "",
         "params": [
             5000,
@@ -4190,7 +4190,7 @@
             }
         ],
         "gold": 1000,
-        "name": "邪神ちゃん",
+        "name": "Evil God-chan",
         "note": "",
         "params": [
             600,
@@ -4247,7 +4247,7 @@
             }
         ],
         "gold": 0,
-        "name": "素敵な仲間",
+        "name": "Wonderful Companion",
         "note": "<PosY:350>\n",
         "params": [
             1,
@@ -4304,7 +4304,7 @@
             }
         ],
         "gold": 0,
-        "name": "素敵な仲間",
+        "name": "Wonderful Companion",
         "note": "<PosY:350>\n",
         "params": [
             1,
@@ -4361,7 +4361,7 @@
             }
         ],
         "gold": 0,
-        "name": "素敵な仲間（金）",
+        "name": "Wonderful Companion (Gold)",
         "note": "<PosY:350>\n",
         "params": [
             1,

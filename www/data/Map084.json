@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "性奴隷競売場",
+    "displayName": "Slave Auction House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -5889,7 +5889,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -5899,14 +5899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まだ孫娘さんを見つけられていません・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "探しましょう！！"
+                                "We still haven't found the granddaughter...! Let's keep\nsearching!!"
                             ]
                         },
                         {
@@ -6103,21 +6096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふむ・・・獣人の奴隷か・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "獣人の雌の鳴き声はいつ聞いても最高だからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今夜はこいつにするか。"
+                                "Hmm... a beastman slave... The cries of a female beastman\nare always the best. Maybe I'll choose this one for tonight."
                             ]
                         },
                         {
@@ -6194,14 +6173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ワシの息子の夜伽の練習相手に奴隷を買いに来たが・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふむ、息子にあてがう前に一度抱くのもいいのう。"
+                                "I came to buy a slave to be a practice partner for my son's\nnightly duties... Hmm, it might be good to embrace her\nmyself before giving her to my son."
                             ]
                         },
                         {
@@ -6278,14 +6250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ようこそ！欲望渦巻く性奴隷オークション会場へ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お客様のお好みの女の子が見つかる事をお祈りします♥"
+                                "Welcome! To the swirling den of desire that is the sex slave\nauction! We hope you find the girl of your liking here♥"
                             ]
                         },
                         {
@@ -6362,14 +6327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "現在、オークションを開催中です♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご参加したい方はどうぞ奥に・・・♥"
+                                "We are currently holding an auction♪ If you'd like to\nparticipate, please head to the back...♥"
                             ]
                         },
                         {
@@ -6446,14 +6404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おほ～！ワシの孫娘と同じぐらいの女の子が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出品されておるではないか！これは買いじゃなぁ！！"
+                                "Oh ho! A girl about the same age as my granddaughter is\nbeing auctioned! This is a must-buy!!"
                             ]
                         },
                         {
@@ -6590,14 +6541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここでは金さえあれば何でも買える！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさに理想郷だぜ。"
+                                "As long as you have money, you can buy anything here! It's\ntruly a utopia."
                             ]
                         },
                         {
@@ -6674,7 +6618,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ブツブツ・・・ブツブツ・・・。"
+                                "Muttering... Muttering..."
                             ]
                         },
                         {
@@ -6811,21 +6755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今回はどんな性奴隷を買おうか・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "前の奴隷は乱暴に扱い過ぎてすぐに壊れてしまったから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次は簡単に壊れない丈夫な奴隷を買おう。"
+                                "What kind of sex slave should I buy this time... The last\none broke too easily because I was too rough with her, so I\nshould buy a sturdy slave that won't break easily."
                             ]
                         },
                         {
@@ -6902,14 +6832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フォッフォッフォッ・・・年を取っても女を抱くのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やめられんのう！"
+                                "Ho ho ho... Even as I age, I can't stop embracing women!"
                             ]
                         },
                         {
@@ -7346,14 +7269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここで奴隷を安く仕入れて他所で高く売りつける。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奴隷転売で大儲けでーす！"
+                                "Buy slaves cheaply here and sell them at a high price\nelsewhere. Making a fortune with slave trading!"
                             ]
                         },
                         {
@@ -7670,28 +7586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここには色んな島から攫われたり、借金のカタに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "売り飛ばされたりした奴が奴隷として出品されてるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "噂には性奴隷としての価値を高める為に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "調教する施設も存在するらしいぜ。"
+                                "People here have been kidnapped from various islands or sold\noff to cover debts and are being offered as slaves. Rumors\nsay there's even a facility that trains them to increase\ntheir value as sex slaves."
                             ]
                         },
                         {
@@ -7768,21 +7663,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "皆様本日はお集まり下さり誠にありがとうございます！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本日最初の出品はこちらの少女となります！"
+                                "Ladies and gentlemen, thank you very much for gathering here\ntoday! The first item up for auction today is this girl!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -7792,21 +7680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちょ、ちょっとメメリスちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "多分お爺さんの孫娘ってあの子ですよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見せて頂いた写真にそっくりです！！"
+                                "Wait, wait a minute, Memerisu-chan! That's probably the old\nman's granddaughter! She looks just like the photo he showed\nus!!"
                             ]
                         },
                         {
@@ -7823,21 +7697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらの少女は私共による特別性奴隷調教を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "施していますので、競り落とした瞬間から"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どのようなプレイも対応可能です！"
+                                "This girl has been specially trained as a sex slave by us,\nso she's ready for any kind of play the moment she's bought!"
                             ]
                         },
                         {
@@ -7854,14 +7714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自宅で家政婦として扱うもヨシ！今すぐ抱くのもヨシ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "落札された方のご自由にしていただいて結構です！！"
+                                "You can treat her as a maid at home if you wish! Or embrace\nher right away! The buyer is free to do as they please!!"
                             ]
                         },
                         {
@@ -7878,14 +7731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さぁそれでは！只今からこちらの少女のオークションを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "開始します。まず、30万から！さぁお客様どうぞ！"
+                                "Now then! Let's start the auction for this girl. We'll start\nat 300,000! Come on, ladies and gentlemen!"
                             ]
                         },
                         {
@@ -7902,21 +7748,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{「40！」「50！」「60！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「70！」・・・。"
+                                "\"40!\" \"50!\" \"60!\" \"70!\"..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -7926,35 +7765,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんて勢いで値段が上がっていくんだ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これじゃ競り落とすのも無理だし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "潜入で助けようにもこの状況じゃ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなこと出来ないよぉ・・・。"
+                                "How quickly the price is rising...! There's no way we can\nwin the bid like this, and we can't rescue her in this\nsituation either..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -7964,21 +7782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "孫娘さんが買われてしまうと、その後の足取り"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "が掴めるのかも分かりません・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここは危険ですが突入して奪還するしか・・・。"
+                                "If the granddaughter is bought, we might not be able to\ntrack her whereabouts... It's risky, but we might have to\nstorm in and take her back..."
                             ]
                         },
                         {
@@ -7997,7 +7801,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -8007,14 +7811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちくしょう！仕方ないっ！うおおおおおおお！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "孫娘ちゃんを返してもらうぞおおおお！！！"
+                                "Damn it! Can't be helped! Uoooooooh!! Give back the\ngranddaughter-chan!!"
                             ]
                         },
                         {
@@ -8031,14 +7828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "な、なんですか貴方達は！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "護衛の皆さん、不審者のお相手をお願いします！！"
+                                "What are you people doing here! Guards, please deal with\nthese suspicious individuals!!"
                             ]
                         },
                         {
@@ -8060,7 +7850,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 1,
                                 0,
                                 2
@@ -8070,7 +7860,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "勝つなんてやりますねぇ！"
+                                "You're quite tough to beat!"
                             ]
                         },
                         {
@@ -8097,7 +7887,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メメリス達は負けてしまった！"
+                                "Memerisu and her friends have lost!"
                             ]
                         },
                         {
@@ -8119,14 +7909,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おい、この侵入者共を例の牢屋に連れていけ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "性奴隷として仕上げてやる。"
+                                "Hey, take these intruders to that cell. We'll finish them\noff as sex slaves."
                             ]
                         },
                         {
@@ -8143,7 +7926,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "はっ！かしこまりました！！"
+                                "Yes sir! Understood!!"
                             ]
                         },
                         {
@@ -8160,14 +7943,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こうしてメメリスとティーナは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "監獄に収監されてしまった・・・。"
+                                "And so, Memerisu and Tina were imprisoned in the dungeon..."
                             ]
                         },
                         {
@@ -8184,7 +7960,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -8201,7 +7977,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -8218,7 +7994,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -8242,7 +8018,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -8252,14 +8028,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "う、うーん・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こ、ここは・・・ボクは一体・・・。"
+                                "Ugh, uh-uh... Where is this... What on earth am I..."
                             ]
                         },
                         {

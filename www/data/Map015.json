@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ダンジョン",
+    "displayName": "Dungeon",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -1972,14 +1972,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ココカラ先・・・通サナイ・・・！！"
+                                "Can't go through here...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -1989,21 +1989,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "は？ボクちゃんはこのダンジョンの奥にある"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "秘宝に用があるんだけど・・・。"
+                                "Huh? I need the treasure that lies deep within this\ndungeon..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -2013,14 +2006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さてはボクを犯そうとする悪いオークだな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボクが懲らしめてやる！！"
+                                "You must be a bad orc trying to violate me! I'll teach you a\nlesson!!"
                             ]
                         },
                         {
@@ -2052,14 +2038,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "マサカ・・・負ケルナンテ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "覚エテロ・・・！！"
+                                "Impossible... I can't lose...!! Remember this...!!"
                             ]
                         },
                         {
@@ -2076,14 +2055,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "オークは逃げ出した！"
+                                "The orc ran away!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -2093,14 +2072,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "わーい、勝った勝った！！"
+                                "Yay, I won, I won!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -2110,7 +2089,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "さぁ、次の階層に進みましょう！"
+                                "Now, let's move on to the next level!"
                             ]
                         },
                         {
@@ -2146,7 +2125,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 0,
                                 0,
                                 2
@@ -2156,7 +2135,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐえー！薄汚いオークに負けたンゴー！"
+                                "Ugh-! I lost to a filthy orc-ngo!"
                             ]
                         },
                         {
@@ -2173,14 +2152,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メスガキ！痛イ目ミナイト・・・分カラナイ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "覚悟シロ！"
+                                "You brat! You'll learn a painful lesson... you won't\nunderstand until you do! Prepare yourself!"
                             ]
                         },
                         {
@@ -2197,14 +2169,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "オークはメメリスの衣服を脱がし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "動けないように拘束する・・・。"
+                                "The orc strips Memerisu of her clothes and restrains her so\nshe can't move..."
                             ]
                         },
                         {
@@ -2261,14 +2226,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]ちょ、ちょっ！こいつっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ガッツリ掴むな！！"
+                                "\\c[31]Hey, hey! Don't grab me so firmly!!"
                             ]
                         },
                         {
@@ -2285,14 +2243,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]動けッ・・・ない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "放せ！放せってばー！！"
+                                "\\c[31]I can't move...! Let go! Let me go-!!"
                             ]
                         },
                         {
@@ -2309,14 +2260,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "拘束を解こうと暴れるが、太い腕にガッチリと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "掴まれておりオークは微動だにしない・・・。"
+                                "She struggles to break free, but the orc's thick arms hold\nher tightly and he doesn't budge..."
                             ]
                         },
                         {
@@ -2333,14 +2277,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ソンナ弱イ抵抗ダト抜ケ出セナイ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "体格差考エロ！！"
+                                "Your weak resistance won't get you out!! Think about the\ndifference in our sizes!!"
                             ]
                         },
                         {
@@ -2357,7 +2294,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]納得しかない正論はやめろぉ！！"
+                                "\\c[31]Stop with the undeniable truths!!"
                             ]
                         },
                         {
@@ -2374,7 +2311,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "オークの凶悪なチンコがイキリ勃っていく・・・！！"
+                                "The orc's monstrous cock grows increasingly erect...!!"
                             ]
                         },
                         {
@@ -2391,7 +2328,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ムクムクムク・・・♥"
+                                "\\c[27]Throbbing...♥"
                             ]
                         },
                         {
@@ -2436,7 +2373,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "容赦シナイ！覚悟シロ！！"
+                                "No mercy! Prepare yourself!!"
                             ]
                         },
                         {
@@ -2453,7 +2390,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]・・・・・・・・・・・は？"
+                                "\\c[31]...Huh?"
                             ]
                         },
                         {
@@ -2470,14 +2407,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]いや・・・いやいやいやいや！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ムリ！ムリでしょこれは！！！！"
+                                "\\c[31]No... no no no no!! This is impossible!!"
                             ]
                         },
                         {
@@ -2494,14 +2424,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "想像以上の大きさのチンコはビクンビクンと脈打ち、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "我慢汁を垂らしている・・・。"
+                                "The cock, larger than imagined, throbs and drips with pre-\ncum..."
                             ]
                         },
                         {
@@ -2518,14 +2441,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]ボクの腕より太い・・・無理に決まってるだろぉ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "体格差考えろって！！！！！"
+                                "\\c[31]It's thicker than my arm... it's obviously impossible!!\nThink about the size difference!!"
                             ]
                         },
                         {
@@ -2542,14 +2458,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "オークのチンコからは強烈な臭いが漂い、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "呼吸をするだけで脳が痺れる感覚に襲われる・・・。"
+                                "A strong smell emanates from the orc's cock, and just\nbreathing in makes her brain feel numb..."
                             ]
                         },
                         {
@@ -2566,14 +2475,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・ナマイキ！！モウ容赦シナイ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "無理ヤリブチ込ム！！"
+                                "...You insolent girl!! I won't hold back anymore!! I'll\nforce it in!!"
                             ]
                         },
                         {
@@ -2590,7 +2492,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]ちょっ！まっ・・・！！！"
+                                "\\c[31]Wait! Sto-...!!!"
                             ]
                         },
                         {
@@ -2607,7 +2509,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "オークは力を込めて無理矢理挿入した！"
+                                "The orc forcefully thrusts inside her with all his might!"
                             ]
                         },
                         {
@@ -2662,7 +2564,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{グググ・・・ズッ！ドチュゥ！！！"
+                                "\\c[27]Grueling... thrust! Squelch!!!"
                             ]
                         },
                         {
@@ -2679,7 +2581,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{いぎぃ！！！\\}\\}こひゅっ・・・！？"
+                                "\\c[31]Aghh!!! It's so tight...!?"
                             ]
                         },
                         {
@@ -2696,14 +2598,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "マダ全然挿入ッテナイ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "モット奥マデブチ込ム！！"
+                                "It's not all the way in yet! I'll thrust deeper!!"
                             ]
                         },
                         {
@@ -2720,14 +2615,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{ミュリュッ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ミ゛ュグ・・・ググッ・・・！！"
+                                "\\c[27]Squelching...! The sound of flesh grinding...!!"
                             ]
                         },
                         {
@@ -2744,14 +2632,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メメリスの小さなおまんこにオークの巨大なチンコが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "捻じ込まれていく・・・！"
+                                "The orc's massive cock is twisted into Memerisu's tiny\npussy...!"
                             ]
                         },
                         {
@@ -2768,7 +2649,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]お゛っ・・・えっ・・・うぅ・・・が・・・！！"
+                                "\\c[31]Ah... eh... ugh... ga...!!"
                             ]
                         },
                         {
@@ -2785,14 +2666,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "細い体を鷲掴みにして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オークは容赦なく腰を振り出した！"
+                                "Grabbing her slender body, the orc starts thrusting\nmercilessly!"
                             ]
                         },
                         {
@@ -2837,14 +2711,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{お゛ご゛ぉ゛！！\\}"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ぐ゛ぇ゛・・・ぎぃい！！"
+                                "\\c[31]Aghh!! Gah... eek!!!"
                             ]
                         },
                         {
@@ -2861,7 +2728,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]（デカすぎる・・・でしょ・・・！！）"
+                                "\\c[31](It's too big... isn't it...!!)"
                             ]
                         },
                         {
@@ -2907,14 +2774,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ゴチュゥ！！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\}\\}ズチュ！ズチュ！ズチュチュ！！"
+                                "\\c[27]Squelch!!!! Thrust! Thrust! Thrust thrust!!"
                             ]
                         },
                         {
@@ -2931,7 +2791,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]～～～～～～～ッッッッッッ！！！！！"
+                                "\\c[31]~~~~~~~~~~~~~~~!!!!!!!"
                             ]
                         },
                         {
@@ -2948,7 +2808,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]（息できなっ・・・く、苦しい・・・！！）"
+                                "\\c[31](Can't breathe... it's suffocating...!!)"
                             ]
                         },
                         {
@@ -2965,14 +2825,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "オークのピストンはメメリスにお構いなく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "激しさを増していく。"
+                                "The orc's piston movements become increasingly violent\nwithout any regard for Memerisu."
                             ]
                         },
                         {
@@ -3018,14 +2871,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]ボゴォ・・・ッ！♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "グリュッ・・・ドチュッ・・・グリュリュ♥♥♥"
+                                "\\c[27]Thudding...!♥ Grinding... squelch... grinding♥♥♥"
                             ]
                         },
                         {
@@ -3042,14 +2888,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]ぐ゛ぇ゛・・・ご゛ぉ゛ぉ゛お゛・・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こひゅっ・・・！！"
+                                "\\c[31]Ah... gah... oh...!! Choking...!!"
                             ]
                         },
                         {
@@ -3066,14 +2905,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "意識が飛びそうになる中、膣内のチンコが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "より一層硬くなり震えだす・・・！！"
+                                "As consciousness nearly slips away, the cock inside her\npussy starts to harden and tremble even more...!!"
                             ]
                         },
                         {
@@ -3090,14 +2922,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "膣内ニ出ス！オ前孕マス！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一番奥ニ全部出ス！！！！"
+                                "I'm cumming inside! You're going to get pregnant!! I'll\nrelease everything deep inside you!!!!"
                             ]
                         },
                         {
@@ -3114,14 +2939,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]お゛ご゛ぉ゛！！お゛っ゛・・・お゛っ゛・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "や・・・だ・・・ぁああ゛あ゛・・・"
+                                "\\c[31]Ah... gah!! Ah... ah...!! No... don't... ahhh..."
                             ]
                         },
                         {
@@ -3138,7 +2956,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\{\\{俺ノ子ヲ孕メッ！！！"
+                                "Bear my offspring!!!"
                             ]
                         },
                         {
@@ -3155,14 +2973,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "オークのチンコが膣内で大きく震え、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "濃厚な精液を射精する・・・！！"
+                                "The orc's cock trembles greatly inside her, ejaculating\nthick semen...!!"
                             ]
                         },
                         {
@@ -3254,14 +3065,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{ドビュッ！！ビュルルルルッゥゥッッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ドピュピュピュゥゥッッ・・・！！♥♥♥"
+                                "\\c[27]Splurt!! Spurting... spurrrting!! Spurt spurt spurt...!!♥♥♥"
                             ]
                         },
                         {
@@ -3278,14 +3082,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{ん゛ひぎぃ\\}・・・ぉ゛・・・う゛け゛ぇ゛！♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・イ゛っ・・・ぐぅ・・・！！♥♥♥"
+                                "\\c[31]Nghh... ahh... ughh!♥... Cumming... ugh...!!♥♥♥"
                             ]
                         },
                         {
@@ -3314,14 +3111,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]ビュッ・・・ビュビュビュ・・・ゴプッ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "グリュリュリュ・・・ビュビュ・・・！！♥♥♥"
+                                "\\c[27]Spurt... spurting... gushing... gurgling... spurting...!!♥♥♥"
                             ]
                         },
                         {
@@ -3338,14 +3128,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "膣内に収まりきらないゼリーのような濃厚な精液が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "メメリスの子宮内に残さず吐き出されていく・・・。"
+                                "The jelly-like thick semen that couldn't fit inside is\nrelentlessly expelled into Memerisu's womb..."
                             ]
                         },
                         {
@@ -3362,7 +3145,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]ビュッ！・・・ビュッ・・・ビュッッ・・・。"
+                                "\\c[27]Spurt!... Spurt... Spurt..."
                             ]
                         },
                         {
@@ -3379,14 +3162,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "射精を終え、オークは挿入していた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "チンコを膣内から引き抜く・・・。"
+                                "Having finished ejaculating, the orc pulls his cock out from\ninside her..."
                             ]
                         },
                         {
@@ -3436,7 +3212,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]・・・お゛っ゛！！・・・ほぉぉッッ・・・ぉ゛・・・♥"
+                                "\\c[31]Ah...!!... Ohhh... ah...♥"
                             ]
                         },
                         {
@@ -3453,21 +3229,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "情けない声を出しながらチンコを引き抜かれる・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それと同時に膣内に収まりきらなかった、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ゼリー状の大量の精液が溢れ出してきた・・・。"
+                                "With a pitiful voice, she's pulled off the cock... At the\nsame time, the jelly-like mass of semen that couldn't fit\ninside spills out..."
                             ]
                         },
                         {
@@ -3484,7 +3246,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]ゴポォ・・・♥♥♥"
+                                "\\c[27]Gushing out...♥♥♥"
                             ]
                         },
                         {
@@ -3501,7 +3263,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]お゛・・・ぉ゛・・・ヒューッ・・・ヒュッー・・・。"
+                                "\\c[31]Ah... oh... whoosh... whoosh..."
                             ]
                         },
                         {
@@ -3518,7 +3280,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あまりの衝撃と快感に意識が混濁する・・・。"
+                                "The sheer shock and pleasure cloud her consciousness..."
                             ]
                         },
                         {
@@ -3535,14 +3297,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "だが、オークはまだ満足していないのか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "再びチンコを硬くしていく・・・。"
+                                "But the orc, seemingly still unsatisfied, begins to harden\nhis cock once again..."
                             ]
                         },
                         {
@@ -3559,7 +3314,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]だれ・・・ゕ・・・た・・す・・・て・・・。"
+                                "\\c[31]Who... are... you.. lea... ve me..."
                             ]
                         },
                         {
@@ -3576,14 +3331,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "少女の小さな声は届かず、ダンジョンの奥へと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "消えていった・・・。"
+                                "The small voice of the girl doesn't reach anyone,\ndisappearing into the depths of the dungeon..."
                             ]
                         },
                         {
@@ -3605,21 +3353,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -3705,7 +3439,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 6,
                                 0,
                                 2
@@ -3715,7 +3449,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・はっ！？夢か！！"
+                                "...Huh!? Was it a dream?!"
                             ]
                         },
                         {
@@ -4064,14 +3798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "薄汚いオークと再戦しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（敗北してもエロステはカウントされません）"
+                                "Do you wish to rematch the filthy orc? (Losing will not\ncount towards your Eros Score)"
                             ]
                         },
                         {
@@ -4079,8 +3806,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4135,7 +3862,7 @@
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 0,
                                 0,
                                 2
@@ -4145,7 +3872,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ぐえー！薄汚いオークに負けたンゴー！"
+                                "Ugh-! I lost to the filthy orc-!"
                             ]
                         },
                         {
@@ -4162,14 +3889,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "メスガキ！痛イ目ミナイト・・・分カラナイ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "覚悟シロ！"
+                                "You brat! You'll regret not understanding pain... Prepare\nyourself!"
                             ]
                         },
                         {
@@ -4186,14 +3906,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "オークはメメリスの衣服を脱がし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "動けないように拘束する・・・。"
+                                "The orc strips Memerisu of her clothes and restrains her so\nshe can't move..."
                             ]
                         },
                         {
@@ -4250,14 +3963,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]ちょ、ちょっ！こいつっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ガッツリ掴むな！！"
+                                "\\c[31]Hey, hey! Don't grab me so firmly!!"
                             ]
                         },
                         {
@@ -4274,14 +3980,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]動けッ・・・ない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "放せ！放せってばー！！"
+                                "\\c[31]I can't move... Let go! Let go of me-!!"
                             ]
                         },
                         {
@@ -4298,14 +3997,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "拘束を解こうと暴れるが、太い腕にガッチリと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "掴まれておりオークは微動だにしない・・・。"
+                                "She struggles to break free, but the orc's thick arms hold\nher tightly and he doesn't budge..."
                             ]
                         },
                         {
@@ -4322,14 +4014,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ソンナ弱イ抵抗ダト抜ケ出セナイ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "体格差考エロ！！"
+                                "Your weak resistance won't allow you to escape!! Think about\nthe difference in our sizes!!"
                             ]
                         },
                         {
@@ -4346,7 +4031,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]納得しかない正論はやめろぉ！！"
+                                "\\c[31]Stop with the undeniable truths!!"
                             ]
                         },
                         {
@@ -4363,7 +4048,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "オークの凶悪なチンコがイキリ勃っていく・・・！！"
+                                "The orc's monstrous cock grows increasingly erect...!!"
                             ]
                         },
                         {
@@ -4380,7 +4065,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ムクムクムク・・・♥"
+                                "\\c[27]Mukumuku...♥"
                             ]
                         },
                         {
@@ -4425,7 +4110,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "容赦シナイ！覚悟シロ！！"
+                                "No mercy! Prepare yourself!!"
                             ]
                         },
                         {
@@ -4442,7 +4127,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]・・・・・・・・・・・は？"
+                                "\\c[31]...Huh?"
                             ]
                         },
                         {
@@ -4459,14 +4144,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]いや・・・いやいやいやいや！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ムリ！ムリでしょこれは！！！！"
+                                "\\c[31]No... no no no no!! Impossible! This is impossible!!"
                             ]
                         },
                         {
@@ -4483,14 +4161,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "想像以上の大きさのチンコはビクンビクンと脈打ち、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "我慢汁を垂らしている・・・。"
+                                "The cock, larger than imagined, throbs and leaks pre-cum..."
                             ]
                         },
                         {
@@ -4507,14 +4178,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]ボクの腕より太い・・・無理に決まってるだろぉ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "体格差考えろって！！！！！"
+                                "\\c[31]It's thicker than my arm... It's obviously impossible!!\nThink about the size difference!!"
                             ]
                         },
                         {
@@ -4531,14 +4195,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "オークのチンコからは強烈な臭いが漂い、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "呼吸をするだけで脳が痺れる感覚に襲われる・・・。"
+                                "A strong smell emanates from the orc's cock, and just\nbreathing it in makes her brain feel numb..."
                             ]
                         },
                         {
@@ -4555,14 +4212,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "・・・ナマイキ！！モウ容赦シナイ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "無理ヤリブチ込ム！！"
+                                "...Impudent!! I won't hold back anymore!! I'll force it in!!"
                             ]
                         },
                         {
@@ -4579,7 +4229,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]ちょっ！まっ・・・！！！"
+                                "\\c[31]Wait! Just...!!!"
                             ]
                         },
                         {
@@ -4596,7 +4246,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "オークは力を込めて無理矢理挿入した！"
+                                "The orc forcefully thrusts it in with all his might!"
                             ]
                         },
                         {
@@ -4651,7 +4301,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{グググ・・・ズッ！ドチュゥ！！！"
+                                "\\c[27]Gggg... Thump! Squelch!!!"
                             ]
                         },
                         {
@@ -4668,7 +4318,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{いぎぃ！！！\\}\\}こひゅっ・・・！？"
+                                "\\c[31]Eeek!!! It's so tight...!?"
                             ]
                         },
                         {
@@ -4685,14 +4335,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "マダ全然挿入ッテナイ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "モット奥マデブチ込ム！！"
+                                "It's not all the way in yet! I'll thrust it deeper!!"
                             ]
                         },
                         {
@@ -4709,14 +4352,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{ミュリュッ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ミ゛ュグ・・・ググッ・・・！！"
+                                "\\c[27]Mewling...! Mewl... Grrr...!!"
                             ]
                         },
                         {
@@ -4733,14 +4369,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "メメリスの小さなおまんこにオークの巨大なチンコが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "捻じ込まれていく・・・！"
+                                "The orc's gigantic cock is twisted into Memerisu's tiny\npussy...!"
                             ]
                         },
                         {
@@ -4757,7 +4386,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]お゛っ・・・えっ・・・うぅ・・・が・・・！！"
+                                "\\c[31]Ooh... ah... ugh... ga...!!"
                             ]
                         },
                         {
@@ -4774,14 +4403,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "細い体を鷲掴みにして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "オークは容赦なく腰を振り出した！"
+                                "Seizing her slender body, the orc starts to thrust without\nmercy!"
                             ]
                         },
                         {
@@ -4826,14 +4448,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{お゛ご゛ぉ゛！！\\}"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ぐ゛ぇ゛・・・ぎぃい！！"
+                                "\\c[31]Ooogh!! Gah... eeei!!"
                             ]
                         },
                         {
@@ -4850,7 +4465,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]（デカすぎる・・・でしょ・・・！！）"
+                                "\\c[31](It's too big... isn't it...!!)"
                             ]
                         },
                         {
@@ -4896,14 +4511,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ゴチュゥ！！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\}\\}ズチュ！ズチュ！ズチュチュ！！"
+                                "\\c[27]Squelch!!! Thrust! Thrust! Thrust thrust!!"
                             ]
                         },
                         {
@@ -4920,7 +4528,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]～～～～～～～ッッッッッッ！！！！！"
+                                "\\c[31]~~~~~~~~~~~!!!!!!!"
                             ]
                         },
                         {
@@ -4937,7 +4545,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]（息できなっ・・・く、苦しい・・・！！）"
+                                "\\c[31](I can't breathe... it's suffocating...!!)"
                             ]
                         },
                         {
@@ -4954,14 +4562,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "オークのピストンはメメリスにお構いなく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "激しさを増していく。"
+                                "The orc's piston movements become even more violent, not\ncaring about Memerisu."
                             ]
                         },
                         {
@@ -5007,14 +4608,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]ボゴォ・・・ッ！♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "グリュッ・・・ドチュッ・・・グリュリュ♥♥♥"
+                                "\\c[27]Bogoo...!♥ Gruel... Squelch... Gruelgruel♥♥♥"
                             ]
                         },
                         {
@@ -5031,14 +4625,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]ぐ゛ぇ゛・・・ご゛ぉ゛ぉ゛お゛・・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "こひゅっ・・・！！"
+                                "\\c[31]Gah... gooooh...!!! It's so tight...!!"
                             ]
                         },
                         {
@@ -5055,14 +4642,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "意識が飛びそうになる中、膣内のチンコが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "より一層硬くなり震えだす・・・！！"
+                                "As she feels like she's about to lose consciousness, the\ncock inside her tightens and begins to tremble even\nmore...!!"
                             ]
                         },
                         {
@@ -5079,14 +4659,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "膣内ニ出ス！オ前孕マス！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "一番奥ニ全部出ス！！！！"
+                                "I'll release inside! You will bear my child!! I'll let it\nall out in the deepest part!!!!"
                             ]
                         },
                         {
@@ -5103,14 +4676,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]お゛ご゛ぉ゛！！お゛っ゛・・・お゛っ゛・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "や・・・だ・・・ぁああ゛あ゛・・・"
+                                "\\c[31]Ooogh!! Ohh... ohh...!! No... don't... aaaaah..."
                             ]
                         },
                         {
@@ -5127,7 +4693,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\{\\{俺ノ子ヲ孕メッ！！！"
+                                "Bear my offspring!!!"
                             ]
                         },
                         {
@@ -5144,14 +4710,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "オークのチンコが膣内で大きく震え、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "濃厚な精液を射精する・・・！！"
+                                "The orc's cock trembles greatly inside her, ejaculating\nthick semen...!!"
                             ]
                         },
                         {
@@ -5243,14 +4802,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{ドビュッ！！ビュルルルルッゥゥッッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ドピュピュピュゥゥッッ・・・！！♥♥♥"
+                                "\\c[27]Splurt!! Spurrrrrtle!! Spurtspurtspurt...!!♥♥♥"
                             ]
                         },
                         {
@@ -5267,14 +4819,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{ん゛ひぎぃ\\}・・・ぉ゛・・・う゛け゛ぇ゛！♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・イ゛っ・・・ぐぅ・・・！！♥♥♥"
+                                "\\c[31]Nghii... ooh... ugh... stop!♥... I'm... guh...!!♥♥♥"
                             ]
                         },
                         {
@@ -5303,14 +4848,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]ビュッ・・・ビュビュビュ・・・ゴプッ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "グリュリュリュ・・・ビュビュ・・・！！♥♥♥"
+                                "\\c[27]Spurt... spurtsprutsprut... gloop... gurgle gurgle...\nspurtsprut...!!♥♥♥"
                             ]
                         },
                         {
@@ -5327,14 +4865,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "膣内に収まりきらないゼリーのような濃厚な精液が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "メメリスの子宮内に残さず吐き出されていく・・・。"
+                                "The jelly-like thick semen that couldn't fit inside is\nrelentlessly ejaculated into Memerisu's womb..."
                             ]
                         },
                         {
@@ -5351,7 +4882,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]ビュッ！・・・ビュッ・・・ビュッッ・・・。"
+                                "\\c[27]Spurt!... Spurt... Spurt..."
                             ]
                         },
                         {
@@ -5368,14 +4899,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "射精を終え、オークは挿入していた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "チンコを膣内から引き抜く・・・。"
+                                "Having finished ejaculating, the orc pulls out his cock from\ninside her..."
                             ]
                         },
                         {
@@ -5425,7 +4949,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]・・・お゛っ゛！！・・・ほぉぉッッ・・・ぉ゛・・・♥"
+                                "\\c[31]...Ohh!!... Hoooh... ohh...♥"
                             ]
                         },
                         {
@@ -5442,21 +4966,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "情けない声を出しながらチンコを引き抜かれる・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それと同時に膣内に収まりきらなかった、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ゼリー状の大量の精液が溢れ出してきた・・・。"
+                                "With a pitiful voice, she is pulled off the cock... At the\nsame time, the jelly-like mass of semen that couldn't fit\ninside spills out..."
                             ]
                         },
                         {
@@ -5473,7 +4983,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]ゴポォ・・・♥♥♥"
+                                "\\c[27]Gloop...♥♥♥"
                             ]
                         },
                         {
@@ -5490,7 +5000,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]お゛・・・ぉ゛・・・ヒューッ・・・ヒュッー・・・。"
+                                "\\c[31]Ohh... ohh... Hoo-... Hoo-..."
                             ]
                         },
                         {
@@ -5507,7 +5017,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あまりの衝撃と快感に意識が混濁する・・・。"
+                                "The sheer shock and pleasure cloud her consciousness..."
                             ]
                         },
                         {
@@ -5524,14 +5034,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "だが、オークはまだ満足していないのか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "再びチンコを硬くしていく・・・。"
+                                "But the orc, seemingly still unsatisfied, begins to harden\nhis cock once again..."
                             ]
                         },
                         {
@@ -5548,7 +5051,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]だれ・・・ゕ・・・た・・す・・・て・・・。"
+                                "\\c[31]Who... are... you.. lea...ve me..."
                             ]
                         },
                         {
@@ -5565,14 +5068,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "少女の小さな声は届かず、ダンジョンの奥へと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "消えていった・・・。"
+                                "The girl's faint voice does not reach anyone, disappearing\ninto the depths of the dungeon..."
                             ]
                         },
                         {
@@ -5594,21 +5090,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {

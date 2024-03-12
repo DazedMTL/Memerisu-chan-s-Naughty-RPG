@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "健全な研究所",
+    "displayName": "Wholesome Research Lab",
     "encounterList": [],
     "encounterStep": 30,
     "height": 14,
@@ -1534,21 +1534,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フフフ・・・究極魔物製造研究は順調だな・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このままいけば世界は我らの手に・・・！！"
+                                "Hehehe... The ultimate monster creation research is going\nsmoothly... At this rate, the world will be in our\nhands...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -1558,28 +1551,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい、残念でした～☆"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボク達が来ちゃったからそんな小学生の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "妄想みたいな研究はここまでだよ！"
+                                "Sorry to disappoint you~☆ We've arrived, so your little\nelementary school fantasy research ends here!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -1589,14 +1568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "怪しい研究の正体も分かりましたし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ギルドに報告しちゃいましょう！"
+                                "We've figured out the truth behind your suspicious research\nand we're going to report it to the guild!"
                             ]
                         },
                         {
@@ -1658,21 +1630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "な、なんだお前たちは・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クソ、今報告されるのはまずい・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見られた以上は生かして帰すわけにはいかないな！"
+                                "What the... who are you guys...!! Damn, being reported now\nis bad... Since you've seen this, I can't let you leave\nalive!"
                             ]
                         },
                         {
@@ -1689,21 +1647,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いけ！我らの研究成果「キマイラーン」！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奴らを叩き潰せ！！"
+                                "Go! Our research achievement 'Chimera-n'! Crush them!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -1713,14 +1664,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "来ますよ、メメリスちゃん！"
+                                "Here it comes, Memerisu-chan!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 1,
                                 0,
                                 2
@@ -1730,14 +1681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キマイラーンだかなんだか知らないけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最強はボク達なんだよなぁ！"
+                                "I don't care if it's Chimera-n or whatever, we're the\nstrongest there is!"
                             ]
                         },
                         {
@@ -1754,14 +1698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{ゴワァアアアアアアアアアア"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アアアアアア！！！！"
+                                "Gwaaaaaaaahhhhhhhhhhhhhhhhhhhhhhhh!!!!"
                             ]
                         },
                         {
@@ -1793,21 +1730,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そ、そんな・・・私達の最高傑作である「キマイラーン」が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こんな子供に負けるなんて・・・。"
+                                "No way... Our greatest masterpiece 'Chimera-n' defeated by\nkids..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 1,
                                 0,
                                 2
@@ -1817,28 +1747,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そんな適当にごちゃまぜにした魔物なんかに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ボク達が負けるわけないよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ざぁこ♥ざぁこ♥"
+                                "There's no way we'd lose to some haphazardly mixed-up\nmonster like that! Loser♥ Loser♥"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -1848,21 +1764,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "貴方達の研究はしっかりギルドに報告して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おきますからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これでこの研究もお終いです。"
+                                "We'll make sure to report your research thoroughly to the\nguild. This marks the end of your studies."
                             ]
                         },
                         {
@@ -1879,7 +1781,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "く、くそぅ・・・。"
+                                "Damn it..."
                             ]
                         },
                         {
@@ -1915,7 +1817,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "依頼 「怪しい研究所を調査せよ」をクリアした！"
+                                "Quest 'Investigate the Suspicious Laboratory' cleared!"
                             ]
                         },
                         {
@@ -1944,7 +1846,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "報酬 20000ジュエルを手に入れた！"
+                                "Reward 20,000 Jewels obtained!"
                             ]
                         },
                         {
@@ -2002,21 +1904,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -2033,14 +1921,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]あれからどれだけの時間が経ったのでしょうか・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんだかとても長い間眠っていた気がします。"
+                                "\\c[17]How much time has passed since then...? It feels like I've\nbeen asleep for a very long time."
                             ]
                         },
                         {
@@ -2057,7 +1938,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]ぐちゅ・・・ぬちゅ・・・じゅっぷぷ・・・。"
+                                "\\c[27]Squish... Slop... Slurp..."
                             ]
                         },
                         {
@@ -2074,14 +1955,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]・・・この音はなんでしょう・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それになんだか気持ちの悪い感触も・・・。"
+                                "\\c[17]...What is this sound...? And there's also a really\nunpleasant sensation..."
                             ]
                         },
                         {
@@ -2143,14 +2017,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]ぐちゅ・・・ぬちゅ・・・じゅっぷぷ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ぐちゅ・・・ぬちゅ・・・じゅっぷぷ・・・♥"
+                                "\\c[27]Squish... Slop... Slurp...♥ Squish... Slop... Slurp...♥"
                             ]
                         },
                         {
@@ -2167,7 +2034,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]きゃぁっ！？こ、これは・・・！！！"
+                                "\\c[17]Kyaaah!? Wh-what is this...!!!"
                             ]
                         },
                         {
@@ -2184,14 +2051,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "目を覚ましたティーナの視界に映ったのは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "四肢を触手蠢く機械で固定された自身の姿だった・・・。"
+                                "When Tina awoke, what she saw was her own body, fixed in\nplace by a machine with writhing tentacles on her limbs..."
                             ]
                         },
                         {
@@ -2208,14 +2068,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おはよう、ティーナ君。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今日の体調はどうかな？"
+                                "Good morning, Tina-kun. How are you feeling today?"
                             ]
                         },
                         {
@@ -2232,7 +2085,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]あ、貴方は・・・研究所に居た研究員さん・・・！！"
+                                "\\c[17]Ah, you are... the researcher from the lab...!!"
                             ]
                         },
                         {
@@ -2249,21 +2102,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "研究室の窓から研究員の姿が見える。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "周りには何やら多くのモニターがあり機械がチカチカと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "光っている・・・。"
+                                "The researcher's figure can be seen through the laboratory\nwindow. Around are many monitors and machines flickering\nwith lights..."
                             ]
                         },
                         {
@@ -2280,7 +2119,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]ここは一体・・・それにこれは・・・。"
+                                "\\c[17]Where am I exactly...? And what is this..."
                             ]
                         },
                         {
@@ -2297,14 +2136,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふむ・・・今日は返事が出来るな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これなら問題なさそうだ。"
+                                "Hmm... You can respond today. It seems there won't be any\nproblems."
                             ]
                         },
                         {
@@ -2321,14 +2153,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よし、母体が目を覚ました。各員準備を。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "12回目の実験に取り掛かれ。"
+                                "Alright, the subject has awakened. Everyone prepare. Proceed\nwith the 12th experiment."
                             ]
                         },
                         {
@@ -2345,14 +2170,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "研究員の言葉と共に、研究員達が機械を操作すると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ティーナの身体に様々な器具がセットされていく・・・。"
+                                "As the researcher speaks, other researchers begin operating\nmachines, and various devices are set upon Tina's body..."
                             ]
                         },
                         {
@@ -2402,14 +2220,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]わ、私に一体何をするつもりですか・・・！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "放して・・・放してください！"
+                                "\\c[17]What are you planning to do to me...!? Let me go... Please\nlet me go!"
                             ]
                         },
                         {
@@ -2426,14 +2237,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "装着された機械からは薬品のようなものを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "流し込まれる・・・。"
+                                "A substance like a drug begins to flow from the attached\nmachine..."
                             ]
                         },
                         {
@@ -2450,14 +2254,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "必死に体を動かそうとするが、四肢に纏わりつく触手の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "気持ち悪い感触だけでビクともしない・・・。"
+                                "She desperately tries to move her body, but only the\ndisgusting sensation of the tentacles wrapped around her\nlimbs prevents any movement..."
                             ]
                         },
                         {
@@ -2486,14 +2283,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]ぐちゅ・・・ぬちゅ・・・じゅっぷぷ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ぐちゅ・・・ぬちゅ・・・じゅっぷぷ・・・♥"
+                                "\\c[27]Squish... Slop... Slurp...♥ Squish... Slop... Slurp...♥"
                             ]
                         },
                         {
@@ -2510,14 +2300,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]うぅ・・・なんですかこの触手さんは・・・！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ヌメヌメして気持ち悪いですぅ・・・。"
+                                "\\c[17]Ugh... What are these tentacles...!? They're slimy and\ngross..."
                             ]
                         },
                         {
@@ -2534,14 +2317,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]（ただなんでしょう・・・？触り方に敵意・・・ではなく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何か甘えている・・・ような動き・・・？）"
+                                "\\c[17](But why do they feel like this...? The way they touch me\ndoesn't seem hostile... it's almost like they're caressing\nme...?)"
                             ]
                         },
                         {
@@ -2558,7 +2334,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]（それに・・・なんだか身体がすごく・・・熱いです）"
+                                "\\c[17](And also... my body feels incredibly... hot.)"
                             ]
                         },
                         {
@@ -2575,14 +2351,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それでは今より、第12回実験を開始する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "例の魔物を出せ。"
+                                "Now then, we shall commence the 12th experiment. Bring out\nthat monster."
                             ]
                         },
                         {
@@ -2599,7 +2368,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "はっ。被検体5号、投入します。"
+                                "Yes. Subject No. 5, deploying now."
                             ]
                         },
                         {
@@ -2616,14 +2385,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "研究員達の号令と共に、興奮し性器を勃起させた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オークが部屋に入ってくる。"
+                                "At the command of the researchers, an excited orc with an\nerect genital enters the room."
                             ]
                         },
                         {
@@ -2673,14 +2435,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]オ、オークさん・・・！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ま、まさか・・・そんな・・・！！"
+                                "\\c[17]O-Orc-san...!? No, no way... you can't mean that...!!"
                             ]
                         },
                         {
@@ -2697,7 +2452,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よし、被検体5号・・・ヤレ。"
+                                "Alright, Subject No. 5... Do it."
                             ]
                         },
                         {
@@ -2714,7 +2469,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]や、やめっ・・・！！"
+                                "\\c[17]Stop...!!"
                             ]
                         },
                         {
@@ -2769,14 +2524,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{\\{ズチュッ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\}ズプププププッ♥♥♥"
+                                "\\c[27]Squish!!! Zupupupupu♥♥♥"
                             ]
                         },
                         {
@@ -2793,7 +2541,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{\\{お゛゛っっほ゛ぉっっ・・・！！"
+                                "\\c[17]Ohhh...!!"
                             ]
                         },
                         {
@@ -2810,14 +2558,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "オークのチンポがティーナに挿入される。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "痛みを感じると身構えたティーナ・・・だが。"
+                                "The orc's dick is inserted into Tina. Bracing herself for\npain, Tina... however,"
                             ]
                         },
                         {
@@ -2834,14 +2575,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]（い、痛くないです・・・？あんなに太い物が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "入ってるのに・・・？それどころか・・・。）"
+                                "\\c[17](It... it doesn't hurt...? Such a thick thing is inside\nme...? Rather than that...)"
                             ]
                         },
                         {
@@ -2858,14 +2592,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よし、被検体5号のリミッターを解除しろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あの母体にもう一切の容赦は必要ない。"
+                                "Alright, remove the limiter on Subject No. 5. There's no\nneed for any mercy with that host body."
                             ]
                         },
                         {
@@ -2882,7 +2609,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "はっ。被検体5号のリミッターを解除します！"
+                                "Yes. Removing the limiter on Subject No. 5!"
                             ]
                         },
                         {
@@ -2927,14 +2654,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュッ！ズポッ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "パン！パン！パン！パン！"
+                                "\\c[27]Thrust! Zupo!!! Bang! Bang! Bang! Bang!"
                             ]
                         },
                         {
@@ -2951,14 +2671,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{\\{んぎぃっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お゛ほ゛ぉ゛お゛お゛お゛♥♥♥"
+                                "\\c[17]Nghii♥ Ohhh♥♥♥"
                             ]
                         },
                         {
@@ -2975,14 +2688,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "リミッターを解除されたオークが一切の容赦なく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ピストンし、ティーナのお腹が大きく突き上げられる。"
+                                "With the limiter removed, the orc pistons mercilessly,\nthrusting Tina's belly upwards."
                             ]
                         },
                         {
@@ -2999,14 +2705,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュ！ドチュ！ブポッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ドチュ！ドチュ！ブポッ！！"
+                                "\\c[27]Thrust! Thrust! Bupo!! Thrust! Thrust! Bupo!!"
                             ]
                         },
                         {
@@ -3040,14 +2739,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "普通の女性なら死に至ってもおかしくないほどの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "激しいピストン。苦痛は凄まじいはず・・・しかし・・・。"
+                                "The intense piston that could have killed an ordinary woman.\nThe pain should be tremendous... however..."
                             ]
                         },
                         {
@@ -3064,14 +2756,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{\\{い゛っ゛・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\}あ゛ぉ゛ぉ゛お゛お゛♥♥♥"
+                                "\\c[17]Ahh...♥ Ohhh♥♥♥"
                             ]
                         },
                         {
@@ -3088,14 +2773,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{\\{き゛も゛ち゛ぃ゛い゛い゛い゛"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "い゛い゛い゛い゛♥♥♥"
+                                "\\c[17]It feels so good♥♥♥"
                             ]
                         },
                         {
@@ -3112,14 +2790,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{\\{オークおちんぽ様でイクっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "イッちゃいますううううう♥♥♥"
+                                "\\c[17]I'm cumming with the orc's cock-sama♥ I'm cummingggg♥♥♥"
                             ]
                         },
                         {
@@ -3136,14 +2807,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ティーナは苦痛等感じず、そのおまんこはオークのチンポを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "咥え込み快感を感じていた・・・。"
+                                "Tina felt no pain, and her pussy was embracing the orc's\ndick, feeling pleasure..."
                             ]
                         },
                         {
@@ -3160,14 +2824,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "さらに胸に装着された搾乳機のようなものに胸も刺激され、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "乳首をビンビンに勃起して感じてしまう・・・。"
+                                "Furthermore, her breasts were stimulated by something like a\nmilking machine attached to them, making her nipples erect\nand sensitive..."
                             ]
                         },
                         {
@@ -3201,14 +2858,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{ど、どうして・・・どうしてぇ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こんなっあぁん♥んっ♥．．．もっとぉ♥"
+                                "\\c[17]Why... why does it♥ like this♥ Ahn♥... more♥"
                             ]
                         },
                         {
@@ -3225,21 +2875,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "全身が性感帯になったかのようにイキ狂いながら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ティーナのおまんこはオークのチンポに精液を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "搾り取ろうと吸い付く・・・。"
+                                "As if her entire body had become an erogenous zone, Tina's\npussy clung to the orc's dick, trying to milk his semen..."
                             ]
                         },
                         {
@@ -3256,7 +2892,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\{\\{グォオオオオオオ！！！！！"
+                                "Gwoooooo!!!!!!!"
                             ]
                         },
                         {
@@ -3273,14 +2909,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "オークが唸り声をあげ、ティーナの膣内でチンポが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一層硬くなり震える・・・！！"
+                                "The orc roars, and his dick hardens and trembles inside\nTina's vagina...!!"
                             ]
                         },
                         {
@@ -3297,14 +2926,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{\\{ん゛ぉ゛ぉ゛っ゛・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\}だめっ♥中出しダメですううう♥♥♥"
+                                "\\c[17]No...♥ Don't cum inside♥ It's baddd♥♥♥"
                             ]
                         },
                         {
@@ -3396,14 +3018,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ビュルッ♥ビュルルルッッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ビュルルルルルルルルルッッッ♥♥♥"
+                                "\\c[27]Byururu♥ Byururururu♥ Byururururururururu♥♥♥"
                             ]
                         },
                         {
@@ -3420,14 +3035,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{ん゛ほ゛ぉ゛おぉおおおおおおおおお！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オークおちんぽ様でイクゥゥウウウウ！！"
+                                "\\c[17]Nhoooooo!! I'm cumming with the orc cock-samaaaa!!"
                             ]
                         },
                         {
@@ -3456,14 +3064,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{ビュル♥ビュッビュッ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ビュル♥ビュッビュッ♥♥"
+                                "\\c[27]Byuru♥ Byu byu♥♥ Byuru♥ Byu byu♥♥"
                             ]
                         },
                         {
@@ -3480,14 +3081,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{\\{ん゛ひ゛い゛っ゛・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\}おっぱい♥おっぱいから母乳出てるぅ♥♥"
+                                "\\c[17]Ahhh...♥ My breasts♥ Milk is coming out of my breasts♥♥"
                             ]
                         },
                         {
@@ -3504,14 +3098,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{\\{どうしてぇ♥私ぃんほぉぉ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "妊娠してないのにいぃいいい♥♥♥"
+                                "\\c[17]Why does it♥ I'm not even pregnant but I'm leaking so much\nmilkkkk♥♥♥"
                             ]
                         },
                         {
@@ -3528,14 +3115,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ビュク♥ビュルルッ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ドクッドクッドクッ・・・♥♥♥"
+                                "\\c[27]Byuk♥ Byururu♥♥ Dokudokudoku...♥♥♥"
                             ]
                         },
                         {
@@ -3552,14 +3132,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "濃厚ゼリーのような精液を全てティーナの膣内に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "吐き出すまでオークはしっかり子宮口に押し付ける・・・。"
+                                "The orc presses firmly against the cervix until he\nejaculates all of his thick, jelly-like semen inside Tina's\nvagina..."
                             ]
                         },
                         {
@@ -3604,7 +3177,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{\\{\\{ブポォッッ！！"
+                                "\\c[27]Bupoohhh!!"
                             ]
                         },
                         {
@@ -3621,7 +3194,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{\\{お゛ぉ゛っ゛っ♥♥♥"
+                                "\\c[17]Ahhh...!!"
                             ]
                         },
                         {
@@ -3638,14 +3211,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "チンポを勢いよく抜かれた衝撃で情けない顔と声を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あげながらまた絶頂してしまうティーナ・・・。"
+                                "The impact of the dick being pulled out forcefully makes\nTina climax again with a pitiful face and voice..."
                             ]
                         },
                         {
@@ -3662,21 +3228,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]ふーっ・・・♥ふーっ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "やっ・・・やっと・・・終わ・・・りま・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\{\\{ひぐぅ！！"
+                                "\\c[17]Huuh...♥ Huuh...♥ Finally... it's over... right... higuu!!"
                             ]
                         },
                         {
@@ -3709,14 +3261,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "やっと行為が終わったと安堵した途端、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ティーナの膨れ上がったお腹から急に痛みが走る・・・！！"
+                                "Just as she felt relieved that the act was finally over, a\nsudden pain surged through Tina's swollen belly...!!"
                             ]
                         },
                         {
@@ -3733,14 +3278,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]ひぐぅ・・・！！お゛ぇ゛ぇ゛っ・・・！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お腹痛っ・・・い！！何か暴れっ・・・てぇ！！！"
+                                "\\c[17]Higuu...!! Oehhh...!!! My stomach hurts... something is\nthrashing inside...!!!"
                             ]
                         },
                         {
@@ -3757,21 +3295,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ティーナ君。実験の記憶は消去しているから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "君は覚えていないだろうが・・・私は言ったはずだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「12回目の実験」だと。"
+                                "Tina-kun. You won't remember because we've erased your\nmemories of the experiments... but I must have told you.\nIt's the \"12th experiment.\""
                             ]
                         },
                         {
@@ -3788,28 +3312,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "君は我々に捕まってから肉体改造を施され、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "究極の魔物を生み出す実験のための母体として"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "幾度となく魔物との交配を繰り返し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "実験個体を産み出してきた。"
+                                "You've been captured by us and undergone physical\nmodifications to become a host body for breeding the\nultimate monster, repeatedly mating with monsters and\nproducing experimental subjects."
                             ]
                         },
                         {
@@ -3826,21 +3329,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そこの手足に絡みついている触手達・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それも君が産んだ実験個体だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "母親に甘えて・・・何ともかわいらしいじゃないか。"
+                                "Those tentacles wrapped around your limbs... they're also\nexperimental subjects you've given birth to. Clinging to\ntheir mother... isn't it just adorable."
                             ]
                         },
                         {
@@ -3857,14 +3346,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]産む・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そ、そんな・・・わ、私・・・何度も・・・！？"
+                                "\\c[17]Giving birth...? That can't be... I've done it so many\ntimes...!?"
                             ]
                         },
                         {
@@ -3881,14 +3363,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{あ゛ぁ゛っ゛！！う、産まれ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "産まれちゃいますっっ・・・！！"
+                                "\\c[17]Ahhhh!! It's coming out... it's being bornnnn...!!"
                             ]
                         },
                         {
@@ -3997,14 +3472,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ブピッ！ブチュゥッッチュウゥ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "プププッッ！！"
+                                "\\c[27]Bupi! Buchuuuuchuuuupupupu!!"
                             ]
                         },
                         {
@@ -4021,21 +3489,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]イクっ！魔物さん産んで出産アクメしちゃいます！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お゛ぉ゛♥ん゛ぎぃいいいい♥♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ン゛ォ゛ォ゛ホ゛ォ・・・♥アヘェ・・・♥"
+                                "\\c[17]I'm cumming! I'm giving birth to a monster and having a\nbirth climax!! Ooh♥ Nghiiiiii♥♥♥ Nghoooh...♥ Aheee...♥"
                             ]
                         },
                         {
@@ -4052,21 +3506,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "どうやら今回のティーナ君を母体とした、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "事前に孕ませた触手の種子をオークの精液で活性化させ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "産ませる実験は成功だ。"
+                                "It seems that the experiment to impregnate Tina-kun in\nadvance with tentacle seeds and then activate them with orc\nsemen to give birth has been a success."
                             ]
                         },
                         {
@@ -4083,21 +3523,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "被検体5号を産んだメメリス君も浮かばれるな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "彼女と違いこっちは母体としての適性も高い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あと数回は実験に使えるだろう。"
+                                "Memerisu-kun, who gave birth to Subject No. 5, can rest in\npeace. Unlike her, this one has a high aptitude as a mother.\nWe can use her for the experiment a few more times."
                             ]
                         },
                         {
@@ -4114,14 +3540,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "さて・・・産まれた個体を回収し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今回の実験は終了。母体の記憶を削除しろ。"
+                                "Now... let's collect the offspring that were born and\nconclude this experiment. Erase the mother's memory."
                             ]
                         },
                         {
@@ -4138,14 +3557,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]（メ・・・メメリスちゃんはぶ、無事でしょうか・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私・・・また・・・もう一度・・・会いたい・・・です）"
+                                "\\c[17](Me... Memerisu-chan is safe, isn't she... I... want to see\nher again... one more time...)"
                             ]
                         },
                         {
@@ -4179,7 +3591,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\{\\{\\{\\{ビリィッッッ！！！"
+                                "Biriiiiii!!!"
                             ]
                         },
                         {
@@ -4196,21 +3608,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -4373,7 +3771,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -4383,7 +3781,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・はっ！？夢ですか！！"
+                                "...Huh!? Was it a dream!!?"
                             ]
                         },
                         {
@@ -4648,14 +4046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キマイラーンと再戦しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（敗北してもエロステはカウントされません）"
+                                "Would you like to rematch with the Chimera? (Losing will not\ncount towards Eros Points)"
                             ]
                         },
                         {
@@ -4663,8 +4054,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4741,21 +4132,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -4772,14 +4149,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]あれからどれだけの時間が経ったのでしょうか・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "なんだかとても長い間眠っていた気がします。"
+                                "\\c[17]How much time has passed since then...? It feels like I've\nbeen asleep for a very long time."
                             ]
                         },
                         {
@@ -4796,7 +4166,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]ぐちゅ・・・ぬちゅ・・・じゅっぷぷ・・・。"
+                                "\\c[27]Squish... Slick... Slurp..."
                             ]
                         },
                         {
@@ -4813,14 +4183,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]・・・この音はなんでしょう・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それになんだか気持ちの悪い感触も・・・。"
+                                "\\c[17]...What is this sound...? And there's also a strangely\nunpleasant sensation..."
                             ]
                         },
                         {
@@ -4882,14 +4245,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]ぐちゅ・・・ぬちゅ・・・じゅっぷぷ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ぐちゅ・・・ぬちゅ・・・じゅっぷぷ・・・♥"
+                                "\\c[27]Squish... Slick... Slurp...♥ Squish... Slick... Slurp...♥"
                             ]
                         },
                         {
@@ -4906,7 +4262,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]きゃぁっ！？こ、これは・・・！！！"
+                                "\\c[17]Kyaaah!? Wh-what is this...!!!"
                             ]
                         },
                         {
@@ -4923,14 +4279,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "目を覚ましたティーナの視界に映ったのは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "四肢を触手蠢く機械で固定された自身の姿だった・・・。"
+                                "When Tina awoke, what she saw was her own body, fixed in\nplace by a machine with tentacles writhing around her\nlimbs..."
                             ]
                         },
                         {
@@ -4947,14 +4296,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おはよう、ティーナ君。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "今日の体調はどうかな？"
+                                "Good morning, Tina-kun. How are you feeling today?"
                             ]
                         },
                         {
@@ -4971,7 +4313,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]あ、貴方は・・・研究所に居た研究員さん・・・！！"
+                                "\\c[17]Ah, you are... the researcher from the lab...!!"
                             ]
                         },
                         {
@@ -4988,21 +4330,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "研究室の窓から研究員の姿が見える。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "周りには何やら多くのモニターがあり機械がチカチカと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "光っている・・・。"
+                                "Through the laboratory window, she could see the figure of a\nresearcher. Around were many monitors and machines\nflickering with lights..."
                             ]
                         },
                         {
@@ -5019,7 +4347,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]ここは一体・・・それにこれは・・・。"
+                                "\\c[17]What in the world is this place...? And what are these..."
                             ]
                         },
                         {
@@ -5036,14 +4364,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ふむ・・・今日は返事が出来るな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "これなら問題なさそうだ。"
+                                "Hmm... You can respond today. It seems there won't be any\nproblems."
                             ]
                         },
                         {
@@ -5060,14 +4381,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "よし、母体が目を覚ました。各員準備を。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "12回目の実験に取り掛かれ。"
+                                "Alright, the subject has awakened. Everyone prepare. Proceed\nwith the 12th experiment."
                             ]
                         },
                         {
@@ -5084,14 +4398,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "研究員の言葉と共に、研究員達が機械を操作すると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ティーナの身体に様々な器具がセットされていく・・・。"
+                                "As the researcher spoke, other researchers began operating\nmachines, and various devices were set upon Tina's body..."
                             ]
                         },
                         {
@@ -5141,14 +4448,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]わ、私に一体何をするつもりですか・・・！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "放して・・・放してください！"
+                                "\\c[17]Wh-what are you planning to do to me...!? Let me go...\nPlease let me go!"
                             ]
                         },
                         {
@@ -5165,14 +4465,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "装着された機械からは薬品のようなものを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "流し込まれる・・・。"
+                                "A substance like a chemical begins to flow from the attached\nmachine..."
                             ]
                         },
                         {
@@ -5189,14 +4482,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "必死に体を動かそうとするが、四肢に纏わりつく触手の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "気持ち悪い感触だけでビクともしない・・・。"
+                                "She desperately tries to move her body, but only the\ndisgusting sensation of the tentacles wrapped around her\nlimbs prevents her from moving an inch..."
                             ]
                         },
                         {
@@ -5225,14 +4511,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]ぐちゅ・・・ぬちゅ・・・じゅっぷぷ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ぐちゅ・・・ぬちゅ・・・じゅっぷぷ・・・♥"
+                                "\\c[27]Squish... Slick... Slurp...♥ Squish... Slick... Slurp...♥"
                             ]
                         },
                         {
@@ -5249,14 +4528,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]うぅ・・・なんですかこの触手さんは・・・！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ヌメヌメして気持ち悪いですぅ・・・。"
+                                "\\c[17]Ugh... What are these tentacles...!? They're slimy and so\ndisgusting..."
                             ]
                         },
                         {
@@ -5273,14 +4545,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]（ただなんでしょう・・・？触り方に敵意・・・ではなく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "何か甘えている・・・ような動き・・・？）"
+                                "\\c[17](But why...? The way they touch doesn't feel hostile...\nrather, it's like they're caressing me...?)"
                             ]
                         },
                         {
@@ -5297,7 +4562,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]（それに・・・なんだか身体がすごく・・・熱いです）"
+                                "\\c[17](And... my body feels incredibly... hot)"
                             ]
                         },
                         {
@@ -5314,14 +4579,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "それでは今より、第12回実験を開始する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "例の魔物を出せ。"
+                                "Now then, we shall commence the 12th experiment. Bring out\nthat monster."
                             ]
                         },
                         {
@@ -5338,7 +4596,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "はっ。被検体5号、投入します。"
+                                "Yes sir. Subject No. 5 will be introduced."
                             ]
                         },
                         {
@@ -5355,14 +4613,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "研究員達の号令と共に、興奮し性器を勃起させた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "オークが部屋に入ってくる。"
+                                "At the command of the researchers, an excited Orc with an\nerect genital enters the room."
                             ]
                         },
                         {
@@ -5412,14 +4663,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]オ、オークさん・・・！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ま、まさか・・・そんな・・・！！"
+                                "\\c[17]O-Orc-san...!? No, no way... you can't mean that...!!"
                             ]
                         },
                         {
@@ -5436,7 +4680,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "よし、被検体5号・・・ヤレ。"
+                                "Alright, Subject No. 5... Do it."
                             ]
                         },
                         {
@@ -5453,7 +4697,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]や、やめっ・・・！！"
+                                "\\c[17]No, stop it...!!"
                             ]
                         },
                         {
@@ -5508,14 +4752,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{\\{ズチュッ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\}ズプププププッ♥♥♥"
+                                "\\c[27]Schlick!!! Sploosh sploosh sploosh♥♥♥"
                             ]
                         },
                         {
@@ -5532,7 +4769,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{\\{お゛゛っっほ゛ぉっっ・・・！！"
+                                "\\c[17]Ooohhhhhhh...!!!"
                             ]
                         },
                         {
@@ -5549,14 +4786,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "オークのチンポがティーナに挿入される。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "痛みを感じると身構えたティーナ・・・だが。"
+                                "The Orc's dick penetrates Tina. Bracing herself for pain,\nTina... but."
                             ]
                         },
                         {
@@ -5573,14 +4803,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]（い、痛くないです・・・？あんなに太い物が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "入ってるのに・・・？それどころか・・・。）"
+                                "\\c[17](It's not painful...? How can something so thick enter\nwithout pain...? On the contrary...)"
                             ]
                         },
                         {
@@ -5597,14 +4820,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "よし、被検体5号のリミッターを解除しろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あの母体にもう一切の容赦は必要ない。"
+                                "Good, remove Subject No. 5's limiter. There's no need for\nany mercy on that mother body anymore."
                             ]
                         },
                         {
@@ -5621,7 +4837,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "はっ。被検体5号のリミッターを解除します！"
+                                "Yes sir. Removing Subject No. 5's limiter now!"
                             ]
                         },
                         {
@@ -5666,14 +4882,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュッ！ズポッ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "パン！パン！パン！パン！"
+                                "\\c[27]Thrust! Sploosh!!! Bang! Bang! Bang! Bang!"
                             ]
                         },
                         {
@@ -5690,14 +4899,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{\\{んぎぃっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お゛ほ゛ぉ゛お゛お゛お゛♥♥♥"
+                                "\\c[17]Nghiiii♥ Ooohhhhh♥♥♥"
                             ]
                         },
                         {
@@ -5714,14 +4916,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "リミッターを解除されたオークが一切の容赦なく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ピストンし、ティーナのお腹が大きく突き上げられる。"
+                                "The Orc, with its limiter removed, thrusts mercilessly,\ncausing Tina's belly to be violently thrust upwards."
                             ]
                         },
                         {
@@ -5738,14 +4933,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュ！ドチュ！ブポッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ドチュ！ドチュ！ブポッ！！"
+                                "\\c[27]Thrust! Thrust! Sploosh!! Thrust! Thrust! Sploosh!!"
                             ]
                         },
                         {
@@ -5779,14 +4967,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "普通の女性なら死に至ってもおかしくないほどの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "激しいピストン。苦痛は凄まじいはず・・・しかし・・・。"
+                                "The intense piston action would be enough to kill an\nordinary woman, the agony should be immense... however..."
                             ]
                         },
                         {
@@ -5803,14 +4984,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{\\{い゛っ゛・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\}あ゛ぉ゛ぉ゛お゛お゛♥♥♥"
+                                "\\c[17]Ahhh♥ Ooohhh♥♥♥"
                             ]
                         },
                         {
@@ -5827,14 +5001,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{\\{き゛も゛ち゛ぃ゛い゛い゛い゛"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "い゛い゛い゛い゛♥♥♥"
+                                "\\c[17]Ahhhhhhhh♥♥♥"
                             ]
                         },
                         {
@@ -5851,14 +5018,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{\\{オークおちんぽ様でイクっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "イッちゃいますううううう♥♥♥"
+                                "\\c[17]I'm cumming with the Orc's cock♥ I'm cumminggggg♥♥♥"
                             ]
                         },
                         {
@@ -5875,14 +5035,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ティーナは苦痛等感じず、そのおまんこはオークのチンポを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "咥え込み快感を感じていた・・・。"
+                                "Tina felt no pain, and her pussy eagerly enveloped the Orc's\ndick, feeling pleasure..."
                             ]
                         },
                         {
@@ -5899,14 +5052,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "さらに胸に装着された搾乳機のようなものに胸も刺激され、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "乳首をビンビンに勃起して感じてしまう・・・。"
+                                "Furthermore, her breasts were stimulated by something\nattached to them like a milking machine, making her nipples\nhard and sensitive..."
                             ]
                         },
                         {
@@ -5940,14 +5086,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{ど、どうして・・・どうしてぇ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "こんなっあぁん♥んっ♥．．．もっとぉ♥"
+                                "\\c[17]Why... why does it♥ feel so good♥ ahn♥... more♥"
                             ]
                         },
                         {
@@ -5964,21 +5103,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "全身が性感帯になったかのようにイキ狂いながら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ティーナのおまんこはオークのチンポに精液を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "搾り取ろうと吸い付く・・・。"
+                                "As if her entire body had become an erogenous zone, Tina's\npussy clung to the Orc's dick, milking it for semen..."
                             ]
                         },
                         {
@@ -5995,7 +5120,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\{\\{グォオオオオオオ！！！！！"
+                                "GROOOOOOAAAAAR!!!!!!!"
                             ]
                         },
                         {
@@ -6012,14 +5137,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "オークが唸り声をあげ、ティーナの膣内でチンポが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "一層硬くなり震える・・・！！"
+                                "The Orc roared, and its dick hardened and trembled even more\ninside Tina's vagina...!!"
                             ]
                         },
                         {
@@ -6036,14 +5154,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{\\{ん゛ぉ゛ぉ゛っ゛・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\}だめっ♥中出しダメですううう♥♥♥"
+                                "\\c[17]No♥ Not inside♥ You can't cum inside meee♥♥♥"
                             ]
                         },
                         {
@@ -6135,14 +5246,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ビュルッ♥ビュルルルッッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ビュルルルルルルルルルッッッ♥♥♥"
+                                "\\c[27]Splurt♥ Sploosh sploosh♥ Sploosh sploosh sploosh sploosh\nsploosh♥♥♥"
                             ]
                         },
                         {
@@ -6159,14 +5263,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{ん゛ほ゛ぉ゛おぉおおおおおおおおお！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "オークおちんぽ様でイクゥゥウウウウ！！"
+                                "\\c[17]Ahhhhhhhhhhhhhhhhh!! I'm cumming with the Orc's cockkkkkk!!"
                             ]
                         },
                         {
@@ -6195,14 +5292,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{ビュル♥ビュッビュッ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ビュル♥ビュッビュッ♥♥"
+                                "\\c[27]Splurt♥ Spurt spurt♥♥ Splurt♥ Spurt spurt♥♥"
                             ]
                         },
                         {
@@ -6219,14 +5309,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{\\{ん゛ひ゛い゛っ゛・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\}おっぱい♥おっぱいから母乳出てるぅ♥♥"
+                                "\\c[17]Ahhh...♥ my breasts♥ milk is coming out of my breasts♥♥"
                             ]
                         },
                         {
@@ -6243,14 +5326,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{\\{どうしてぇ♥私ぃんほぉぉ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "妊娠してないのにいぃいいい♥♥♥"
+                                "\\c[17]Why does it feel like this♥ I'm not even pregnant but it\nfeels so intense♥♥♥"
                             ]
                         },
                         {
@@ -6267,14 +5343,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ビュク♥ビュルルッ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ドクッドクッドクッ・・・♥♥♥"
+                                "\\c[27]Squirt♥ Sploosh sploosh♥♥ Throb throb throb...♥♥♥"
                             ]
                         },
                         {
@@ -6291,14 +5360,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "濃厚ゼリーのような精液を全てティーナの膣内に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "吐き出すまでオークはしっかり子宮口に押し付ける・・・。"
+                                "The Orc pressed firmly against the entrance to the womb\nuntil it had released all of its thick, jelly-like semen\ninside Tina's vagina..."
                             ]
                         },
                         {
@@ -6343,7 +5405,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{\\{\\{ブポォッッ！！"
+                                "\\c[27]Pop!!"
                             ]
                         },
                         {
@@ -6360,7 +5422,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{\\{お゛ぉ゛っ゛っ♥♥♥"
+                                "\\c[17]Ahhh♥♥♥"
                             ]
                         },
                         {
@@ -6377,14 +5439,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "チンポを勢いよく抜かれた衝撃で情けない顔と声を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あげながらまた絶頂してしまうティーナ・・・。"
+                                "The shock of the dick being pulled out forcefully made Tina\nclimax again with a pitiful face and voice..."
                             ]
                         },
                         {
@@ -6401,21 +5456,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]ふーっ・・・♥ふーっ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "やっ・・・やっと・・・終わ・・・りま・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\{\\{ひぐぅ！！"
+                                "\\c[17]Phew...♥ Phew...♥ It's... finally... over... huh...!"
                             ]
                         },
                         {
@@ -6448,14 +5489,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "やっと行為が終わったと安堵した途端、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ティーナの膨れ上がったお腹から急に痛みが走る・・・！！"
+                                "Just as Tina felt relief that the act was over, a sudden\npain shot through her swollen belly...!!"
                             ]
                         },
                         {
@@ -6472,14 +5506,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]ひぐぅ・・・！！お゛ぇ゛ぇ゛っ・・・！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お腹痛っ・・・い！！何か暴れっ・・・てぇ！！！"
+                                "\\c[17]Hic...!! Oh no...!! My stomach hurts... something is\nthrashing around inside...!!!"
                             ]
                         },
                         {
@@ -6496,21 +5523,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ティーナ君。実験の記憶は消去しているから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "君は覚えていないだろうが・・・私は言ったはずだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "「12回目の実験」だと。"
+                                "Tina-kun. You won't remember because we've erased your\nmemories of the experiments, but I must have told you. \"This\nis the 12th experiment.\""
                             ]
                         },
                         {
@@ -6527,28 +5540,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "君は我々に捕まってから肉体改造を施され、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "究極の魔物を生み出す実験のための母体として"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "幾度となく魔物との交配を繰り返し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "実験個体を産み出してきた。"
+                                "You've been captured by us and undergone physical\nmodifications to become a mother body for the ultimate\nmonster breeding experiment, repeatedly mating with monsters\nand birthing experimental subjects."
                             ]
                         },
                         {
@@ -6565,21 +5557,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そこの手足に絡みついている触手達・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それも君が産んだ実験個体だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "母親に甘えて・・・何ともかわいらしいじゃないか。"
+                                "Those tentacles entwined around your limbs... they're also\nexperimental subjects you've birthed. Clinging to their\nmother... how adorable."
                             ]
                         },
                         {
@@ -6596,14 +5574,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]産む・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "そ、そんな・・・わ、私・・・何度も・・・！？"
+                                "\\c[17]To birth...? That can't be... I've done it... many\ntimes...!?"
                             ]
                         },
                         {
@@ -6620,14 +5591,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{あ゛ぁ゛っ゛！！う、産まれ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "産まれちゃいますっっ・・・！！"
+                                "\\c[17]Ahhh!! It's coming out... I'm giving birth...!!"
                             ]
                         },
                         {
@@ -6736,14 +5700,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ブピッ！ブチュゥッッチュウゥ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "プププッッ！！"
+                                "\\c[27]Pop! Squelch squelch squelch!!"
                             ]
                         },
                         {
@@ -6760,21 +5717,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]イクっ！魔物さん産んで出産アクメしちゃいます！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お゛ぉ゛♥ん゛ぎぃいいいい♥♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ン゛ォ゛ォ゛ホ゛ォ・・・♥アヘェ・・・♥"
+                                "\\c[17]I'm cumming! Giving birth to a monster and having a birthing\nclimax!! Ahhh♥ Ahhhhhhhhh♥♥♥ Ahhhh...♥"
                             ]
                         },
                         {
@@ -6791,21 +5734,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "どうやら今回のティーナ君を母体とした、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "事前に孕ませた触手の種子をオークの精液で活性化させ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "産ませる実験は成功だ。"
+                                "It seems that this experiment of birthing tentacle seeds\npreviously impregnated in Tina-kun, activated by Orc semen,\nis a success."
                             ]
                         },
                         {
@@ -6822,21 +5751,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "被検体5号を産んだメメリス君も浮かばれるな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "彼女と違いこっちは母体としての適性も高い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あと数回は実験に使えるだろう。"
+                                "Subject No. 5, Memerisu-kun, would be pleased as well.\nUnlike her, this one has high suitability as a mother body.\nWe can use her for several more experiments."
                             ]
                         },
                         {
@@ -6853,14 +5768,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "さて・・・産まれた個体を回収し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "今回の実験は終了。母体の記憶を削除しろ。"
+                                "Now... let's collect the birthed subjects and conclude this\nexperiment. Erase the mother body's memory."
                             ]
                         },
                         {
@@ -6877,14 +5785,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]（メ・・・メメリスちゃんはぶ、無事でしょうか・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "私・・・また・・・もう一度・・・会いたい・・・です）"
+                                "\\c[17](Is... Memerisu-chan safe, I wonder... I want to see her\nagain... one more time.)"
                             ]
                         },
                         {
@@ -6918,7 +5819,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\{\\{\\{\\{ビリィッッッ！！！"
+                                "Zap!!!!"
                             ]
                         },
                         {
@@ -6935,21 +5836,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -7093,7 +5980,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -7103,14 +5990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんか危険そうなマークが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バイオなハザードが起きたりしないよね？"
+                                "There's some kind of dangerous-looking mark... It's not like\na biohazard is going to happen, right?"
                             ]
                         },
                         {

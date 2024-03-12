@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ダンジョン",
+    "displayName": "Dungeon",
     "encounterList": [],
     "encounterStep": 30,
     "height": 16,
@@ -1986,7 +1986,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -1996,21 +1996,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅっ・・・この階層、やたら臭う・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんか腐ってる臭いがするなぁ。"
+                                "Ugh... This floor reeks... It smells like something is\nrotting."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -2020,14 +2013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アンデッド系の魔物の巣窟になってる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ようですね・・・。"
+                                "It seems to be a den of undead creatures..."
                             ]
                         },
                         {
@@ -2044,14 +2030,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウゥオオォオオオオオオオオオ・・・・。"
+                                "Groooooooan..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 6,
                                 0,
                                 2
@@ -2061,14 +2047,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわっ！またアンデッドがこっちに来た！？"
+                                "Whoa! Another undead is coming this way!?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -2078,7 +2064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔物の数が多いので気を付けてください！"
+                                "There are a lot of monsters, so please be careful!"
                             ]
                         },
                         {
@@ -2100,7 +2086,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 1,
                                 0,
                                 2
@@ -2110,21 +2096,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぺっ！雑魚めっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "死んでるやつにボクが負けるわけないだろ！"
+                                "Peh! You weaklings!! There's no way I'd lose to something\nthat's already dead!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -2134,14 +2113,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "結構苦戦してましたよね・・・？"
+                                "You were struggling quite a bit, weren't you...?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -2151,14 +2130,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あーあー！聞こえなーい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "さぁ、先に進もー！！"
+                                "Ah-ah-! I can't hear you-! Let's move on-!!"
                             ]
                         },
                         {
@@ -2194,7 +2166,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -2204,14 +2176,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "や、やばい・・・なんか奥からでっかい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アンデッドが何体も・・・！？"
+                                "Oh no... Something big and undead is coming from deeper\ninside...!?"
                             ]
                         },
                         {
@@ -2228,7 +2193,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウゥオオォオオオオオオオオオ・・・・。"
+                                "Groooooooan..."
                             ]
                         },
                         {
@@ -2273,7 +2238,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "敗北した2人はアンデッドに押し倒されてしまう・・・。"
+                                "The two are overpowered and pushed down by the undead..."
                             ]
                         },
                         {
@@ -2290,14 +2255,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]す、凄い力・・・っっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "とても逃げられません・・・！！"
+                                "\\c[17]Such incredible strength...!! There's no way we can\nescape...!!"
                             ]
                         },
                         {
@@ -2314,14 +2272,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]こ、これってもしかしてボク達大ピンチ・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "このままアンデッドに食べられちゃうんじゃ・・・。"
+                                "\\c[31]Could this be a huge pinch for us...? Are we going to be\neaten by the undead like this...?"
                             ]
                         },
                         {
@@ -2338,7 +2289,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウゥオオォオオオオオオオオオ・・・・。"
+                                "Groooooooan..."
                             ]
                         },
                         {
@@ -2355,14 +2306,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アンデッドは低いうなり声のような音を出しながら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ゆっくりと2人により近づいていく・・・。"
+                                "The undead, making a low growling sound, slowly approaches\nthe two..."
                             ]
                         },
                         {
@@ -2379,14 +2323,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]わああああああああ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ボク達を食べても美味しくないよおおおお！！！"
+                                "\\c[31]Aaaaaaaah!! We won't taste good if you eat us!!"
                             ]
                         },
                         {
@@ -2403,14 +2340,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "食べられると思ったメメリスは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "必死に声を荒らげ逃げようとする・・・。"
+                                "Thinking she's about to be eaten, Memerisu desperately\nraises her voice trying to escape..."
                             ]
                         },
                         {
@@ -2455,7 +2385,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{\\{\\{ボロンッッ！！！！"
+                                "\\c[27]Thud!!"
                             ]
                         },
                         {
@@ -2472,14 +2402,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{きゃっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こ、これって・・・！？"
+                                "\\c[17]Kyah...!! Is this...!?"
                             ]
                         },
                         {
@@ -2496,14 +2419,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "2人の目の前に強烈な腐敗臭と雄の臭いを発する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "肉棒が露出される・・・！！"
+                                "In front of the two, a rotting cock emitting a strong stench\nof decay and male odor is exposed...!!"
                             ]
                         },
                         {
@@ -2520,21 +2436,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]ひ、酷い臭い・・・鼻が曲がりそうだ・・・ッッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それにもしかして・・・ボク達を食べるんじゃなくて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "犯すつもり・・・！？"
+                                "\\c[31]Such a terrible smell... It's like my nose is going to\nbend...!! And could it be... They're not planning to eat us\nbut... to rape us...!?"
                             ]
                         },
                         {
@@ -2551,14 +2453,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "自分達にこれから待ち受ける光景を想像して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "顔が青ざめてしまう・・・！！"
+                                "Imagining what awaits them, their faces turn pale with\ndread...!!"
                             ]
                         },
                         {
@@ -2575,14 +2470,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{ひっ・・・！やめっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "やめてくださっ・・・！！！"
+                                "\\c[17]No...! Stop! Please stop...!!!"
                             ]
                         },
                         {
@@ -2637,14 +2525,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{\\{ズン！！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ミチ！ミチィ！プチュ！"
+                                "\\c[27]Thrust!! Squelch! Squelch! Spurt!"
                             ]
                         },
                         {
@@ -2661,14 +2542,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{\\{\\{ひぎぃっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\}あ゛っ゛・・・ッ゛・・・！！"
+                                "\\c[17]Higyiii...!! Ahhh...!!"
                             ]
                         },
                         {
@@ -2685,14 +2559,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ティーナを押さえ込んでいたアンデッドが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "無理矢理腐った肉棒を挿入する・・・！！"
+                                "The undead holding down Tina forcefully inserts its rotten\ncock...!!"
                             ]
                         },
                         {
@@ -2709,14 +2576,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ズン！ズン！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ギシィ！ブチュッ！ブチュ！！"
+                                "\\c[27]Thrust! Thrust! Squeak! Squelch! Squelch!"
                             ]
                         },
                         {
@@ -2733,14 +2593,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{ん゛っ゛・・・ぐぅ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "腐った太いのが、出し入れされてぇっ！"
+                                "\\c[17]Nghh... Gah...!! The rotten thick one is moving in and out!"
                             ]
                         },
                         {
@@ -2757,7 +2610,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{ティーナちゃん！？"
+                                "\\c[31]Tina-chan!?"
                             ]
                         },
                         {
@@ -2774,14 +2627,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "目の前でアンデッドに犯されるティーナの姿を見て、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "恐怖に包まれてしまうメメリス・・・。"
+                                "Seeing Tina being violated by the undead right before her\neyes, Memerisu is enveloped in fear..."
                             ]
                         },
                         {
@@ -2826,14 +2672,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]や、やだ・・・！！怖い・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "やめろ！あっちいけ！！"
+                                "\\c[31]No, no...!! I'm scared...!! Stop it! Go away!!"
                             ]
                         },
                         {
@@ -2850,14 +2689,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "必死に暴れるが、アンデッドの巨体は微動だにせず"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "メメリスの衣服を剥ぎ取っていく・・・。"
+                                "Despite her desperate struggles, the undead's massive body\ndoesn't budge and it starts tearing off Memerisu's\nclothes..."
                             ]
                         },
                         {
@@ -2874,21 +2706,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]む、むり・・・そんなでっかいの・・・！！入らない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "から・・・むりだからやめ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　\\{\\{\\{お゛っ゛！"
+                                "\\c[31]No, no way... Such a big one...!! It won't fit... Stop it,\nplease... Ahhh!"
                             ]
                         },
                         {
@@ -2943,14 +2761,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{\\{ズン！！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ミチ！ミチィ！プチュ！"
+                                "\\c[27]Thrust!! Squelch! Squelch! Spurt!"
                             ]
                         },
                         {
@@ -2967,14 +2778,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{ん゛お゛ぉ゛・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\}い゛っ゛・・・お゛ッ゛・・・！！"
+                                "\\c[31]Nghhooo...!! Ehhh... Ahhh...!!"
                             ]
                         },
                         {
@@ -2991,14 +2795,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アンデッドはメメリスを押しつぶすような体勢で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "腐った肉棒を無理矢理挿入する・・・！！"
+                                "The undead crushes Memerisu as it forcefully inserts its\nrotten cock...!!"
                             ]
                         },
                         {
@@ -3015,14 +2812,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]そ、そんな・・・腐って汚いチンコがぁっ、ぉ゛お゛！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ぼ、ボクの中に・・・きもちわるっ・・・ッッ！！"
+                                "\\c[31]No, no way... A rotten, filthy dick is inside me, ohhh! It\nfeels disgusting...!!"
                             ]
                         },
                         {
@@ -3039,14 +2829,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "自分に腐った肉棒が挿入されていく光景をただ見ている"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "事しか出来ない屈辱と強烈な圧迫感に悶えるメメリス・・・。"
+                                "Memerisu writhes in humiliation and intense pressure as she\ncan only watch the rotten cock being inserted into her..."
                             ]
                         },
                         {
@@ -3063,14 +2846,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]あぁ・・・ダメ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ダメです・・・動かない・・・っで・・・ください！！"
+                                "\\c[17]Ah... No good...!! Please don't move...!!"
                             ]
                         },
                         {
@@ -3087,14 +2863,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ティーナの声が部屋に空しく響く中、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アンデッド達は激しくピストンを始める・・・！！"
+                                "As Tina's voice echoes emptily in the room, the undead begin\nto piston violently...!!"
                             ]
                         },
                         {
@@ -3139,14 +2908,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ズン！ズン！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ギシィ！ブチュッ！ブチュ！！"
+                                "\\c[27]Thump! Thump!! Creak! Squelch! Squelch!!"
                             ]
                         },
                         {
@@ -3163,14 +2925,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{い゛ぉ゛・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\}あ゛っ゛・・・お・・・・あ・・・・！！"
+                                "\\c[31]Ngh...!! Ah... Oh... Ah...!!"
                             ]
                         },
                         {
@@ -3187,14 +2942,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{\\{\\{があ゛ぁっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\}い゛っ゛・・・ッ゛・・・！！"
+                                "\\c[17]Gah...!! Ngh...!!"
                             ]
                         },
                         {
@@ -3211,21 +2959,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ピストンされる度にアンデッドの腐った肉棒から"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "カウパー液の代わりのように強烈な腐敗臭が漂う肉汁が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ブチュンブチュンと水音をあげながら飛び散る・・・！！"
+                                "With each piston movement, a foul stench of decay emanates\nfrom the undead's rotten cock, as a juice that seems to\nreplace cowper fluid splatters with wet sounds...!!"
                             ]
                         },
                         {
@@ -3259,14 +2993,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{ギチュ！グポ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\{\\{ゴツン！ゴン！ゴン！！"
+                                "\\c[27]Squelch! Gulp! Thud! Bang! Bang!!"
                             ]
                         },
                         {
@@ -3283,21 +3010,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あまりに大きな肉棒をぶち込まれ、力任せのピストンを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ただ受け入れるしかない2人は普段は出さないような声を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "上げることしか出来ない・・・！！"
+                                "Forced to accept the massive cock thrusting into them, the\ntwo can only let out cries they would never normally\nmake...!!"
                             ]
                         },
                         {
@@ -3314,14 +3027,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュ！ドチュ！ブポッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ドチュ！ドチュ！ブポッ！！"
+                                "\\c[27]Spurt! Spurt! Pop!! Spurt! Spurt! Pop!!"
                             ]
                         },
                         {
@@ -3338,28 +3044,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]お゛っ゛・・・！奥突いてる・・・っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "イグっ！ん゛お゛ぉ゛！！～～～っ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]あびぃ！あぁっ・・・あああああああ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "子宮直接・・・っ・・・・壊れちゃ・・・います！！"
+                                "\\c[31]Ngh...! It's hitting deep...! I'm cumming! Nghoo...!!\n~~~~!!! \\c[17]Ah! Ahh... Aaaaaahhhhh!!! My womb is being\ndirectly... destroyed!!"
                             ]
                         },
                         {
@@ -3451,14 +3136,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ドピュ♥ビュルルルッッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ビュク！ビュク！ビュルルルッ♥♥♥"
+                                "\\c[27]Spurt♥ Squirtle-squirt♥ Spurt! Spurt! Squirtle-squirt♥♥♥"
                             ]
                         },
                         {
@@ -3475,14 +3153,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{ん゛ぉ゛おぉおおおおおっおおっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おごぉ！ぉほごぉおおおおおおッッッ！！"
+                                "\\c[31]Nghooooooohhhhhhhhhhh!!! Oh goh! Ohh gogh oooooohhhhhh!!!"
                             ]
                         },
                         {
@@ -3499,14 +3170,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]（腐ってドロドロになった肉汁ザーメンをボクの子宮に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "注がれてるぅぅううううっっっ！！！）"
+                                "\\c[31](The rotten, sludgy semen is being poured into my\nwomb...!!!)"
                             ]
                         },
                         {
@@ -3523,14 +3187,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{ひあっ、あ゛ッッ！ん゛ぉ゛っ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "んぐあっっ、ふぎぃいいいいいいいっ！！"
+                                "\\c[17]Heeek, Ahh! Ngh!! Nguh, fughiiiiiiiiii!!!"
                             ]
                         },
                         {
@@ -3547,14 +3204,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]（だめ！だめだめだめっ！こんな腐った肉汁ザーメンを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "注がれてイくっ！イッちゃいますぅうううっっ！！！）"
+                                "\\c[17](No! No, no, no! I'm cumming from this rotten semen being\npoured into me! I'm cummingggggg!!!)"
                             ]
                         },
                         {
@@ -3571,14 +3221,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アンデッドの腐った肉汁ザーメンを子宮から溢れるほど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "注がれながら絶頂してしまう2人・・・！！"
+                                "The two climax while being filled to overflowing with the\nundead's rotten semen in their wombs...!!"
                             ]
                         },
                         {
@@ -3607,14 +3250,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ビュク♥ビュルルッ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ドクッドクッドクッ・・・♥♥♥"
+                                "\\c[27]Spurt♥ Squirtle-squirt♥♥ Throb-throb-throb...♥♥♥"
                             ]
                         },
                         {
@@ -3631,21 +3267,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アンデッドは精液を吐き出し続け、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "数分が経ちようやく挿入されていた肉棒が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "引き抜かれる・・・。"
+                                "The undead continues to ejaculate, and after several\nminutes, the cock that was inserted is finally pulled out..."
                             ]
                         },
                         {
@@ -3690,21 +3312,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]ブピィ！ミチチチチチチ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\{\\{\\{\\{ブポンッッ！！"
+                                "\\c[27]Poppy! Drip-drip-drip-drip... Pop!!"
                             ]
                         },
                         {
@@ -3721,14 +3329,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]ん゛っ゛！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・あ゛っ゛・・・ひぃ・・・！！"
+                                "\\c[31]Ngh!... Ah... Hee...!!"
                             ]
                         },
                         {
@@ -3745,7 +3346,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]お゛ぉ゛・・・、ん゛ぎぃ゛・・・ッッ。"
+                                "\\c[17]Ngh... Nghii...!!"
                             ]
                         },
                         {
@@ -3762,21 +3363,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "巨大な肉棒を引き抜かれ、ぽっかり開いたままの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おまんこからはアンデッドの腐った肉汁ザーメンが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "溢れ出していた・・・。"
+                                "The massive cock is pulled out, and from the gaping pussy\nflows the undead's rotten semen..."
                             ]
                         },
                         {
@@ -3793,14 +3380,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]・・・はぁーっ・・・はぁー・・・っっ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しぬっ・・・これ以上はしぬっ・・・！！おえぇぇっ！！"
+                                "\\c[31]...Haa-... Haa-... I'm dying... I can't take any more of\nthis... I'm dying...!! Blargh!!"
                             ]
                         },
                         {
@@ -3817,14 +3397,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "肉汁ザーメンと強烈な腐敗臭で嘔吐しながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "必死に息を整えようとする・・・しかし・・・。"
+                                "Trying desperately to catch her breath while vomiting from\nthe intense stench of the rotten semen..."
                             ]
                         },
                         {
@@ -3841,7 +3414,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウゥオオォオオオオオオオオオ・・・・。"
+                                "Uuuuooooooohhhhhhhhhh..."
                             ]
                         },
                         {
@@ -3858,7 +3431,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]あっ・・・そ、そんな・・・っ。"
+                                "\\c[17]Ah... No, no way..."
                             ]
                         },
                         {
@@ -3875,14 +3448,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "部屋の奥からうめき声を上げて沢山のアンデッドが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "2人を求めて向かってくる・・・。"
+                                "From the depths of the room, groans rise as a multitude of\nundead head towards the two, seeking them..."
                             ]
                         },
                         {
@@ -3899,7 +3465,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]あはっ・・・あはははは・・・。"
+                                "\\c[31]Aha... Ahahaha..."
                             ]
                         },
                         {
@@ -3916,7 +3482,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]嫌です・・・そんなっ・・・誰か助けて・・・。"
+                                "\\c[17]No, please... Not like this... Someone help me..."
                             ]
                         },
                         {
@@ -3933,21 +3499,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その光景を見て心が折れてしまったメメリスとティーナ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "無数のアンデッド達に犯され、その後どうなったか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "知る者はいない・・・。"
+                                "Seeing that sight, Memerisu and Tina's spirits are broken.\nRavaged by countless undead, no one knows what became of\nthem afterward..."
                             ]
                         },
                         {
@@ -3969,21 +3521,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -4102,7 +3640,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 6,
                                 0,
                                 2
@@ -4112,7 +3650,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・はっ！？夢か！！"
+                                "...Huh!? Was it a dream?!!"
                             ]
                         },
                         {
@@ -4461,14 +3999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "死人の群れと再戦しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（敗北してもエロステはカウントされません）"
+                                "Would you like to rematch the horde of the undead? (Losing\nwill not count towards your Eros Score)"
                             ]
                         },
                         {
@@ -4476,8 +4007,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4532,7 +4063,7 @@
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -4542,14 +4073,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "や、やばい・・・なんか奥からでっかい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "アンデッドが何体も・・・！？"
+                                "No, no way... Something huge is coming from the depths,\nthere are so many undead...!?"
                             ]
                         },
                         {
@@ -4566,7 +4090,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ウゥオオォオオオオオオオオオ・・・・。"
+                                "Oooooooohhh..."
                             ]
                         },
                         {
@@ -4611,7 +4135,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "敗北した2人はアンデッドに押し倒されてしまう・・・。"
+                                "The two defeated girls are pushed down by the undead..."
                             ]
                         },
                         {
@@ -4628,14 +4152,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]す、凄い力・・・っっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "とても逃げられません・・・！！"
+                                "\\c[17]Such incredible strength...! We can't escape at all...!!"
                             ]
                         },
                         {
@@ -4652,14 +4169,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]こ、これってもしかしてボク達大ピンチ・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "このままアンデッドに食べられちゃうんじゃ・・・。"
+                                "\\c[31]This is bad, could it be that we're in big trouble...? Are\nwe going to be eaten by the undead like this...?"
                             ]
                         },
                         {
@@ -4676,7 +4186,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ウゥオオォオオオオオオオオオ・・・・。"
+                                "Oooooooohhh..."
                             ]
                         },
                         {
@@ -4693,14 +4203,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "アンデッドは低いうなり声のような音を出しながら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ゆっくりと2人により近づいていく・・・。"
+                                "The undead approach the two girls slowly, making low\ngrowling sounds..."
                             ]
                         },
                         {
@@ -4717,14 +4220,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]わああああああああ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ボク達を食べても美味しくないよおおおお！！！"
+                                "\\c[31]Aaaaaahhh!! We won't taste good, don't eat usssss!!!"
                             ]
                         },
                         {
@@ -4741,14 +4237,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "食べられると思ったメメリスは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "必死に声を荒らげ逃げようとする・・・。"
+                                "Thinking she's about to be eaten, Memerisu desperately\nraises her voice trying to escape..."
                             ]
                         },
                         {
@@ -4793,7 +4282,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{\\{\\{ボロンッッ！！！！"
+                                "\\c[27]Boron...!!!"
                             ]
                         },
                         {
@@ -4810,14 +4299,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{きゃっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "こ、これって・・・！？"
+                                "\\c[17]Kyah...!! Is this...!?"
                             ]
                         },
                         {
@@ -4834,14 +4316,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "2人の目の前に強烈な腐敗臭と雄の臭いを発する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "肉棒が露出される・・・！！"
+                                "In front of the two girls appears a rotting dick, emitting a\nstrong stench of decay and masculinity...!!"
                             ]
                         },
                         {
@@ -4858,21 +4333,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]ひ、酷い臭い・・・鼻が曲がりそうだ・・・ッッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それにもしかして・・・ボク達を食べるんじゃなくて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "犯すつもり・・・！？"
+                                "\\c[31]Such a terrible smell... It's like my nose is going to\nbend...! And could it be... they don't want to eat us but...\nthey intend to rape us...!?"
                             ]
                         },
                         {
@@ -4889,14 +4350,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "自分達にこれから待ち受ける光景を想像して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "顔が青ざめてしまう・・・！！"
+                                "Imagining the scene that awaits them, their faces turn pale\nwith dread...!!"
                             ]
                         },
                         {
@@ -4913,14 +4367,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{ひっ・・・！やめっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "やめてくださっ・・・！！！"
+                                "\\c[17]Hii...! Stop! Please stop...!!!"
                             ]
                         },
                         {
@@ -4975,14 +4422,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{\\{ズン！！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ミチ！ミチィ！プチュ！"
+                                "\\c[27]Zun!!! Michi! Michii! Puchu!"
                             ]
                         },
                         {
@@ -4999,14 +4439,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{\\{\\{ひぎぃっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\}あ゛っ゛・・・ッ゛・・・！！"
+                                "\\c[17]Higyiii...!! Ahhh...!!!"
                             ]
                         },
                         {
@@ -5023,14 +4456,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ティーナを押さえ込んでいたアンデッドが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "無理矢理腐った肉棒を挿入する・・・！！"
+                                "The undead holding down Tina forcefully inserts its rotten\ndick...!!"
                             ]
                         },
                         {
@@ -5047,14 +4473,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ズン！ズン！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ギシィ！ブチュッ！ブチュ！！"
+                                "\\c[27]Zun! Zun!! Gishii! Butchu! Butchu!!"
                             ]
                         },
                         {
@@ -5071,14 +4490,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{ん゛っ゛・・・ぐぅ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "腐った太いのが、出し入れされてぇっ！"
+                                "\\c[17]Nhhhh... Guh...!! The rotten thick one is moving in and out!"
                             ]
                         },
                         {
@@ -5095,7 +4507,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{ティーナちゃん！？"
+                                "\\c[31]Tina-chan!?"
                             ]
                         },
                         {
@@ -5112,14 +4524,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "目の前でアンデッドに犯されるティーナの姿を見て、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "恐怖に包まれてしまうメメリス・・・。"
+                                "Seeing Tina being violated by the undead right before her\neyes, Memerisu is enveloped in terror..."
                             ]
                         },
                         {
@@ -5164,14 +4569,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]や、やだ・・・！！怖い・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "やめろ！あっちいけ！！"
+                                "\\c[31]No, no...!! I'm scared...!! Stop it! Go away!!"
                             ]
                         },
                         {
@@ -5188,14 +4586,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "必死に暴れるが、アンデッドの巨体は微動だにせず"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "メメリスの衣服を剥ぎ取っていく・・・。"
+                                "Despite her desperate struggles, the undead's massive body\ndoesn't budge and it starts tearing off Memerisu's\nclothes..."
                             ]
                         },
                         {
@@ -5212,21 +4603,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]む、むり・・・そんなでっかいの・・・！！入らない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "から・・・むりだからやめ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　　　　　　　　　　　　　　　　\\{\\{\\{お゛っ゛！"
+                                "\\c[31]It's impossible... such a huge one...!! It won't fit... it's\nimpossible so stop... Ohhh!"
                             ]
                         },
                         {
@@ -5281,14 +4658,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{\\{ズン！！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ミチ！ミチィ！プチュ！"
+                                "\\c[27]Zun!!! Michi! Michii! Puchu!"
                             ]
                         },
                         {
@@ -5305,14 +4675,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{ん゛お゛ぉ゛・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\}い゛っ゛・・・お゛ッ゛・・・！！"
+                                "\\c[31]Nhooo...!! Iiih... Ohhh...!!"
                             ]
                         },
                         {
@@ -5329,14 +4692,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "アンデッドはメメリスを押しつぶすような体勢で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "腐った肉棒を無理矢理挿入する・・・！！"
+                                "The undead crushes Memerisu as it forces its rotting dick\ninside her...!!"
                             ]
                         },
                         {
@@ -5353,14 +4709,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]そ、そんな・・・腐って汚いチンコがぁっ、ぉ゛お゛！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ぼ、ボクの中に・・・きもちわるっ・・・ッッ！！"
+                                "\\c[31]No way... such a rotten and filthy cock is inside me, ohhh!\nIt feels disgusting...!!!"
                             ]
                         },
                         {
@@ -5377,14 +4726,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "自分に腐った肉棒が挿入されていく光景をただ見ている"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "事しか出来ない屈辱と強烈な圧迫感に悶えるメメリス・・・。"
+                                "Memerisu writhes in humiliation and intense pressure as she\ncan only watch the rotten dick being inserted into her..."
                             ]
                         },
                         {
@@ -5401,14 +4743,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]あぁ・・・ダメ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ダメです・・・動かない・・・っで・・・ください！！"
+                                "\\c[17]Ah... No good...!! Please don't move... please stop!!"
                             ]
                         },
                         {
@@ -5425,14 +4760,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ティーナの声が部屋に空しく響く中、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "アンデッド達は激しくピストンを始める・・・！！"
+                                "As Tina's voice echoes emptily in the room, the undead begin\nto piston violently...!!"
                             ]
                         },
                         {
@@ -5477,14 +4805,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ズン！ズン！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ギシィ！ブチュッ！ブチュ！！"
+                                "\\c[27]Zun! Zun!! Gishii! Butchu! Butchu!!"
                             ]
                         },
                         {
@@ -5501,14 +4822,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{い゛ぉ゛・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\}あ゛っ゛・・・お・・・・あ・・・・！！"
+                                "\\c[31]Iohh...!! Ahhh... Ohh... Ahh...!!"
                             ]
                         },
                         {
@@ -5525,14 +4839,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{\\{\\{があ゛ぁっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\}い゛っ゛・・・ッ゛・・・！！"
+                                "\\c[17]Gaahhh...!! Iiih...!!!"
                             ]
                         },
                         {
@@ -5549,21 +4856,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ピストンされる度にアンデッドの腐った肉棒から"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "カウパー液の代わりのように強烈な腐敗臭が漂う肉汁が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ブチュンブチュンと水音をあげながら飛び散る・・・！！"
+                                "With each piston movement, a foul-smelling juice that seems\nto substitute for copulation fluid splatters from the\nundead's rotting dick with wet noises..."
                             ]
                         },
                         {
@@ -5597,14 +4890,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{ギチュ！グポ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\{\\{ゴツン！ゴン！ゴン！！"
+                                "\\c[27]Gichu! Gupo! Gotsun! Gon! Gon!!"
                             ]
                         },
                         {
@@ -5621,21 +4907,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あまりに大きな肉棒をぶち込まれ、力任せのピストンを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ただ受け入れるしかない2人は普段は出さないような声を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "上げることしか出来ない・・・！！"
+                                "Forced to accept the powerful pistoning of such an enormous\ndick, the two girls can only let out cries they would never\nnormally make..."
                             ]
                         },
                         {
@@ -5652,14 +4924,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュ！ドチュ！ブポッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ドチュ！ドチュ！ブポッ！！"
+                                "\\c[27]Dochu! Dochu! Bupo!! Dochu! Dochu! Bupo!!"
                             ]
                         },
                         {
@@ -5676,28 +4941,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]お゛っ゛・・・！奥突いてる・・・っ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "イグっ！ん゛お゛ぉ゛！！～～～っ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\c[17]あびぃ！あぁっ・・・あああああああ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "子宮直接・・・っ・・・・壊れちゃ・・・います！！"
+                                "\\c[31]Ah...! It's hitting deep...! I'm coming! Nooo!! ~~~!!!\n\\c[17]Ah! Ahh... Aaaaaah!!! My womb is being directly...\ndestroyed!!"
                             ]
                         },
                         {
@@ -5789,14 +5033,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ドピュ♥ビュルルルッッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ビュク！ビュク！ビュルルルッ♥♥♥"
+                                "\\c[27]Squirt♥ Spurting♥ Squirt! Squirt! Spurting♥♥♥"
                             ]
                         },
                         {
@@ -5813,14 +5050,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{ん゛ぉ゛おぉおおおおおっおおっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "おごぉ！ぉほごぉおおおおおおッッッ！！"
+                                "\\c[31]Nooooooo!! Oh! Ohh! Ohhhhhhhhh!!!"
                             ]
                         },
                         {
@@ -5837,14 +5067,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]（腐ってドロドロになった肉汁ザーメンをボクの子宮に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "注がれてるぅぅううううっっっ！！！）"
+                                "\\c[31](The rotten, sludgy semen-juice is being poured into my\nwomb...!!!)"
                             ]
                         },
                         {
@@ -5861,14 +5084,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{ひあっ、あ゛ッッ！ん゛ぉ゛っ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "んぐあっっ、ふぎぃいいいいいいいっ！！"
+                                "\\c[17]Hiyah, Ah! Noo!! Nguah, fughiiiiiiii!!!"
                             ]
                         },
                         {
@@ -5885,14 +5101,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]（だめ！だめだめだめっ！こんな腐った肉汁ザーメンを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "注がれてイくっ！イッちゃいますぅうううっっ！！！）"
+                                "\\c[17](No! No, no, no! I can't be climaxing from this rotten\nsemen-juice being poured inside me! I'm cumming!!!)"
                             ]
                         },
                         {
@@ -5909,14 +5118,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "アンデッドの腐った肉汁ザーメンを子宮から溢れるほど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "注がれながら絶頂してしまう2人・・・！！"
+                                "As the undead's rotten semen-juice is poured into their\nwombs until it overflows, the two girls climax...!!"
                             ]
                         },
                         {
@@ -5945,14 +5147,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ビュク♥ビュルルッ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ドクッドクッドクッ・・・♥♥♥"
+                                "\\c[27]Squirt♥ Spurting♥ Throb! Throb! Throb!...♥♥♥"
                             ]
                         },
                         {
@@ -5969,21 +5164,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "アンデッドは精液を吐き出し続け、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "数分が経ちようやく挿入されていた肉棒が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "引き抜かれる・・・。"
+                                "The undead continues to ejaculate, and after several\nminutes, the inserted dick is finally pulled out..."
                             ]
                         },
                         {
@@ -6028,21 +5209,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]ブピィ！ミチチチチチチ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\{\\{\\{\\{ブポンッッ！！"
+                                "\\c[27]Splurt! Dripping... Pop!!"
                             ]
                         },
                         {
@@ -6059,14 +5226,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]ん゛っ゛！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・あ゛っ゛・・・ひぃ・・・！！"
+                                "\\c[31]Nh!... Ah... Hii...!!"
                             ]
                         },
                         {
@@ -6083,7 +5243,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]お゛ぉ゛・・・、ん゛ぎぃ゛・・・ッッ。"
+                                "\\c[17]Ah... Nghii..."
                             ]
                         },
                         {
@@ -6100,21 +5260,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "巨大な肉棒を引き抜かれ、ぽっかり開いたままの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "おまんこからはアンデッドの腐った肉汁ザーメンが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "溢れ出していた・・・。"
+                                "The huge dick is pulled out, and from the gaping pussy, the\nundead's rotten semen-juice overflows..."
                             ]
                         },
                         {
@@ -6131,14 +5277,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]・・・はぁーっ・・・はぁー・・・っっ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "しぬっ・・・これ以上はしぬっ・・・！！おえぇぇっ！！"
+                                "\\c[31]...Haa... Haa... I'm dying... I can't take anymore, I'll\ndie...!! Ughhh!!"
                             ]
                         },
                         {
@@ -6155,14 +5294,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "肉汁ザーメンと強烈な腐敗臭で嘔吐しながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "必死に息を整えようとする・・・しかし・・・。"
+                                "Trying desperately to catch her breath while vomiting from\nthe semen-juice and intense stench of decay... but..."
                             ]
                         },
                         {
@@ -6179,7 +5311,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ウゥオオォオオオオオオオオオ・・・・。"
+                                "Uuuuoooooooh..."
                             ]
                         },
                         {
@@ -6196,7 +5328,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]あっ・・・そ、そんな・・・っ。"
+                                "\\c[17]Ah... No, that's... impossible."
                             ]
                         },
                         {
@@ -6213,14 +5345,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "部屋の奥からうめき声を上げて沢山のアンデッドが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "2人を求めて向かってくる・・・。"
+                                "From the back of the room, groans are heard as a multitude\nof undead head towards the two girls, seeking them..."
                             ]
                         },
                         {
@@ -6237,7 +5362,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]あはっ・・・あはははは・・・。"
+                                "\\c[31]Ahaha... Ahahahaha..."
                             ]
                         },
                         {
@@ -6254,7 +5379,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]嫌です・・・そんなっ・・・誰か助けて・・・。"
+                                "\\c[17]I don't want this... No... Someone help..."
                             ]
                         },
                         {
@@ -6271,21 +5396,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "その光景を見て心が折れてしまったメメリスとティーナ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "無数のアンデッド達に犯され、その後どうなったか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "知る者はいない・・・。"
+                                "Seeing that scene, Memerisu and Tina's spirits are broken.\nRavaged by countless undead, no one knows what became of\nthem afterward..."
                             ]
                         },
                         {
@@ -6307,21 +5418,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {

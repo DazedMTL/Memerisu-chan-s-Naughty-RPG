@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ダンジョン",
+    "displayName": "Dungeon",
     "encounterList": [],
     "encounterStep": 100,
     "height": 13,
@@ -1608,7 +1608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鋼の石を手に入れた！"
+                                "Obtained the Steel Stone!"
                             ]
                         },
                         {
@@ -2093,7 +2093,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -2103,21 +2103,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわぁ・・・深そうな穴だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "覗いても底が見えないよ。"
+                                "Wow... that's a deep hole. I can't even see the bottom when\nI peer into it."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -2127,21 +2120,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あんまり覗き込むと落ちちゃいますよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気を付けてくださいね。"
+                                "Be careful not to lean in too much, or you might fall.\nPlease be careful."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -2151,14 +2137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほいほーい、心配性だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流石に落ちるわけ・・・"
+                                "Ho ho, you worry too much. As if I'd really fall..."
                             ]
                         },
                         {
@@ -2187,21 +2166,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{・・・ズルッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（足を滑らせる音）"
+                                "...Slip!!! (Sound of slipping)"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -2211,21 +2183,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{\\{おわあああああああ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああああああ！！！"
+                                "Aaaaaaaahhhhhhhhhhhhhhhh!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -2235,14 +2200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{もおおおおおお！言ったそばから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なにしてるんですかああああ！！！"
+                                "Oh myyyyy! What are you doing right after I warned\nyouuuuuu!!!"
                             ]
                         },
                         {
@@ -2271,7 +2229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスは10のダメージを受けた！"
+                                "Memerisu took 10 points of damage!"
                             ]
                         },
                         {

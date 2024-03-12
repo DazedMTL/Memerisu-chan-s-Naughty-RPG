@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "健全な研究所",
+    "displayName": "Wholesome Research Lab",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -1879,14 +1879,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは健全な研究所です。"
+                                "This is a wholesome research facility."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -1896,7 +1896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、怪しい・・・！！"
+                                "Ah, suspicious...!!"
                             ]
                         },
                         {
@@ -1964,21 +1964,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "倒産しました、明日からどうしよう・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はただ受付で長年勤めていただけなのに。"
+                                "I've gone bankrupt, what should I do from tomorrow... I've\nonly been working at the reception for so many years."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -1988,7 +1981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（そっとしておこう）"
+                                "(I should leave her alone.)"
                             ]
                         },
                         {
@@ -2065,7 +2058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここから先は立ち入り禁止です。"
+                                "Entry is prohibited beyond this point."
                             ]
                         },
                         {
@@ -2133,14 +2126,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここから先は立ち入り禁止です。"
+                                "No entry beyond this point."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -2150,21 +2143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ギルドからのカチコミじゃーい！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怪しい研究をしてるってネタは上がってんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこをどけー！！"
+                                "This is a raid from the guild!! We've heard you're\nconducting suspicious research! Move it!!"
                             ]
                         },
                         {
@@ -2181,21 +2160,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちっ！もう嗅ぎつけられたか！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だがここを通すわけにはいかないな！"
+                                "Tch! Have I been sniffed out already?! But I can't let you\nthrough here!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 0,
                                 0,
                                 2
@@ -2205,7 +2177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悪い研究は許せません！やっちゃいましょう！"
+                                "We can't allow evil research! Let's take them down!"
                             ]
                         },
                         {
@@ -2222,7 +2194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "舐めるなよ！私達の作った機械を喰らえっ！！"
+                                "Don't underestimate us! Eat this, our very own creation!"
                             ]
                         },
                         {
@@ -2273,14 +2245,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "帰りな！クソガキ共め！！"
+                                "Get lost, you brats!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 0,
                                 0,
                                 2
@@ -2290,7 +2262,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ちくしょー！覚えてろー！！"
+                                "Damn it! You'll pay for this!!"
                             ]
                         },
                         {
@@ -2713,7 +2685,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -2723,14 +2695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "冷蔵庫があるよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か入ってたりするかな～♪"
+                                "There's a fridge here! I wonder if there's anything inside~♪"
                             ]
                         },
                         {
@@ -2759,14 +2724,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガサゴソ・・・ガサゴソ・・・！！"
+                                "Rustle... Rustle...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -2776,21 +2741,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "勝手に開けたらダメですよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怒られちゃいますよー！！"
+                                "You can't just open it without permission! You'll get in\ntrouble-!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -2800,7 +2758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・これは。"
+                                "...This is."
                             ]
                         },
                         {
@@ -2819,7 +2777,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -2829,7 +2787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{ちくわしかねぇ！！！！"
+                                "Nothing but fish paste tubes!!!!"
                             ]
                         },
                         {
@@ -2868,14 +2826,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちくわを手に入れた！"
+                                "You obtained a fish paste tube!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 7,
                                 0,
                                 2
@@ -2885,14 +2843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この冷蔵庫、ちくわがまだまだ入ってる・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なにこれ怖い。"
+                                "This fridge, it's still full of fish paste tubes... this is\nkind of scary."
                             ]
                         },
                         {
@@ -2959,7 +2910,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -2969,14 +2920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "冷蔵庫があるよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か入ってたりするかな～♪"
+                                "There's a fridge here! I wonder if there's anything inside~♪"
                             ]
                         },
                         {
@@ -3005,14 +2949,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガサゴソ・・・ガサゴソ・・・！！"
+                                "Rustle... Rustle...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -3022,21 +2966,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "勝手に開けたらダメですよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怒られちゃいますよー！！"
+                                "You shouldn't just open it without permission! You'll get in\ntrouble-!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -3046,7 +2983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・これは。"
+                                "...This is."
                             ]
                         },
                         {
@@ -3065,7 +3002,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -3075,7 +3012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{ちくわしかねぇ！！！！"
+                                "Nothing but fish paste tubes!!!!"
                             ]
                         },
                         {
@@ -3114,14 +3051,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちくわを手に入れた！"
+                                "You obtained a fish paste tube!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 7,
                                 0,
                                 2
@@ -3131,14 +3068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この冷蔵庫、ちくわがまだまだ入ってる・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なにこれ怖い。"
+                                "This fridge... it's still full of fish paste tubes... this\nis kind of scary."
                             ]
                         },
                         {
@@ -3205,7 +3135,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -3215,14 +3145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "冷蔵庫があるよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か入ってたりするかな～♪"
+                                "There's a fridge! I wonder if there's anything inside~♪"
                             ]
                         },
                         {
@@ -3251,14 +3174,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガサゴソ・・・ガサゴソ・・・！！"
+                                "Rustle... Rustle...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -3268,21 +3191,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "勝手に開けたらダメですよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怒られちゃいますよー！！"
+                                "You shouldn't just open it without permission! You'll get\nscolded-!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -3292,7 +3208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・これは。"
+                                "...This is."
                             ]
                         },
                         {
@@ -3311,7 +3227,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -3321,7 +3237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{ちくわしかねぇ！！！！"
+                                "Nothing but fish paste tubes!!!!"
                             ]
                         },
                         {
@@ -3360,14 +3276,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちくわを手に入れた！"
+                                "You obtained fish paste tubes!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 7,
                                 0,
                                 2
@@ -3377,14 +3293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この冷蔵庫、ちくわがまだまだ入ってる・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なにこれ怖い。"
+                                "This fridge... it's still packed with fish paste tubes...\nwhat's this, it's kind of scary."
                             ]
                         },
                         {
@@ -3451,7 +3360,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -3461,14 +3370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "冷蔵庫があるよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か入ってたりするかな～♪"
+                                "There's a fridge here! I wonder if there's anything inside~♪"
                             ]
                         },
                         {
@@ -3497,14 +3399,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガサゴソ・・・ガサゴソ・・・！！"
+                                "Rustle... Rustle...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -3514,21 +3416,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "勝手に開けたらダメですよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怒られちゃいますよー！！"
+                                "You can't just open it without permission! You'll get in\ntrouble-!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -3538,7 +3433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・これは。"
+                                "...This is."
                             ]
                         },
                         {
@@ -3557,7 +3452,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -3567,7 +3462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{ちくわしかねぇ！！！！"
+                                "There's nothing but fish paste tubes!!!!"
                             ]
                         },
                         {
@@ -3606,14 +3501,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちくわを手に入れた！"
+                                "You obtained a fish paste tube!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 7,
                                 0,
                                 2
@@ -3623,14 +3518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この冷蔵庫、ちくわがまだまだ入ってる・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なにこれ怖い。"
+                                "This fridge... it's still full of fish paste tubes... what's\nthis, it's kind of scary."
                             ]
                         },
                         {

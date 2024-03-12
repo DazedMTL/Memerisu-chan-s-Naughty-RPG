@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ダンジョン",
+    "displayName": "Dungeon",
     "encounterList": [],
     "encounterStep": 80,
     "height": 15,
@@ -2082,7 +2082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔法使いの帽子を手に入れた！"
+                                "Obtained the Sorcerer's Hat!"
                             ]
                         },
                         {
@@ -2210,7 +2210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は旅の商人。何か買っていくかい？"
+                                "I'm a traveling merchant. Would you like to buy something?"
                             ]
                         },
                         {
@@ -2349,21 +2349,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ・・・このダンジョンにお宝がないって分かってから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すっかり冒険者も減って困ったわ・・・。"
+                                "Sigh... Ever since it became known that there's no treasure\nin this dungeon, the number of adventurers has really\ndwindled. It's quite troubling..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -2373,14 +2366,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんかお困りみたいですのう。"
+                                "It seems like you're having some trouble."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 2,
                                 0,
                                 2
@@ -2390,14 +2383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "せっかくですし村に誘ってみるのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうでしょうか？"
+                                "Since we're here, why don't we invite them to the village?"
                             ]
                         },
                         {
@@ -2414,7 +2400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村に誘う？"
+                                "Invite to the village?"
                             ]
                         },
                         {
@@ -2422,8 +2408,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2443,7 +2429,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 6,
                                 0,
                                 2
@@ -2453,21 +2439,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ちょいとお姉さん、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ここだけの話なんだけど・・・。"
+                                "Hey, sister, just between us..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 6,
                                 0,
                                 2
@@ -2477,7 +2456,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "かくかくしかじか・・・。"
+                                "Yada yada yada..."
                             ]
                         },
                         {
@@ -2494,14 +2473,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そんな村があったなんて・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これはビジネスチャンスね！教えてくれてありがとう！"
+                                "I had no idea such a village existed...!! This is a business\nopportunity! Thank you for telling me!"
                             ]
                         },
                         {
@@ -2560,7 +2532,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "旅の商人が仲間になった！"
+                                "A traveling merchant has joined your party!"
                             ]
                         },
                         {
@@ -2838,7 +2810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "擦れた文字で何か書いてある・・・。"
+                                "There's something written here in faded letters..."
                             ]
                         },
                         {
@@ -2855,21 +2827,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　　　　　魔王、ここに眠る"
+                                "The Demon Lord lies here"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -2879,21 +2844,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだこれ、魔王のお墓？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔王なんかホントにいたのかなー。"
+                                "What's this, the Demon Lord's grave? I wonder if there\nreally was such a thing as a Demon Lord..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 2,
                                 0,
                                 2
@@ -2903,21 +2861,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大昔に魔族の王様が存在していたという"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お話は聞いたことがありますよ。"
+                                "I have heard tales of a king of demons existing long ago."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -2927,21 +2878,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とってもヤバい事をしでかした為に魔王は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勇者に討たれ封印されたとか何とか・・・。"
+                                "Apparently, he did something really terrible and was\ndefeated and sealed away by a hero..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -2951,28 +2895,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぇ～、そうなんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな如何にもな墓があると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのうち復活とかしそうで怖いなぁ～。"
+                                "Wow, is that so. With a grave that looks so ominous, it's\nkind of scary to think he might come back to life someday."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -2982,21 +2912,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まっ、魔王だろうとボクには勝てないだろう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "けどね！勇者メメリス、爆誕！なんちて♪"
+                                "Well, even if it's the Demon Lord, he wouldn't be able to\nbeat me! Hero Memerisu, born to explode! Just kidding♪"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -3006,21 +2929,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうですね、メメリスちゃんならきっと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔王だって倒せちゃいますよ。"
+                                "That's right, if it's Memerisu-chan, I'm sure even the Demon\nLord could be defeated."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -3030,14 +2946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でも今回の冒険には関係ないでしょうから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そろそろ先に進みましょう！"
+                                "But this has nothing to do with our current adventure, so\nlet's move on!"
                             ]
                         },
                         {
@@ -3104,7 +3013,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -3114,14 +3023,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわっ！なんだこの花、くっせぇ！！！"
+                                "Ugh! What's with this flower, it stinks!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -3131,14 +3040,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "は、鼻が曲がりそうです・・・っ！！"
+                                "It's... it's like my nose is going to bend...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 6,
                                 0,
                                 2
@@ -3148,14 +3057,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "花だけに？"
+                                "Just because it's a flower?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -3165,7 +3074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・は？"
+                                "...Huh?"
                             ]
                         },
                         {
@@ -3232,7 +3141,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -3242,14 +3151,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわっ！なんだこの花、くっせぇ！！！"
+                                "Ugh! What's with this flower, it stinks!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -3259,14 +3168,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "は、鼻が曲がりそうです・・・っ！！"
+                                "My, my nose feels like it's going to bend...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 6,
                                 0,
                                 2
@@ -3276,14 +3185,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "花だけに？"
+                                "Just because it's a flower?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -3293,7 +3202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・は？"
+                                "...Huh?"
                             ]
                         },
                         {

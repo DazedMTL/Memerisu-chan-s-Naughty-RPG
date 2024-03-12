@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ブッコロ村",
+    "displayName": "Bukkoro Village",
     "encounterList": [],
     "encounterStep": 30,
     "height": 25,
@@ -3997,21 +3997,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お姉ちゃんこんにちは！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここはブッコロ村だよー！！"
+                                "Hello, big sister! This is Bukkoro Village!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -4021,14 +4014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんか物騒な名前の村だな・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何でそんな名前なの？"
+                                "It's quite a dangerous-sounding name for a village... Why is\nit called that?"
                             ]
                         },
                         {
@@ -4045,21 +4031,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "家畜を育てて肉として売ってるからって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お爺ちゃんが言ってた！"
+                                "Grandpa said it's because they raise livestock and sell them\nas meat!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -4069,7 +4048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おぉぅ・・・命に感謝しないとね。"
+                                "Oh... We must be grateful for life."
                             ]
                         },
                         {
@@ -4146,14 +4125,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コケー！コケコケ！コケーッ！！"
+                                "Cluck-! Cluck cluck! Cluck-!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 6,
                                 0,
                                 2
@@ -4163,14 +4142,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こいつを攻撃したらどうなるかな・・・？"
+                                "What would happen if I attacked this thing...?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -4180,7 +4159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "絶対にやめてくださいッッ！！"
+                                "Please don't do it!!"
                             ]
                         },
                         {
@@ -4516,14 +4495,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えーん！えーん！えーん！"
+                                "Ah-hn! Ah-hn! Ah-hn!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -4533,14 +4512,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わわっ、小さな男の子が泣いてます！？"
+                                "Oh no, a little boy is crying!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -4550,21 +4529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボク？どうしたんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何かあったのならお姉さん達に話して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みてください。"
+                                "What's wrong? If something happened, please tell us sisters\nabout it."
                             ]
                         },
                         {
@@ -4581,21 +4546,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひぐっ・・・ふぐぅ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ポ、ポチと・・・ポチと森ではぐれちゃって・・・。"
+                                "*sob*... *sniffle*...!! I got separated from Pochi... lost\nin the forest..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -4605,21 +4563,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポチ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この子が飼っている犬の事でしょうか？"
+                                "Pochi? Is that your dog?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -4629,21 +4580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "泣かないでください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お姉ちゃんたちが貴方のポチを見つけて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "連れてきてあげますから。"
+                                "Please don't cry. We sisters will find your Pochi and bring\nhim back to you."
                             ]
                         },
                         {
@@ -4660,14 +4597,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひぐ・・・ぐすっ・・・ほんとぉ？"
+                                "*sob*... *sniff*... really?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -4677,21 +4614,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい！お姉さん達に任せてください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "行きますよ、メメリスちゃん！"
+                                "Yes! Leave it to us sisters. Let's go, Memerisu-chan!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -4701,14 +4631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボク、動物ってあんまり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きじゃないんだけどな～。"
+                                "I'm not really fond of animals though..."
                             ]
                         },
                         {
@@ -4785,21 +4708,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ポチとは南東にある森ではぐれちゃったんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お姉ちゃん達、ポチを見つけてね・・・。"
+                                "We got separated from Pochi in the forest to the southeast.\nBig sisters, please find Pochi..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -4809,7 +4725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい、待っててくださいね！"
+                                "Yes, please wait!"
                             ]
                         },
                         {
@@ -4867,7 +4783,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -4877,14 +4793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい、迷子のポチ君を連れてきましたよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これでもう泣かないでくださいね♪"
+                                "Yes, I've brought back the lost Pochi-kun. Please don't cry\nanymore♪"
                             ]
                         },
                         {
@@ -4913,7 +4822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "迷子の犬を渡した！"
+                                "Gave back the lost dog!"
                             ]
                         },
                         {
@@ -4940,7 +4849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わーっ！ポチ！ポチだああああああああ！！！！！"
+                                "Wow-! Pochi! It's Pochi aaaaaahhhhhhh!!!!"
                             ]
                         },
                         {
@@ -4957,21 +4866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お姉ちゃん達ありがとー！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お礼にボクの宝物の森で拾った"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "綺麗な石をあげるね！"
+                                "Thank you, big sisters! As a token of my gratitude, I'll\ngive you this pretty stone I found in the forest!"
                             ]
                         },
                         {
@@ -5000,7 +4895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鋼の石を手に入れた！"
+                                "Obtained the Steel Stone!"
                             ]
                         },
                         {
@@ -5017,7 +4912,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -5027,14 +4922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ありがとうございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大切にしますね。"
+                                "Thank you very much. I'll take good care of it."
                             ]
                         },
                         {
@@ -5120,14 +5008,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お姉ちゃんありがとう！"
+                                "Thank you, big sis!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -5137,14 +5025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いえいえ、また何か困った事があったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私に言ってくださいね。"
+                                "No problem, if you have any other troubles, please tell me."
                             ]
                         },
                         {
@@ -5212,14 +5093,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お姉ちゃんありがとう！"
+                                "Thank you, big sis!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -5229,14 +5110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いえいえ、また何か困った事があったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私に言ってくださいね。"
+                                "No problem, if you have any other troubles, just let me\nknow."
                             ]
                         },
                         {
@@ -5253,21 +5127,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お姉ちゃん、ホント？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実はまた困ってる事があって・・・。"
+                                "Big sis, really? Actually, I'm having another problem..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -5277,14 +5144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや？早速ですか・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お困りごとはなんでしょう？"
+                                "Oh? What seems to be the trouble this time?"
                             ]
                         },
                         {
@@ -5301,14 +5161,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "実はこの村だとポチは飼っちゃダメだって・・・。"
+                                "It turns out we're not allowed to keep Pochi in the\nvillage..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -5318,14 +5178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、ポチちゃんは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "飼い犬じゃなかったんですね・・・。"
+                                "Ah, so Pochi wasn't a pet dog after all..."
                             ]
                         },
                         {
@@ -5342,14 +5195,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうしようお姉ちゃん・・・。"
+                                "What should I do, big sis..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -5359,21 +5212,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは・・・困りましたね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしましょ・・・。"
+                                "This is troubling... What should we do..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -5383,28 +5229,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チェルン村でポチの面倒を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見たらいいんじゃない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その子もたまに様子を見に行けばいいし。"
+                                "Why not take care of Pochi in Chern village? You can also go\ncheck on him from time to time."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -5414,21 +5246,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それはナイスアイディアですね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たまには良い事言うじゃないですかー♪"
+                                "That's a great idea! You do come up with good suggestions\nsometimes♪"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 6,
                                 0,
                                 2
@@ -5438,14 +5263,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たまには！？"
+                                "Sometimes!?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -5455,21 +5280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "という事でどうでしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お姉ちゃん達の村でポチちゃんのお世話を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "するのは？"
+                                "So, how about it? How about we take care of Pochi in our\nvillage?"
                             ]
                         },
                         {
@@ -5486,14 +5297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "う、うん！お姉ちゃん達、ポチの事よろしくね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボクも遊びに行くよー！"
+                                "Yeah, sure! Big sis, please take good care of Pochi! I'll\ncome to play too!"
                             ]
                         },
                         {
@@ -5510,7 +5314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ワンワンワン！"
+                                "Bark bark bark!"
                             ]
                         },
                         {
@@ -5569,7 +5373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ショタとポチが仲間になった！"
+                                "Shota and Pochi have joined your party!"
                             ]
                         },
                         {
@@ -5697,7 +5501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ワン！ワン！ワン！！"
+                                "Woof! Woof! Woof!!"
                             ]
                         },
                         {
@@ -5825,14 +5629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "井戸だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "水を飲もう！"
+                                "It's a well! Let's drink some water!"
                             ]
                         },
                         {
@@ -5840,8 +5637,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5862,9 +5659,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "メメリス",
-                                    "ティーナ",
-                                    "やっぱりやめる"
+                                    "Memerisu",
+                                    "Tina",
+                                    "I guess I'll stop."
                                 ],
                                 2,
                                 0,
@@ -5894,7 +5691,7 @@
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 3,
                                 0,
                                 2
@@ -5904,7 +5701,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "おしっこしたいし今はやめておこう・・・。"
+                                "I need to pee, so maybe I should hold off for now..."
                             ]
                         },
                         {
@@ -5931,14 +5728,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "メメリスは水を汲んで飲んだ！"
+                                "Memerisu drew water and drank it!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 1,
                                 0,
                                 2
@@ -5948,7 +5745,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "うーまーあーじー！！"
+                                "De-lic-ious!"
                             ]
                         },
                         {
@@ -5977,14 +5774,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "メメリスの体力は全回復した！"
+                                "Memerisu's health has been fully restored!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 3,
                                 0,
                                 2
@@ -5994,14 +5791,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "・・・むむっ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "なんだかトイレに行きたくなってきたかも。"
+                                "...Hmm, I kind of feel like I need to go to the bathroom\nnow."
                             ]
                         },
                         {
@@ -6030,14 +5820,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "メメリスはおしっこがしたくなってしまった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "トイレに行かないとお漏らししてしまうぞ！"
+                                "Memerisu now needs to pee! She has to go to the bathroom or\nshe'll wet herself!"
                             ]
                         },
                         {
@@ -6105,7 +5888,7 @@
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -6115,14 +5898,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "今はおしっこもしたいですし・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "飲むのはやめておきましょう。"
+                                "I also feel like peeing right now... Let's not drink any\nmore."
                             ]
                         },
                         {
@@ -6149,14 +5925,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ティーナは水を汲んで飲んだ！"
+                                "Tina drew water and drank it!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -6166,7 +5942,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "冷たくて美味しい・・・元気が出てきますね♪"
+                                "It's cold and tasty... It's refreshing♪"
                             ]
                         },
                         {
@@ -6195,14 +5971,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ティーナの体力は全回復した！"
+                                "Tina's health has been fully restored!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 7,
                                 0,
                                 2
@@ -6212,21 +5988,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "あっ・・・、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "なんだか少しおトイレに行きたくなって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "きちゃいましたね。"
+                                "Ah... I kind of feel like I need to go to the bathroom a\nlittle now."
                             ]
                         },
                         {
@@ -6255,14 +6017,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ティーナはおしっこがしたくなってしまった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "トイレに行かないとお漏らししてしまうぞ！"
+                                "Tina now needs to pee! She has to go to the bathroom or\nshe'll wet herself!"
                             ]
                         },
                         {
@@ -6677,7 +6432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一泊10\\Gになります。お泊まりになりますか？"
+                                "It will be 10G per night. Will you be staying?"
                             ]
                         },
                         {
@@ -6685,8 +6440,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 2
                             ]
@@ -6814,7 +6569,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "お金が足りません。"
+                                "You don't have enough money."
                             ]
                         },
                         {
@@ -6914,7 +6669,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -6924,7 +6679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たーるっ！"
+                                "It's dripping!"
                             ]
                         },
                         {
@@ -6991,7 +6746,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -7001,7 +6756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たーるっ！"
+                                "It's dripping!"
                             ]
                         },
                         {
@@ -7068,7 +6823,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -7078,7 +6833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たーるっ！"
+                                "It's dripping!"
                             ]
                         },
                         {
@@ -7145,7 +6900,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -7155,7 +6910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たーるっ！"
+                                "It's dripping!"
                             ]
                         },
                         {
@@ -7232,21 +6987,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お嬢ちゃん達や・・・もしサツマイモを持っていたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "焚火で焼き芋にすると甘くて美味しいぞぉ。"
+                                "Ladies... if you have sweet potatoes, roasting them over a\ncampfire makes them sweet and delicious."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -7256,21 +7004,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "焼き芋大好きー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どっかでサツマイモ買ってこよー！"
+                                "I love roasted sweet potatoes! Let's go buy some sweet\npotatoes somewhere!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -7280,7 +7021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "近くのお店で確か売ってましたね♪"
+                                "I'm pretty sure the nearby shop sells them♪"
                             ]
                         },
                         {
@@ -7355,7 +7096,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -7365,21 +7106,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "わぁ、焚火があるじゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ちょうどサツマイモを持ってるし焼き芋に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しちゃおうかな～♪"
+                                "Wow, there's a campfire! I happen to have some sweet\npotatoes, maybe I'll make some baked sweet potatoes~♪"
                             ]
                         },
                         {
@@ -7387,8 +7114,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -7428,7 +7155,7 @@
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -7438,28 +7165,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "はい、上手に焼けましたよぉ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "熱いので火傷しないように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "気を付けて持ってくださいね。"
+                                "Yes, they're nicely baked~♪ Be careful not to burn yourself,\nit's hot."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -7469,14 +7182,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "わぁ～い！ホクホクで美味しそう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ティーナちゃん、後で一緒に食べようね♪"
+                                "Yay~! They look fluffy and delicious! Tina-chan, let's eat\nthem together later♪"
                             ]
                         },
                         {
@@ -7505,7 +7211,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "焼き芋を手に入れた！"
+                                "Obtained Baked Sweet Potato!"
                             ]
                         },
                         {
@@ -7545,7 +7251,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -7555,14 +7261,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お、焚火があるじゃーん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "サツマイモがあったら焼き芋にしたいなー。"
+                                "Oh, there's a campfire. If I had some sweet potatoes, I'd\nwant to make baked sweet potatoes."
                             ]
                         },
                         {

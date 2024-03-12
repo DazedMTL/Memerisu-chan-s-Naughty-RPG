@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "道具屋",
+    "displayName": "Tool Shop",
     "encounterList": [],
     "encounterStep": 30,
     "height": 15,
@@ -2422,7 +2422,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -2432,21 +2432,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゲーマー的にツルハシを見ると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "素材集めをしたくなるよね。"
+                                "As a gamer, when I see a pickaxe, I get the urge to gather\nmaterials."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -2456,21 +2449,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わぁ、良いじゃないですか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "素材集めは運動になりますし健康的です。"
+                                "Wow, that's great! Gathering materials is good exercise and\nhealthy too."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -2480,21 +2466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "集めたくなるとは言ったけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "集めるとは言ってない・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "疲れるのはやだー！！"
+                                "I said it makes me want to gather them, not that I actually\ndo it... I don't want to get tired!!"
                             ]
                         },
                         {
@@ -2561,7 +2533,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -2571,14 +2543,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わぁ、色んな島が載っている地図がありますよ。"
+                                "Wow, there's a map with all sorts of islands on it."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 6,
                                 0,
                                 2
@@ -2588,14 +2560,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どれどれ・・・むむむっ！？"
+                                "Let me see... Hmmmm!?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -2605,14 +2577,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・ッ！！何かあったんですか！？"
+                                "...!! What's wrong!?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 1,
                                 0,
                                 2
@@ -2622,7 +2594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{エロマンガ島みーっけ！！"
+                                "I found it—Eromanga Island!!"
                             ]
                         },
                         {
@@ -2689,7 +2661,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -2699,14 +2671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スコップで岩を突いたらジュエルが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "飛び出して来たりしないかなー。"
+                                "I wonder if jewels will pop out if I poke the rocks with a\nshovel..."
                             ]
                         },
                         {

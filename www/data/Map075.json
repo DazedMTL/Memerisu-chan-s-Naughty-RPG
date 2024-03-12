@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ラスダン",
+    "displayName": "Final Dungeon",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -6237,7 +6237,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 6,
                                 0,
                                 2
@@ -6247,21 +6247,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おわっ！なんだこれ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "地面が宙に浮いてるー！？"
+                                "Whoa! What is this?! The ground is floating in mid-air-!?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -6271,21 +6264,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まさか・・・空飛ぶダンジョン！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな物が実在するなんて・・・。"
+                                "Could it be... a flying dungeon!? I can't believe such a\nthing actually exists..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -6295,21 +6281,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フフッ・・・天空のダンジョン、なるほどねっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさに真のお宝がありそうな場所じゃん♪"
+                                "Hehe... A dungeon in the sky, I see! This is exactly the\nkind of place you'd expect to find real treasure♪"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 1,
                                 0,
                                 2
@@ -6319,21 +6298,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここにお宝があるのは間違いない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さぁ、行こうぜー！！"
+                                "There's no doubt there's treasure here! Come on, let's go-!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -6343,7 +6315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスちゃん、待ってくださーい！！"
+                                "Memerisu-chan, wait for me-!!"
                             ]
                         },
                         {
@@ -6609,14 +6581,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "むっ、なんだお前らは？"
+                                "Hmm, who are you guys?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -6626,21 +6598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そっちこそなんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボク達はダンジョンのお宝に用があるんだから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこどいてー。"
+                                "Who are you to ask? We're here for the dungeon's treasure,\nso move aside."
                             ]
                         },
                         {
@@ -6657,14 +6615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なるほど、同業か・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪いが俺達もこのダンジョンのお宝が目的だ。"
+                                "I see, fellow adventurers... Sorry, but we're also after the\ndungeon's treasure."
                             ]
                         },
                         {
@@ -6681,21 +6632,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "恨みはないが目的が同じなら・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここで排除しておかないとな！！"
+                                "No hard feelings, but if our goals are the same... we'll\nhave to eliminate you here!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -6705,21 +6649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだとー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボクとティーナちゃんの黄金コンビに勝てると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思ってんの！理解らせてやる！！"
+                                "What did you say?! You think you can beat the golden duo of\nme and Tina-chan?! I'll make you understand!!"
                             ]
                         },
                         {
@@ -6741,7 +6671,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -6751,14 +6681,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "人数が多いだけじゃボク達には勝てないよーだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "へっへ～ん♪"
+                                "Just having more people won't be enough to beat us! Heh-heh-\nheh♪"
                             ]
                         },
                         {
@@ -6775,21 +6698,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "負けは負けだ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "俺達はここのお宝は諦めるぜ・・・。"
+                                "We lost fair and square... We'll give up on the treasure\nhere..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -6799,14 +6715,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うんうん、良い判断だよ！"
+                                "Yeah, that's a wise decision!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 6,
                                 0,
                                 2
@@ -6816,21 +6732,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ところでさ～、ダンジョンで負けた冒険者が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どうなるかは・・・言わなくても分かるよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ん？"
+                                "By the way, you know what happens to adventurers who lose in\nthe dungeon... right? Hm?"
                             ]
                         },
                         {
@@ -6847,14 +6749,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "くっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こ、これで見逃してくれっ・・・！！"
+                                "Damn it...!! Please, let us go with this...!!"
                             ]
                         },
                         {
@@ -6892,14 +6787,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "10000ジュエルを貰った！！"
+                                "Gained 10000 jewels!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -6909,28 +6804,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いやぁ～、危険なダンジョンに挑む同業を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "応援する冒険者の鑑だねぇ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それでこそ男や！！"
+                                "Wow~, supporting fellow adventurers who dare to challenge\ndangerous dungeons is truly exemplary! That's what being a\nman is all about!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 4,
                                 0,
                                 2
@@ -6940,14 +6821,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "（私は何も見てません・・・そういう事にして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おきましょう・・・。）"
+                                "(I didn't see anything... Let's just pretend that's the\ncase...)"
                             ]
                         },
                         {
@@ -6983,7 +6857,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 0,
                                 0,
                                 2
@@ -6993,21 +6867,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐわああああああああああああああ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "負けたあああああああああ！！！"
+                                "Gwaaaaaaaah!!! We lost aaaaaah!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -7017,14 +6884,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "うぅ・・・この冒険者さん達人数が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "多すぎますっ・・・！！"
+                                "Ugh... There are too many of these adventurers...!!"
                             ]
                         },
                         {
@@ -7041,7 +6901,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "戦いは数なんだよなぁ、嬢ちゃん達。"
+                                "The battle is all about numbers, ladies."
                             ]
                         },
                         {
@@ -7058,21 +6918,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ところでさ～、ダンジョンで負けた冒険者がどうなるか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・言わなくても分かるよね？ん？"
+                                "By the way, you know what happens to adventurers who lose in\nthe dungeon... right? Hm?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -7082,7 +6935,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・ッ！？ま、まさかっ・・・！！"
+                                "...Huh?! No way...!!"
                             ]
                         },
                         {
@@ -7099,14 +6952,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おい！お前ら！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こいつらを引ん剥いてやれっ！"
+                                "Hey! You guys! Strip them down!"
                             ]
                         },
                         {
@@ -7128,21 +6974,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -7192,14 +7024,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "戦いに負けた2人の衣類を引ん剥いて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "冒険者達はガッチガチに勃起したチンコを向ける・・・！！"
+                                "The defeated adventurers' clothes were stripped off, and the\nadventurers pointed their rock-hard cocks at them...!!"
                             ]
                         },
                         {
@@ -7216,14 +7041,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{くそっ！やめろっ！はなせっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "はーなーせーっ！！"
+                                "\\c[31]Damn it! Stop it! Let go! Le-t-go!!"
                             ]
                         },
                         {
@@ -7240,14 +7058,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{やめてくださいっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どうしてこんなことをするんですかっ！"
+                                "\\c[17]Please stop! Why are you doing this?!"
                             ]
                         },
                         {
@@ -7264,14 +7075,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "へへっ！男だけのむさ苦しいパーティーだからよぉ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "全員溜まりに溜まってんだよ！"
+                                "Heh heh! It's because it's a stinky all-male party!!\nEveryone's been holding it in!"
                             ]
                         },
                         {
@@ -7288,14 +7092,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ダンジョンで敗北した冒険者はこういう目に遭うって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "分かって冒険者をしてるんだろ？文句を言うなって！"
+                                "You knew that defeated adventurers in the dungeon would end\nup like this, right? Don't complain!"
                             ]
                         },
                         {
@@ -7312,14 +7109,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{何が溜まってるだッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "男同士でヤッてればいいだろっ！ばーか！"
+                                "\\c[31]What do you mean 'holding it in'?! Just do it with each\nother, idiots!"
                             ]
                         },
                         {
@@ -7336,14 +7126,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{そうですよっ！男同士で冒険してて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何も起きないはずがありません！"
+                                "\\c[17]That's right! It's impossible for nothing to happen when men\nadventure together!"
                             ]
                         },
                         {
@@ -7360,14 +7143,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "起きてたまるかっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "うるせぇ嬢ちゃん達だ、さっさと挿入れちまうか。"
+                                "Like hell we're holding it in! You noisy girls, let's just\nget on with it."
                             ]
                         },
                         {
@@ -7422,14 +7198,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ズプっ♥ズプププププッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ドチュンッ♥♥♥"
+                                "\\c[27]Zup♥ Zupppppp♥ Dochun♥♥♥"
                             ]
                         },
                         {
@@ -7446,14 +7215,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{んひぃっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "チ、チンコ挿入って・・・！？"
+                                "\\c[31]Nhii♥ A cock is going in...!?"
                             ]
                         },
                         {
@@ -7470,14 +7232,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{\\{ッッ・・・ぁあっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ほ、本当に挿入れるなんてっ！！"
+                                "\\c[17]Ahh♥ To actually put it in...!!"
                             ]
                         },
                         {
@@ -7494,21 +7249,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "へっ、カマトトぶってんじゃねぇよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "俺達にあっさり負けちまうんだ、どうせ今までにも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ダンジョンで敗北して犯されてきてんだろっ！"
+                                "Heh, don't play innocent! You lost to us so easily; you\nmust've been defeated and fucked in dungeons before!"
                             ]
                         },
                         {
@@ -7525,14 +7266,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{そ、そんなことっ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "んっ・・・ッッ・・・はぁっ・・・♥"
+                                "\\c[17]That's not true...! Nngh... Ahh...♥"
                             ]
                         },
                         {
@@ -7549,14 +7283,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "挿入れられただけでその反応・・・、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "随分な好き者なようだな！"
+                                "Just from being penetrated, you react like that... You seem\nto be quite the enthusiast!"
                             ]
                         },
                         {
@@ -7573,21 +7300,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]ちくしょうっ・・・好き勝手言って・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\{\\{\\{んっぉおおおお゛♥♥♥"
+                                "\\c[31]Damn it... Saying whatever you want... Nnghooooo♥♥♥"
                             ]
                         },
                         {
@@ -7644,14 +7357,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュンッ♥ドチュンッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ドチュンッ♥ドチュンッ♥"
+                                "\\c[27]Dochun♥ Dochun♥ Dochun♥ Dochun♥"
                             ]
                         },
                         {
@@ -7668,14 +7374,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{急にそんな動いてっ・・・あっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "はっ・・・ふーっ♥ふーっ♥"
+                                "\\c[31]Moving so suddenly... Ah♥ Ha... Fuu♥ Fuu♥"
                             ]
                         },
                         {
@@ -7692,14 +7391,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{胸までっあぁんっ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オチンポ様ッ・・・激しいですっ♥"
+                                "\\c[17]To my breasts... Ahnn♥ Your cock is so intense♥"
                             ]
                         },
                         {
@@ -7716,21 +7408,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "チンコ突っ込まれたらすぐ喘ぎやがって！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "女二人で冒険するなんて、ダンジョンで魔物や野盗にでも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "犯されたい願望を持つ変態女だって事ぐらいすぐ分かんだよ！"
+                                "Moaning as soon as a cock is shoved in! Adventuring as two\nwomen, you must be perverted girls with a desire to be raped\nby monsters or bandits in the dungeon!"
                             ]
                         },
                         {
@@ -7764,14 +7442,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュンッ♥ドチュンッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ドチュンッ♥ドチュンッ♥"
+                                "\\c[27]Dochun♥ Dochun♥ Dochun♥ Dochun♥"
                             ]
                         },
                         {
@@ -7788,14 +7459,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{んっ♥誰がっ・・・変態女だっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・ッッ、はぁっ、くそっ・・・♥"
+                                "\\c[31]Ugh♥ Who's... a pervert woman♥... Hah, damn it...♥"
                             ]
                         },
                         {
@@ -7812,14 +7476,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "貧相な体の割にはマンコの具合はいいじゃねぇか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あと太もものがムチムチで触り心地がいいな！"
+                                "For such a slender body, your pussy feels pretty good. Plus,\nyour thighs are nice and plump to the touch!"
                             ]
                         },
                         {
@@ -7836,21 +7493,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メメリスを犯している冒険者は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "腰を動かしながら太ももを揉んだり、お尻の穴を弄ったり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "してくる・・・！！"
+                                "The adventurer fucking Memerisu moves his hips while\nkneading her thighs and playing with her butt hole...!!"
                             ]
                         },
                         {
@@ -7884,14 +7527,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{ちょっ、太もも触るのやめっ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お尻の穴広げるなぁっ・・・！！"
+                                "\\c[31]Hey, stop touching my thighs...! Don't spread my ass hole\nlike that...!!"
                             ]
                         },
                         {
@@ -7908,14 +7544,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こっちの胸のデカい子もすげぇぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "デカすぎて手の中に収まりきらねぇ！！"
+                                "This one with the big tits is amazing too! They're so huge\nthey don't even fit in my hands!!"
                             ]
                         },
                         {
@@ -7932,21 +7561,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ティーナを犯す冒険者も腰を振りながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "大きな胸を鷲掴み餅のようにこねくり回して感触を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "楽しんでいる・・・！！"
+                                "The adventurer fucking Tina also swings his hips while\ngrabbing her large breasts and kneading them like mochi,\nenjoying the sensation...!!"
                             ]
                         },
                         {
@@ -7963,14 +7578,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]そんなに揉まないでっ・・・アッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "乳首コリコリされるのっ・・・気持ちいっ♥"
+                                "\\c[17]Don't knead them so much... Ah♥ My nipples are getting\nflicked... It feels good♥"
                             ]
                         },
                         {
@@ -8004,14 +7612,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュンッ♥ドチュンッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "シコッ♥シコッ♥シコッ♥シコ♥"
+                                "\\c[27]Dochun♥ Dochun♥ Shiko♥ Shiko♥ Shiko♥ Shiko♥"
                             ]
                         },
                         {
@@ -8028,14 +7629,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "はぁはぁ・・・♥くそ、俺達にも早く回せよなっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "我慢できねぇ・・・1発ぶっかけてやるか・・・！！"
+                                "Hah hah...♥ Damn, hurry up and pass them around! I can't\nwait... Maybe I'll just shoot one off...!!"
                             ]
                         },
                         {
@@ -8052,14 +7646,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "周りで順番を待っている冒険者達は我慢汁を垂らしながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "激しくシコり始める・・・！！"
+                                "The adventurers waiting their turn start jerking off\nfuriously while dripping with pre-cum...!!"
                             ]
                         },
                         {
@@ -8076,14 +7663,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "くっ・・・！！そろそろ限界だっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "中に射精すぞっ！！"
+                                "Guh...!! I'm reaching my limit! I'm going to cum inside!!"
                             ]
                         },
                         {
@@ -8187,14 +7767,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ドピュッ♥ドピュルルルルッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ビュルルルルルルルルッ♥♥♥"
+                                "\\c[27]Dopyu♥ Dopyururururu♥ Byurururururururu♥♥♥"
                             ]
                         },
                         {
@@ -8211,14 +7784,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{お゛っ゛♥イクッ♥ザーメン中出しされ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ながらぶっかけられてイクゥウウ♥♥♥"
+                                "\\c[31]Ah♥ I'm cumming♥ Getting creampied and splattered with cum\nat the same time, I'm cumminggg♥♥♥"
                             ]
                         },
                         {
@@ -8235,14 +7801,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "冒険者達が一斉に射精し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "中も外も白濁に染め上げていく・・・！！"
+                                "The adventurers ejaculate all at once, staining both inside\nand out with their milky release...!!"
                             ]
                         },
                         {
@@ -8271,14 +7830,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{ドピュッ♥ドピュッ♥ドピュッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ビュルッ♥ビュルッ♥ビュクッ♥"
+                                "\\c[27]Dopyu♥ Dopyu♥ Dopyu♥ Byuru♥ Byuru♥ Byuku♥"
                             ]
                         },
                         {
@@ -8295,14 +7847,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{凄い射精されてますっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "子宮にドクドクッって・・・たくさんっ♥"
+                                "\\c[17]Such an amazing ejaculation♥ It's pulsing in my womb... so\nmuch♥"
                             ]
                         },
                         {
@@ -8319,14 +7864,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "オラッ！マンコ締めて精液搾れっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "クソザコ冒険者マンコの中に全部出してやるからなっ！！！"
+                                "Come on! Squeeze that pussy and milk out the semen...!! You\nshitty adventurer pussies, I'll release it all inside you!!"
                             ]
                         },
                         {
@@ -8355,14 +7893,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{ビュルッ♥ビュルッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ドクッ♥ドクッ♥ドクッ・・・ッッ♥"
+                                "\\c[27]Byuru♥ Byuru♥ Doku♥ Doku♥ Doku...♥"
                             ]
                         },
                         {
@@ -8400,14 +7931,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]はぁ・・・♥はぁ・・・♥全身ザーメンまみれでくっさ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こんなに射精すなんてっ・・・はぁ・・・♥はぁ・・・♥"
+                                "\\c[31]Hah...♥ Hah...♥ Covered in cum all over, it stinks♥ To\nejaculate this much... Hah...♥ Hah...♥"
                             ]
                         },
                         {
@@ -8424,14 +7948,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]オチンポ様のザーメン溢れて凄いです・・・ッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "はぁ・・・もっと・・・もっとほしいっ・・・♥"
+                                "\\c[17]The cock's semen is overflowing, it's amazing...♥ Hah... I\nwant more... more of it...♥"
                             ]
                         },
                         {
@@ -8448,21 +7965,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "中出しされながら全身にザーメンを浴び、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "すっかり発情してメスの顔を晒してしまう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "メメリスとティーナ・・・！！"
+                                "Getting creampied while being showered with cum all over\ntheir bodies, Memerisu and Tina completely expose their\naroused female faces...!!"
                             ]
                         },
                         {
@@ -8479,14 +7982,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "へっ、すっかりメスの顔しやがって・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "やっぱり犯されるのが大好きな変態冒険者じゃねぇか。"
+                                "Heh, you're totally showing a female's face now... You\nreally are perverted adventurers who love getting fucked."
                             ]
                         },
                         {
@@ -8503,14 +7999,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ご希望通り俺の仲間達が待ってるからな、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "存分にヤらせてもらうから覚悟しな・・・！！"
+                                "Just as you wished, my buddies are waiting, so brace\nyourself because we're going to enjoy this to the\nfullest...!!"
                             ]
                         },
                         {
@@ -8527,14 +8016,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]はぁ・・・♥はぁ・・・♥いいよぉ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "チンコなんかにボクは負けないッ♥"
+                                "\\c[31]Hah...♥ Hah...♥ It's okay♥ I won't lose to a cock♥"
                             ]
                         },
                         {
@@ -8551,14 +8033,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]たくさんのオチンポ様・・・ゴクリッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私もオチンポ様には負けませんよっ・・・♥"
+                                "\\c[17]Lots of cocks... Gulp♥ I won't lose to cocks either...♥"
                             ]
                         },
                         {
@@ -8603,14 +8078,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ズプっ♥ズプププププッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\{ドチュンッ♥♥♥"
+                                "\\c[27]Zup♥ Zupupupupu♥ Dochun♥♥♥"
                             ]
                         },
                         {
@@ -8639,14 +8107,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{んほおぉおおおおおお゛っ♥♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]んほおぉおおおおおお゛っ♥♥♥"
+                                "\\c[31]Nhooooooohhhhhhhhhhhhhh♥♥♥\\c[17]Nhooooooohhhhhhhhhhhhhh♥♥♥"
                             ]
                         },
                         {
@@ -8663,14 +8124,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メメリスとティーナは冒険者達全員が満足するまで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "犯され続けた・・・。"
+                                "Memerisu and Tina were fucked by all the adventurers until\nthey were completely satisfied..."
                             ]
                         },
                         {
@@ -8697,21 +8151,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -8830,7 +8270,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 6,
                                 0,
                                 2
@@ -8840,7 +8280,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・はっ！？夢か！！"
+                                "...Huh!? A dream?!!"
                             ]
                         },
                         {
@@ -9744,7 +9184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダンジョンの階層をワープしますか？"
+                                "Would you like to warp to a different floor of the dungeon?"
                             ]
                         },
                         {
@@ -9752,8 +9192,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9774,8 +9214,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "1層目ボス前",
-                                    "やめておく"
+                                    "Before the first floor boss",
+                                    "Stop it"
                                 ],
                                 1,
                                 0,
@@ -9926,7 +9366,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダンジョンの階層をワープしますか？"
+                                "Would you like to warp to a different floor of the dungeon?"
                             ]
                         },
                         {
@@ -9934,8 +9374,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -9956,9 +9396,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "1層目ボス前",
-                                    "2層目ボス前",
-                                    "やめておく"
+                                    "Before the first floor boss",
+                                    "Before the second floor boss",
+                                    "Decide not to"
                                 ],
                                 2,
                                 0,
@@ -10146,7 +9586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダンジョンの階層をワープしますか？"
+                                "Would you like to warp to a different floor of the dungeon?"
                             ]
                         },
                         {
@@ -10154,8 +9594,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10176,10 +9616,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "1層目ボス前",
-                                    "2層目ボス前",
-                                    "3層目ボス前",
-                                    "やめておく"
+                                    "Before the first layer boss",
+                                    "Before the second layer boss",
+                                    "Before the third layer boss",
+                                    "Decide not to"
                                 ],
                                 3,
                                 0,
@@ -10404,7 +9844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダンジョンの階層をワープしますか？"
+                                "Would you like to warp to a different floor of the dungeon?"
                             ]
                         },
                         {
@@ -10412,8 +9852,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10434,11 +9874,11 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "1層目ボス前",
-                                    "2層目ボス前",
-                                    "3層目ボス前",
-                                    "ラスボス前",
-                                    "やめておく"
+                                    "Before the first layer boss",
+                                    "Before the second layer boss",
+                                    "Before the third layer boss",
+                                    "Before the final boss",
+                                    "Decide not to"
                                 ],
                                 4,
                                 0,
@@ -10709,14 +10149,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "冒険者と再戦しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（敗北してもエロステはカウントされません）"
+                                "Do you wish to rematch the adventurer? (Losing will not\ncount towards your Eros Score)"
                             ]
                         },
                         {
@@ -10724,8 +10157,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10780,7 +10213,7 @@
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 0,
                                 0,
                                 2
@@ -10790,21 +10223,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ぐわああああああああああああああ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "負けたあああああああああ！！！"
+                                "Gwaaaaaaaah!!! I lost!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -10814,14 +10240,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "うぅ・・・この冒険者さん達人数が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "多すぎますっ・・・！！"
+                                "Ugh... There are too many of these adventurers...!!"
                             ]
                         },
                         {
@@ -10838,7 +10257,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "戦いは数なんだよなぁ、嬢ちゃん達。"
+                                "The battle is all about numbers, ladies."
                             ]
                         },
                         {
@@ -10855,21 +10274,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ところでさ～、ダンジョンで負けた冒険者がどうなるか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・言わなくても分かるよね？ん？"
+                                "By the way, you know what happens to adventurers who lose in\nthe dungeon, right? You get it, huh?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -10879,7 +10291,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "・・・ッ！？ま、まさかっ・・・！！"
+                                "...!? No way...!!"
                             ]
                         },
                         {
@@ -10896,14 +10308,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おい！お前ら！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "こいつらを引ん剥いてやれっ！"
+                                "Hey! You guys! Strip them down!"
                             ]
                         },
                         {
@@ -10925,21 +10330,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -10989,14 +10380,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "戦いに負けた2人の衣類を引ん剥いて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "冒険者達はガッチガチに勃起したチンコを向ける・・・！！"
+                                "Having lost the battle, the two adventurers are stripped of\ntheir clothes as the adventurers point their rock-hard cocks\nat them...!!"
                             ]
                         },
                         {
@@ -11013,14 +10397,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{くそっ！やめろっ！はなせっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "はーなーせーっ！！"
+                                "\\c[31]Damn it! Stop it! Let me go! Le-t me go!"
                             ]
                         },
                         {
@@ -11037,14 +10414,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{やめてくださいっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "どうしてこんなことをするんですかっ！"
+                                "\\c[17]Please stop! Why are you doing this?!"
                             ]
                         },
                         {
@@ -11061,14 +10431,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "へへっ！男だけのむさ苦しいパーティーだからよぉ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "全員溜まりに溜まってんだよ！"
+                                "Heh heh! It's because it's a stinky all-male party!!\nEveryone's been holding it in!"
                             ]
                         },
                         {
@@ -11085,14 +10448,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ダンジョンで敗北した冒険者はこういう目に遭うって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "分かって冒険者をしてるんだろ？文句を言うなって！"
+                                "You knew what you were getting into becoming adventurers and\nlosing in the dungeon, right? Don't complain!"
                             ]
                         },
                         {
@@ -11109,14 +10465,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{何が溜まってるだッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "男同士でヤッてればいいだろっ！ばーか！"
+                                "\\c[31]What's been held in?! Just do it with each other, idiots!"
                             ]
                         },
                         {
@@ -11133,14 +10482,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{そうですよっ！男同士で冒険してて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "何も起きないはずがありません！"
+                                "\\c[17]That's right! It's impossible for nothing to happen when men\nadventure together!"
                             ]
                         },
                         {
@@ -11157,14 +10499,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "起きてたまるかっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "うるせぇ嬢ちゃん達だ、さっさと挿入れちまうか。"
+                                "Like hell it doesn't! You noisy girls, let's just stick it\nin already."
                             ]
                         },
                         {
@@ -11219,14 +10554,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ズプっ♥ズプププププッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ドチュンッ♥♥♥"
+                                "\\c[27]Zup♥ Zupppppp♥ Dochun♥♥♥"
                             ]
                         },
                         {
@@ -11243,14 +10571,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{んひぃっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "チ、チンコ挿入って・・・！？"
+                                "\\c[31]Nhii♥ A cock is being inserted...!?"
                             ]
                         },
                         {
@@ -11267,14 +10588,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{\\{ッッ・・・ぁあっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ほ、本当に挿入れるなんてっ！！"
+                                "\\c[17]Ah♥ It's really being inserted!!"
                             ]
                         },
                         {
@@ -11291,21 +10605,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "へっ、カマトトぶってんじゃねぇよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "俺達にあっさり負けちまうんだ、どうせ今までにも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ダンジョンで敗北して犯されてきてんだろっ！"
+                                "Heh, don't play innocent! You easily lost to us, you've\nprobably been defeated and fucked in the dungeon before!"
                             ]
                         },
                         {
@@ -11322,14 +10622,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{そ、そんなことっ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "んっ・・・ッッ・・・はぁっ・・・♥"
+                                "\\c[17]That's not...! Nn... Ah...♥"
                             ]
                         },
                         {
@@ -11346,14 +10639,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "挿入れられただけでその反応・・・、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "随分な好き者なようだな！"
+                                "Just from being penetrated, you react like this... You seem\nto be quite the enthusiast!"
                             ]
                         },
                         {
@@ -11370,21 +10656,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]ちくしょうっ・・・好き勝手言って・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\{\\{\\{んっぉおおおお゛♥♥♥"
+                                "\\c[31]Damn it... saying whatever you want... Nnnooo♥♥♥"
                             ]
                         },
                         {
@@ -11441,14 +10713,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュンッ♥ドチュンッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ドチュンッ♥ドチュンッ♥"
+                                "\\c[27]Dochun♥ Dochun♥ Dochun♥ Dochun♥"
                             ]
                         },
                         {
@@ -11465,14 +10730,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{急にそんな動いてっ・・・あっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "はっ・・・ふーっ♥ふーっ♥"
+                                "\\c[31]Moving so suddenly... Ah♥ Ha... Fuu♥ Fuu♥"
                             ]
                         },
                         {
@@ -11489,14 +10747,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{胸までっあぁんっ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "オチンポ様ッ・・・激しいですっ♥"
+                                "\\c[17]All the way to my breasts... Ahnn♥ Your cock is so intense♥"
                             ]
                         },
                         {
@@ -11513,21 +10764,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "チンコ突っ込まれたらすぐ喘ぎやがって！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "女二人で冒険するなんて、ダンジョンで魔物や野盗にでも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "犯されたい願望を持つ変態女だって事ぐらいすぐ分かんだよ！"
+                                "The moment a cock is thrust inside, you start moaning!\nAdventuring as two women, you're just perverted women who\nwant to be fucked by monsters or bandits in the dungeon!"
                             ]
                         },
                         {
@@ -11561,14 +10798,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュンッ♥ドチュンッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ドチュンッ♥ドチュンッ♥"
+                                "\\c[27]Dochun♥ Dochun♥ Dochun♥ Dochun♥"
                             ]
                         },
                         {
@@ -11585,14 +10815,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{んっ♥誰がっ・・・変態女だっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・ッッ、はぁっ、くそっ・・・♥"
+                                "\\c[31]Nn♥ Who's a... perverted woman♥... Ah, damn it...♥"
                             ]
                         },
                         {
@@ -11609,14 +10832,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "貧相な体の割にはマンコの具合はいいじゃねぇか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あと太もものがムチムチで触り心地がいいな！"
+                                "Your skinny body has a surprisingly good pussy. And those\nthighs are so plump and nice to touch!"
                             ]
                         },
                         {
@@ -11633,21 +10849,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "メメリスを犯している冒険者は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "腰を動かしながら太ももを揉んだり、お尻の穴を弄ったり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "してくる・・・！！"
+                                "The adventurer fucking Memerisu moves his hips while\nkneading her thighs and playing with her asshole...!!"
                             ]
                         },
                         {
@@ -11681,14 +10883,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{ちょっ、太もも触るのやめっ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お尻の穴広げるなぁっ・・・！！"
+                                "\\c[31]Hey, stop touching my thighs...! Don't spread my\nasshole...!!"
                             ]
                         },
                         {
@@ -11705,14 +10900,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "こっちの胸のデカい子もすげぇぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "デカすぎて手の中に収まりきらねぇ！！"
+                                "This girl with the big tits is amazing too! They're so big\nthey don't even fit in my hands!!"
                             ]
                         },
                         {
@@ -11729,21 +10917,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ティーナを犯す冒険者も腰を振りながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "大きな胸を鷲掴み餅のようにこねくり回して感触を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "楽しんでいる・・・！！"
+                                "The adventurer fucking Tina also swings his hips while\nkneading her large breasts like mochi, enjoying the\nsensation...!!"
                             ]
                         },
                         {
@@ -11760,14 +10934,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]そんなに揉まないでっ・・・アッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "乳首コリコリされるのっ・・・気持ちいっ♥"
+                                "\\c[17]Don't knead them so much... Ah♥ My nipples are getting\nflicked... It feels good♥"
                             ]
                         },
                         {
@@ -11801,14 +10968,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュンッ♥ドチュンッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "シコッ♥シコッ♥シコッ♥シコ♥"
+                                "\\c[27]Dochun♥ Dochun♥ Shiko♥ Shiko♥ Shiko♥ Shiko♥"
                             ]
                         },
                         {
@@ -11825,14 +10985,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "はぁはぁ・・・♥くそ、俺達にも早く回せよなっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "我慢できねぇ・・・1発ぶっかけてやるか・・・！！"
+                                "Hah hah...♥ Damn, hurry up and pass them around! I can't\ntake it anymore... Maybe I'll just cum on them...!!"
                             ]
                         },
                         {
@@ -11849,14 +11002,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "周りで順番を待っている冒険者達は我慢汁を垂らしながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "激しくシコり始める・・・！！"
+                                "The adventurers waiting their turn start jerking off\nfuriously while dripping with pre-cum...!!"
                             ]
                         },
                         {
@@ -11873,14 +11019,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "くっ・・・！！そろそろ限界だっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "中に射精すぞっ！！"
+                                "Fuck...!! I'm reaching my limit! I'm going to cum inside!"
                             ]
                         },
                         {
@@ -11984,14 +11123,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ドピュッ♥ドピュルルルルッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ビュルルルルルルルルッ♥♥♥"
+                                "\\c[27]Dopyu♥ Dopyururururu♥ Byurururururururu♥♥♥"
                             ]
                         },
                         {
@@ -12008,14 +11140,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{お゛っ゛♥イクッ♥ザーメン中出しされ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ながらぶっかけられてイクゥウウ♥♥♥"
+                                "\\c[31]Ah♥ I'm cumming♥ Getting creampied and splattered with cum\nat the same time... I'm cumming♥♥♥"
                             ]
                         },
                         {
@@ -12032,14 +11157,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "冒険者達が一斉に射精し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "中も外も白濁に染め上げていく・・・！！"
+                                "The adventurers ejaculate all at once, staining both inside\nand out with their milky white seed...!!"
                             ]
                         },
                         {
@@ -12068,14 +11186,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{ドピュッ♥ドピュッ♥ドピュッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ビュルッ♥ビュルッ♥ビュクッ♥"
+                                "\\c[27]Dopyu♥ Dopyu♥ Dopyu♥ Byuru♥ Byuru♥ Byuku♥"
                             ]
                         },
                         {
@@ -12092,14 +11203,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{凄い射精されてますっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "子宮にドクドクッって・・・たくさんっ♥"
+                                "\\c[17]Getting cummed in so much♥ It's pulsing inside my womb... so\nmuch♥"
                             ]
                         },
                         {
@@ -12116,14 +11220,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "オラッ！マンコ締めて精液搾れっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "クソザコ冒険者マンコの中に全部出してやるからなっ！！！"
+                                "Hey! Squeeze that pussy and milk out the semen...!! I'm\ngoing to release it all inside this worthless adventurer's\npussy!!!!"
                             ]
                         },
                         {
@@ -12152,14 +11249,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{ビュルッ♥ビュルッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ドクッ♥ドクッ♥ドクッ・・・ッッ♥"
+                                "\\c[27]Byuru♥ Byuru♥ Doku♥ Doku♥ Doku...♥"
                             ]
                         },
                         {
@@ -12197,14 +11287,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]はぁ・・・♥はぁ・・・♥全身ザーメンまみれでくっさ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "こんなに射精すなんてっ・・・はぁ・・・♥はぁ・・・♥"
+                                "\\c[31]Ah...♥ Ah...♥ Covered in cum from head to toe, it stinks♥ To\nejaculate this much... Ah...♥ Ah...♥"
                             ]
                         },
                         {
@@ -12221,14 +11304,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]オチンポ様のザーメン溢れて凄いです・・・ッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "はぁ・・・もっと・・・もっとほしいっ・・・♥"
+                                "\\c[17]The cock's cum is overflowing, it's amazing...♥ Ah... I want\nmore... more of it...♥"
                             ]
                         },
                         {
@@ -12245,21 +11321,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "中出しされながら全身にザーメンを浴び、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "すっかり発情してメスの顔を晒してしまう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "メメリスとティーナ・・・！！"
+                                "While being creampied and showered with cum all over,\nMemerisu and Tina completely expose their aroused, female\nfaces...!!"
                             ]
                         },
                         {
@@ -12276,14 +11338,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "へっ、すっかりメスの顔しやがって・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "やっぱり犯されるのが大好きな変態冒険者じゃねぇか。"
+                                "Heh, you're completely showing your female face... You're\njust a perverted adventurer who loves getting fucked, aren't\nyou."
                             ]
                         },
                         {
@@ -12300,14 +11355,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ご希望通り俺の仲間達が待ってるからな、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "存分にヤらせてもらうから覚悟しな・・・！！"
+                                "Just as you wished, my buddies are waiting, so brace\nyourself... We're going to fuck you to our heart's content!!"
                             ]
                         },
                         {
@@ -12324,14 +11372,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]はぁ・・・♥はぁ・・・♥いいよぉ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "チンコなんかにボクは負けないッ♥"
+                                "\\c[31]Ah...♥ Ah...♥ That's fine♥ I won't lose to a cock♥"
                             ]
                         },
                         {
@@ -12348,14 +11389,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]たくさんのオチンポ様・・・ゴクリッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "私もオチンポ様には負けませんよっ・・・♥"
+                                "\\c[17]Lots of cocks... Gulp♥ I won't lose to cocks either...♥"
                             ]
                         },
                         {
@@ -12400,14 +11434,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ズプっ♥ズプププププッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\{ドチュンッ♥♥♥"
+                                "\\c[27]Zup♥ Zupppppp♥ Dochun♥♥♥"
                             ]
                         },
                         {
@@ -12436,14 +11463,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{んほおぉおおおおおお゛っ♥♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\c[17]んほおぉおおおおおお゛っ♥♥♥"
+                                "\\c[31]Nhooohhhhhhhh♥♥♥\\c[17]Nhooohhhhhhhh♥♥♥"
                             ]
                         },
                         {
@@ -12460,14 +11480,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "メメリスとティーナは冒険者達全員が満足するまで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "犯され続けた・・・。"
+                                "Memerisu and Tina continued to be fucked by the adventurers\nuntil every single one was satisfied..."
                             ]
                         },
                         {
@@ -12494,21 +11507,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {

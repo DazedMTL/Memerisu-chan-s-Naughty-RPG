@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "トイレ",
+    "displayName": "Toilet",
     "encounterList": [],
     "encounterStep": 30,
     "height": 10,
@@ -523,14 +523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "トイレがあります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おしっこをしていきますか？"
+                                "Is there a toilet? Would you like to go pee?"
                             ]
                         },
                         {
@@ -538,8 +531,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -658,7 +651,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "スッキリしました！"
+                                "I feel refreshed!"
                             ]
                         },
                         {

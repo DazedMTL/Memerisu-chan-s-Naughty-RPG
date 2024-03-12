@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "廃墟",
+    "displayName": "Ruins",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -1489,21 +1489,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ？なんだこのガキ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんか用かよ。"
+                                "Huh? What's with this brat... Got something you want?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -1513,14 +1506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この盗人野郎が！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "盗んだ魔道書を返せー！"
+                                "This thieving bastard! Return the stolen grimoire!"
                             ]
                         },
                         {
@@ -1537,28 +1523,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちっ！あの魔道書の持ち主の差し金かっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だが、テメ―のようなガキ相手ならボコってから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "逃げれば良いだけだよなぁ！！"
+                                "Tch! So you're a stooge for the grimoire's owner, huh? But\nif it's just a brat like you, I can beat you up and then\nescape easily!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -1568,14 +1540,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひぇ！来ますよ、メメリスちゃん！？"
+                                "Eek! Here it comes, Memerisu-chan!?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -1585,7 +1557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やってやらあああああ！！！"
+                                "I'm gonna do itttttttt!!!"
                             ]
                         },
                         {
@@ -1617,21 +1589,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "くっ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まさかこの俺がこんなガキに負けるとは・・・！！"
+                                "Damn... to think I'd lose to a brat like this...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 1,
                                 0,
                                 2
@@ -1641,28 +1606,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ザッコｗｗｗｗｗｗｗｗ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "よくそんなんでゴロツキとか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "やってられたねｗｗｗｗ"
+                                "You're so weak, LOL! How could you even survive as a thug,\nLOL!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 1,
                                 0,
                                 2
@@ -1672,14 +1623,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ほれほれ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "さっさと盗んだ魔道書を返してね。"
+                                "Come on, hurry up and return the stolen grimoire."
                             ]
                         },
                         {
@@ -1696,14 +1640,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・ここにはねぇーよ。"
+                                "...It ain't here."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -1713,7 +1657,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・は？今なんて？"
+                                "...Huh? What did you just say?"
                             ]
                         },
                         {
@@ -1730,21 +1674,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "魔道書は東にあるアジトにボスが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "持ち帰ったからここにはねぇーんだよ！"
+                                "The grimoire has been taken back to the hideout in the east\nby the boss, so it ain't here!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -1754,14 +1691,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そ、そんなー！？"
+                                "Wha- That can't be!?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -1771,21 +1708,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "これはアジトまで魔道書を取りに行くしか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なさそうですね・・・。"
+                                "Looks like we have no choice but to go to the hideout to\nretrieve the grimoire..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 0,
                                 0,
                                 2
@@ -1795,14 +1725,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おつかいのおつかいとか・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "めんどくさぁ～・・・。"
+                                "An errand on top of an errand... What a painnnn..."
                             ]
                         },
                         {
@@ -1838,7 +1761,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "へへっ！ガキが調子に乗るからだ！"
+                                "Heh heh! That's what you get for getting cocky, kid!"
                             ]
                         },
                         {
@@ -1925,7 +1848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔道書は東にあるアジトだって言ってんだろ！！"
+                                "The grimoire is in the hideout to the east, I'm telling\nyou!!"
                             ]
                         },
                         {
@@ -1993,14 +1916,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お前ら・・・ボスを倒しちまいやがったのか・・・？"
+                                "You guys... did you really defeat the boss...?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 1,
                                 0,
                                 2
@@ -2010,21 +1933,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ま、らくしょーだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "敗北を知りたい。ﾄﾞﾔｧ"
+                                "Well, it was a piece of cake. I wanted to experience defeat.\nTada!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -2034,14 +1950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すぐ調子に乗るんですから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実際はかなり危なかったですよ。"
+                                "You always get carried away so quickly... In reality, it was\nquite dangerous."
                             ]
                         },
                         {
@@ -2058,14 +1967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや、それでもボスを倒しちまうなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大したもんだ。"
+                                "No, still, to defeat the boss is quite an achievement."
                             ]
                         },
                         {
@@ -2082,14 +1984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "俺はこれを機に一から出直そうと思う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "礼も兼ねてこいつをやるよ。"
+                                "I think I'll take this opportunity to start over from\nscratch. As a token of my gratitude, I'll give you this."
                             ]
                         },
                         {
@@ -2118,7 +2013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しまむーの服を手に入れた！"
+                                "You've obtained the Shimamura clothes!"
                             ]
                         },
                         {
@@ -2136,7 +2031,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -2146,21 +2041,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こ、これは・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お母さまがよく通ってた店の服・・・！！"
+                                "Th-This is... the clothes from the store my mother used to\nfrequent...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -2170,14 +2058,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "安い上に多種多様な服がありますよね。"
+                                "They're cheap and they have a wide variety of clothes,\nright."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -2187,14 +2075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "な、謎ロゴが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "デカデカと刻み込んである・・・！！"
+                                "Wh-What's with this huge mystery logo emblazoned on it...!!"
                             ]
                         },
                         {
@@ -2271,7 +2152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "がんばれよー！"
+                                "Hang in there!"
                             ]
                         },
                         {
@@ -2583,7 +2464,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -2593,21 +2474,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんか面白そうな本はないかなぁっ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "って、むむっ！！"
+                                "I wonder if there's any interesting book around... Huh,\nwhat's this?!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -2617,14 +2491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うおおおお！！！古のエロ雑誌はっけーん！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "テンションあがるなぁー！！"
+                                "Whoa!!! I've discovered an ancient erotic magazine!! This is\nso exciting!!"
                             ]
                         },
                         {
@@ -2691,7 +2558,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -2701,21 +2568,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うげー・・・なんだろうこの家。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボロボロじゃん。"
+                                "Ugh... What's with this house? It's falling apart."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -2725,21 +2585,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう長いこと誰も住んでないのでしょうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "酷い荒れようですね。"
+                                "Has it been a long time since anyone lived here? It's\nterribly neglected."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -2749,14 +2602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まぁ、こういう廃墟って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "秘密基地みたいでワクワクするよね！"
+                                "Well, ruins like this are exciting, like a secret base!"
                             ]
                         },
                         {
@@ -2823,7 +2669,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -2833,21 +2679,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うげー・・・なんだろうこの家。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボロボロじゃん。"
+                                "Ugh... What's with this house? It's falling apart."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -2857,21 +2696,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう長いこと誰も住んでないのでしょうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "酷い荒れようですね。"
+                                "Has it been a long time since anyone lived here? It's\nterribly neglected."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -2881,14 +2713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まぁ、こういう廃墟って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "秘密基地みたいでワクワクするよね！"
+                                "Well, ruins like this are exciting, like a secret base!"
                             ]
                         },
                         {
@@ -2955,7 +2780,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -2965,21 +2790,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんか面白そうな本はないかなぁっ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "って、むむっ！！"
+                                "I wonder if there's any interesting book around... Huh,\nwhat's this?!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -2989,14 +2807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うおおおお！！！古のエロ雑誌はっけーん！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "テンションあがるなぁー！！"
+                                "Whoa!!! I've discovered an ancient erotic magazine!! This is\nso exciting!!"
                             ]
                         },
                         {

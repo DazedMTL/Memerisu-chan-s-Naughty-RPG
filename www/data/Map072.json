@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ダンジョン",
+    "displayName": "Dungeon",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -4036,14 +4036,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ついにここまで来たようだな、メスガキ！"
+                                "It seems we've finally come this far, you little brat!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 6,
                                 0,
                                 2
@@ -4053,14 +4053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うげ、お前はこの前のオーク！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ懲りてなかったの～！"
+                                "Ugh, you're that orc from before!? You still haven't learned\nyour lesson~!"
                             ]
                         },
                         {
@@ -4077,14 +4070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "俺も以前戦った時より、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "より多く学びよく強く自らを鍛えてきた・・・！"
+                                "I've learned much more and trained myself to be stronger\nthan when we last fought...!"
                             ]
                         },
                         {
@@ -4101,28 +4087,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この戦いで俺が勝ったら・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{\\{\\{俺と結婚してもらうぞ！！"
+                                "If I win this battle... you'll have to marry me!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -4132,14 +4104,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・・・・・・・・・・・？"
+                                "...?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -4149,14 +4121,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{\\{え、ええええー！？"
+                                "Wha, whaaaaat-!?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 7,
                                 0,
                                 2
@@ -4166,7 +4138,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "な、なんて大胆な告白なんでしょうか・・・！！"
+                                "What a bold confession...!!"
                             ]
                         },
                         {
@@ -4183,14 +4155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "行くぞ、メスガキ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺の強さ・・・分からせてやる！！"
+                                "Let's go, you little brat! I'll make you understand my\nstrength!!"
                             ]
                         },
                         {
@@ -4212,7 +4177,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -4222,21 +4187,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ざぁ～こざぁ～こ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "よわよわオーク君、おっすおっす～！"
+                                "You're such a loser♥ Weak, weak orc-kun, hello hello~!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 1,
                                 0,
                                 2
@@ -4246,14 +4204,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "セクシーメメリスちゃんが負けるわけないだろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "出直してきな！！"
+                                "There's no way Sexy Memerisu-chan is going to lose! Go back\nand try again!!"
                             ]
                         },
                         {
@@ -4270,14 +4221,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "俺もまだまだか・・・だが俺は諦めない・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "再び鍛えて挑んでやる・・・！！"
+                                "I'm still not there yet... but I won't give up...!! I'll\ntrain again and challenge you...!!"
                             ]
                         },
                         {
@@ -4315,7 +4259,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -4325,14 +4269,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まったくなんなんだ、あいつは・・・。"
+                                "Seriously, what's with that guy..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -4342,14 +4286,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "愛です、愛ですよメメリスちゃん♪"
+                                "It's love, it's love, Memerisu-chan♪"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -4359,7 +4303,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\{\\{\\{うるさいやーい！"
+                                "Shut up already!"
                             ]
                         },
                         {
@@ -4376,7 +4320,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -4386,14 +4330,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐわあああああああああああ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ボクが負けるなんてー！！"
+                                "Gwaaaaaaaah!! I can't believe I'm losing-!!"
                             ]
                         },
                         {
@@ -4410,14 +4347,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "俺の勝ちだ・・・約束通り俺と結婚してもらうぞ！"
+                                "I win... As promised, you'll have to marry me!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -4427,7 +4364,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メ、メメリスちゃーん！"
+                                "Me, Memerisu-chan!"
                             ]
                         },
                         {
@@ -4472,21 +4409,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -4522,14 +4445,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あれから数か月、メメリスはオークに敗北してから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何度も抱かれ分からせられた・・・。"
+                                "Months later, after being defeated by the orc, Memerisu was\nembraced and taught many times..."
                             ]
                         },
                         {
@@ -4546,7 +4462,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そして今日はついに2人の結婚式を迎える・・・。"
+                                "And today is finally the day of their wedding..."
                             ]
                         },
                         {
@@ -4596,14 +4512,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]・・・どう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ボクのドレス姿、カワイイかな？"
+                                "\\c[31]...How do I look? Is my dress cute?"
                             ]
                         },
                         {
@@ -4620,7 +4529,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウェディングドレス・・・よく似合っているぞ。"
+                                "The wedding dress... suits you well."
                             ]
                         },
                         {
@@ -4637,7 +4546,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]う、うん・・・ありがとう♥"
+                                "\\c[31]Yeah... thank you♥"
                             ]
                         },
                         {
@@ -4654,7 +4563,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "さぁ、婚約の宣言をしろ。"
+                                "Come on, make the vow of engagement."
                             ]
                         },
                         {
@@ -4671,21 +4580,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "純白のドレスと婚約指輪を身に着けたメメリスは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ドレスの裾を自ら持ち上げおまんこを曝け出しながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "宣言する・・・。"
+                                "Dressed in a pure white gown and engagement ring, Memerisu\nlifts the hem of her dress herself and exposes her pussy as\nshe declares..."
                             ]
                         },
                         {
@@ -4702,14 +4597,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]ボクは旦那様のオークおちんぽにたくさん可愛がって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いただいてる卑しいメスガキマンコです・・・♥"
+                                "\\c[31]I am a shameful little brat pussy that has been lovingly\ncared for by my husband's orc dick...♥"
                             ]
                         },
                         {
@@ -4726,14 +4614,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]ボクのメスガキマンコで逞しい旦那様のおちんぽに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "永遠の愛とご奉仕を誓います・・・♥"
+                                "\\c[31]I vow eternal love and service to my husband's robust cock\nwith my little brat pussy...♥"
                             ]
                         },
                         {
@@ -4788,14 +4669,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{グググ・・・ズプゥ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ズッ！ドチュゥ！！！"
+                                "\\c[27]Gggg... Zupuu! Zuts! Dochuuu!!!"
                             ]
                         },
                         {
@@ -4812,14 +4686,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{\\{んほぉッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・ッッ♥♥♥"
+                                "\\c[31]Nhoooh!! ...♥♥♥"
                             ]
                         },
                         {
@@ -4836,14 +4703,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メメリスが婚約の宣言を終えた瞬間、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オークの逞しいおちんぽが挿入される・・・！！"
+                                "The moment Memerisu finishes her vow of engagement, the\norc's robust cock is inserted...!!"
                             ]
                         },
                         {
@@ -4860,14 +4720,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]んおっ・・・ォォッ・・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "旦那様のオークおちんぽぉ・・・今日もすっごい・・・♥"
+                                "\\c[31]Nhoo... Oohh...♥ My husband's orc dick... it's amazing today\ntoo...♥"
                             ]
                         },
                         {
@@ -4884,14 +4737,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "数か月前は挿入するだけでも大変だったオークおちんぽも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今ではすっかり卑らしく咥え込むメスガキマンコ・・・。"
+                                "The orc dick that was difficult to insert just a few months\nago is now completely engulfed by the depraved little brat\npussy..."
                             ]
                         },
                         {
@@ -4908,14 +4754,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ようやくお前を俺の物にできた・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今から完全に俺専用のメスガキマンコに仕上げてやる！！"
+                                "I've finally made you mine...!! Now I'll completely turn you\ninto my personal little brat pussy!!"
                             ]
                         },
                         {
@@ -4960,14 +4799,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ゴチュゥ！！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ズチュ！ズチュ！ズチュチュ！！"
+                                "\\c[27]Gochuuu!!!! Zuchu! Zuchu! Zuchuchu!!"
                             ]
                         },
                         {
@@ -4984,14 +4816,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "オークのピストンはメメリスのおまんこを完全に自分専用の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "メスガキマンコにするべく、今までで一番激しく突き上げる。"
+                                "Orc's piston thrusts are the most intense ever, completely\nturning Memerisu's pussy into his own personal little brat\npussy."
                             ]
                         },
                         {
@@ -5008,14 +4833,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{\\{～～～～～～～～～～～～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ッッッッッッ♥♥♥"
+                                "\\c[31]~~~~~~~~~~~~~~~~~~♥♥♥"
                             ]
                         },
                         {
@@ -5032,14 +4850,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ゴチュゥ！！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ズチュ！ズチュ！ズチュチュ！！"
+                                "\\c[27]Gochuuu!!!! Zuchu! Zuchu! Zuchuchu!!"
                             ]
                         },
                         {
@@ -5056,14 +4867,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{（オークおちんぽぉ！すっごい・・・ッッ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "！！しゅき♥しゅき♥しゅきぃ♥♥♥）"
+                                "\\c[31](Orc dick! It's amazing...♥ Love it♥ Love it♥ Love it♥♥♥)"
                             ]
                         },
                         {
@@ -5113,14 +4917,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{ボゴォ・・・ッ！♥グリュッ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ドチュッ・・・グリュリュ♥♥♥"
+                                "\\c[27]Bogooo...♥ Guryuu...♥ Dochuu... Guryuryu♥♥♥"
                             ]
                         },
                         {
@@ -5137,7 +4934,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "オークおちんぽがメメリスの子宮を激しく突き上げる・・・！"
+                                "The orc dick fiercely thrusts into Memerisu's womb...!"
                             ]
                         },
                         {
@@ -5154,14 +4951,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{お゛お゛ぉ゛～～～～♥♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オークおちんぽでイグゥッ♥♥♥"
+                                "\\c[31]Ahhh~♥♥♥ I'm cumming with the orc cock♥♥♥"
                             ]
                         },
                         {
@@ -5178,14 +4968,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あまりの衝撃と快感で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "身体をのけ反らせてしまうメメリス・・・！！"
+                                "Overwhelmed by the shock and pleasure, Memerisu arches her\nback...!!"
                             ]
                         },
                         {
@@ -5202,14 +4985,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\{イクッ！イクぞ！膣内射精してお前を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "孕ませる！"
+                                "I'm cumming! I'm going to ejaculate inside and impregnate\nyou!"
                             ]
                         },
                         {
@@ -5226,14 +5002,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "膣内で子宮とオークおちんぽが激しくウェディングキス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "かのように熱く密着し合い、膣内射精をしようと震えだす。"
+                                "The womb and orc cock cling to each other fiercely, like a\nwedding kiss, trembling as they prepare to ejaculate inside."
                             ]
                         },
                         {
@@ -5250,14 +5019,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\子宮とおちんぽがキスしちゃってる♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "逞しいおちんぽに誓いのキスして分からせられちゃう♥"
+                                "\\c[31]My womb and your cock are kissing♥ Your strong cock is\ngiving me a vow kiss, making me understand♥"
                             ]
                         },
                         {
@@ -5274,14 +5036,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{うん♥孕ませて♥オークの濃厚ザーメン♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オークおちんぽ♥しゅきぃ～～♥"
+                                "\\c[31]Yes♥ Impregnate me♥ With your rich orc semen♥ I love your\norc cock♥"
                             ]
                         },
                         {
@@ -5298,7 +5053,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\{\\{膣内に出すぞメメリスッッ！！"
+                                "I'm going to release inside you, Memerisu!!"
                             ]
                         },
                         {
@@ -5385,14 +5140,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{ドビュッ！！ビュルルルルッゥゥッッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ドピュピュピュゥゥッッ・・・！！♥♥♥"
+                                "\\c[27]Spurt!! Spurting vigorously!! Spurting...!!♥♥♥"
                             ]
                         },
                         {
@@ -5409,14 +5157,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{イクッ♥イクッ♥♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "イックゥウウウウウウウ♥♥♥"
+                                "\\c[31]I'm cumming♥ I'm cumming♥♥♥ Cummingggggg♥♥♥"
                             ]
                         },
                         {
@@ -5433,14 +5174,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "妊娠確定の濃厚ザーメンを膣内射精されながら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ウェディングアクメをキメるメメリス・・・！！"
+                                "As she's filled with pregnancy-confirming rich semen,\nMemerisu reaches a wedding climax...!!"
                             ]
                         },
                         {
@@ -5457,14 +5191,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{ビュクッ♥ビュルルッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ビュッ・・・ビュッ・・・♥♥♥"
+                                "\\c[27]Spurt♥ Spurting♥ Spurt... Spurt...♥♥♥"
                             ]
                         },
                         {
@@ -5481,14 +5208,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メメリスの子宮を満たしても止まらない射精により"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "精液が溢れ出してくる・・・！！"
+                                "As the ejaculation continues to fill Memerisu's womb without\nstopping, semen starts to overflow...!!"
                             ]
                         },
                         {
@@ -5505,14 +5225,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{ドプッ・・・♥ドプッ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ドプッ・・・♥ドプッ・・・♥"
+                                "\\c[27]Spurt...♥ Spurt...♥ Spurt...♥ Spurt...♥"
                             ]
                         },
                         {
@@ -5529,21 +5242,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]ア・・・アヘェ・・・いっぱい出してもらえて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それに初めて名前で呼ばれて・・・んっ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ボク・・・幸せぇ・・・♥"
+                                "\\c[31]Ah... Ahegao... I'm so happy to be filled up... and to be\ncalled by my name for the first time... Mmm... I'm so\nhappy...♥"
                             ]
                         },
                         {
@@ -5560,7 +5259,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "オーク専用のメスガキマンコになったメメリス・・・。"
+                                "Memerisu has become an orc-exclusive little brat pussy..."
                             ]
                         },
                         {
@@ -5577,14 +5276,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "しかし無断でオークのクレカを使いソシャゲ課金した事が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "バレて離婚するまで・・・残り100日。"
+                                "However, she has only 100 days left until divorce after\ngetting caught using the orc's credit card without\npermission for social game microtransactions."
                             ]
                         },
                         {
@@ -5606,21 +5298,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -5706,7 +5384,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 6,
                                 0,
                                 2
@@ -5716,7 +5394,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・はっ！？夢か！！"
+                                "...Huh!? It was a dream!!"
                             ]
                         },
                         {
@@ -5981,14 +5659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "覚悟したオーク君と再戦しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（敗北してもエロステはカウントされません）"
+                                "Would you like to rematch with Orc-kun, prepared for battle?\n(Losing will not count against your Eros Score)"
                             ]
                         },
                         {
@@ -5996,8 +5667,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -6052,7 +5723,7 @@
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -6062,14 +5733,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ぐわあああああああああああ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ボクが負けるなんてー！！"
+                                "Gwaaaaaaaah!! I can't believe I'm losing-!!"
                             ]
                         },
                         {
@@ -6086,14 +5750,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "俺の勝ちだ・・・約束通り俺と結婚してもらうぞ！"
+                                "It's my victory... As promised, you'll marry me!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -6103,7 +5767,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "メ、メメリスちゃーん！"
+                                "Me, Memerisu-chan!"
                             ]
                         },
                         {
@@ -6148,21 +5812,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -6198,14 +5848,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あれから数か月、メメリスはオークに敗北してから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "何度も抱かれ分からせられた・・・。"
+                                "Months after that, Memerisu was defeated by the Orc and\nembraced many times to be taught a lesson..."
                             ]
                         },
                         {
@@ -6222,7 +5865,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そして今日はついに2人の結婚式を迎える・・・。"
+                                "And today is finally the day of their wedding..."
                             ]
                         },
                         {
@@ -6272,14 +5915,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]・・・どう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ボクのドレス姿、カワイイかな？"
+                                "\\c[31]...How is it? Do I look cute in my dress?"
                             ]
                         },
                         {
@@ -6296,7 +5932,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ウェディングドレス・・・よく似合っているぞ。"
+                                "The wedding dress... suits you well."
                             ]
                         },
                         {
@@ -6313,7 +5949,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]う、うん・・・ありがとう♥"
+                                "\\c[31]Yeah... thank you♥"
                             ]
                         },
                         {
@@ -6330,7 +5966,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "さぁ、婚約の宣言をしろ。"
+                                "Come on, make the vow of engagement."
                             ]
                         },
                         {
@@ -6347,21 +5983,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "純白のドレスと婚約指輪を身に着けたメメリスは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ドレスの裾を自ら持ち上げおまんこを曝け出しながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "宣言する・・・。"
+                                "Memerisu, clad in a pure white dress and engagement ring,\nlifts the hem of her dress herself and exposes her pussy as\nshe declares..."
                             ]
                         },
                         {
@@ -6378,14 +6000,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]ボクは旦那様のオークおちんぽにたくさん可愛がって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "いただいてる卑しいメスガキマンコです・・・♥"
+                                "\\c[31]I am a shameful little bitch pussy that has been lovingly\ncared for by my husband Orc's cock...♥"
                             ]
                         },
                         {
@@ -6402,14 +6017,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]ボクのメスガキマンコで逞しい旦那様のおちんぽに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "永遠の愛とご奉仕を誓います・・・♥"
+                                "\\c[31]I vow eternal love and service to my husband's robust cock\nwith my bitch pussy...♥"
                             ]
                         },
                         {
@@ -6464,14 +6072,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{グググ・・・ズプゥ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ズッ！ドチュゥ！！！"
+                                "\\c[27]Gggg... Zupuu! Zutsu! Dochuuu!!!"
                             ]
                         },
                         {
@@ -6488,14 +6089,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{\\{んほぉッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・ッッ♥♥♥"
+                                "\\c[31]Nhoooh!! ...Ahhh♥♥♥"
                             ]
                         },
                         {
@@ -6512,14 +6106,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "メメリスが婚約の宣言を終えた瞬間、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "オークの逞しいおちんぽが挿入される・・・！！"
+                                "The moment Memerisu finishes her vow of engagement, the\nOrc's robust cock is inserted...!!"
                             ]
                         },
                         {
@@ -6536,14 +6123,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]んおっ・・・ォォッ・・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "旦那様のオークおちんぽぉ・・・今日もすっごい・・・♥"
+                                "\\c[31]Nhoo... Oohh...♥ My husband Orc's cock... it's amazing today\ntoo...♥"
                             ]
                         },
                         {
@@ -6560,14 +6140,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "数か月前は挿入するだけでも大変だったオークおちんぽも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "今ではすっかり卑らしく咥え込むメスガキマンコ・・・。"
+                                "The Orc cock that was difficult to insert just a few months\nago is now completely engulfed by the lewd bitch pussy..."
                             ]
                         },
                         {
@@ -6584,14 +6157,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ようやくお前を俺の物にできた・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "今から完全に俺専用のメスガキマンコに仕上げてやる！！"
+                                "Finally, I've made you mine...!! From now on, I'll turn you\ninto a cock exclusively for me!!"
                             ]
                         },
                         {
@@ -6636,14 +6202,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ゴチュゥ！！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ズチュ！ズチュ！ズチュチュ！！"
+                                "\\c[27]Gochuuu!!!! Zuchu! Zuchu! Zuchuchu!!"
                             ]
                         },
                         {
@@ -6660,14 +6219,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "オークのピストンはメメリスのおまんこを完全に自分専用の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "メスガキマンコにするべく、今までで一番激しく突き上げる。"
+                                "Orc's piston thrusts into Memerisu's pussy to completely\nmake it his own exclusive bitch pussy, more vigorously than\never before."
                             ]
                         },
                         {
@@ -6684,14 +6236,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{\\{～～～～～～～～～～～～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ッッッッッッ♥♥♥"
+                                "\\c[31]~~~~~~~~~~~~~~~Ahhhh♥♥♥"
                             ]
                         },
                         {
@@ -6708,14 +6253,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ゴチュゥ！！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ズチュ！ズチュ！ズチュチュ！！"
+                                "\\c[27]Gochuuu!!!! Zuchu! Zuchu! Zuchuchu!!"
                             ]
                         },
                         {
@@ -6732,14 +6270,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{（オークおちんぽぉ！すっごい・・・ッッ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "！！しゅき♥しゅき♥しゅきぃ♥♥♥）"
+                                "\\c[31](Orc's cock! It's amazing... Ahhh!! I love it♥ I love it♥ I\nlooove it♥♥♥)"
                             ]
                         },
                         {
@@ -6789,14 +6320,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{ボゴォ・・・ッ！♥グリュッ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ドチュッ・・・グリュリュ♥♥♥"
+                                "\\c[27]Bogooo... Ahh!♥ Guryuu...♥ Dochuu... Guryuryu♥♥♥"
                             ]
                         },
                         {
@@ -6813,7 +6337,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "オークおちんぽがメメリスの子宮を激しく突き上げる・・・！"
+                                "Orc's cock fiercely thrusts into Memerisu's womb...!"
                             ]
                         },
                         {
@@ -6830,14 +6354,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{お゛お゛ぉ゛～～～～♥♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "オークおちんぽでイグゥッ♥♥♥"
+                                "\\c[31]Oooh~~~♥♥♥ I'm coming with Orc's cock♥♥♥"
                             ]
                         },
                         {
@@ -6854,14 +6371,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あまりの衝撃と快感で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "身体をのけ反らせてしまうメメリス・・・！！"
+                                "Overwhelmed by the shock and pleasure, Memerisu arches her\nback...!!"
                             ]
                         },
                         {
@@ -6878,14 +6388,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\{イクッ！イクぞ！膣内射精してお前を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "孕ませる！"
+                                "I'm coming! I'm going to ejaculate inside and impregnate\nyou!"
                             ]
                         },
                         {
@@ -6902,14 +6405,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "膣内で子宮とオークおちんぽが激しくウェディングキス"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "かのように熱く密着し合い、膣内射精をしようと震えだす。"
+                                "Inside the vagina, the womb and Orc's cock cling together\nhotly like a wedding kiss, trembling as they prepare to\nejaculate."
                             ]
                         },
                         {
@@ -6926,14 +6422,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\子宮とおちんぽがキスしちゃってる♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "逞しいおちんぽに誓いのキスして分からせられちゃう♥"
+                                "\\c[31]\\My womb and cock are kissing♥ Swearing an oath with the\nrobust cock and being made to understand♥"
                             ]
                         },
                         {
@@ -6950,14 +6439,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{うん♥孕ませて♥オークの濃厚ザーメン♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "オークおちんぽ♥しゅきぃ～～♥"
+                                "\\c[31]Yes♥ Impregnate me♥ With Orc's thick semen♥ Orc's cock♥ I\nlooove it~~~♥"
                             ]
                         },
                         {
@@ -6974,7 +6456,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\{\\{膣内に出すぞメメリスッッ！！"
+                                "I'm going to cum inside you, Memerisu!!"
                             ]
                         },
                         {
@@ -7061,14 +6543,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{ドビュッ！！ビュルルルルッゥゥッッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ドピュピュピュゥゥッッ・・・！！♥♥♥"
+                                "\\c[27]Dobyuu!! Byururururuuuu!! Dopypyupyuuuu...!!♥♥♥"
                             ]
                         },
                         {
@@ -7085,14 +6560,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{イクッ♥イクッ♥♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "イックゥウウウウウウウ♥♥♥"
+                                "\\c[31]I'm coming♥ I'm coming♥♥♥ I'm cuuumiiingggggggg♥♥♥"
                             ]
                         },
                         {
@@ -7109,14 +6577,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "妊娠確定の濃厚ザーメンを膣内射精されながら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ウェディングアクメをキメるメメリス・・・！！"
+                                "As she is inseminated with pregnancy-confirming thick semen,\nMemerisu climaxes in a wedding orgasm...!!"
                             ]
                         },
                         {
@@ -7133,14 +6594,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{ビュクッ♥ビュルルッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ビュッ・・・ビュッ・・・♥♥♥"
+                                "\\c[27]Byuku♥ Byururuu♥ Byuu... Byuu...♥♥♥"
                             ]
                         },
                         {
@@ -7157,14 +6611,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "メメリスの子宮を満たしても止まらない射精により"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "精液が溢れ出してくる・・・！！"
+                                "The ejaculation doesn't stop even as it fills Memerisu's\nwomb, causing semen to overflow...!!"
                             ]
                         },
                         {
@@ -7181,14 +6628,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{ドプッ・・・♥ドプッ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ドプッ・・・♥ドプッ・・・♥"
+                                "\\c[27]Dopu...♥ Dopu...♥ Dopu...♥ Dopu...♥"
                             ]
                         },
                         {
@@ -7205,21 +6645,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]ア・・・アヘェ・・・いっぱい出してもらえて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それに初めて名前で呼ばれて・・・んっ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ボク・・・幸せぇ・・・♥"
+                                "\\c[31]Ah... Ahhe... I'm so happy to be filled up... and to be\ncalled by my name for the first time... Mmm... I'm so\nhappy...♥"
                             ]
                         },
                         {
@@ -7236,7 +6662,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "オーク専用のメスガキマンコになったメメリス・・・。"
+                                "Memerisu has become a pussy exclusively for Orc use..."
                             ]
                         },
                         {
@@ -7253,14 +6679,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "しかし無断でオークのクレカを使いソシャゲ課金した事が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "バレて離婚するまで・・・残り100日。"
+                                "However, she has 100 days left until divorce after being\ncaught using Orc's credit card without permission for social\ngame microtransactions."
                             ]
                         },
                         {
@@ -7282,21 +6701,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {

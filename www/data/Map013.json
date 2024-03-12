@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "旅の扉",
+    "displayName": "Door of Journey",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -3643,21 +3643,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先は危険なモンスターが現れるダンジョンだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ギルドの許可なく立ち入る事は出来ないよ。"
+                                "This is a dungeon where dangerous monsters appear. You can't\nenter without permission from the guild."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -3667,14 +3660,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええー！そんなー！！"
+                                "Eeh?! No way!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -3684,14 +3677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一度村に向かって、冒険者ギルドで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "許可を貰ってきましょうか。"
+                                "Let's head back to the village and get permission from the\nAdventurer's Guild."
                             ]
                         },
                         {
@@ -3924,14 +3910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは別の島に飛んでいける魔法陣だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも使用許可が出るまでは使えないよ。"
+                                "This is a magic circle that can transport you to another\nisland. But you can't use it until you have permission."
                             ]
                         },
                         {
@@ -4059,14 +4038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは別の島に飛んでいける魔法陣だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "使用許可は下りてるから気を付けてね。"
+                                "This is a magic circle that can transport you to another\nisland. You have permission to use it, so please be careful."
                             ]
                         },
                         {
@@ -4320,7 +4292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここから先は立ち入り禁止だ。"
+                                "Access beyond this point is prohibited."
                             ]
                         },
                         {

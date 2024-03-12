@@ -67,7 +67,7 @@
                 "skillId": 10
             }
         ],
-        "name": "勇者",
+        "name": "Hero",
         "note": "",
         "params": [
             [
@@ -954,7 +954,7 @@
             }
         ],
         "learnings": [],
-        "name": "戦士",
+        "name": "Warrior",
         "note": "",
         "params": [
             [
@@ -1832,7 +1832,7 @@
                 "skillId": 9
             }
         ],
-        "name": "魔術師",
+        "name": "Magician",
         "note": "",
         "params": [
             [
@@ -2710,7 +2710,7 @@
                 "skillId": 8
             }
         ],
-        "name": "僧侶",
+        "name": "Priest",
         "note": "",
         "params": [
             [
@@ -3613,7 +3613,7 @@
                 "skillId": 45
             }
         ],
-        "name": "メスガキ",
+        "name": "Bratty Girl",
         "note": "",
         "params": [
             [
@@ -4531,7 +4531,7 @@
                 "skillId": 49
             }
         ],
-        "name": "豊満聖女",
+        "name": "Buxom Saintess",
         "note": "",
         "params": [
             [
@@ -5434,7 +5434,7 @@
                 "skillId": 45
             }
         ],
-        "name": "性奴隷",
+        "name": "Sex Slave",
         "note": "",
         "params": [
             [
@@ -6352,7 +6352,7 @@
                 "skillId": 49
             }
         ],
-        "name": "性奴隷",
+        "name": "Sex Slave",
         "note": "",
         "params": [
             [

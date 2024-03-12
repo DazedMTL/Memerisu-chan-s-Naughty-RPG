@@ -24,7 +24,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ウタゲの村に戻りますか？"
+                    "Would you like to return to the village of Utage?"
                 ]
             },
             {
@@ -32,8 +32,8 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "はい",
-                        "いいえ"
+                        "Yes",
+                        "No"
                     ],
                     1,
                     0,
@@ -781,7 +781,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "チェルン村に戻りますか？"
+                    "Would you like to return to Chern village?"
                 ]
             },
             {
@@ -789,8 +789,8 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "はい",
-                        "いいえ"
+                        "Yes",
+                        "No"
                     ],
                     1,
                     0,
@@ -2798,8 +2798,8 @@
                 "indent": 2,
                 "parameters": [
                     [
-                        "タイトルに戻る",
-                        "キャンセル"
+                        "Return to Title",
+                        "Cancel"
                     ],
                     1,
                     0,
@@ -3625,7 +3625,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "メメリス達は敗北してしまった！"
+                    "Memerisu and her party have been defeated!"
                 ]
             },
             {
@@ -3642,14 +3642,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "うわー！やられちゃったぁ！"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "家に帰って出直そうー！！"
+                    "Ugh! We've been beaten! Let's head home and start over!!"
                 ]
             },
             {
@@ -3769,14 +3762,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\c[31]\\{\\{セクシーメメリスですまない！"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "サービスサービスぅ！"
+                    "\\c[31]Sorry for being so sexy, Memerisu! Service, service!"
                 ]
             },
             {
@@ -3979,2093 +3965,7 @@
                 "code": 405,
                 "indent": 0,
                 "parameters": [
-                    "◆クレジット◆"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "企画/ナツ"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "シナリオ/ナツ"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "キャラクターデザイン/ペロリス"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "ゲーム立ち絵/もりの"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "タイトルロゴデザイン/もりの"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "歩行＆ドット/だみ BlueHat"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "メニューUIデザイン/ツムミ"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "製作 /メメリスチャンネル 制作ソフト ツクールMV"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "◆お借りしたプラグイン＆マップチップの作者様◆"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "制作：坂本昌一郎 / Shoichiro Sakamoto (sound sepher)"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "Web ：http://sepher.jp/ 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "トリアコンタン 様（一部改変：天音 衣月 様）"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "しぐれん 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "[GitHub] : https://github.com/sigureya/"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "Dan \"Liquidize\" Deptula 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "COBRA 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "さうと 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "ルルの教会 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "奏ねこま 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "「渡り鳥の楽園」飯尾隼人 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "のん 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "マンカインド 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "蔦森くいな 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "+++ MOG_BattleHud (v5.04f) +++"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "By Moghunter  様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "https://atelierrgss.wordpress.com/"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "ゆわか 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "tomoaky 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "Yoji Ojima 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "シトラス 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "DarkPlasma 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "おーたね 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "砂川赳 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "munokura 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "◆お借りした素材◆"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "素材制作：そーいち 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "（ブログ名・　王国興亡記　http://ameblo.jp/makapri/ ）"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "クレジット（著作権者）"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "：とんかつばーがー　 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "https://twitter.com/RPG_tonkatu"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "​HanapapaStudio　 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "URL:https://tetsu0910a.wixsite.com/hanapapastudio"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "■サイト名：On-Jin ～音人～　 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "■サイトアドレス：https://on-jin.com/"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "(音源の二次配布、無断利用禁止)"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "音楽＆SE：サークル「月に憑かれたピエロ」 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "OtoLogic 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "◆CG参加絵描きさん達◆"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "もりの 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "ヤスイリオスケ 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "ふらう 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "藩滑るめる 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "直哉 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "有栖川琴音 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "シズ季 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "そりむらようじ 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "せぷてむ 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "とんちゃん 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "ササマシン 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "あむりた様 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "ピリオド 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "ツムミ 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "オキタ 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "とこまやけいた 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "Mg栗野 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "rAiou 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "大天使はなうな 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "牛虎たつみ 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "atahuta 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "睦茸 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "ないつき 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "伊藤隆生 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "渡辺SINKAI 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "春夏秋冬 鈴 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "あじふらい 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "針金紳士 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "ガッテン号 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "なぐ 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "しろすず 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "鳴海也 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "むおと 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "ソソ 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "る〜く 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "すき 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "◆製作者の活動サイト◆"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "【Twitter】"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "https://twitter.com/natu5505"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "【ニコニコ動画】"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "https://www.nicovideo.jp/user/9959593"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "【YouTubeメインチャンネル】"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "youtube.com/channel/UCDclEY1cvwgHA7isrf7C3Ag"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "【YouTubeサブチャンネル】"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "youtube.com/channel/UCt9l2fDiM27ShyAzipcAvuQ"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "【ファンボックス】"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "https://natsu.fanbox.cc/"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "【ci-en】"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "https://ci-en.dlsite.com/creator/11070"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "【ファンティア】"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "https://fantia.jp/fanclubs/7733"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "【patreon】"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "patreon.com/user?u=92986944"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "【misskey】"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "https://misskey.io/@natu5505"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "https://misskey.doujin.games/@natsu5505"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "◆メメリスちゃんすこすこ侍プラン加入兄貴達◆"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "flow 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "キュアグレース山田 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "ccx 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "サムらい 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "nimaruru 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "ルーサー 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "PKタコ 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "sunao iwakura 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "TA@KA 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "シララ 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "ムシュシュシュペ 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "品無 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "薬ルト族  様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "ぽんこつ。 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "Kiera 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "流鏑馬 神楽 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "ナヤ 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "かぼちゃー 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "愛織 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "ルベウス 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "yomi 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "現実と幻想の境目の住人 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "茶猫屋 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "カズカフェイン 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "ペガ 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "ななし 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "囮ナノダー 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "MapleRINGO 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "尾刃 白夜 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "ネムクサ 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "のるん 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "みはる・だんちゃ 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "damaman 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "そらぎつね 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "ナナシング 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "オルテガ 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "こはく 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "AS 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "紫陽花 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "闇影in湘南 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "（へ・ω・）へ 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "キーとさん 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "ルーク 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "patton 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "味方方針 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "じぇふ 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "さの 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "ヤクルト族 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "Cooey 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "如月なごみ 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "霧島ナポレオン 様"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "　　　　　　　　◆スペシャルサンクス◆"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "             動画を見てくれて応援、支援"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "　　　　ゲームを購入してプレイしてくれたみんな！"
-                ]
-            },
-            {
-                "code": 405,
-                "indent": 0,
-                "parameters": [
-                    "　　　　　　　　　　ありがとう！！"
+                    "Credits Planning/Story: Natsu Character Design: Perorisu\nGame Character Art: Morino Title Logo Design: Morino Walking\n& Dot Art: Dami BlueHat Menu UI Design: Tsumumi Production:\nMemerisu Channel Production Software: RPG Maker MV Credits\nfor borrowed plugins & map chips: Produced by: Shoichiro\nSakamoto (sound sepher) Web: http://sepher.jp/ Triacontane\n(Some modifications by: Amane Kinuzuki) Siguren [GitHub]:\nhttps://github.com/sigureya Dan \"Liquidize\" Deptula COBRA\nSauto Lulu's Church Kan Nekoma \"Birds of Passage\" Hayato Iio\nNon Mankind Tsutamori Kuina +++ MOG_BattleHud (v5.04f) +++\nBy Moghunter https://atelierrgss.wordpress.com/ Yuwaka\nTomoaky Yoji Ojima Citrus DarkPlasma O-tane Sunagawa Takeshi\nMunokura Materials borrowed from: Material Production: So-\nichi (Blog name: Kingdom Rise and Fall\nhttp://ameblo.jp/makapri/) Credit (Copyright Holder):\nTonkatsu Burger https://twitter.com/RPG_tonkatu\nHanapapaStudio URL:\nhttps://tetsu0910a.wixsite.com/hanapapastudio Site Name: On-\nJin ~Sound People~ Site Address: https://on-jin.com/\n(Secondary distribution of sound sources and unauthorized\nuse prohibited) Music & SE: Circle \"Pierrot Possessed by the\nMoon\" OtoLogic CG Contributing Artists: Morino Yasu Iriosuke\nFraw Harinameru Naoya Arisugawa Kotone Shizuki Sorimura\nYouji Septem Tonchan Sasamashin Amurita Period Tsumumi Okita\nTokomaya Keita Mg Kurino rAiou Archangel Hanawuna Ushitora\nTatsumi Atahuta Mutsumi Naitsuki Takao Ito Watanabe SINKAI\nHarukashuutosuzu Ajifurai Needle Gentleman Gatten-go Nagu\nShirosuzu Narumiya Also Muoto Soso Rūku Suki Creator's\nActivity Sites: [Twitter] https://twitter.com/natu5505\n[Niconico Video] https://www.nicovideo.jp/user/9959593\n[YouTube Main Channel]\nyoutube.com/channel/UCDclEY1cvwgHA7isrf7C3Ag [YouTube Sub\nChannel] youtube.com/channel/UCt9l2fDiM27ShyAzipcAvuQ\n[Fanbox] https://natsu.fanbox.cc/ [ci-en] https://ci-\nen.dlsite.com/creator/11070 [Fantia]\nhttps://fantia.jp/fanclubs/7733 [Patreon]\npatreon.com/user?u=92986944 [Misskey]\nhttps://misskey.io/@natu5505\nhttps://misskey.doujin.games/@natsu5505 Memerisu-chan\nSukosuko Samurai Plan Members: Flow Cure Grace Yamada Ccx\nSamurai Nimaruru Rūsā PK Octopus Sunao Iwakura TA@KA Shirara\nMushushushupe Nameless Yakuruto Tribe Ponkotsu. Kiera\nKaburuma Kagura Naya Pumpkin Aiori Rubeus Yomi Resident of\nthe Boundary between Reality and Fantasy Tea Cat House Kaz\nCaffeine Pega Nanashi Decoy Nanoda- MapleRINGO Tail Blade\nByakuya Nemukusa Norun Miharu. Dancha Damaman Soragitsune\nNanashing Ortega Kohaku AS Hydrangea Shadow in Shonan\n(He.ω.) He Key-san Rūku Patton Mikata Houshin Jeff Sano\nYakult Tribe Cooey Like February Nagomi Special Thanks to\neveryone who watched the videos, supported, and played the\ngame! Thank you!!"
                 ]
             },
             {
@@ -6442,7 +4342,7 @@
                 "code": 101,
                 "indent": 0,
                 "parameters": [
-                    "memerisu1",
+                    "Memerisu1",
                     1,
                     0,
                     2
@@ -6452,14 +4352,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "なんだろう、このアイテム・・・。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "よく分からないけど使っちゃう？"
+                    "What's this item... I don't really understand it, but should\nI use it?"
                 ]
             },
             {
@@ -6476,28 +4369,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "エロステータスをリセットしますか？"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "トゥルーエンドは経験回数 0回。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "ノーマルエンドは経験回数 1回以上。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "バッドエンドはスラム街にて性奴隷調教済み。"
+                    "Would you like to reset the Ero-Status? True End requires 0\nexperiences. Normal End requires more than 1 experience. Bad\nEnd is already trained as a sex slave in the slums."
                 ]
             },
             {
@@ -6505,8 +4377,8 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "はい",
-                        "いいえ"
+                        "Yes",
+                        "No"
                     ],
                     1,
                     0,
@@ -6778,7 +4650,7 @@
                 "code": 101,
                 "indent": 1,
                 "parameters": [
-                    "memerisu2",
+                    "Memerisu2",
                     6,
                     0,
                     2
@@ -6788,28 +4660,14 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "うおおおおおおおおおおおお！？"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 1,
-                "parameters": [
-                    "何故か分からないけど透き通る世界観に"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 1,
-                "parameters": [
-                    "なって健全な感じがしてきたあああああああ！！"
+                    "Uoooooooh!? For some reason I don't understand, the world\nhas become transparent and I'm starting to feel wholesome\naaaaaah!!"
                 ]
             },
             {
                 "code": 101,
                 "indent": 1,
                 "parameters": [
-                    "thina1",
+                    "Thina1",
                     5,
                     0,
                     2
@@ -6819,14 +4677,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "えっちなのはダメですよね！"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 1,
-                "parameters": [
-                    "教育！教育！死刑ですーっ！！"
+                    "Naughty things are bad, right?! Education! Education! It's\nthe death penalty-!!"
                 ]
             },
             {
@@ -6855,7 +4706,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "エロステータスがリセットされました。"
+                    "The Ero-Status has been reset."
                 ]
             },
             {
@@ -7108,14 +4959,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "\\c[17]んっ、なんだか少しトイレに行きたくなってきました。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "近くにトイレはないでしょうか・・・。"
+                    "\\c[17]Mmm, I'm starting to feel like I need to go to the bathroom.\nIs there one nearby...?"
                 ]
             },
             {
@@ -7144,14 +4988,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "ティーナはおしっこがしたくなってしまった！"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "トイレに行かないとお漏らししてしまうぞ！"
+                    "Tina needs to pee! If she doesn't find a toilet soon, she\nmight have an accident!"
                 ]
             },
             {
@@ -7395,14 +5232,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "\\c[31]・・・っ！"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "ちょ、ちょっとトイレに行きたいかも・・・。"
+                    "\\c[31]...! Uh, I might need to go to the bathroom..."
                 ]
             },
             {
@@ -7431,14 +5261,7 @@
                 "code": 401,
                 "indent": 2,
                 "parameters": [
-                    "メメリスはおしっこがしたくなってしまった！"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 2,
-                "parameters": [
-                    "トイレに行かないとお漏らししてしまうぞ！"
+                    "Memerisu needs to pee! If she doesn't find a toilet soon,\nshe might have an accident!"
                 ]
             },
             {
@@ -7511,14 +5334,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "メメリスは尿意が限界に達し、"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "その場にしゃがみ込んでしまった・・・。"
+                    "Memerisu reached her limit and squatted down on the spot..."
                 ]
             },
             {
@@ -7535,14 +5351,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\c[31]・・・っ、はぁ・・・うぅ・・・っ！！"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "も、もう限界かもっ・・・だ、だめっ・・・！！"
+                    "\\c[31]...Ah, haa...uhh...!! I, I might be at my limit...no, no\ngood...!!"
                 ]
             },
             {
@@ -7587,14 +5396,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\c[27]ちょろっ・・・。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "ちょろろろろろろろ・・・♥"
+                    "\\c[27]Trickle...trickle trickle trickle trickle...♥"
                 ]
             },
             {
@@ -7611,14 +5413,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\c[31]ふっー・・・くぅっ・・・っ！"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "ちょっ、まって・・・とまってぇ・・・っ！！"
+                    "\\c[31]Huff-...kuhh...!! Wait, wait...stop it...!!"
                 ]
             },
             {
@@ -7635,21 +5430,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "メメリスの意思に反し、パンパンに膨らんだ膀胱から"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "おしっこが水音を響かせながら"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "地面に水たまりを作っていく・・・。"
+                    "Against Memerisu's will, her bladder, swollen to its limits,\nreleased urine that made a splashing sound as it formed a\npuddle on the ground..."
                 ]
             },
             {
@@ -7682,7 +5463,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\c[31]うぅ・・・漏らしちゃった・・・。"
+                    "\\c[31]Uhh...I wet myself..."
                 ]
             },
             {
@@ -7699,14 +5480,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "お漏らしをしてしまったことに"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "顔を真っ赤にして羞恥を感じるメメリスだった・・・。"
+                    "Memerisu's face turned bright red with shame as she felt\nembarrassed about having wet herself..."
                 ]
             },
             {
@@ -7735,14 +5509,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "お漏らししてスッキリ！"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "尿意が収まった。"
+                    "Relieved after the accident! The urge to pee has subsided."
                 ]
             },
             {
@@ -7814,14 +5581,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ティーナは尿意が限界に達し、"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "その場にしゃがみ込んでしまった・・・。"
+                    "Tina reached her limit and squatted down on the spot..."
                 ]
             },
             {
@@ -7838,14 +5598,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\c[17]・・・あぁ・・・ふぅ・・・っ！！"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "も、もうダメですっ・・・で、でちゃうっ・・・！！"
+                    "\\c[17]...Ah... Phew...!! I can't hold it anymore... It's coming\nout...!!"
                 ]
             },
             {
@@ -7890,14 +5643,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\c[27]ちょろっ・・・。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "ちょろろろろろろろ・・・♥"
+                    "\\c[27]Trickle... trickle trickle trickle trickle...♥"
                 ]
             },
             {
@@ -7914,14 +5660,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\c[17]あぁ・・・んんんっ・・・ふぅ・・・！"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "とまってくださっ・・・だめですぅ・・・っ！！"
+                    "\\c[17]Ah... Mmm... Phew...! Please stop... I can't...!!"
                 ]
             },
             {
@@ -7938,21 +5677,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ティーナの意思に反し、パンパンに膨らんだ膀胱から"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "おしっこが水音を響かせながら"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "地面に水たまりを作っていく・・・。"
+                    "Against Tina's will, her bladder, swollen to bursting,\nreleased a stream of urine that made a splashing sound as it\nformed a puddle on the ground..."
                 ]
             },
             {
@@ -7985,14 +5710,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\c[17]はぁ・・・はぁ・・・漏らしちゃいました・・・。"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "は、恥ずかしいですっ・・・。"
+                    "\\c[17]Haa... Haa... I wet myself... It's so embarrassing..."
                 ]
             },
             {
@@ -8009,14 +5727,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "お漏らしをしてしまったことに"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "顔を真っ赤にして羞恥を感じるティーナだった・・・。"
+                    "Tina, her face flushed red with shame, felt humiliated by\nher accident..."
                 ]
             },
             {
@@ -8045,14 +5756,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "お漏らししてスッキリ！"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "尿意が収まった。"
+                    "Relieved after the accident! The urge to pee has subsided."
                 ]
             },
             {
@@ -8322,7 +6026,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "使用済みトイレを手に入れた！"
+                    "Acquired a used toilet!"
                 ]
             },
             {
@@ -8498,7 +6202,7 @@
                 "code": 101,
                 "indent": 0,
                 "parameters": [
-                    "memerisu1",
+                    "Memerisu1",
                     7,
                     0,
                     2
@@ -8508,7 +6212,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "それを捨てるなんてとんでもない！"
+                    "Throwing that away would be outrageous!"
                 ]
             },
             {
@@ -8550,14 +6254,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "ゲームを遊んでくれてありがとう！"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "次回作で使える秘密のパスワード「カブトムシ」"
+                    "Thank you for playing the game! Here's a secret password for\nthe next game: \"Kabutomushi\""
                 ]
             },
             {
@@ -8734,28 +6431,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\c[17]◇◆　操作方法　◆◇"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    ""
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "\\c[0]十字キー   ＝　移動"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "               エロステキャラクター切り替え"
+                    "\\c[17]◇◆Controls◆◇\\c[0]D-pad = Move               Switch Eroge\nCharacter"
                 ]
             },
             {
@@ -8772,21 +6448,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Enter/Z　 ＝　話す/決定"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "Esc/X     ＝　メニュー表示/キャンセル"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "Ctrl      ＝　メッセージスキップ"
+                    "Enter/Z = Talk/Confirm Esc/X = Menu Display/Cancel Ctrl =\nMessage Skip"
                 ]
             },
             {
@@ -8803,21 +6465,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Q＆W      ＝　キャラクターメニュー切り替え"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "pageup    ＝　バックログ表示"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "右クリック　 ＝　メッセージウィンドウ消去"
+                    "Q&W = Character Menu Switch Page Up = Backlog Display Right\nClick = Message Window Clear"
                 ]
             },
             {
@@ -8834,28 +6482,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "\\c[17]Shiftキー　～マップorテキスト表示中の操作～"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "\\c[0]戦闘速度の高速化オン/オフ(戦闘画面左上のアイコンでも可）"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "テキストオートオン/オフ"
-                ]
-            },
-            {
-                "code": 401,
-                "indent": 0,
-                "parameters": [
-                    "ダッシュ（オプションで常時オン・オフに変更可）"
+                    "\\c[17]Shift Key - During Map or Text Display - \\c[0]Toggle Battle\nSpeed On/Off (can also be done with the icon on the top left\nof the battle screen) Toggle Auto-Text On/Off Dash (can be\nset to always on or off in options)"
                 ]
             },
             {
@@ -8916,14 +6543,14 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "回想部屋が開放されました！"
+                    "The Recollection Room has been unlocked!"
                 ]
             },
             {
                 "code": 101,
                 "indent": 0,
                 "parameters": [
-                    "memerisu1",
+                    "Memerisu1",
                     2,
                     0,
                     2
@@ -8933,7 +6560,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "やったね！これで毎日シコシコが捗るね♪"
+                    "Yay! Now we can get off to this every day♪"
                 ]
             },
             {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ほじりの森",
+    "displayName": "Forest of Fondling",
     "encounterList": [],
     "encounterStep": 100,
     "height": 50,
@@ -18658,14 +18658,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クゥーン！クゥーン！"
+                                "Whine! Whine!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -18675,21 +18675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ワンちゃんを無事に保護出来ましたね♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さぁ、あの子の元に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "連れて行ってあげましょう♪"
+                                "We've safely rescued the little doggy♪ Now, let's take it\nback to its owner♪"
                             ]
                         },
                         {
@@ -18718,7 +18704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "迷子の犬を保護した！"
+                                "Rescued the lost dog!"
                             ]
                         },
                         {
@@ -18875,7 +18861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ワン！ワン！ワン！！"
+                                "Woof! Woof! Woof!!"
                             ]
                         },
                         {
@@ -18892,21 +18878,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{グルルルルルゥゥウウウウ！！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フッー！フッー！"
+                                "Grrrrrrrrrrr!! Huff-! Huff-!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -18916,28 +18895,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "た、大変です！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ワンちゃんが魔物に襲われていますよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "急いで助けましょう！！"
+                                "Oh no! A puppy is being attacked by a monster! We need to\nhurry and save it!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 1,
                                 0,
                                 2
@@ -18947,14 +18912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "獰猛な野獣め・・・ボクが成敗してやるわー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どりゃああああああああ！！！！"
+                                "You ferocious beast... I'll take you down! Take thisssssss!!"
                             ]
                         },
                         {
@@ -19045,14 +19003,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メメリスは魔物に組み伏せられ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "無様にお尻を突き出す体勢を取らされる・・・！！"
+                                "Memerisu is overpowered by the monster and forced into an\nunsightly position with her butt sticking out...!!"
                             ]
                         },
                         {
@@ -19069,14 +19020,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]くそぅ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ボクがこんな魔物に負けるなんて・・・！！"
+                                "\\c[31]Damn it... I can't believe I'm losing to such a monster...!!"
                             ]
                         },
                         {
@@ -19093,14 +19037,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\{\\{グルルルルルゥゥウウウウ！！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "フッー！フッー！"
+                                "Grrrrrrrrrrr!! Huff-! Huff-!"
                             ]
                         },
                         {
@@ -19117,21 +19054,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "興奮した様子の魔物がお尻に性器を擦り付ける。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その性器からは我慢汁が溢れ出し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "目の前にいる雌を犯そうとしていた・・・。"
+                                "The excited monster rubs its genitals against her butt. Pre-\ncum overflows from its member, indicating its intent to mate\nwith the female before it..."
                             ]
                         },
                         {
@@ -19164,14 +19087,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]ま、まさかこの魔物、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ボクを犯すつもりなの・・・！？"
+                                "\\c[31]Could it be... this monster intends to violate me...!?"
                             ]
                         },
                         {
@@ -19188,21 +19104,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]ティ、ティーナちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "助けて！助けて！！ガチでピンチだよ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "動物愛護団体激怒不可避だよおおおおおお！！！！"
+                                "\\c[31]Tina, Tina-chan! Help me! Help me!! This is seriously bad!\nAnimal protection groups are going to be furious!!"
                             ]
                         },
                         {
@@ -19219,14 +19121,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "必死に叫ぶも返事がない・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ティーナは既に意識を失って倒れていた。"
+                                "Despite her desperate cries, there's no response... Tina has\nalready lost consciousness and collapsed."
                             ]
                         },
                         {
@@ -19243,14 +19138,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{そ、そんなああああああああああ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あああああああああああ！！？？"
+                                "\\c[31]No, noooooooooooooooooooooooooo!!??"
                             ]
                         },
                         {
@@ -19305,7 +19193,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ズプププププププッ♥♥♥♥"
+                                "\\c[27]Zupupupupupupu♥♥♥♥"
                             ]
                         },
                         {
@@ -19322,14 +19210,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メメリスの悲痛な叫びと共に魔物は性器を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一気に挿入する・・・！！"
+                                "Along with Memerisu's agonized scream, the monster thrusts\nits member inside her in one swift motion...!!"
                             ]
                         },
                         {
@@ -19346,7 +19227,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{ん゛ぉ゛ぉ゛お゛お゛お゛！！！！"
+                                "\\c[31]Nghhhhhhhhh!!"
                             ]
                         },
                         {
@@ -19375,14 +19256,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "魔物は本能に従い、目の前の雌を孕ませる為に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "激しくピストンを行う・・・！！"
+                                "The monster, following its instincts, violently thrusts to\nimpregnate the female before it...!!"
                             ]
                         },
                         {
@@ -19399,14 +19273,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]け、獣チンポが・・・入って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\{お゛ほ゛ぉ゛っ゛！？"
+                                "\\c[31]Th-the beast's dick is... going in me ohhhhh!?"
                             ]
                         },
                         {
@@ -19423,21 +19290,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "人間やオークとは異なる形状の性器。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "さらに快楽を求める為の行為ではなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "本能による孕ませる為の動き。"
+                                "A genital shape different from humans or orcs. It's not an\nact for pleasure, but an instinctual movement to impregnate."
                             ]
                         },
                         {
@@ -19454,14 +19307,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]交尾しちゃってる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ボク、魔物と・・・交尾しちゃってる・・・！！"
+                                "\\c[31]I'm mating! I'm actually mating with a monster...!!"
                             ]
                         },
                         {
@@ -19495,14 +19341,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{パンパンパンパンパンパン♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "パンパンパンパンパンパン♥♥"
+                                "\\c[27]Panpanpanpanpanpan♥♥Panpanpanpanpanpan♥♥"
                             ]
                         },
                         {
@@ -19519,14 +19358,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{おおッ♥おっ・・・おっ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ん゛っ゛・・・おぉぉ"
+                                "\\c[31]Oohh♥ Oh... oh...♥ Nghhh... ohhh"
                             ]
                         },
                         {
@@ -19543,14 +19375,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "魔物の興奮した唸り声と共に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一匹の雌の声が静かな森に響き渡る・・・。"
+                                "With the monster's excited growls, the voice of a female\nechoes through the quiet forest..."
                             ]
                         },
                         {
@@ -19567,7 +19392,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\{\\{グルルルルルゥゥウウウウ！！！！"
+                                "Grrrrrrrrrrr!!"
                             ]
                         },
                         {
@@ -19584,14 +19409,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "突如、魔物のピストンが止まり性器を膣内の奥に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "押し当て、動きが止まる・・・！！"
+                                "Suddenly, the monster's thrusting stops and it presses its\nmember deep inside her, motionless...!!"
                             ]
                         },
                         {
@@ -19608,14 +19426,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "瞬間、メメリスも本能で理解する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今から一番奥に種付けし、孕ませられるのだと・・・。"
+                                "In that moment, Memerisu instinctively understands. She is\nabout to be inseminated at her very core..."
                             ]
                         },
                         {
@@ -19632,14 +19443,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]（来る・・・魔物の精液来る・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "獣チンポに負けて、孕まされちゃう・・・！！）"
+                                "\\c[31](It's coming... the monster's semen is coming...!! I'm going\nto be defeated by a beast's dick and impregnated...!!)"
                             ]
                         },
                         {
@@ -19731,14 +19535,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{ドビュッ！！ビュルルルルッゥゥッッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\}ドピュピュピュゥゥッッ・・・！！♥♥♥"
+                                "\\c[27]Dobyu!! Byururururuuuu!! Dopyupyupyuuu...!!♥♥♥"
                             ]
                         },
                         {
@@ -19755,14 +19552,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{ん゛ぉ゛おおおおおおおおお！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "獣チンポでイグ！イクゥウウウウウウ！！"
+                                "\\c[31]Nghhhhhhhhhhhhhh!!! I'm cumming from the beast's dick! I'm\ncummingggggg!!"
                             ]
                         },
                         {
@@ -19779,14 +19569,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]射精すごっ・・・♥あっ・・・あっ・・・♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "くぅん♥くぅん♥"
+                                "\\c[31]The ejaculation is intense...♥ Ah... ah...♥♥Kuun♥ Kuun♥"
                             ]
                         },
                         {
@@ -19803,14 +19586,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ヘコヘコと足と腰を震わせる一匹の雌・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "膣内で雄の精液を一身に受け止める。"
+                                "A female quivers her legs and hips in exhaustion...\nreceiving the male's semen deep within her."
                             ]
                         },
                         {
@@ -19827,21 +19603,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "射精は終わる気配がなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "さらに性器が抜けないようにコブのように根元が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "膨れだす。"
+                                "The ejaculation shows no sign of stopping, and the base of\nthe member swells like a knot to prevent it from pulling\nout."
                             ]
                         },
                         {
@@ -19858,14 +19620,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "確実に雌を孕ませるため、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "抜けないように膣内で射精し続けるのだ。"
+                                "To ensure impregnation, it continues to ejaculate inside\nwithout pulling out."
                             ]
                         },
                         {
@@ -19894,14 +19649,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{ビュッ♥ビュッビュ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ビュルルルルル♥♥♥"
+                                "\\c[27]Byu♥ Byubyu♥♥ Byurururururu♥♥♥"
                             ]
                         },
                         {
@@ -19934,14 +19682,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]あっ、射精長い・・・！！おぉ゛♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まだ？まだ終わらないの？"
+                                "\\c[31]Ah, such a long ejaculation...!! Ohh♥ Is it still not over?"
                             ]
                         },
                         {
@@ -19958,14 +19699,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]あっ♥またイク！またイクゥ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "イッちゃうぅううううう！！！"
+                                "\\c[31]Ah♥ I'm cumming again! I'm cumming again!!! I'm going to\nclimax againnnnnn!!!"
                             ]
                         },
                         {
@@ -19998,14 +19732,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "終わらぬ射精に何度も絶頂を迎える雌。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そして6度の絶頂を迎えた頃・・・。"
+                                "The female reaches climax repeatedly due to the unending\nejaculation. And after the sixth climax..."
                             ]
                         },
                         {
@@ -20038,14 +19765,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]へっ・・・♥へっ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "へっ・・・♥へっ・・・♥"
+                                "\\c[31]Heh...♥ Heh...♥ Heh...♥ Heh...♥"
                             ]
                         },
                         {
@@ -20062,14 +19782,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "全身精液まみれでだらしなく舌を出し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "虚ろな目で快感を貪る雌の姿があった・・・。"
+                                "Covered in semen all over her body, she hangs her tongue out\nsloppily and gazes vacantly as she indulges in pleasure..."
                             ]
                         },
                         {
@@ -20086,14 +19799,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "生まれたての小鹿のように足をガクガクと震わせ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その体は魔物の性器に支えられている・・・。"
+                                "Like a newborn fawn, her legs tremble and shake, her body\nsupported only by the monster's genital..."
                             ]
                         },
                         {
@@ -20138,7 +19844,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{ズチュ・・・ブポンッ♥♥"
+                                "\\c[27]Zuchu... Bupon♥♥"
                             ]
                         },
                         {
@@ -20155,14 +19861,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ようやく満足したのか、それとも雌を孕ませた事を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "確信したのか、魔物は雌から性器を引き抜く・・・。"
+                                "Finally satisfied, or perhaps certain that he has\nimpregnated the female, the monster pulls its genital out\nfrom her..."
                             ]
                         },
                         {
@@ -20179,7 +19878,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{お゛ぉ゛・・・♥♥"
+                                "\\c[31]Ah...♥♥"
                             ]
                         },
                         {
@@ -20196,14 +19895,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "未だ勃起が止まらぬ逞しい性器を虚ろな目で見つめ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "雌は雄に勝てない事を理解する・・・。"
+                                "Still erect and robust, she stares at the genital with\nvacant eyes, understanding that she cannot win against the\nmale..."
                             ]
                         },
                         {
@@ -20220,21 +19912,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その後、雌はこの逞しい雄の番いとなり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "たくさんの子を産んだとの噂も流れるが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "真実は誰にも分からない・・・。"
+                                "Afterward, rumors spread that the female became the mate of\nthis robust male and bore many offspring, but the truth is\nknown to no one..."
                             ]
                         },
                         {
@@ -20256,21 +19934,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -20378,7 +20042,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 6,
                                 0,
                                 2
@@ -20388,7 +20052,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・はっ！？夢か！！"
+                                "...Huh!? Was it a dream?!!"
                             ]
                         },
                         {
@@ -20645,7 +20309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女神の魔石の欠片を手に入れた！"
+                                "Obtained a fragment of the Goddess's magic stone!"
                             ]
                         },
                         {
@@ -20891,7 +20555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "1000\\G 手に入れた！"
+                                "Gained 1000\\G!"
                             ]
                         },
                         {
@@ -21138,7 +20802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スライムわらび餅を手に入れた！"
+                                "Acquired Slime Mochi!"
                             ]
                         },
                         {
@@ -21604,14 +21268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "野獣と再戦しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（敗北してもエロステはカウントされません）"
+                                "Would you like to rematch the beast? (Losing will not count\ntowards your Eroge Score)"
                             ]
                         },
                         {
@@ -21619,8 +21276,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -21725,14 +21382,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "メメリスは魔物に組み伏せられ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "無様にお尻を突き出す体勢を取らされる・・・！！"
+                                "Memerisu is overpowered by the monster and forced into a\nhumiliating position, her butt sticking out...!!"
                             ]
                         },
                         {
@@ -21749,14 +21399,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]くそぅ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ボクがこんな魔物に負けるなんて・・・！！"
+                                "\\c[31]Damn it... I can't believe I'm losing to a monster like\nthis...!!"
                             ]
                         },
                         {
@@ -21773,14 +21416,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\{\\{グルルルルルゥゥウウウウ！！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "フッー！フッー！"
+                                "Grrrrrrrrrrr!! Huff-! Huff-!"
                             ]
                         },
                         {
@@ -21797,21 +21433,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "興奮した様子の魔物がお尻に性器を擦り付ける。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "その性器からは我慢汁が溢れ出し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "目の前にいる雌を犯そうとしていた・・・。"
+                                "The excited monster rubs its genitals against her butt. Pre-\ncum overflows from it, as it attempts to mate with the\nfemale before it..."
                             ]
                         },
                         {
@@ -21844,14 +21466,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]ま、まさかこの魔物、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ボクを犯すつもりなの・・・！？"
+                                "\\c[31]No way, this monster... it intends to violate me...!?"
                             ]
                         },
                         {
@@ -21868,21 +21483,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]ティ、ティーナちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "助けて！助けて！！ガチでピンチだよ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "動物愛護団体激怒不可避だよおおおおおお！！！！"
+                                "\\c[31]Tina-chan! Help me! Help me!! This is seriously bad! Animal\nprotection groups are going to be furious!!"
                             ]
                         },
                         {
@@ -21899,14 +21500,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "必死に叫ぶも返事がない・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ティーナは既に意識を失って倒れていた。"
+                                "Despite her desperate cries, there is no answer... Tina has\nalready lost consciousness and collapsed."
                             ]
                         },
                         {
@@ -21923,14 +21517,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{そ、そんなああああああああああ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あああああああああああ！！？？"
+                                "\\c[31]No, no no no no no no no no no no no no no!!??"
                             ]
                         },
                         {
@@ -21985,7 +21572,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ズプププププププッ♥♥♥♥"
+                                "\\c[27]Zupupupupupupu♥♥♥♥"
                             ]
                         },
                         {
@@ -22002,14 +21589,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "メメリスの悲痛な叫びと共に魔物は性器を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "一気に挿入する・・・！！"
+                                "Along with Memerisu's agonized scream, the monster thrusts\nits genitals inside her in one swift motion...!!"
                             ]
                         },
                         {
@@ -22026,7 +21606,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{ん゛ぉ゛ぉ゛お゛お゛お゛！！！！"
+                                "\\c[31]Nghhhhhhhhhhh!!"
                             ]
                         },
                         {
@@ -22055,14 +21635,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "魔物は本能に従い、目の前の雌を孕ませる為に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "激しくピストンを行う・・・！！"
+                                "The monster, following its instincts, furiously pistons to\nimpregnate the female before it...!!"
                             ]
                         },
                         {
@@ -22079,14 +21652,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]け、獣チンポが・・・入って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\{お゛ほ゛ぉ゛っ゛！？"
+                                "\\c[31]The beast's cock is... inside me ohhhh!?"
                             ]
                         },
                         {
@@ -22103,21 +21669,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "人間やオークとは異なる形状の性器。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "さらに快楽を求める為の行為ではなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "本能による孕ませる為の動き。"
+                                "A genital shape different from humans or orcs. It moves not\nfor pleasure, but instinctively to impregnate."
                             ]
                         },
                         {
@@ -22134,14 +21686,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]交尾しちゃってる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ボク、魔物と・・・交尾しちゃってる・・・！！"
+                                "\\c[31]We're mating! I'm... mating with a monster...!!"
                             ]
                         },
                         {
@@ -22175,14 +21720,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{パンパンパンパンパンパン♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "パンパンパンパンパンパン♥♥"
+                                "\\c[27]Panpanpanpanpanpan♥♥Panpanpanpanpanpan♥♥"
                             ]
                         },
                         {
@@ -22199,14 +21737,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{おおッ♥おっ・・・おっ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ん゛っ゛・・・おぉぉ"
+                                "\\c[31]Ohh♥ Oh... Oh...♥ Nghhh... Ohhh"
                             ]
                         },
                         {
@@ -22223,14 +21754,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "魔物の興奮した唸り声と共に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "一匹の雌の声が静かな森に響き渡る・・・。"
+                                "The excited growls of the monster echo through the quiet\nforest along with the voice of a female..."
                             ]
                         },
                         {
@@ -22247,7 +21771,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\{\\{グルルルルルゥゥウウウウ！！！！"
+                                "Grrrrrrrrrrr!!"
                             ]
                         },
                         {
@@ -22264,14 +21788,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "突如、魔物のピストンが止まり性器を膣内の奥に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "押し当て、動きが止まる・・・！！"
+                                "Suddenly, the monster's pistoning stops and it presses its\ngenitals deep inside her, motionless...!!"
                             ]
                         },
                         {
@@ -22288,14 +21805,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "瞬間、メメリスも本能で理解する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "今から一番奥に種付けし、孕ませられるのだと・・・。"
+                                "In that moment, Memerisu instinctively understands. She is\nabout to be inseminated deep inside..."
                             ]
                         },
                         {
@@ -22312,14 +21822,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]（来る・・・魔物の精液来る・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "獣チンポに負けて、孕まされちゃう・・・！！）"
+                                "\\c[31](It's coming... the monster's semen is coming...!! Defeated\nby the beast's cock, I'm going to be impregnated...!!)"
                             ]
                         },
                         {
@@ -22411,14 +21914,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{ドビュッ！！ビュルルルルッゥゥッッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\}ドピュピュピュゥゥッッ・・・！！♥♥♥"
+                                "\\c[27]Dobyu!! Byururururuuuuu!! Dopyupyupyuuuu...!!♥♥♥"
                             ]
                         },
                         {
@@ -22435,14 +21931,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{ん゛ぉ゛おおおおおおおおお！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "獣チンポでイグ！イクゥウウウウウウ！！"
+                                "\\c[31]Nghhhhhhhhhhhhhhh!!! I'm cumming from the beast's cock! I'm\ncummingggggg!!"
                             ]
                         },
                         {
@@ -22459,14 +21948,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]射精すごっ・・・♥あっ・・・あっ・・・♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "くぅん♥くぅん♥"
+                                "\\c[31]The ejaculation is intense...♥ Ah... Ah...♥♥ Kuhn♥ Kuhn♥"
                             ]
                         },
                         {
@@ -22483,14 +21965,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ヘコヘコと足と腰を震わせる一匹の雌・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "膣内で雄の精液を一身に受け止める。"
+                                "A female quivers her legs and hips in exhaustion...\nreceiving the male's semen deep within her."
                             ]
                         },
                         {
@@ -22507,21 +21982,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "射精は終わる気配がなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "さらに性器が抜けないようにコブのように根元が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "膨れだす。"
+                                "The ejaculation shows no sign of stopping, and the base of\nthe genitals swells like a knot to ensure it doesn't pull\nout."
                             ]
                         },
                         {
@@ -22538,14 +21999,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "確実に雌を孕ませるため、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "抜けないように膣内で射精し続けるのだ。"
+                                "To ensure impregnation, it continues to ejaculate inside\nwithout pulling out."
                             ]
                         },
                         {
@@ -22574,14 +22028,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{ビュッ♥ビュッビュ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ビュルルルルル♥♥♥"
+                                "\\c[27]Byu♥ Byubyu♥♥ Byurururururu♥♥♥"
                             ]
                         },
                         {
@@ -22614,14 +22061,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]あっ、射精長い・・・！！おぉ゛♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "まだ？まだ終わらないの？"
+                                "\\c[31]Ah, such a long ejaculation...!! Ohh♥ Is it still not over?"
                             ]
                         },
                         {
@@ -22638,14 +22078,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]あっ♥またイク！またイクゥ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "イッちゃうぅううううう！！！"
+                                "\\c[31]Ah♥ I'm cumming again! I'm cumming again!!! I'm going to\nclimax againnnnnn!!!"
                             ]
                         },
                         {
@@ -22678,14 +22111,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "終わらぬ射精に何度も絶頂を迎える雌。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "そして6度の絶頂を迎えた頃・・・。"
+                                "The female reaches climax repeatedly due to the unending\nejaculation. And by the time she climaxes for the sixth\ntime..."
                             ]
                         },
                         {
@@ -22718,14 +22144,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]へっ・・・♥へっ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "へっ・・・♥へっ・・・♥"
+                                "\\c[31]Heh...♥ Heh...♥ Heh...♥ Heh...♥"
                             ]
                         },
                         {
@@ -22742,14 +22161,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "全身精液まみれでだらしなく舌を出し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "虚ろな目で快感を貪る雌の姿があった・・・。"
+                                "There she was, covered in semen all over her body, tongue\nhanging out sloppily, eyes vacant as she indulged in\npleasure..."
                             ]
                         },
                         {
@@ -22766,14 +22178,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "生まれたての小鹿のように足をガクガクと震わせ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "その体は魔物の性器に支えられている・・・。"
+                                "Like a newborn fawn, her legs tremble and shake, her body\nsupported only by the monster's genitals..."
                             ]
                         },
                         {
@@ -22818,7 +22223,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{ズチュ・・・ブポンッ♥♥"
+                                "\\c[27]Zuchu... Bupon♥♥"
                             ]
                         },
                         {
@@ -22835,14 +22240,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ようやく満足したのか、それとも雌を孕ませた事を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "確信したのか、魔物は雌から性器を引き抜く・・・。"
+                                "Finally satisfied, or perhaps certain that he has\nimpregnated the female, the monster pulls its genitals out\nfrom her..."
                             ]
                         },
                         {
@@ -22859,7 +22257,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{お゛ぉ゛・・・♥♥"
+                                "\\c[31]Oohhh...♥♥"
                             ]
                         },
                         {
@@ -22876,14 +22274,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "未だ勃起が止まらぬ逞しい性器を虚ろな目で見つめ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "雌は雄に勝てない事を理解する・・・。"
+                                "With vacant eyes staring at the still erect and impressive\ngenitals, the female realizes she cannot win against the\nmale..."
                             ]
                         },
                         {
@@ -22900,21 +22291,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "その後、雌はこの逞しい雄の番いとなり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "たくさんの子を産んだとの噂も流れるが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "真実は誰にも分からない・・・。"
+                                "Afterwards, it was rumored that the female became the mate\nof this robust male and bore many offspring, but the truth\nis known to no one..."
                             ]
                         },
                         {
@@ -22936,21 +22313,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -23729,7 +23092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "2000\\G 手に入れた！"
+                                "Gained 2000\\G!"
                             ]
                         },
                         {

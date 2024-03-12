@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "格安ホテル",
+    "displayName": "Budget Hotel",
     "encounterList": [],
     "encounterStep": 30,
     "height": 14,
@@ -1003,7 +1003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一泊10\\Gになります。お泊まりになりますか？"
+                                "It will be 10G per night. Will you be staying?"
                             ]
                         },
                         {
@@ -1011,8 +1011,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 2
                             ]
@@ -1140,7 +1140,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "お金が足りません。"
+                                "You don't have enough money."
                             ]
                         },
                         {
@@ -1324,7 +1324,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -1334,21 +1334,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここのホテルに置いてある雑誌は・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "週刊少年マンデー派か！"
+                                "The magazines they have in this hotel are... Weekly Shonen\nMonday fans, huh!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -1358,7 +1351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少女雑誌のちゃおっすは置いてませんか？"
+                                "Don't they have the girls' magazine, Ciao?"
                             ]
                         },
                         {
@@ -1425,7 +1418,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -1435,21 +1428,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここのホテルに置いてある雑誌は・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "週刊少年マンデー派か！"
+                                "The magazines they have in this hotel are... Weekly Shonen\nMonday fans, huh!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -1459,7 +1445,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少女雑誌のちゃおっすは置いてませんか？"
+                                "Don't they have the girls' magazine, Ciao?"
                             ]
                         },
                         {

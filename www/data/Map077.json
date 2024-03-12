@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ラスダン",
+    "displayName": "Final Dungeon",
     "encounterList": [],
     "encounterStep": 100,
     "height": 45,
@@ -12204,7 +12204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女神の魔石を手に入れた！"
+                                "Obtained the Goddess's Magic Stone!"
                             ]
                         },
                         {
@@ -12451,7 +12451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "聖女の冠を手に入れた！"
+                                "Obtained the Saintess's Crown!"
                             ]
                         },
                         {
@@ -13020,7 +13020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{ぶふーっ！女だ！女がいるぞっ！"
+                                "Bufu-! A woman! There's a woman here!"
                             ]
                         },
                         {
@@ -13037,14 +13037,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだとっ！？久しぶりの女が・・・！！"
+                                "What did you say!? A woman after so long...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 6,
                                 0,
                                 2
@@ -13054,21 +13054,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぇっ！？なんだこいつら！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頭がウマだ！"
+                                "Ugh!? What are these guys!! Their heads are horses!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -13078,7 +13071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウマの・・・魔物さんでしょうか・・・？"
+                                "Are they... horse monsters?"
                             ]
                         },
                         {
@@ -13095,21 +13088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "我々はこの先にあるお宝を守るウマ男一族・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかしここにはメスはおらず、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オスだけでムンムンとした日々を過ごすばかり・・・。"
+                                "We are the Horsemen clan, tasked with guarding the treasure\nahead... However, there are no females here, only males,\nspending our days in a musky haze..."
                             ]
                         },
                         {
@@ -13126,21 +13105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかも今はちょうど発情期なのだ・・・っ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうヤリたくて仕方がない・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪いがお前たちには我々の番いになってもらう！！"
+                                "Moreover, it's exactly our mating season...!! We can't stand\nit anymore, we want to do it so badly... Sorry, but you\ngirls will have to become our mates!!"
                             ]
                         },
                         {
@@ -13157,14 +13122,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウマ男が飛び掛かってきたっ！！"
+                                "The Horsemen are leaping at us!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -13174,14 +13139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわああああああああああ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっちにくるなあああああああ！！！！"
+                                "Aaaaaaaahhhhh!! Don't come this wayyyyyy!!!"
                             ]
                         },
                         {
@@ -13213,14 +13171,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐふっ・・・まさか我々が負けるとは・・・！！"
+                                "Gufu... To think that we would lose...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -13230,21 +13188,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いくら発情期とはいえ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "襲ってこないでください！"
+                                "No matter if it's mating season, please don't attack us!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 6,
                                 0,
                                 2
@@ -13254,14 +13205,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こいつら馬刺しにしたら美味いのかな・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ぐへへっ。"
+                                "I wonder if these guys would taste good as horse sashimi...\nGuhehe."
                             ]
                         },
                         {
@@ -13278,21 +13222,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ば、馬刺しっ・・・！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それだけはやめてくれっ！に、逃げろーっ！！"
+                                "Horse sashimi...!? Please don't do that! Ru-run away!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -13302,14 +13239,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "結局ウマ男一族って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんだったんでしょう・・・。"
+                                "In the end, what even was the Horsemen clan..."
                             ]
                         },
                         {
@@ -13345,7 +13275,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -13355,14 +13285,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こいつら・・・体が大きいだけあって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "攻撃してもビクともしない・・・っ！！"
+                                "These guys... They're so big that they don't even flinch\nwhen attacked...!!"
                             ]
                         },
                         {
@@ -13379,21 +13302,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そんな小さな体で攻撃されてもビクともせぬわっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "さぁ、こっちにこい！可愛がってやろうっ！！"
+                                "You think we won't flinch from attacks by such small bodies!\nCome here! I'll take good care of you!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -13403,7 +13319,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "きゃっ、きゃあああああああっ！！！"
+                                "Kyaa, kyaaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -13460,14 +13376,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メメリスの腰の太さはありそうな腕がメメリスを掴むと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "逃げられないように持ち上げられてしまう・・・。"
+                                "Memerisu is grabbed by an arm as thick as her waist and\nlifted up so she can't escape..."
                             ]
                         },
                         {
@@ -13484,14 +13393,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "随分と軽いな、ちゃんと飯は食べているのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この小さき体でここまで来れたのは驚きだ。"
+                                "You're quite light, aren't you eating properly? It's\nsurprising that such a small body made it this far."
                             ]
                         },
                         {
@@ -13508,14 +13410,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{力つよっ・・・！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "くそっ、はなせ！はーなーせー！"
+                                "\\c[31]So strong...!? Damn it, let go! Let-go-of-me!"
                             ]
                         },
                         {
@@ -13532,14 +13427,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウマ男の拘束から逃れようと暴れるが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その太い腕はビクともしない・・・。"
+                                "Memerisu struggles to escape the Horseman's restraint, but\nhis thick arms don't budge..."
                             ]
                         },
                         {
@@ -13556,14 +13444,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "いくら暴れようと逃げる事はできぬっ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "諦めて番いになるのだ！ぶふっー！"
+                                "No matter how much you struggle, you won't be able to\nescape... Give up and become our mate! Bufu-!"
                             ]
                         },
                         {
@@ -13580,14 +13461,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "鼻息を荒くしながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ウマ男は自らの肉棒をメメリスに向ける・・・！！"
+                                "With heavy breathing, the Horseman points his dick towards\nMemerisu...!!"
                             ]
                         },
                         {
@@ -13616,7 +13490,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]・・・ボロンッ♥"
+                                "\\c[27]...Boron♥"
                             ]
                         },
                         {
@@ -13633,7 +13507,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{\\{ちっさっ！！！！"
+                                "\\c[31]So small!!!!"
                             ]
                         },
                         {
@@ -13650,14 +13524,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "屈強な肉体を持つウマ男から飛び出てきた肉棒は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "とてもちいさく情けない雑魚チンコだった・・・。"
+                                "The cock that sprung from the muscular Horseman was\npitifully small and pathetic..."
                             ]
                         },
                         {
@@ -13674,21 +13541,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]あははははははっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どんな立派なチンコが出て来るかと思ったら・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こんな可愛いのがでてくるなんて！"
+                                "\\c[31]Ahahahahaha! I thought some impressive cock was going to\ncome out... but it's such a cute little thing!"
                             ]
                         },
                         {
@@ -13705,14 +13558,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]こんな立派なチンコに犯されたら理解らせられちゃうなぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ぶふっ・・・くふふっ！あはははははははっ！"
+                                "\\c[31]If I were violated by such a magnificent cock, I'd be\ncompletely overwhelmed! Bufu... Kufufu! Ahahahahaha!"
                             ]
                         },
                         {
@@ -13729,14 +13575,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "持ち上げられたままの状態でウマ男を煽るメメリス。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しかし・・・。"
+                                "Memerisu taunts the Horseman while still being lifted up.\nHowever..."
                             ]
                         },
                         {
@@ -13753,14 +13592,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぶふっー！そう慌てるな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今から良い物をみせてやろう。"
+                                "Bufu-! Don't panic. I'll show you something good now."
                             ]
                         },
                         {
@@ -13793,7 +13625,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{\\{・・・ググッ、グググッ♥"
+                                "\\c[27]...Gugu, Gugugu♥"
                             ]
                         },
                         {
@@ -13810,14 +13642,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[31]んっ・・・？　\\{\\{\\{\\{ひょえっ！？"
+                                "\\c[31]Nn...? Hyoe!?"
                             ]
                         },
                         {
@@ -13834,14 +13659,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウマ男が股間に力を込めると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "小さかった肉棒が段々と大きくなり始める・・・！！"
+                                "As the Horseman concentrates power in his groin, the once\nsmall cock begins to grow larger...!!"
                             ]
                         },
                         {
@@ -13858,14 +13676,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]ちょっ、ちょちょちょちょ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こんなに大きく・・・ふ、ふーん、中々やるじゃん・・・！"
+                                "\\c[31]Wait, wait wait wait... It's getting so big... Huh, not bad\nat all...!"
                             ]
                         },
                         {
@@ -13882,14 +13693,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふふふっ、我らウマ男一族御自慢の肉棒は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まだまだ大きくなるぞ。"
+                                "Fufufu, our Horsemen clan's proud cocks can still get much\nbigger."
                             ]
                         },
                         {
@@ -13906,7 +13710,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]えぇっ・・・！？"
+                                "\\c[31]Eh...!?"
                             ]
                         },
                         {
@@ -13923,14 +13727,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウマ男の言う通り、メメリスの目の前で肉棒は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "さらにどんどん大きくなっていく・・・！！"
+                                "Just as the Horseman said, the cock in front of Memerisu\ncontinues to grow larger and larger...!!"
                             ]
                         },
                         {
@@ -13975,7 +13772,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{\\{\\{ボロンッ！！！！"
+                                "\\c[27]Boron!!!!!!"
                             ]
                         },
                         {
@@ -13992,7 +13789,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{う、嘘でしょおおおおおおお！！"
+                                "\\c[31]No wayyyyyyyyyy!!"
                             ]
                         },
                         {
@@ -14009,14 +13806,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウマ男の肉棒が最大まで勃起すると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まるで巨大な物干し竿かのような肉棒が姿を現した・・・！！"
+                                "When the Horseman's cock is fully erect, it appears like a\ngiant clothes pole..."
                             ]
                         },
                         {
@@ -14033,14 +13823,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そのあまりの大きさに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "メメリスは目を丸くして固まってしまう・・・！！"
+                                "At its sheer size, Memerisu's eyes go round and she freezes\nin place...!!"
                             ]
                         },
                         {
@@ -14057,14 +13840,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "どうだ、我らウマ男一族の肉棒は。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オーク共の肉棒が粗末な物に見えるだろう。"
+                                "How about that? Our Horsemen clan's cocks make those of the\norcs look pathetic."
                             ]
                         },
                         {
@@ -14081,14 +13857,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ビクンビクンと脈打ち、筋をビキビキと立てながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "自慢の肉棒をメメリスに見せつけるウマ男・・・。"
+                                "Throbbing and bulging with veins, the Horseman proudly shows\noff his cock to Memerisu..."
                             ]
                         },
                         {
@@ -14121,14 +13890,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{こんなの無理っ！無理無理無理！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "はなせっ！はーなーしーてーっ！！"
+                                "\\c[31]This is impossible! No way, no way, no way! Let me go!\nLet—me—go—!!"
                             ]
                         },
                         {
@@ -14145,21 +13907,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "もはや恐怖を感じる大きさの肉棒にビビッてしまい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "必死に逃げようと暴れるがウマ男の腕はビクともせず、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "メメリスのお尻がプルプルと震えるだけだった・・・。"
+                                "Despite her desperate attempts to escape, the Horseman's\ngrip doesn't budge, and only Memerisu's butt trembles in\nfear..."
                             ]
                         },
                         {
@@ -14176,14 +13924,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "暴れても無駄だと言っただろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "見てみろ、お前の仲間も既に向こうで楽しんでいるぞ。"
+                                "You're wasting your energy. Look, your friend over there is\nalready having a good time."
                             ]
                         },
                         {
@@ -14212,14 +13953,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{\\あぁっっ！ダメですっ！！おごぉっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "壊れちゃい・・・ま・・・すっ！！"
+                                "\\c[17]Ahhhh! No, please!! It's going to break... me...!"
                             ]
                         },
                         {
@@ -14236,14 +13970,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "隅の方では既にティーナがウマ男達に犯されており、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あの大きな肉棒を前後に同時に挿入されていた・・・！！"
+                                "In the corner, Tina is already being violated by the\nHorsemen, with those huge cocks inserted in her from both\nfront and back...!!"
                             ]
                         },
                         {
@@ -14260,14 +13987,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]・・・っ！そ、そんなティーナちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あんな大きいのを2本も同時にっ・・・！！"
+                                "\\c[31]...! Th-that's Tina-chan! Taking two such huge ones at the\nsame time...!!"
                             ]
                         },
                         {
@@ -14284,14 +14004,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "次はお前の番だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "さぁ、我専用の牝になってもらうぞっ！！"
+                                "Next, it's your turn. Now, become my personal mare!!"
                             ]
                         },
                         {
@@ -14308,14 +14021,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウマ男はメメリスの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おまんこに肉棒をあてがい勢いよく挿入する・・・！！"
+                                "The Horseman positions his cock at Memerisu's pussy and\nthrusts in forcefully...!!"
                             ]
                         },
                         {
@@ -14370,7 +14076,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{\\{\\{ドチュッンッッ！！！"
+                                "\\c[27]Thrust!!!"
                             ]
                         },
                         {
@@ -14387,7 +14093,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{\\{\\{ン゛ギィッッッ！！？"
+                                "\\c[31]Nghiiii!?"
                             ]
                         },
                         {
@@ -14404,21 +14110,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "勢いよく挿入された肉棒はピッチリ閉じていた膣肉を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こじ開けながら子宮を突き上げ、一突きでおまんこの形を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "自分専用に作り変えてしまう・・・！！"
+                                "The forceful insertion spreads her tightly closed vaginal\nwalls and thrusts against her womb, reshaping her pussy to\nfit him perfectly with just one thrust...!!"
                             ]
                         },
                         {
@@ -14435,14 +14127,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぶふっー！膣肉をこじ開ける感触っ！たまらんなぁっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どうだ、我がウマ男一族の肉棒は！！"
+                                "Buh-! The sensation of prying open the vaginal flesh! It's\nirresistible!! How about that, the cock of our Horsemen\nclan!!"
                             ]
                         },
                         {
@@ -14459,14 +14144,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "私の肉棒を一度経験したおまんこでは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もう他の雄の粗末な物で満足できまいっ！"
+                                "Once your pussy has experienced my cock, you'll never be\nsatisfied with any other male's pathetic thing!"
                             ]
                         },
                         {
@@ -14499,14 +14177,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{おっ、おおっ・・・？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ッッッッッッッ・・・！！！"
+                                "\\c[31]O-oh...???!!!!!!!"
                             ]
                         },
                         {
@@ -14523,21 +14194,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "強烈な一突きで脳天まで揺らされた衝撃により"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "目の前がバチバチッと火花が散ったかのように明暗する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "メメリス・・・。"
+                                "The intense thrust shakes her brain, causing Memerisu's\nvision to flicker as if sparks were flying before her\neyes..."
                             ]
                         },
                         {
@@ -14554,14 +14211,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]（あれ・・・ボクっ、今何してるんだっけ・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "頭ぱちぱちして・・・なんかお腹が苦しいっ・・・。）"
+                                "\\c[31](What... am I doing right now...? My head's pounding... and\nmy stomach feels tight...)"
                             ]
                         },
                         {
@@ -14578,7 +14228,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あまりの衝撃で意識が混濁してしまう・・・。"
+                                "The shock is so great that her consciousness becomes\nmuddled..."
                             ]
                         },
                         {
@@ -14595,14 +14245,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぶふーっ！なにを惚けている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いや、我の肉棒で突かれた衝撃のせいか・・・。"
+                                "Buh-! What are you dazed about. Or perhaps it's because of\nthe shock from being struck by my cock..."
                             ]
                         },
                         {
@@ -14619,14 +14262,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ここまでやってきた強き牝とはいえ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "我の肉棒で一突きされたのならそれも仕方なかろう。"
+                                "Even a strong mare like you, if struck by my cock, it can't\nbe helped."
                             ]
                         },
                         {
@@ -14643,14 +14279,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おまんこが肉棒に慣れるまで・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "意識が戻るまで待っても我はかまわん。"
+                                "Until your pussy gets used to my cock... until your\nconsciousness returns, I don't mind waiting."
                             ]
                         },
                         {
@@ -14667,14 +14296,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\{\\{だが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "我の逞しき肉棒が許すかなっ！！"
+                                "But will my mighty cock allow it?!"
                             ]
                         },
                         {
@@ -14731,14 +14353,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュンッ！！ドチュンッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ドチュンッ！！ドチュンッ！！"
+                                "\\c[27]Thrust!! Thrust!! Thrust!! Thrust!!"
                             ]
                         },
                         {
@@ -14755,14 +14370,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{ッッッ！！！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お゛ぉ゛っ！？んぉおおっ！！！"
+                                "\\c[31]!!!!? Ooohh!? Nnoooohhh!!!"
                             ]
                         },
                         {
@@ -14779,21 +14387,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウマ男が激しく腰を動かし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "メメリスの子宮を突きあげた衝撃で、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "無理矢理意識を戻されてしまう・・・！！"
+                                "The Horseman's vigorous hip movements and the impact of\nhitting Memerisu's womb forcibly bring back her\nconsciousness...!!"
                             ]
                         },
                         {
@@ -14839,14 +14433,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュンッ！！ドチュンッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ドチュンッ！！ドチュンッ！！"
+                                "\\c[27]Thrust!! Thrust!! Thrust!! Thrust!!"
                             ]
                         },
                         {
@@ -14863,14 +14450,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{んごぉっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お゛ォ゛ぅ゛っ！！ほぉおおお！"
+                                "\\c[31]Ngoohh!? Ooohh!! Hooohhhh!"
                             ]
                         },
                         {
@@ -14887,14 +14467,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウマ男の肉棒が出し入れされるたびにメメリスの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お腹は大きく膨らみ肉棒の形が浮かび上がる・・・！！"
+                                "With each thrust of the Horseman's cock, Memerisu's belly\nswells greatly and the shape of the cock becomes\nvisible...!!"
                             ]
                         },
                         {
@@ -14940,14 +14513,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュンッ！！ドチュンッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ドチュンッ！！ドチュンッ！！"
+                                "\\c[27]Thrust!! Thrust!! Thrust!! Thrust!!"
                             ]
                         },
                         {
@@ -14964,14 +14530,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{やべっ！やべっ・・・てぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しぬっ！おまんここわれるッ！！"
+                                "\\c[31]No way! No way... I'm gonna die! My pussy's gonna break!!"
                             ]
                         },
                         {
@@ -14988,14 +14547,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]（やばいっ・・・逃げられないっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "このチンコ強すぎるっ・・・勝てない、負けちゃうっ！！）"
+                                "\\c[31](This is bad... I can't escape!! This cock is too strong...\nI can't win, I'm going to lose!!)"
                             ]
                         },
                         {
@@ -15012,21 +14564,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "人間やオークとは違う形状の肉棒が出し入れされる度に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "膣肉は激しく抉られ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そのまま捲れ上がりそうになる・・・！！"
+                                "With each thrust of the uniquely shaped cock different from\nhumans or orcs, her vaginal flesh is violently gouged out,\nthreatening to turn inside out...!!"
                             ]
                         },
                         {
@@ -15088,14 +14626,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュンッ！！ドチュンッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ドチュンッ！！ドチュンッ！！"
+                                "\\c[27]Thrust!! Thrust!! Thrust!! Thrust!!"
                             ]
                         },
                         {
@@ -15112,14 +14643,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウマ男の肉棒が膣内でビクンビクンと震え、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "熱いザーメンが込み上がってくるのが伝わってくる・・・！！"
+                                "The Horseman's cock trembles inside her vagina, and she can\nfeel the hot semen rising up...!!"
                             ]
                         },
                         {
@@ -15136,14 +14660,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]お゛ほ゛ォ゛！！！チンコが震えてっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "射精されるっ！ウマザーメン射精されちゃうっ！！"
+                                "\\c[31]Ooohhh!!! The cock is trembling! It's ejaculating! I'm going\nto be filled with Horseman semen!!"
                             ]
                         },
                         {
@@ -15189,14 +14706,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{ん゛ぉ゛お゛お゛お゛お゛お゛♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だめ！膣内に射精さないでぇっ！！"
+                                "\\c[31]Nooooo♥ Don't ejaculate inside meeeeee!!"
                             ]
                         },
                         {
@@ -15213,14 +14723,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\{ぶふーっ！精液を子宮で受け止め"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "我が子を孕むがいいっ！！"
+                                "Buh-! Receive my semen in your womb and bear my offspring!!"
                             ]
                         },
                         {
@@ -15336,14 +14839,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ドピュ♥ドプッドプッドププッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ビュク！ビュク！ビュルルルッ♥♥♥"
+                                "\\c[27]Squirt♥ Squirt Squirt Squirt Squirt♥ Spurt! Spurt!\nSpurrrrrl♥♥♥"
                             ]
                         },
                         {
@@ -15360,14 +14856,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{オ゛ッ♥♥オ゛ウッ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "んごっ゛♥あぁぁぁ～～～～ッ♥"
+                                "\\c[31]Oohh♥♥ Owwhh♥♥ Ngoohh♥ Ahhhhhhh～～～～♥"
                             ]
                         },
                         {
@@ -15384,14 +14873,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{（イクッ♥イクッ♥ウマチンに屈服して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "種付けアクメでイグゥウウウッ♥）"
+                                "\\c[31](I'm cumming♥ I'm cumming♥ I'm succumbing to the horse cock\nand cumming from a breeding climax♥)"
                             ]
                         },
                         {
@@ -15420,14 +14902,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ゴリュ♥ゴリュ♥ゴリュッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "グリグリグリグリッ♥♥♥"
+                                "\\c[27]Gush♥ Gush♥ Gush♥ Grind Grind Grind Grind♥♥♥"
                             ]
                         },
                         {
@@ -15444,14 +14919,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ウマ男の射精の勢いは衰えることなく続き、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "確実に種付けする為に丹念に子宮を押しつぶし密着させる。"
+                                "The Horseman's ejaculation continues unabated, meticulously\ncrushing and adhering to the womb to ensure insemination."
                             ]
                         },
                         {
@@ -15480,14 +14948,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{びゅ～～～～っ♥びゅるるるっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "びゅくっ♥びゅびゅびゅっ～～♥"
+                                "\\c[27]Squirt～～～♥ Squirt Squirt Squirt♥ Squirt Squirt Squirt～～♥"
                             ]
                         },
                         {
@@ -15504,14 +14965,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{ん゛ぉ゛っ♥おっ゛♥お゛べっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ほぉぉおおおおおっっっっ♥♥♥"
+                                "\\c[31]Ngh♥ Oh♥ Ohh♥ Oooooohhhhhhhhh♥♥♥"
                             ]
                         },
                         {
@@ -15528,14 +14982,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "濃厚なウマ男一族の精子で子宮を蓋して確実に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "種付けさせてやる、じっくり子宮で味わうんだぞっ！"
+                                "I'll seal your womb with the thick sperm of the Horseman\nclan and make sure you're inseminated, savor it thoroughly\nin your womb!"
                             ]
                         },
                         {
@@ -15552,14 +14999,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{（むりっむりむりむりっ♥勝てないっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こんな強い牡には勝てないっ♥）"
+                                "\\c[31](No way, no way♥ I can't win♥ I can't beat such a strong\nstallion♥)"
                             ]
                         },
                         {
@@ -15588,14 +15028,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{びゅるるるっ♥どくどくどくっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "びゅくっ♥びゅびゅびゅっ～～♥"
+                                "\\c[27]Squirt Squirt Squirt♥ Throb Throb Throb♥ Squirt♥ Squirt\nSquirt Squirt～～♥"
                             ]
                         },
                         {
@@ -15612,14 +15045,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{ほぉぉぉぉおおおっ・・・ッッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "フーッ♥フーッ♥フーッ♥"
+                                "\\c[31]Oooooohhh...♥ Huh-! Huh-! Huh-!♥"
                             ]
                         },
                         {
@@ -15636,21 +15062,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "数十秒に及ぶウマ男の長い射精により、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "メメリスの子宮はドロドロのゼリーのような精液で満たされ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "屈服受精アクメで体をピクピクとさせている・・・。"
+                                "After several tens of seconds of the Horseman's long\nejaculation, Memerisu's womb is filled with gooey semen,\ncausing her body to twitch in a submissive fertilization\nclimax..."
                             ]
                         },
                         {
@@ -15667,14 +15079,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "すっかり牝の顔を晒しおって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もう我以外の牡では満足出来なくなっただろう・・・なっ！"
+                                "You're completely showing your female face now. You won't be\nsatisfied by any male other than me anymore... right?!"
                             ]
                         },
                         {
@@ -15731,7 +15136,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{\\{\\{ブポンッッッッッ！！！"
+                                "\\c[27]Pop!!!!!!!"
                             ]
                         },
                         {
@@ -15748,7 +15153,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{\\{ん゛ぉ゛ッッッッ！！？"
+                                "\\c[31]Ngh!!!!!!?"
                             ]
                         },
                         {
@@ -15765,21 +15170,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "子宮を押しつぶしていた肉棒が膣肉を抉りつつ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "勢いよく抜かれ、その快感で間抜けな声をあげながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "再び絶頂してしまう・・・！！"
+                                "The cock crushing her womb is violently pulled out while\ngouging her vaginal flesh, and the pleasure makes her let\nout a foolish voice as she climaxes again...!!"
                             ]
                         },
                         {
@@ -15796,14 +15187,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ぶるんっ！ぶるんっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ぶるん・・・ッッ！"
+                                "\\c[27]Wobble! Wobble! Wobble...!!"
                             ]
                         },
                         {
@@ -15820,14 +15204,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "引き抜かれた肉棒はあまりの長さから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "精液を垂らして激しく揺れている・・・！！"
+                                "The pulled-out cock, with its incredible length, drips semen\nand swings violently...!!"
                             ]
                         },
                         {
@@ -15872,7 +15249,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]あへっ・・・おぉっ・・・あへぇ・・・っ。"
+                                "\\c[31]Aheh... Oh... Aheh..."
                             ]
                         },
                         {
@@ -15889,14 +15266,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{ガク♥ガク♥ガク♥ヒクッ♥ヒクッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ゴポッ♥ゴポポ・・・ッ♥"
+                                "\\c[27]Throb♥ Throb♥ Throb♥ Twitch♥ Twitch♥ Gush♥ Gush Gush...♥"
                             ]
                         },
                         {
@@ -15913,21 +15283,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メメリスのおまんこは肉棒を引き抜かれた後も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "パックリと開いたままで、挿入される前の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ピッチリ閉じたおまんこの面影はどこにもなかった・・・。"
+                                "Memerisu's pussy remains gaping open even after the cock is\npulled out, with no trace left of the tightly closed pussy\nfrom before the insertion..."
                             ]
                         },
                         {
@@ -15944,14 +15300,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "種付けは完了した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "我らウマ男一族の強さ、身に染みて理解出来ただろう。"
+                                "The insemination is complete. You must have deeply\nunderstood the strength of our Horseman clan."
                             ]
                         },
                         {
@@ -15968,14 +15317,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]はひゅっ・・・♥あへっ♥あへ・・・っ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "はいぃ・・・わ、わかりまひぃたぁ・・・♥"
+                                "\\c[31]Gasp...♥ Aheh♥ Aheh...♥ Yes... I, I understand...♥"
                             ]
                         },
                         {
@@ -15992,14 +15334,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]（あぁ・・・牡の強さを子宮が覚えちゃった・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もうこのお方には逆らえない・・・っ）"
+                                "\\c[31](Ah... My womb has memorized the strength of a male... I\ncan't defy this person anymore...)"
                             ]
                         },
                         {
@@ -16016,21 +15351,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "成す術もなく凌辱され子宮は牡専用に作り変えられてしまい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "牡の強さを刻み込まれた牝は、もう逆らおうという気も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "起きない・・・。"
+                                "Helplessly violated, her womb has been remade for male use\nonly, and the female imprinted with the male's strength no\nlonger even thinks of resisting..."
                             ]
                         },
                         {
@@ -16047,14 +15368,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "強き牡に奉仕し、媚びて望まれるままに子を孕み産むのが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "牝の幸せなのだと理解らせられてしまったのだ・・・。"
+                                "It has been made clear that serving a strong male, fawning\nover him, and bearing his children as desired is a female's\nhappiness..."
                             ]
                         },
                         {
@@ -16071,14 +15385,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぶふーっ！お前達2人にはこれから強き子を産んでもらう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ために頑張ってもらうぞ、わかったな。"
+                                "Breathe out! You two will work hard from now on to bear\nstrong offspring, understood."
                             ]
                         },
                         {
@@ -16095,14 +15402,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]分かり・・・まひたぁ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "元気な子をたくさん・・・産ませていただきますっ・・・♥"
+                                "\\c[17]I understand...♥ I will bear many healthy children...♥"
                             ]
                         },
                         {
@@ -16119,14 +15419,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ティーナも妊婦と見間違うほどに精液を出され"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "強き牡に屈服の宣言をする・・・。"
+                                "Tina also declares her submission to the strong male,\nlooking almost pregnant from the amount of semen released..."
                             ]
                         },
                         {
@@ -16143,14 +15436,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]あははっ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ボクもいっぱい元気な子を産まなきゃぁ・・・♥"
+                                "\\c[31]Ahaha... I've got to bear lots of healthy kids too...♥"
                             ]
                         },
                         {
@@ -16167,14 +15453,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その後、2人は死ぬまで繁殖牝馬として"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "繁殖行為を行い続けることになるのであった・・・。"
+                                "Afterward, the two would continue to engage in breeding\nactivities as broodmares until they died..."
                             ]
                         },
                         {
@@ -16196,21 +15475,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -16384,7 +15649,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 6,
                                 0,
                                 2
@@ -16394,7 +15659,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・はっ！？夢か！！"
+                                "...Huh!? Was it a dream?!!"
                             ]
                         },
                         {
@@ -16881,14 +16146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウマ男と再戦しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（敗北してもエロステはカウントされません）"
+                                "Would you like to rematch with the Horseman? (Losing will\nnot count towards your Eroge stats)"
                             ]
                         },
                         {
@@ -16896,8 +16154,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -16952,7 +16210,7 @@
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -16962,14 +16220,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "こいつら・・・体が大きいだけあって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "攻撃してもビクともしない・・・っ！！"
+                                "These guys... their bodies are so big that even when I\nattack, they don't flinch...!!"
                             ]
                         },
                         {
@@ -16986,21 +16237,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そんな小さな体で攻撃されてもビクともせぬわっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "さぁ、こっちにこい！可愛がってやろうっ！！"
+                                "Such a small body won't even make me flinch when attacked!\nCome here! I'll take good care of you!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -17010,7 +16254,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "きゃっ、きゃあああああああっ！！！"
+                                "Kyaa, kyaaaaaaaah!!!"
                             ]
                         },
                         {
@@ -17067,14 +16311,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "メメリスの腰の太さはありそうな腕がメメリスを掴むと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "逃げられないように持ち上げられてしまう・・・。"
+                                "The thick arm that seemed to match Memerisu's waist size\ngrabbed her, lifting her up so she couldn't escape..."
                             ]
                         },
                         {
@@ -17091,14 +16328,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "随分と軽いな、ちゃんと飯は食べているのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "この小さき体でここまで来れたのは驚きだ。"
+                                "You're surprisingly light, do you even eat properly? It's\namazing that such a small body has made it this far."
                             ]
                         },
                         {
@@ -17115,14 +16345,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{力つよっ・・・！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "くそっ、はなせ！はーなーせー！"
+                                "\\c[31]So strong...!? Damn it, let go! Let-go-of-me!"
                             ]
                         },
                         {
@@ -17139,14 +16362,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ウマ男の拘束から逃れようと暴れるが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "その太い腕はビクともしない・・・。"
+                                "Memerisu struggles to escape the Horseman's restraint, but\nhis thick arms don't budge..."
                             ]
                         },
                         {
@@ -17163,14 +16379,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "いくら暴れようと逃げる事はできぬっ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "諦めて番いになるのだ！ぶふっー！"
+                                "No matter how much you struggle, you won't be able to\nescape... Give up and become my mate! Buh-!"
                             ]
                         },
                         {
@@ -17187,14 +16396,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "鼻息を荒くしながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ウマ男は自らの肉棒をメメリスに向ける・・・！！"
+                                "With heavy breathing, the Horseman points his own dick\ntowards Memerisu...!!"
                             ]
                         },
                         {
@@ -17223,7 +16425,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]・・・ボロンッ♥"
+                                "\\c[27]...Boron♥"
                             ]
                         },
                         {
@@ -17240,7 +16442,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{\\{ちっさっ！！！！"
+                                "\\c[31]So tiny!!!!"
                             ]
                         },
                         {
@@ -17257,14 +16459,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "屈強な肉体を持つウマ男から飛び出てきた肉棒は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "とてもちいさく情けない雑魚チンコだった・・・。"
+                                "The dick that sprang from the muscular Horseman was\nembarrassingly small and pathetic..."
                             ]
                         },
                         {
@@ -17281,21 +16476,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]あははははははっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "どんな立派なチンコが出て来るかと思ったら・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "こんな可愛いのがでてくるなんて！"
+                                "\\c[31]Ahahahahaha! I thought some impressive cock would come out,\nbut... to think such a cute one would appear!"
                             ]
                         },
                         {
@@ -17312,14 +16493,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]こんな立派なチンコに犯されたら理解らせられちゃうなぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ぶふっ・・・くふふっ！あはははははははっ！"
+                                "\\c[31]If I were violated by such a magnificent cock, I'd be\ncompletely overwhelmed! Buh-...kufufu! Ahahahahaha!"
                             ]
                         },
                         {
@@ -17336,14 +16510,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "持ち上げられたままの状態でウマ男を煽るメメリス。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "しかし・・・。"
+                                "Memerisu taunts the Horseman while still being lifted.\nHowever..."
                             ]
                         },
                         {
@@ -17360,14 +16527,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ぶふっー！そう慌てるな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "今から良い物をみせてやろう。"
+                                "Buh-! Don't panic. I'm about to show you something good."
                             ]
                         },
                         {
@@ -17400,7 +16560,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{\\{・・・ググッ、グググッ♥"
+                                "\\c[27]...Gugu, gugugu♥"
                             ]
                         },
                         {
@@ -17417,14 +16577,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\c[31]んっ・・・？　\\{\\{\\{\\{ひょえっ！？"
+                                "\\c[31]Nn...? Hyoeh!?"
                             ]
                         },
                         {
@@ -17441,14 +16594,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ウマ男が股間に力を込めると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "小さかった肉棒が段々と大きくなり始める・・・！！"
+                                "As the Horseman concentrates power in his groin, the once\nsmall dick begins to grow larger...!!"
                             ]
                         },
                         {
@@ -17465,14 +16611,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]ちょっ、ちょちょちょちょ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "こんなに大きく・・・ふ、ふーん、中々やるじゃん・・・！"
+                                "\\c[31]Wait, wait wait wait... it's getting so big... hah, ha-un,\nnot bad at all...!"
                             ]
                         },
                         {
@@ -17489,14 +16628,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ふふふっ、我らウマ男一族御自慢の肉棒は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "まだまだ大きくなるぞ。"
+                                "Hahaha, our proud Horseman clan's dicks can still get much\nbigger."
                             ]
                         },
                         {
@@ -17513,7 +16645,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]えぇっ・・・！？"
+                                "\\c[31]Eh...!?"
                             ]
                         },
                         {
@@ -17530,14 +16662,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ウマ男の言う通り、メメリスの目の前で肉棒は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "さらにどんどん大きくなっていく・・・！！"
+                                "Just as the Horseman said, the dick in front of Memerisu\ncontinues to grow even larger...!!"
                             ]
                         },
                         {
@@ -17582,7 +16707,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{\\{\\{ボロンッ！！！！"
+                                "\\c[27]Boron!!!!!!"
                             ]
                         },
                         {
@@ -17599,7 +16724,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{う、嘘でしょおおおおおおお！！"
+                                "\\c[31]No way, nooooooo!!"
                             ]
                         },
                         {
@@ -17616,14 +16741,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ウマ男の肉棒が最大まで勃起すると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "まるで巨大な物干し竿かのような肉棒が姿を現した・・・！！"
+                                "When the Horseman's dick is fully erect, it appears like a\ngiant clothes pole...!!"
                             ]
                         },
                         {
@@ -17640,14 +16758,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そのあまりの大きさに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "メメリスは目を丸くして固まってしまう・・・！！"
+                                "At its immense size, Memerisu's eyes widen in shock and she\nfreezes...!!"
                             ]
                         },
                         {
@@ -17664,14 +16775,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "どうだ、我らウマ男一族の肉棒は。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "オーク共の肉棒が粗末な物に見えるだろう。"
+                                "How about that, our Horseman clan's dicks. Makes the dicks\nof Orcs look pathetic, doesn't it."
                             ]
                         },
                         {
@@ -17688,14 +16792,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ビクンビクンと脈打ち、筋をビキビキと立てながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "自慢の肉棒をメメリスに見せつけるウマ男・・・。"
+                                "The Horseman's proud dick throbs and bulges with veins as he\nshows it off to Memerisu..."
                             ]
                         },
                         {
@@ -17728,14 +16825,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{こんなの無理っ！無理無理無理！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "はなせっ！はーなーしーてーっ！！"
+                                "\\c[31]This is impossible! Impossible impossible impossible! Let go\nof me! Let-me-go!"
                             ]
                         },
                         {
@@ -17752,21 +16842,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "もはや恐怖を感じる大きさの肉棒にビビッてしまい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "必死に逃げようと暴れるがウマ男の腕はビクともせず、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "メメリスのお尻がプルプルと震えるだけだった・・・。"
+                                "The size of the dick now instills fear in her, and as she\ndesperately tries to escape, the Horseman's arms don't move\nan inch, and only Memerisu's butt trembles..."
                             ]
                         },
                         {
@@ -17783,14 +16859,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "暴れても無駄だと言っただろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "見てみろ、お前の仲間も既に向こうで楽しんでいるぞ。"
+                                "I told you struggling is futile. Look, your friend over\nthere is already having a good time."
                             ]
                         },
                         {
@@ -17819,14 +16888,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]\\{\\あぁっっ！ダメですっ！！おごぉっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "壊れちゃい・・・ま・・・すっ！！"
+                                "\\c[17]\\Ahhhh! No good!! Ooohhh!! I'm going to break...!"
                             ]
                         },
                         {
@@ -17843,14 +16905,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "隅の方では既にティーナがウマ男達に犯されており、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あの大きな肉棒を前後に同時に挿入されていた・・・！！"
+                                "In a corner, Tina is already being violated by the Horsemen,\nwith those huge dicks inserted simultaneously from front and\nback...!!"
                             ]
                         },
                         {
@@ -17867,14 +16922,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]・・・っ！そ、そんなティーナちゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あんな大きいのを2本も同時にっ・・・！！"
+                                "\\c[31]...! Th-that's Tina-chan! Taking two so big at the same\ntime...!!"
                             ]
                         },
                         {
@@ -17891,14 +16939,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "次はお前の番だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "さぁ、我専用の牝になってもらうぞっ！！"
+                                "Next it's your turn. Now, become my exclusive female!!"
                             ]
                         },
                         {
@@ -17915,14 +16956,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ウマ男はメメリスの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "おまんこに肉棒をあてがい勢いよく挿入する・・・！！"
+                                "The Horseman positions his dick at Memerisu's pussy and\nthrusts it in forcefully...!!"
                             ]
                         },
                         {
@@ -17977,7 +17011,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{\\{\\{ドチュッンッッ！！！"
+                                "\\c[27]Dochunnn!!!"
                             ]
                         },
                         {
@@ -17994,7 +17028,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{\\{\\{ン゛ギィッッッ！！？"
+                                "\\c[31]Ngyiiiiii!?"
                             ]
                         },
                         {
@@ -18011,21 +17045,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "勢いよく挿入された肉棒はピッチリ閉じていた膣肉を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "こじ開けながら子宮を突き上げ、一突きでおまんこの形を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "自分専用に作り変えてしまう・・・！！"
+                                "The cock that was thrust in forcefully pries open the\ntightly closed vaginal walls, pushing up against the womb,\nand with a single thrust, it reshapes the pussy to fit him\nexclusively...!!"
                             ]
                         },
                         {
@@ -18042,14 +17062,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ぶふっー！膣肉をこじ開ける感触っ！たまらんなぁっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "どうだ、我がウマ男一族の肉棒は！！"
+                                "Buh-! The sensation of prying open the vaginal flesh! It's\nirresistible!! How about it, the cock of our Horseman clan!!"
                             ]
                         },
                         {
@@ -18066,14 +17079,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "私の肉棒を一度経験したおまんこでは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "もう他の雄の粗末な物で満足できまいっ！"
+                                "Once your pussy has experienced my cock, you'll never be\nsatisfied with another male's inferior one!"
                             ]
                         },
                         {
@@ -18106,14 +17112,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{おっ、おおっ・・・？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ッッッッッッッ・・・！！！"
+                                "\\c[31]Oh, ohhh...???!!!!"
                             ]
                         },
                         {
@@ -18130,21 +17129,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "強烈な一突きで脳天まで揺らされた衝撃により"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "目の前がバチバチッと火花が散ったかのように明暗する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "メメリス・・・。"
+                                "The intense thrust shakes Memerisu's brain, and her vision\nflickers as if sparks are flying before her eyes..."
                             ]
                         },
                         {
@@ -18161,14 +17146,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]（あれ・・・ボクっ、今何してるんだっけ・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "頭ぱちぱちして・・・なんかお腹が苦しいっ・・・。）"
+                                "\\c[31](What... What am I doing right now...? My head's\nthrobbing... and my stomach feels tight...)"
                             ]
                         },
                         {
@@ -18185,7 +17163,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あまりの衝撃で意識が混濁してしまう・・・。"
+                                "The shock is so great that her consciousness becomes\nmuddled..."
                             ]
                         },
                         {
@@ -18202,14 +17180,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ぶふーっ！なにを惚けている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "いや、我の肉棒で突かれた衝撃のせいか・・・。"
+                                "Buh-! What are you daydreaming about. Or rather, is it\nbecause of the shock from being thrust by my cock..."
                             ]
                         },
                         {
@@ -18226,14 +17197,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ここまでやってきた強き牝とはいえ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "我の肉棒で一突きされたのならそれも仕方なかろう。"
+                                "Even a strong female like you, if you're thrust by my cock,\nit can't be helped."
                             ]
                         },
                         {
@@ -18250,14 +17214,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おまんこが肉棒に慣れるまで・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "意識が戻るまで待っても我はかまわん。"
+                                "Until your pussy gets used to my cock... until your\nconsciousness returns, I don't mind waiting."
                             ]
                         },
                         {
@@ -18274,14 +17231,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\{\\{だが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "我の逞しき肉棒が許すかなっ！！"
+                                "But will my robust cock allow it?!"
                             ]
                         },
                         {
@@ -18338,14 +17288,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュンッ！！ドチュンッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ドチュンッ！！ドチュンッ！！"
+                                "\\c[27]Dochun!! Dochun!! Dochun!! Dochun!!"
                             ]
                         },
                         {
@@ -18362,14 +17305,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{ッッッ！！！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お゛ぉ゛っ！？んぉおおっ！！！"
+                                "\\c[31]!!!? Ooh! Nohhh!!"
                             ]
                         },
                         {
@@ -18386,21 +17322,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ウマ男が激しく腰を動かし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "メメリスの子宮を突きあげた衝撃で、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "無理矢理意識を戻されてしまう・・・！！"
+                                "As the Horseman thrusts his hips violently, the impact\nforces Memerisu's consciousness to return...!!"
                             ]
                         },
                         {
@@ -18446,14 +17368,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュンッ！！ドチュンッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ドチュンッ！！ドチュンッ！！"
+                                "\\c[27]Dochun!! Dochun!! Dochun!! Dochun!!"
                             ]
                         },
                         {
@@ -18470,14 +17385,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{んごぉっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お゛ォ゛ぅ゛っ！！ほぉおおお！"
+                                "\\c[31]Ngooh! Oohh!! Hoooh!!"
                             ]
                         },
                         {
@@ -18494,14 +17402,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ウマ男の肉棒が出し入れされるたびにメメリスの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お腹は大きく膨らみ肉棒の形が浮かび上がる・・・！！"
+                                "With each thrust of the Horseman's cock, Memerisu's belly\nswells greatly and the shape of the cock becomes\nvisible...!!"
                             ]
                         },
                         {
@@ -18547,14 +17448,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュンッ！！ドチュンッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ドチュンッ！！ドチュンッ！！"
+                                "\\c[27]Dochun!! Dochun!! Dochun!! Dochun!!"
                             ]
                         },
                         {
@@ -18571,14 +17465,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{やべっ！やべっ・・・てぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "しぬっ！おまんここわれるッ！！"
+                                "\\c[31]No way! No way... I'm gonna break! My pussy is going to\nsplit open!!"
                             ]
                         },
                         {
@@ -18595,14 +17482,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]（やばいっ・・・逃げられないっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "このチンコ強すぎるっ・・・勝てない、負けちゃうっ！！）"
+                                "\\c[31](This is bad... I can't escape!! This cock is too strong...\nI can't win, I'm going to lose!!)"
                             ]
                         },
                         {
@@ -18619,21 +17499,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "人間やオークとは違う形状の肉棒が出し入れされる度に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "膣肉は激しく抉られ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "そのまま捲れ上がりそうになる・・・！！"
+                                "With each thrust of the uniquely shaped cock of a non-human\nor orc, the vaginal flesh is violently gouged out, almost\npeeling away...!!"
                             ]
                         },
                         {
@@ -18695,14 +17561,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュンッ！！ドチュンッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ドチュンッ！！ドチュンッ！！"
+                                "\\c[27]Dochun!! Dochun!! Dochun!! Dochun!!"
                             ]
                         },
                         {
@@ -18719,14 +17578,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ウマ男の肉棒が膣内でビクンビクンと震え、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "熱いザーメンが込み上がってくるのが伝わってくる・・・！！"
+                                "The Horseman's cock twitches inside the vagina, and Memerisu\ncan feel the hot semen rising up...!!"
                             ]
                         },
                         {
@@ -18743,14 +17595,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]お゛ほ゛ォ゛！！！チンコが震えてっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "射精されるっ！ウマザーメン射精されちゃうっ！！"
+                                "\\c[31]Oohh!! The cock is trembling! It's ejaculating! Horse semen\nis being ejaculated inside me!!"
                             ]
                         },
                         {
@@ -18796,14 +17641,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{ん゛ぉ゛お゛お゛お゛お゛お゛♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "だめ！膣内に射精さないでぇっ！！"
+                                "\\c[31]Nooohh! No! Don't ejaculate inside my vagina!!"
                             ]
                         },
                         {
@@ -18820,14 +17658,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\{ぶふーっ！精液を子宮で受け止め"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "我が子を孕むがいいっ！！"
+                                "Buh-! Receive my semen in your womb and bear my offspring!"
                             ]
                         },
                         {
@@ -18943,14 +17774,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ドピュ♥ドプッドプッドププッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ビュク！ビュク！ビュルルルッ♥♥♥"
+                                "\\c[27]Dopyu♥ Dopu Dopu Dopupu♥ Byuk! Byuk! Byurururu♥♥♥"
                             ]
                         },
                         {
@@ -18967,14 +17791,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{オ゛ッ♥♥オ゛ウッ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "んごっ゛♥あぁぁぁ～～～～ッ♥"
+                                "\\c[31]Ooh♥♥ Oohh♥♥ Ngooh♥ Ahhhhh~~~♥"
                             ]
                         },
                         {
@@ -18991,14 +17808,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{（イクッ♥イクッ♥ウマチンに屈服して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "種付けアクメでイグゥウウウッ♥）"
+                                "\\c[31](I'm cumming♥ I'm cumming♥ I'm succumbing to the Horse cock\nand cumming from being bred♥)"
                             ]
                         },
                         {
@@ -19027,14 +17837,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ゴリュ♥ゴリュ♥ゴリュッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "グリグリグリグリッ♥♥♥"
+                                "\\c[27]Goryu♥ Goryu♥ Goryu♥ Guriguriguri♥♥♥"
                             ]
                         },
                         {
@@ -19051,14 +17854,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ウマ男の射精の勢いは衰えることなく続き、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "確実に種付けする為に丹念に子宮を押しつぶし密着させる。"
+                                "The Horseman's ejaculation continues unabated, meticulously\ncrushing and adhering to the womb to ensure insemination."
                             ]
                         },
                         {
@@ -19087,14 +17883,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{びゅ～～～～っ♥びゅるるるっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "びゅくっ♥びゅびゅびゅっ～～♥"
+                                "\\c[27]Byuu~~~♥ Byurururu♥ Byuk♥ Byubyubyu~~~♥"
                             ]
                         },
                         {
@@ -19111,14 +17900,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{ん゛ぉ゛っ♥おっ゛♥お゛べっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ほぉぉおおおおおっっっっ♥♥♥"
+                                "\\c[31]Noooh♥ Ohh♥ Obeh♥ Hooohhhhhhhhh♥♥♥"
                             ]
                         },
                         {
@@ -19135,14 +17917,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "濃厚なウマ男一族の精子で子宮を蓋して確実に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "種付けさせてやる、じっくり子宮で味わうんだぞっ！"
+                                "I'll seal your womb with the thick semen of the Horseman\nclan and make sure you're bred, savor it thoroughly in your\nwomb!"
                             ]
                         },
                         {
@@ -19159,14 +17934,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{（むりっむりむりむりっ♥勝てないっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "こんな強い牡には勝てないっ♥）"
+                                "\\c[31](It's impossible, impossible! I can't win♥ I can't beat such\na strong male♥)"
                             ]
                         },
                         {
@@ -19195,14 +17963,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{びゅるるるっ♥どくどくどくっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "びゅくっ♥びゅびゅびゅっ～～♥"
+                                "\\c[27]Byurururu♥ Dokudoku♥ Byuk♥ Byubyubyu~~~♥"
                             ]
                         },
                         {
@@ -19219,14 +17980,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{ほぉぉぉぉおおおっ・・・ッッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "フーッ♥フーッ♥フーッ♥"
+                                "\\c[31]Hooohhhhhhh...!!! Fuu♥ Fuu♥ Fuu♥"
                             ]
                         },
                         {
@@ -19243,21 +17997,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "数十秒に及ぶウマ男の長い射精により、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "メメリスの子宮はドロドロのゼリーのような精液で満たされ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "屈服受精アクメで体をピクピクとさせている・・・。"
+                                "After dozens of seconds of the Horseman's long ejaculation,\nMemerisu's womb is filled with gooey semen, and her body\ntwitches in a submissive fertilization climax..."
                             ]
                         },
                         {
@@ -19274,14 +18014,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "すっかり牝の顔を晒しおって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "もう我以外の牡では満足出来なくなっただろう・・・なっ！"
+                                "You're completely showing your female face now. You won't be\nsatisfied with any male other than me anymore... right?!"
                             ]
                         },
                         {
@@ -19338,7 +18071,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{\\{\\{ブポンッッッッッ！！！"
+                                "\\c[27]Buponnnn!!!"
                             ]
                         },
                         {
@@ -19355,7 +18088,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{\\{ん゛ぉ゛ッッッッ！！？"
+                                "\\c[31]Nghhhhh!!?"
                             ]
                         },
                         {
@@ -19372,21 +18105,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "子宮を押しつぶしていた肉棒が膣肉を抉りつつ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "勢いよく抜かれ、その快感で間抜けな声をあげながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "再び絶頂してしまう・・・！！"
+                                "The dick crushing her womb is forcefully pulled out, gouging\nthrough her vaginal flesh, and she climaxes again with a\nfoolish voice from the pleasure...!!"
                             ]
                         },
                         {
@@ -19403,14 +18122,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ぶるんっ！ぶるんっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ぶるん・・・ッッ！"
+                                "\\c[27]Burunn! Burunn! Burunnn...!!"
                             ]
                         },
                         {
@@ -19427,14 +18139,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "引き抜かれた肉棒はあまりの長さから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "精液を垂らして激しく揺れている・・・！！"
+                                "The pulled-out dick, so long it drips semen, swings\nviolently...!!"
                             ]
                         },
                         {
@@ -19479,7 +18184,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]あへっ・・・おぉっ・・・あへぇ・・・っ。"
+                                "\\c[31]Aheh... Ohh... Aheee...h."
                             ]
                         },
                         {
@@ -19496,14 +18201,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{ガク♥ガク♥ガク♥ヒクッ♥ヒクッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ゴポッ♥ゴポポ・・・ッ♥"
+                                "\\c[27]Throb♥ Throb♥ Throb♥ Twitch♥ Twitch♥ Gush♥ Gushhhh...♥"
                             ]
                         },
                         {
@@ -19520,21 +18218,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "メメリスのおまんこは肉棒を引き抜かれた後も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "パックリと開いたままで、挿入される前の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ピッチリ閉じたおまんこの面影はどこにもなかった・・・。"
+                                "Memerisu's pussy remains gaping open even after the dick is\npulled out, with no trace left of the tightly closed pussy\nbefore insertion..."
                             ]
                         },
                         {
@@ -19551,14 +18235,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "種付けは完了した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "我らウマ男一族の強さ、身に染みて理解出来ただろう。"
+                                "The breeding is complete. You must have deeply understood\nthe strength of our Horseman clan."
                             ]
                         },
                         {
@@ -19575,14 +18252,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]はひゅっ・・・♥あへっ♥あへ・・・っ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "はいぃ・・・わ、わかりまひぃたぁ・・・♥"
+                                "\\c[31]Hyuh...♥ Aheh♥ Ahee...h♥ Yes... I, I understand...♥"
                             ]
                         },
                         {
@@ -19599,14 +18269,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]（あぁ・・・牡の強さを子宮が覚えちゃった・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "もうこのお方には逆らえない・・・っ）"
+                                "\\c[31](Ah... My womb has memorized the strength of a male... I can\nno longer defy this person...)"
                             ]
                         },
                         {
@@ -19623,21 +18286,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "成す術もなく凌辱され子宮は牡専用に作り変えられてしまい"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "牡の強さを刻み込まれた牝は、もう逆らおうという気も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "起きない・・・。"
+                                "Helplessly violated, her womb is remade for male use only,\nand the female, branded with the male's strength, no longer\neven thinks to resist..."
                             ]
                         },
                         {
@@ -19654,14 +18303,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "強き牡に奉仕し、媚びて望まれるままに子を孕み産むのが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "牝の幸せなのだと理解らせられてしまったのだ・・・。"
+                                "She has been made to understand that serving a strong male,\ncoyly being desired, and bearing children is the happiness\nof a female..."
                             ]
                         },
                         {
@@ -19678,14 +18320,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ぶふーっ！お前達2人にはこれから強き子を産んでもらう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ために頑張ってもらうぞ、わかったな。"
+                                "Buh-! You two will work hard from now on to bear strong\nchildren, understood."
                             ]
                         },
                         {
@@ -19702,14 +18337,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[17]分かり・・・まひたぁ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "元気な子をたくさん・・・産ませていただきますっ・・・♥"
+                                "\\c[17]Understood♥ I will bear many healthy children...♥"
                             ]
                         },
                         {
@@ -19726,14 +18354,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ティーナも妊婦と見間違うほどに精液を出され"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "強き牡に屈服の宣言をする・・・。"
+                                "Tina also declares her submission to the strong male,\nlooking almost pregnant with the amount of semen she's\nreceived..."
                             ]
                         },
                         {
@@ -19750,14 +18371,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]あははっ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ボクもいっぱい元気な子を産まなきゃぁ・・・♥"
+                                "\\c[31]Ahaha... I've got to bear lots of healthy children too...♥"
                             ]
                         },
                         {
@@ -19774,14 +18388,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "その後、2人は死ぬまで繁殖牝馬として"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "繁殖行為を行い続けることになるのであった・・・。"
+                                "Afterward, the two of them would continue to engage in\nbreeding activities as breeding mares until they die..."
                             ]
                         },
                         {
@@ -19803,21 +18410,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {

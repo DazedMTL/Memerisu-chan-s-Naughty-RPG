@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "チェルン村",
+    "displayName": "Chern Village",
     "encounterList": [],
     "encounterStep": 30,
     "height": 40,
@@ -10039,21 +10039,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは人種問わず全ての生き物たちが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "暮らせる村・・・チェルン村です。"
+                                "This is a village where all creatures, regardless of race,\ncan live... Chern Village."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -10063,7 +10056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・その割に誰もいなくない？"
+                                "...For that matter, isn't it empty?"
                             ]
                         },
                         {
@@ -10080,21 +10073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実は地方活性の為の税金による援助資金が下りたため、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "村を作ったところまではよかったのですが・・・。"
+                                "Yes. Actually, we received government funding to revitalize\nthe region, so we managed to build the village, but..."
                             ]
                         },
                         {
@@ -10111,14 +10090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "肝心の住民が集まらなくて・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "海も近くて漁業が捗ると思ったのですが困ったものです。"
+                                "The problem is that we can't seem to gather any residents...\nWe thought being close to the sea would boost the fishing\nindustry, but it's troubling."
                             ]
                         },
                         {
@@ -10135,21 +10107,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "勢いでなんとかなると思ったんですが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ダメでしたね（笑）"
+                                "We thought we could manage somehow with momentum, but it\ndidn't work out (laughs)."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -10159,7 +10124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{税金の無駄遣いはやめろぉ！！"
+                                "Stop wasting tax money!"
                             ]
                         },
                         {
@@ -10176,28 +10141,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もしお時間あればこの村に住民を勧誘して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いただけませんか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もちろん結果に応じて報酬もお出ししますよ？"
+                                "If you have some time, could you please help us recruit\nresidents for this village? Of course, we will reward you\naccording to the results."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -10207,7 +10158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えぇ～、めんどくさいのレベル超えてるよぉ。"
+                                "Ehh~, this is beyond just being a hassle."
                             ]
                         },
                         {
@@ -10224,21 +10175,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "困ってる人間とかボコった魔物とかなんでも生きてれば！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いえ、動いてればそれで構いませんので！！"
+                                "We're in trouble here, whether it's humans or monsters we've\nbeaten up... as long as they're alive! No, as long as they\nmove, that's all that matters!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -10248,7 +10192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、それで良いんですか・・・？"
+                                "I-Is that really okay...?"
                             ]
                         },
                         {
@@ -10265,14 +10209,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい、お役所仕事はやってる雰囲気出しとけばいいので！"
+                                "Yes, as long as we give off the impression that we're doing\nofficial work!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -10282,14 +10226,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クズだ！クズがいるっ！！"
+                                "There's trash! There's trash here!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -10299,14 +10243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まぁ・・・それでしたら冒険の合間に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お声掛けしてみますね。"
+                                "Well... if that's the case, I'll try to call out to them\nduring my adventures."
                             ]
                         },
                         {
@@ -10335,7 +10272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チェルン村に仲間を集められるようになった！"
+                                "You can now gather companions in Chern Village!"
                             ]
                         },
                         {
@@ -10352,14 +10289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "各地で会った人や魔物を勧誘して村人を増やそう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人が増えると村で出来る事が増えていくぞ！"
+                                "Recruit people and monsters you meet in various places to\nincrease the villagers! As the population grows, more\nactivities will become available in the village!"
                             ]
                         },
                         {
@@ -10376,14 +10306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それとすぐチェルン村に戻ってこれるアイテム"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "差し上げますね。"
+                                "Also, I'll give you an item that lets you return to Chern\nVillage right away."
                             ]
                         },
                         {
@@ -10412,7 +10335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チェルンのツバサを手に入れた！"
+                                "You've obtained the Wings of Chern!"
                             ]
                         },
                         {
@@ -10429,7 +10352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "頑張ってくださいねー！"
+                                "Please do your best!"
                             ]
                         },
                         {
@@ -10516,7 +10439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人をどんどん勧誘してくださいね！"
+                                "Please keep inviting more villagers!"
                             ]
                         },
                         {
@@ -10545,14 +10468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一度行った場所や意外な場所に村人はいるかもしれません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぜひ探して見てください。"
+                                "There might be villagers in places you've visited before or\nin unexpected places. Be sure to look for them."
                             ]
                         },
                         {
@@ -10620,14 +10536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少しずつですが人が集まってきましたね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この調子でお願いします！"
+                                "People are starting to gather little by little! Please keep\nit up at this pace!"
                             ]
                         },
                         {
@@ -10644,14 +10553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ヒントを聞きますか？"
+                                "...Would you like to hear a hint?"
                             ]
                         },
                         {
@@ -10659,8 +10561,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10690,14 +10592,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "しょうがありませんねぇ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "特別ですよ？"
+                                "Can't be helped, huh... It's special, you know?"
                             ]
                         },
                         {
@@ -10714,28 +10609,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1 ぬめぬめした魔物を懲らしめると・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "2 ほじりの森のどこかに・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "3 ゴブリンに攫われた村人を助けると・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "4 えっちなサキュバスを懲らしめると・・・。"
+                                "1 If you punish the slimy monster... 2 Somewhere in the\nForest of Digging... 3 If you save the villager kidnapped by\ngoblins... 4 If you punish the naughty succubus..."
                             ]
                         },
                         {
@@ -10752,28 +10626,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "5 小さな男の子の犬を助けてあげると・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "6 ダンジョンを歩いている旅の商人に話しかけると・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "7 ダンジョンにいるモンスターマスターに勝利すると・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "8 カジノで遊んでいる男に話しかけると・・・。"
+                                "5 If you help the little boy's dog... 6 If you talk to the\ntraveling merchant walking in the dungeon... 7 If you defeat\nthe Monster Master in the dungeon... 8 If you talk to the\nman playing in the casino..."
                             ]
                         },
                         {
@@ -10790,14 +10643,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "9  宿屋の孫との戦いに勝利すると・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "10 トゥルーエンドでクリアすると・・・。"
+                                "9 If you win the battle with the innkeeper's grandson... 10\nIf you clear with the True End..."
                             ]
                         },
                         {
@@ -10814,14 +10660,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ヒントは以上です！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それでは、がんばってくださいー！"
+                                "That's all the hints! Good luck!"
                             ]
                         },
                         {
@@ -10851,7 +10690,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "では、がんばってくださーい！！"
+                                "Now, do your best!!"
                             ]
                         },
                         {
@@ -10929,14 +10768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村人も増えて賑わってきましたね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この調子でどんどんお願いします！！"
+                                "The village is getting livelier with more people! Please\nkeep it up!!"
                             ]
                         },
                         {
@@ -10953,14 +10785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ヒントを聞きますか？"
+                                "...Would you like to hear a hint?"
                             ]
                         },
                         {
@@ -10968,8 +10793,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -10999,14 +10824,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "しょうがありませんねぇ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "特別ですよ？"
+                                "Can't be helped, can it... This is special, you know?"
                             ]
                         },
                         {
@@ -11023,28 +10841,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1 ぬめぬめした魔物を懲らしめると・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "2 ほじりの森のどこかに・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "3 ゴブリンに攫われた村人を助けると・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "4 えっちなサキュバスを懲らしめると・・・。"
+                                "1 If you punish the slimy monster... 2 Somewhere in the\nForest of Digging... 3 If you rescue the villager abducted\nby goblins... 4 If you punish the naughty succubus..."
                             ]
                         },
                         {
@@ -11061,28 +10858,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "5 小さな男の子の犬を助けてあげると・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "6 ダンジョンを歩いている旅の商人に話しかけると・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "7 ダンジョンにいるモンスターマスターに勝利すると・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "8 カジノで遊んでいる男に話しかけると・・・。"
+                                "5 If you help the little boy's dog... 6 If you talk to the\ntraveling merchant walking in the dungeon... 7 If you defeat\nthe Monster Master in the dungeon... 8 If you talk to the\nman playing in the casino..."
                             ]
                         },
                         {
@@ -11099,14 +10875,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "9  宿屋の孫との戦いに勝利すると・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "10 トゥルーエンドでクリアすると・・・。"
+                                "9 If you win the battle against the innkeeper's grandson...\n10 If you clear with the True End..."
                             ]
                         },
                         {
@@ -11123,14 +10892,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ヒントは以上です！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それでは、がんばってくださいー！"
+                                "That's all the hints! Good luck!"
                             ]
                         },
                         {
@@ -11160,7 +10922,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "では、がんばってくださーい！！"
+                                "Now, do your best!!"
                             ]
                         },
                         {
@@ -11238,21 +11000,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チェルン村も人が集まってすっかり賑やかな村になりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これも貴方達のおかげです。"
+                                "The village of Chern has become quite lively with all the\npeople gathering. This is all thanks to you."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -11262,21 +11017,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へへっ、どんなもんだい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボクちゃんにかかればこんなの楽勝さ！"
+                                "Heheh, how about that! It's a piece of cake for me!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -11286,21 +11034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここに来てくださった方々も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "楽しそうに過ごされていますし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お役に立ててよかったです。"
+                                "The people who came here seem to be having a good time, and\nI'm glad we could help."
                             ]
                         },
                         {
@@ -11317,21 +11051,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さてさて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お二人にお約束の品をお渡ししないとですね。"
+                                "Well then... I must give you both the promised reward."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 6,
                                 0,
                                 2
@@ -11341,7 +11068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え！？ホントに何かお礼をくれるの！"
+                                "Eh!? You're really going to give us something as thanks?"
                             ]
                         },
                         {
@@ -11358,14 +11085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もちろんです、ちゃんと約束はお守りいたしますよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それではこちらをどうぞ。"
+                                "Of course, I will keep my promise. Here you go."
                             ]
                         },
                         {
@@ -11394,7 +11114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チェルンの指輪を手に入れた！"
+                                "You obtained the Chern Ring!"
                             ]
                         },
                         {
@@ -11482,14 +11202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さて、この村が立派になるよう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだまだ頑張らないと・・・えいえいおー！！"
+                                "Well, I still have to work hard to make this village\nprosper... Ei, ei, oh—!!"
                             ]
                         },
                         {
@@ -11650,14 +11363,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほじ。ほーじー。"
+                                "Hoji. Ho-ji-."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -11667,14 +11380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "相変わらず・・・ほじほじだけで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何言ってるのかわかんないのう。"
+                                "As usual... I have no idea what you're saying with just\n\"hoji hoji\"."
                             ]
                         },
                         {
@@ -11751,21 +11457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よう！俺はこの村で武器屋を始めたぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ガッポガッポ稼いでばあちゃんの病気を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "治してみせる！！"
+                                "Hey there! I've started a weapon shop in this village! I'm\ngonna earn a ton of money and cure my grandma's illness!"
                             ]
                         },
                         {
@@ -11863,7 +11555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ニュルルルン！ニュル！ニュルルルル？"
+                                "Squelch... Squelch! Squelch squelch squelch?"
                             ]
                         },
                         {
@@ -12119,14 +11811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はっはっは！君達か。この村は良い所だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうだい、私の魔物達と戦うかい？"
+                                "Mwahaha! So it's you guys. This village is a nice place,\nisn't it? How about it, will you fight my monsters?"
                             ]
                         },
                         {
@@ -12134,8 +11819,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12165,21 +11850,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よく言った！それでは行くぞ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "モンスターバトル！レディイイィイイイイ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ゴォオオオオオオオオ！！！！！"
+                                "Well said! Then let's go!! Monster Battle! Reeeeadyyyyy!!!\nGooooo!!!!"
                             ]
                         },
                         {
@@ -12211,14 +11882,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "はっはっは！まだまだ修行が足らんな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "また試合しよう！"
+                                "Mwahaha! You still need more training! Let's have another\nmatch!"
                             ]
                         },
                         {
@@ -12245,14 +11909,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "私達はまだまだ強くなれる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お互いがんばろう！！"
+                                "We can still become much stronger! Let's both do our best!!"
                             ]
                         },
                         {
@@ -12362,14 +12019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "更衣室がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "水着に着替えますか？"
+                                "There's a changing room. Do you want to change into a\nswimsuit?"
                             ]
                         },
                         {
@@ -12377,8 +12027,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -12416,7 +12066,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "何して遊ぶ？"
+                                "What shall we play?"
                             ]
                         },
                         {
@@ -12424,9 +12074,9 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "2人で遊ぶ。",
-                                    "浜辺でナンパ待ち・・・♥",
-                                    "やっぱり止める"
+                                    "Play together.",
+                                    "Waiting for a pickup at the beach...♥",
+                                    "After all, let's not."
                                 ],
                                 2,
                                 0,
@@ -12462,7 +12112,7 @@
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -12472,14 +12122,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "よっしゃー！海で遊ぼうー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "着替えろ着替えろー！！"
+                                "Alright! Let's play at the beach! Change, change!!"
                             ]
                         },
                         {
@@ -12508,14 +12151,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ゴソゴソ・・・ゴソゴソ・・・。"
+                                "Rustle... Rustle..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -12525,21 +12168,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "よーし、着替えたぞー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ティーナちゃんは着替え終わった？"
+                                "Okay, I'm changed! Are you done changing, Tina-chan?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 6,
                                 0,
                                 2
@@ -12549,21 +12185,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "あ、あの・・・メメリスちゃん・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ちょっとこれは・・・！！"
+                                "Um, Memerisu-chan... this is a bit...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -12573,7 +12202,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ん、どうしたの？"
+                                "Hm, what's wrong?"
                             ]
                         },
                         {
@@ -12618,14 +12247,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[17]\\{\\{\\{む、胸が・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "はち切れそうです・・・！！"
+                                "\\c[17]My chest... it feels like it's going to burst...!!"
                             ]
                         },
                         {
@@ -12642,21 +12264,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "それは胸と言うにはあまりにも大きすぎた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "大きく柔らかく重くそしてたわわすぎた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "それは正におっぱいだった。"
+                                "It was too large to simply be called a chest. Large, soft,\nheavy, and overly bountiful. It was indeed a pair of\nbreasts."
                             ]
                         },
                         {
@@ -12673,7 +12281,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[31]・・・・・・・・・・・チラッ（自分の胸を見る）"
+                                "\\c[31]...Peek (glances at her own chest)"
                             ]
                         },
                         {
@@ -12702,7 +12310,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "・・・ストーーーーーーーン・・・。"
+                                "...Stare-------"
                             ]
                         },
                         {
@@ -12719,7 +12327,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\c[31]デカすぎるでしょ・・・。"
+                                "\\c[31]They're too big..."
                             ]
                         },
                         {
@@ -12736,7 +12344,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "2人でいっぱい遊んだ！"
+                                "The two of them played a lot!"
                             ]
                         },
                         {
@@ -12767,7 +12375,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "遊んでる途中で綺麗な貝殻を拾った！"
+                                "While playing, they found a beautiful seashell!"
                             ]
                         },
                         {
@@ -12806,7 +12414,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "綺麗な貝殻を手に入れた！"
+                                "You obtained a beautiful seashell!"
                             ]
                         },
                         {
@@ -12836,7 +12444,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "メメリスちゃんとティーナちゃんどっち？"
+                                "Which one, Memerisu-chan or Tina-chan?"
                             ]
                         },
                         {
@@ -12844,9 +12452,9 @@
                             "indent": 3,
                             "parameters": [
                                 [
-                                    "メメリス",
-                                    "ティーナ",
-                                    "やっぱりやめる。"
+                                    "Memerisu",
+                                    "Tina",
+                                    "I've decided to stop after all."
                                 ],
                                 2,
                                 0,
@@ -12881,21 +12489,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "お、そこのちんちくりんなお嬢ちゃん！可愛いね～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "今1人？よかったら俺と遊ばない？"
+                                "Hey, you little cutie over there! You're so cute~ Are you\nalone? Wanna hang out with me?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 4,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -12905,14 +12506,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "誰がちんちくりんじゃーい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "誰がどう見てもセクシーだろっ！"
+                                "Who are you calling little?! Anyone can see I'm sexy!"
                             ]
                         },
                         {
@@ -12929,21 +12523,14 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "お、おう・・・そうだな。ごめんごめんｗ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "腰とか・・・えっと、この辺が、セクシー・・・エロい！"
+                                "Oh, yeah... that's right. Sorry, sorry lol. Your waist\nand... um, around here, they're sexy... erotic!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 4,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -12953,14 +12540,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "ふふ～ん♪そうでしょそうでしょ～！！ﾄﾞﾔｧ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "（セクシーポーズ）"
+                                "Hehe~ Right? Right~!! Ta-da (strikes a sexy pose)"
                             ]
                         },
                         {
@@ -12977,14 +12557,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "そんなセクシーな君とぜひ遊びたいな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "なぁなぁ、こっちで俺と遊ぼうよ。"
+                                "I definitely want to play with someone as sexy as you! Hey\nhey, come on over here and play with me."
                             ]
                         },
                         {
@@ -13001,21 +12574,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "2人は人気のない場所へと移動しながら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "チャラ男の巧みなナンパ術で自然にえっちをする流れに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 4,
-                            "parameters": [
-                                "なっていった・・・！！"
+                                "While moving to a secluded spot, the two naturally flowed\ninto having sex due to the smooth-talking playboy's pickup\nskills...!!"
                             ]
                         },
                         {
@@ -13032,7 +12591,7 @@
                             "code": 401,
                             "indent": 4,
                             "parameters": [
-                                "メメリスちゃんの衣装を選べます。"
+                                "You can choose Memerisu-chan's outfit."
                             ]
                         },
                         {
@@ -13040,8 +12599,8 @@
                             "indent": 4,
                             "parameters": [
                                 [
-                                    "水着姿",
-                                    "全裸"
+                                    "Swimsuit",
+                                    "Fully Nude"
                                 ],
                                 1,
                                 0,
@@ -13104,14 +12663,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]\\{ちょっ、やめてってば！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "放せ、はーなーせー！！"
+                                "\\c[31]Stop it, I said! Let go, let go of me-!!"
                             ]
                         },
                         {
@@ -13128,14 +12680,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "ちょいちょい～、そんな暴れんなって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "お互いキモチいいようにしてやっからさ。"
+                                "Come on, don't struggle like that. We'll both feel good,\njust relax."
                             ]
                         },
                         {
@@ -13152,21 +12697,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "メメリスはチャラ男の後ろから抱き着かれ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "逃げられないように押さえつけられながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "水着をズラされていく・・・。"
+                                "Memerisu is held from behind by the playboy, unable to\nescape as he pushes her down and slides her swimsuit\naside..."
                             ]
                         },
                         {
@@ -13183,14 +12714,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]こんなお外でえっちな事なんて・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "誰かに見られたらどうするのさ！！"
+                                "\\c[31]Doing something so lewd outside...!! What if someone sees\nus?!"
                             ]
                         },
                         {
@@ -13207,14 +12731,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "大丈夫だって、こんな所に誰も来やしねぇよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "万が一来ても俺が守ってやるってｗよいしょっと・・・。"
+                                "It's fine, no one's gonna come here. And even if they do,\nI'll protect you lol. Here we go..."
                             ]
                         },
                         {
@@ -13231,14 +12748,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "チャラ男はニヤニヤ笑いながら軽い口調と共に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "穿いていた海パンを脱ぎ捨てた・・・。"
+                                "The playboy grinned as he spoke in a light tone and stripped\noff his swim trunks..."
                             ]
                         },
                         {
@@ -13283,7 +12793,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[27]\\{\\{ボロンッ・・・♥"
+                                "\\c[27]Boron...♥"
                             ]
                         },
                         {
@@ -13300,14 +12810,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "海パンを脱いで姿を現したチャラ男のチンコが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "メメリスの太ももとマンコの間に挟まれる・・・！！"
+                                "The playboy's cock, now free from his swim trunks, was\nwedged between Memerisu's thighs and pussy...!!"
                             ]
                         },
                         {
@@ -13324,7 +12827,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]\\{うわっ！かたっ！それにあっつっ！！！"
+                                "\\c[31]Whoa! It's so hard! And hot!!!"
                             ]
                         },
                         {
@@ -13341,14 +12844,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "へへっ、俺のチンコでかいだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "地元じゃ色んな女の子達に好評だったんだぜ。"
+                                "Heheh, my dick is big, right? It's been popular with lots of\ngirls back home."
                             ]
                         },
                         {
@@ -13365,14 +12861,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]（うぅ・・・確かに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "こいつのチンコ凄くデカい・・・！！）"
+                                "\\c[31](Ugh... It's true. His cock is incredibly big...!!)"
                             ]
                         },
                         {
@@ -13389,21 +12878,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "チャラ男のチンコは長くてカリも大きく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "立派な剥けチンで色黒・・・見ただけで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "何人もの女の子を抱いてきたのが分かった・・・！！"
+                                "The playboy's cock was long with a large glans, a proud\nuncircumcised member tanned in color... Just looking at it\nyou could tell he had been with many girls...!!"
                             ]
                         },
                         {
@@ -13420,14 +12895,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "お、思ってたより太ももの具合が気持ちいいじゃんっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ちょっとぶち込む前に一発、素股でイッとくかｗ"
+                                "Oh, your thighs feel better than I thought♪ Before I stick\nit in, let's get off with a thigh job lol"
                             ]
                         },
                         {
@@ -13456,14 +12924,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[27]\\{むにゅっ♥むにゅっ♥パンッ♥パンッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ぐちゃっ♥ぐちゃっ♥パンッ♥パンッ♥"
+                                "\\c[27]Munyu♥ Munyu♥ Spank♥ Spank♥ Squelch♥ Squelch♥ Spank♥ Spank♥"
                             ]
                         },
                         {
@@ -13480,14 +12941,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]ちょっ、人の太ももで何やってっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "んっ・・・、あっ・・ッッ♥"
+                                "\\c[31]Hey, what are you doing with someone's thighs...!! Nngh...\nAhh..!!♥"
                             ]
                         },
                         {
@@ -13504,14 +12958,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "おっ、めっちゃ良い具合の締め付けっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "太ももマンコ気持ちよすぎだろっ！！"
+                                "Ohh, this tightness is amazing♪ Thigh pussy feels too good!!"
                             ]
                         },
                         {
@@ -13528,14 +12975,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "チャラ男はメメリスに抱き着き、乱暴に腰を振り太ももを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "オナホのように蹂躙する・・・！！"
+                                "The playboy clung to Memerisu and roughly thrust his hips,\nravaging her thighs as if they were an onahole...!!"
                             ]
                         },
                         {
@@ -13552,14 +12992,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[27]\\{むにゅっ♥むにゅっ♥パンッ♥パンッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ぐちゃっ♥ぐちゃっ♥パンッ♥パンッ♥"
+                                "\\c[27]Munyu♥ Munyu♥ Spank♥ Spank♥ Squelch♥ Squelch♥ Spank♥ Spank♥"
                             ]
                         },
                         {
@@ -13576,21 +13009,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]そんな激しく動いてっ・・・んっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "チンコのカリがおまんこに擦れて・・・はぁっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "・・・ッッッ♥♥♥"
+                                "\\c[31]Don't move so violently... Nngh♥ The ridge of your cock is\nrubbing against my pussy... Hah♥... Ahhh♥♥♥"
                             ]
                         },
                         {
@@ -13607,7 +13026,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "・・・ッッ！！まずは一発、イクぞっ！！"
+                                "... Ahh!! I'm gonna cum with this one, here I go!!"
                             ]
                         },
                         {
@@ -13624,14 +13043,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "メメリスの太ももの間でチャラ男のチンコが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "精液を吐き出そうとビクンビクンと脈打つ・・・！！"
+                                "Between Memerisu's thighs, the playboy's cock pulsated as it\nwas about to spurt out semen...!!"
                             ]
                         },
                         {
@@ -13735,14 +13147,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[27]\\{\\{ドピュッ♥ドピュッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ビュルルルルルルルルルッ♥♥♥"
+                                "\\c[27]Splurt♥ Splurt♥ Spurrrrrrrrrrrrrt♥♥♥"
                             ]
                         },
                         {
@@ -13759,14 +13164,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]はぁっ♥んんんッッッ・・・♥太ももの中でチンコが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ビクビクって震えてっ♥精液出てるッッ♥"
+                                "\\c[31]Hah♥ Nnngh... Ahhh...♥ Your cock is twitching between my\nthighs♥ The semen is coming out♥"
                             ]
                         },
                         {
@@ -13783,7 +13181,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]精液びゅくびゅく射精してて太もも・・・あっつい♥"
+                                "\\c[31]The semen spurts out, drenching the thighs... It's so hot♥"
                             ]
                         },
                         {
@@ -13800,14 +13198,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "オラッ！もっと太もも挟み込んでチンコ締め付けろっ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "太ももマンコで精液全部搾り出しやがれっ！！"
+                                "Come on! Squeeze those thighs tighter around my cock...! Use\nyour thigh pussy to milk out all my cum!!"
                             ]
                         },
                         {
@@ -13836,14 +13227,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[27]\\{ギュッ♥ギュッ♥ギュゥッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ビュクッ♥ビュクッ♥ビュルルッッ・・・。"
+                                "\\c[27]Squeeze♥ Squeeze♥ Squeeeze♥ Spurt♥ Spurt♥ Spurrrt..."
                             ]
                         },
                         {
@@ -13860,14 +13244,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "メメリスはビクンビクンと脈打つチンコを太ももで締め付け"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "精液が出し切れるように奉仕をする・・・！！"
+                                "Memerisu tightens her thighs around the twitching cock,\nservicing it until all the semen is milked out...!!"
                             ]
                         },
                         {
@@ -13900,14 +13277,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]はぁ・・・♥はぁ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "うぅ、太ももが精液まみれ・・・さいあく。"
+                                "\\c[31]Hah...♥ Hah...♥ Ugh, my thighs are covered in cum... the\nworst."
                             ]
                         },
                         {
@@ -13924,14 +13294,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "チャラ男の精液を搾り出したメメリスの太ももは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "精液まみれになっていた・・・。"
+                                "Memerisu's thighs, having milked out the playboy's semen,\nwere now smeared with it..."
                             ]
                         },
                         {
@@ -13948,14 +13311,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "お、良い感じに太ももが精液まみれになってんじゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "俺特製の日焼けオイルだと思って塗り込んでやろうかｗ"
+                                "Oh, nice, your thighs are covered in cum. Maybe I should rub\nit in like it's my special suntan oil lol"
                             ]
                         },
                         {
@@ -13972,14 +13328,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]絶対やだっ！もうこれで満足したでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ほら、ボクを放して、はーなーしーてー！！"
+                                "\\c[31]Absolutely not! You're satisfied now, right? Come on, let me\ngo, let—me—go—!!"
                             ]
                         },
                         {
@@ -13996,14 +13345,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "射精もして満足しただろうと、チャラ男の抱き付きから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "逃れようとする・・・が。"
+                                "Trying to escape from the playboy's embrace after he\nejaculated..."
                             ]
                         },
                         {
@@ -14020,14 +13362,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "ちょいちょい、肝心のハメもせず帰すわけないだろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "素股で感じて少し濡れてるみたいだしぶちこんじゃおｗ"
+                                "Whoa whoa, as if I'd let you go without the main event!\nLooks like you got a bit wet from the thigh sex, so let's\njust shove it in lol"
                             ]
                         },
                         {
@@ -14044,7 +13379,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]えっ！？な、ちょっ・・・！！"
+                                "\\c[31]Eh!? W-Wait...!!"
                             ]
                         },
                         {
@@ -14099,14 +13434,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[27]\\{\\{ズプッ♥ズプププッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ドチュゥ！！！"
+                                "\\c[27]Thrust♥ Thrust thrust thrust♥ Sploosh!!!"
                             ]
                         },
                         {
@@ -14123,7 +13451,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]\\{\\{お゛っ゛っ゛・・・♥♥♥"
+                                "\\c[31]Ooohh...♥♥♥"
                             ]
                         },
                         {
@@ -14140,7 +13468,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]（一突きで子宮突いてっ・・・きたぁ・・・！！）"
+                                "\\c[31](He hit my womb with just one thrust... It's coming...!!)"
                             ]
                         },
                         {
@@ -14157,14 +13485,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "チャラ男はメメリスの制止を無視してカリ高極太チンコを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "挿入し、メメリスの反応にニヤニヤと笑みを浮かべる・・・。"
+                                "The playboy ignores Memerisu's protests and inserts his\nthick, prominent glans cock, grinning at her reaction..."
                             ]
                         },
                         {
@@ -14181,14 +13502,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "おぉ～、意外と良い締め付けしてんじゃん♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "マンコがキュウキュウ吸い付いてきやがる・・・！！"
+                                "Ohh~, you're tighter than I thought♪ Your pussy is clamping\ndown hard...!!"
                             ]
                         },
                         {
@@ -14205,14 +13519,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]んんっ・・・ちょ、生で挿入れて・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "抜いてっ、抜いてよぉ・・・ッッ！！"
+                                "\\c[31]Nnngh... Stop, you're inserting it raw...!! Pull out, pull\nout please... Ahh!!"
                             ]
                         },
                         {
@@ -14229,14 +13536,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "あぁ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "一回ぶち込んだチンコを抜く男がいるわけねぇだろｗ"
+                                "Ah!? Like any guy would pull out after sticking it in lol"
                             ]
                         },
                         {
@@ -14253,14 +13553,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "（こいつはちょっと生意気だし・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "中出ししてもヤリ捨てちまえば問題ねーでしょｗ）"
+                                "(This girl's a bit too sassy... If I cum inside her and\nditch her, no problem right lol)"
                             ]
                         },
                         {
@@ -14305,14 +13598,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュッ♥ズポッ♥♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "パン♥パン♥パン♥パン♥"
+                                "\\c[27]Sploosh♥ Thrust♥♥♥ Spank♥ Spank♥ Spank♥ Spank♥"
                             ]
                         },
                         {
@@ -14329,14 +13615,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]\\{お゛ん゛っ゛っ゛♥♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "はぁっ・・・ふぅ・・・♥くぅ・・・♥"
+                                "\\c[31]Ooohh...♥ Hah... Phew...♥ Kuu...♥"
                             ]
                         },
                         {
@@ -14353,14 +13632,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "チャラ男はメメリスを力強く抱きしめて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "激しくピストンを始める・・・！！"
+                                "The playboy holds Memerisu tightly and begins to piston her\nfiercely...!!"
                             ]
                         },
                         {
@@ -14377,21 +13649,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "ガキの癖に浜辺でマイクロビキニなんか着て"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "男誘ってるだけあってマンコがすっげぇうねって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "絡みついてきやがる・・・！！"
+                                "For a brat wearing a micro bikini on the beach trying to\nseduce guys, your pussy sure clings and wraps around\ntightly...!!"
                             ]
                         },
                         {
@@ -14408,14 +13666,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュッ♥ズポッ♥♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "パン♥パン♥パン♥パン♥"
+                                "\\c[27]Sploosh♥ Thrust♥♥♥ Spank♥ Spank♥ Spank♥ Spank♥"
                             ]
                         },
                         {
@@ -14432,14 +13683,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]んおっ♥んおっぉぉお゛お゛・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "チャラ男チンコでぇ・・・し、子宮ガン突きされてるぅ♥"
+                                "\\c[31]Nnghh! Nnghhooohh...♥ The playboy's cock is... pounding my\nwomb hard♥"
                             ]
                         },
                         {
@@ -14473,14 +13717,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュ！ドチュ！パンパン！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ドチュ！ドチュ！パンパン！！"
+                                "\\c[27]Sploosh! Sploosh! Spank spank!! Sploosh! Sploosh! Spank\nspank!!"
                             ]
                         },
                         {
@@ -14497,14 +13734,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "チャラ男の興奮は増していき、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ピストンのペースを上げていく・・・！！"
+                                "The playboy's excitement grows, and he increases the pace of\nhis pistoning...!!"
                             ]
                         },
                         {
@@ -14521,14 +13751,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]\\{んぉ・・・♥おっ・・・ッッ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "お゛お゛♥んお゛ぉ゛ぉ゛お゛っ♥"
+                                "\\c[31]Nngh...♥ Ohh... Ahh...♥ Ooohh♥ Nnghooohhooohhooohh♥"
                             ]
                         },
                         {
@@ -14545,14 +13768,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "良い声で鳴くじゃねぇか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "そろそろ2発目・・・今度は生ハメ中出しでイクぞ！！"
+                                "You're moaning so nicely! It's about time for round two...\nThis time I'm gonna cum inside raw!!"
                             ]
                         },
                         {
@@ -14644,14 +13860,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[27]\\{\\{ビュク！！ビュクク！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ビュルルルルルル！！！！"
+                                "\\c[27]Spurt!! Spurt spurt!!! Spurrrrrrrrrrrrrt!!!!!!!"
                             ]
                         },
                         {
@@ -14668,7 +13877,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]\\{\\{んおぉぉぉおおおおおお♥♥♥"
+                                "\\c[31]Nnghooooooohhhhhhhhhhhhhhhhhhhh♥♥♥"
                             ]
                         },
                         {
@@ -14685,14 +13894,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "メメリスはチャラ男の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "生ハメ無責任中出しをキメられてしまう・・・！！"
+                                "Memerisu is subjected to the playboy's raw, irresponsible\ncreampie...!!"
                             ]
                         },
                         {
@@ -14709,7 +13911,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]\\{\\{～～～～～～～ッッッッ♥♥♥"
+                                "\\c[31]~~~~~~~~~ Ahhhhhh♥♥♥"
                             ]
                         },
                         {
@@ -14726,21 +13928,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]\\{チャラ男ザーメンが子宮にドピュドピュ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "出されてッイクッ♥イクッ♥イッちゃぅう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ううううう♥♥♥"
+                                "\\c[31]The playboy's semen spurts into the womb, making her cum♥\nCumming♥ Cumminggggggggggggggggghhhhhhhhhhhh♥♥♥"
                             ]
                         },
                         {
@@ -14769,14 +13957,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[27]\\{ビュル♥ビュッビュッ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ビュル♥ビュッビュッ♥♥"
+                                "\\c[27]Spurt♥ Spurt spurt♥♥ Spurt♥ Spurt spurt♥♥"
                             ]
                         },
                         {
@@ -14793,14 +13974,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "膣内でチャラ男のチンコが震え、チャラ男の大量の濃厚"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ザーメンがメメリスの子宮を満たしていく・・・！！"
+                                "The playboy's cock trembles inside her, and his copious,\nthick semen fills Memerisu's womb...!!"
                             ]
                         },
                         {
@@ -14845,14 +14019,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[27]\\{ビュッ・・・ビュビュビュ♥♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "グリュリュリュ・・・ビュビュ♥♥♥"
+                                "\\c[27]Spurt... Spurt spurt spurt♥♥♥ Gush gush gush... Spurt\nspurt♥♥♥"
                             ]
                         },
                         {
@@ -14869,14 +14036,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]おっ・・・ほぉ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "んぉぉ・・・ッッ・・・ぉ゛ぉ゛ぉ゛♥"
+                                "\\c[31]Ohh... Hoo...♥ Ngh... Ahh...♥ Ooohh♥"
                             ]
                         },
                         {
@@ -14893,14 +14053,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "チャラ男のチンコを子宮口にピッチリ押し付けられながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "余すことなく出されるがまま精液を受け入れる・・・！！"
+                                "Memerisu is pressed tightly against the playboy's cock at\nher cervix, helplessly receiving every last drop of his\nsemen...!!"
                             ]
                         },
                         {
@@ -14917,14 +14070,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "ふぃ～、めっちゃ出た出たｗ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "って、やっべ！出し過ぎて腹がパンパンになってんじゃん！"
+                                "Phew, that was a lot of cumming, haha. Whoa, I came so much\nyour belly's all swollen!"
                             ]
                         },
                         {
@@ -14941,21 +14087,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "これは一発で孕んでるかもなぁ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ちょうどイッて頭トンでるようだな・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "めんどくせーのはごめんだし浜辺にヤリ捨ててくかｗ"
+                                "You might be pregnant with just one shot~. Looks like you're\nout of it from cumming... I don't want any trouble, so maybe\nI'll just leave you here on the beach, haha."
                             ]
                         },
                         {
@@ -14972,14 +14104,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "じゃーな、メメリスちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "結構楽しめたぜ。"
+                                "Later, Memerisu-chan. That was pretty fun."
                             ]
                         },
                         {
@@ -14996,7 +14121,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]ア・・・アヘェ・・・♥"
+                                "\\c[31]Ah... Ahegao...♥"
                             ]
                         },
                         {
@@ -15018,21 +14143,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -15166,14 +14277,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]\\{ちょっ、やめてってば！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "放せ、はーなーせー！！"
+                                "\\c[31]Stop, let me go! Release me, let gooooo!!"
                             ]
                         },
                         {
@@ -15190,14 +14294,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "ちょいちょい～、そんな暴れんなって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "お互いキモチいいようにしてやっからさ。"
+                                "Hey hey~, don't struggle like that. We're both just trying\nto feel good here."
                             ]
                         },
                         {
@@ -15214,21 +14311,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "メメリスはチャラ男の後ろから抱き着かれ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "逃げられないよう押さえつけられながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "水着を全て脱がされる・・・！！"
+                                "Memerisu is hugged from behind by the playboy, who holds her\ndown so she can't escape, stripping off her swimsuit\nentirely...!!"
                             ]
                         },
                         {
@@ -15245,21 +14328,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]こんなお外でえっちな事なんて・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "しかも全部脱がせるなんて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "誰かに見られたらどうするのさ！！"
+                                "\\c[31]Doing such lewd things outside...!! And you're stripping me\ncompletely... What if someone sees us!!"
                             ]
                         },
                         {
@@ -15276,14 +14345,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "大丈夫だって、こんな所に誰も来やしねぇよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "万が一来ても俺が守ってやるってｗよいしょっと・・・。"
+                                "It's fine, no one's gonna come to a place like this. Even if\nthey do, I'll protect you, haha. Alright then..."
                             ]
                         },
                         {
@@ -15300,14 +14362,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "チャラ男はニヤニヤ笑いながら軽い口調と共に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "穿いていた海パンを脱ぎ捨てた・・・。"
+                                "The playboy grins mischievously as he casually strips off\nhis swim trunks..."
                             ]
                         },
                         {
@@ -15352,7 +14407,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[27]\\{\\{ボロンッ・・・♥"
+                                "\\c[27]Plop...♥"
                             ]
                         },
                         {
@@ -15369,14 +14424,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "海パンを脱いで姿を現したチャラ男のチンコが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "メメリスの太ももとマンコの間に挟まれる・・・！！"
+                                "The playboy's cock, now freed from his swim trunks, is\nwedged between Memerisu's thighs and pussy...!!"
                             ]
                         },
                         {
@@ -15393,7 +14441,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]\\{うわっ！かたっ！それにあっつっ！！！"
+                                "\\c[31]Whoa! It's so hard! And it's hot too!!!"
                             ]
                         },
                         {
@@ -15410,14 +14458,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "へへっ、俺のチンコでかいだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "地元じゃ色んな女の子達に好評だったんだぜ。"
+                                "Heheh, my cock's pretty big, right? It's been popular with\nlots of girls back home."
                             ]
                         },
                         {
@@ -15434,14 +14475,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]（うぅ・・・確かに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "こいつのチンコ凄くデカい・・・！！）"
+                                "\\c[31](Ugh... It's true. His cock is incredibly big...!!)"
                             ]
                         },
                         {
@@ -15458,21 +14492,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "チャラ男のチンコは長くてカリも大きく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "立派な剥けチンで色黒・・・見ただけで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "何人もの女の子を抱いてきたのが分かった・・・！！"
+                                "The playboy's cock is long and thick with a large glans, a\nproud uncircumcised member tanned in color... Just looking\nat it, you can tell he's been with many girls...!!"
                             ]
                         },
                         {
@@ -15489,14 +14509,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "お、思ってたより太ももの具合が気持ちいいじゃんっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ちょっとぶち込む前に一発、素股でイッとくかｗ"
+                                "Oh, your thighs feel better than I thought♪ Maybe I'll cum\nonce with a thigh-job before sticking it in, haha."
                             ]
                         },
                         {
@@ -15525,14 +14538,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[27]\\{むにゅっ♥むにゅっ♥パンッ♥パンッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ぐちゃっ♥ぐちゃっ♥パンッ♥パンッ♥"
+                                "\\c[27]Squish♥ Squish♥ Spank♥ Spank♥ Squelch♥ Squelch♥ Spank♥\nSpank♥"
                             ]
                         },
                         {
@@ -15549,14 +14555,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]ちょっ、人の太ももで何やってっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "んっ・・・、あっ・・ッッ♥"
+                                "\\c[31]Hey, what are you doing with my thighs...!! Nngh... Ahh..\nAhh♥"
                             ]
                         },
                         {
@@ -15573,14 +14572,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "おっ、めっちゃ良い具合の締め付けっ♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "太ももマンコ気持ちよすぎだろっ！！"
+                                "Ohh, this tightness is amazing♪ Your thigh pussy feels too\ngood!!"
                             ]
                         },
                         {
@@ -15597,14 +14589,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "チャラ男はメメリスに抱き着き、乱暴に腰を振り太ももを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "オナホのように蹂躙する・・・！！"
+                                "The playboy clings to Memerisu and thrusts his hips roughly,\nravaging her thighs as if they were an onahole...!!"
                             ]
                         },
                         {
@@ -15621,14 +14606,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[27]\\{むにゅっ♥むにゅっ♥パンッ♥パンッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ぐちゃっ♥ぐちゃっ♥パンッ♥パンッ♥"
+                                "\\c[27]Squish♥ Squish♥ Spank♥ Spank♥ Squelch♥ Squelch♥ Spank♥\nSpank♥"
                             ]
                         },
                         {
@@ -15645,14 +14623,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]そんな激しく動いてっ・・・んっ♥チンコのカリがおまんこ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "に擦れて・・・はぁっ♥・・・ッッッ♥♥♥"
+                                "\\c[31]Don't move so violently... Nngh♥ The glans of your cock is\nrubbing against my pussy... Hahh♥... Ahhh♥♥♥"
                             ]
                         },
                         {
@@ -15669,7 +14640,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "・・・ッッ！！まずは一発、イクぞっ！！"
+                                "... Ahh!! I'm gonna cum first, here it comes!!"
                             ]
                         },
                         {
@@ -15686,14 +14657,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "メメリスの太ももの間でチャラ男のチンコが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "精液を吐き出そうとビクンビクンと脈打つ・・・！！"
+                                "The playboy's cock pulses between Memerisu's thighs as it\nprepares to ejaculate...!!"
                             ]
                         },
                         {
@@ -15797,14 +14761,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[27]\\{\\{ドピュッ♥ドピュッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ビュルルルルルルルルルッ♥♥♥"
+                                "\\c[27]Ejaculate♥ Ejaculate♥ Spurrrrrrrrrrrrrrrrrrrt♥♥♥"
                             ]
                         },
                         {
@@ -15821,14 +14778,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]はぁっ♥んんんッッッ・・・♥太ももの中でチンコが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ビクビクって震えてっ♥精液出てるッッ♥"
+                                "\\c[31]Hahh♥ Nnnngh... Ahhh...♥ My thighs can feel the cock\ntwitching and cumming inside them♥"
                             ]
                         },
                         {
@@ -15845,7 +14795,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]精液びゅくびゅく射精してて太もも・・・あっつい♥"
+                                "\\c[31]The semen spurts out thickly between the thighs... It's so\nhot♥"
                             ]
                         },
                         {
@@ -15862,14 +14812,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "オラッ！もっと太もも挟み込んでチンコ締め付けろっ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "太ももマンコで精液全部搾り出しやがれっ！！"
+                                "Come on! Squeeze your thighs tighter around my cock...! Use\nyour thigh pussy to milk out all my cum!!"
                             ]
                         },
                         {
@@ -15898,14 +14841,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[27]\\{ギュッ♥ギュッ♥ギュゥッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ビュクッ♥ビュクッ♥ビュルルッッ・・・。"
+                                "\\c[27]Squeeze♥ Squeeze♥ Squeeeze♥ Spurt♥ Spurt♥ Spurrrrt..."
                             ]
                         },
                         {
@@ -15922,14 +14858,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "メメリスはビクンビクンと脈打つチンコを太ももで締め付け"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "精液が出し切れるように奉仕をする・・・！！"
+                                "Memerisu squeezes the twitching cock between her thighs to\nensure all the semen is milked out...!!"
                             ]
                         },
                         {
@@ -15962,14 +14891,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]はぁ・・・♥はぁ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "うぅ、太ももが精液まみれ・・・さいあく。"
+                                "\\c[31]Hah... Hah... Ugh, my thighs are covered in semen... the\nworst."
                             ]
                         },
                         {
@@ -15986,14 +14908,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "チャラ男の精液を搾り出したメメリスの太ももは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "精液まみれになっていた・・・。"
+                                "Memerisu's thighs are smeared with the playboy's ejaculated\nsemen..."
                             ]
                         },
                         {
@@ -16010,14 +14925,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "お、良い感じに太ももが精液まみれになってんじゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "俺特製の日焼けオイルだと思って塗り込んでやろうかｗ"
+                                "Oh, nice. Your thighs are covered in semen. Think of it as\nmy special suntan oil and rub it in, haha."
                             ]
                         },
                         {
@@ -16034,14 +14942,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]絶対やだっ！もうこれで満足したでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ほら、ボクを放して、はーなーしーてー！！"
+                                "\\c[31]Absolutely not! You're satisfied now, right? Come on, let me\ngo, let go of me—!!"
                             ]
                         },
                         {
@@ -16058,14 +14959,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "射精もして満足しただろうと、チャラ男の抱き付きから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "逃れようとする・・・が。"
+                                "Trying to escape from the playboy's embrace after he\nejaculated, but..."
                             ]
                         },
                         {
@@ -16082,14 +14976,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "ちょいちょい、肝心のハメもせず帰すわけないだろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "素股で感じて少し濡れてるみたいだしぶちこんじゃおｗ"
+                                "Hey hey, there's no way I'd let you go without doing the\nreal thing! Looks like you got a bit wet from the thigh sex,\nso let's just stick it in lol"
                             ]
                         },
                         {
@@ -16106,7 +14993,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]えっ！？な、ちょっ・・・！！"
+                                "\\c[31]Eh!? W-Wait...!!"
                             ]
                         },
                         {
@@ -16161,14 +15048,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[27]\\{\\{ズプッ♥ズプププッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ドチュゥ！！！"
+                                "\\c[27]Thrust♥ Thrust♥ Splooge!!!"
                             ]
                         },
                         {
@@ -16185,7 +15065,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]\\{\\{お゛っ゛っ゛・・・♥♥♥"
+                                "\\c[31]Oooh...♥♥♥"
                             ]
                         },
                         {
@@ -16202,7 +15082,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]（一突きで子宮突いてっ・・・きたぁ・・・！！）"
+                                "\\c[31](He hit my womb with just one thrust... it's coming...!!)"
                             ]
                         },
                         {
@@ -16219,14 +15099,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "チャラ男はメメリスの制止を無視してカリ高極太チンコを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "挿入し、メメリスの反応にニヤニヤと笑みを浮かべる・・・。"
+                                "The playboy ignores Memerisu's protests and inserts his\nthick, prominent cock, smirking at her reactions..."
                             ]
                         },
                         {
@@ -16243,14 +15116,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "おぉ～、意外と良い締め付けしてんじゃん♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "マンコがキュウキュウ吸い付いてきやがる・・・！！"
+                                "Oh~, you're tighter than I expected♪ Your pussy is clenching\nand sucking me in...!!"
                             ]
                         },
                         {
@@ -16267,14 +15133,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]んんっ・・・ちょ、生で挿入れて・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "抜いてっ、抜いてよぉ・・・ッッ！！"
+                                "\\c[31]Nnngh... Stop, you're inserting it raw...!! Pull out, pull\nit out...!!"
                             ]
                         },
                         {
@@ -16291,14 +15150,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "あぁ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "一回ぶち込んだチンコを抜く男がいるわけねぇだろｗ"
+                                "Ah!? Like there's a guy who would pull out after sticking\nhis dick in lol"
                             ]
                         },
                         {
@@ -16315,14 +15167,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "（こいつはちょっと生意気だし・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "中出ししてもヤリ捨てちまえば問題ねーでしょｗ）"
+                                "(This one's a bit too cheeky... No problem if I just cum\ninside and ditch her afterwards lol)"
                             ]
                         },
                         {
@@ -16367,14 +15212,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュッ♥ズポッ♥♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "パン♥パン♥パン♥パン♥"
+                                "\\c[27]Splooge♥ Thrust♥♥♥ Bang♥ Bang♥ Bang♥ Bang♥"
                             ]
                         },
                         {
@@ -16391,14 +15229,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]\\{お゛ん゛っ゛っ゛♥♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "はぁっ・・・ふぅ・・・♥くぅ・・・♥"
+                                "\\c[31]Oooh...♥ Hah... Phew...♥ Kuu...♥"
                             ]
                         },
                         {
@@ -16415,14 +15246,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "チャラ男はメメリスを力強く抱きしめて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "激しくピストンを始める・・・！！"
+                                "The playboy holds Memerisu tightly and begins to piston\nfiercely...!!"
                             ]
                         },
                         {
@@ -16439,21 +15263,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "ガキの癖に浜辺でマイクロビキニなんか着て"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "男誘ってるだけあってマンコがすっげぇうねって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "絡みついてきやがる・・・！！"
+                                "For a brat wearing a micro bikini on the beach and seducing\nmen, your pussy is really wrapping around me tightly...!!"
                             ]
                         },
                         {
@@ -16470,14 +15280,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュッ♥ズポッ♥♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "パン♥パン♥パン♥パン♥"
+                                "\\c[27]Splooge♥ Thrust♥♥♥ Bang♥ Bang♥ Bang♥ Bang♥"
                             ]
                         },
                         {
@@ -16494,14 +15297,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]んおっ♥んおっぉぉお゛お゛・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "チャラ男チンコでぇ・・・し、子宮ガン突きされてるぅ♥"
+                                "\\c[31]Noooh♥ Nooohhh♥ The playboy's cock is... pounding my womb\nhard♥"
                             ]
                         },
                         {
@@ -16535,14 +15331,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュ！ドチュ！パンパン！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ドチュ！ドチュ！パンパン！！"
+                                "\\c[27]Splooge! Splooge! Bang bang!! Splooge! Splooge! Bang bang!!"
                             ]
                         },
                         {
@@ -16559,14 +15348,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "チャラ男の興奮は増していき"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ピストンのペースを上げていく・・・！！"
+                                "The playboy's excitement increases and he speeds up the pace\nof his thrusts...!!"
                             ]
                         },
                         {
@@ -16583,14 +15365,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]\\{んぉ・・・♥おっ・・・ッッ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "お゛お゛♥んお゛ぉ゛ぉ゛お゛っ♥"
+                                "\\c[31]Noh...♥ Ohh...!!♥ Oooh♥ Nooohhhhh♥"
                             ]
                         },
                         {
@@ -16607,14 +15382,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "良い声で鳴くじゃねぇか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "そろそろ2発目・・・今度は生ハメ中出しでイクぞ！！"
+                                "You're moaning so nicely! It's about time for the second\nround... This time I'm gonna cum inside raw!!"
                             ]
                         },
                         {
@@ -16706,14 +15474,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[27]\\{\\{ビュク！！ビュクク！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ビュルルルルルル！！！！"
+                                "\\c[27]Spurt!! Spurt!! Spurrrrrrrrrrrrrrrrrt!!!!!!!"
                             ]
                         },
                         {
@@ -16730,7 +15491,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]\\{\\{んおぉぉぉおおおおおお♥♥♥"
+                                "\\c[31]Noooooo♥♥♥"
                             ]
                         },
                         {
@@ -16747,14 +15508,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "メメリスはチャラ男の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "生ハメ無責任中出しをキメられてしまう・・・！！"
+                                "Memerisu ends up taking the playboy's raw, irresponsible\ncreampie...!!"
                             ]
                         },
                         {
@@ -16771,7 +15525,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]\\{\\{～～～～～～～ッッッッ♥♥♥"
+                                "\\c[31]~~~~~~~~~~~♥♥♥"
                             ]
                         },
                         {
@@ -16788,21 +15542,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]\\{チャラ男ザーメンが子宮にドピュドピュ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "出されてッイクッ♥イクッ♥イッちゃぅう"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ううううう♥♥♥"
+                                "\\c[31]The playboy's semen spurts into the womb, making Memerisu\ncum♥ Cumming♥ Cummingggggg♥♥♥"
                             ]
                         },
                         {
@@ -16831,14 +15571,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[27]\\{ビュル♥ビュッビュッ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ビュル♥ビュッビュッ♥♥"
+                                "\\c[27]Spurt♥ Spurt spurt♥♥ Spurt♥ Spurt spurt♥♥"
                             ]
                         },
                         {
@@ -16855,14 +15588,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "膣内でチャラ男のチンコが震え、チャラ男の大量の濃厚"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ザーメンがメメリスの子宮を満たしていく・・・！！"
+                                "The playboy's cock trembles inside her as his copious thick\nsemen fills Memerisu's womb...!!"
                             ]
                         },
                         {
@@ -16907,14 +15633,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[27]\\{ビュッ・・・ビュビュビュ♥♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "グリュリュリュ・・・ビュビュ♥♥♥"
+                                "\\c[27]Spurt... Spurt spurt spurt♥♥♥ Gurgle gurgle gurgle... Spurt\nspurt♥♥♥"
                             ]
                         },
                         {
@@ -16931,14 +15650,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]おっ・・・ほぉ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "んぉぉ・・・ッッ・・・ぉ゛ぉ゛ぉ゛♥"
+                                "\\c[31]Ohh... Hoo...♥ Nohhh...!! Ooohhhhhhh♥"
                             ]
                         },
                         {
@@ -16955,14 +15667,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "チャラ男のチンコを子宮口にピッチリ押し付けられながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "余すことなく出されるがまま精液を受け入れる・・・！！"
+                                "Memerisu accepts the semen being released without waste as\nthe playboy presses his cock tightly against her cervical\nopening...!!"
                             ]
                         },
                         {
@@ -16979,14 +15684,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "ふぃ～、めっちゃ出た出たｗ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "って、やっべ！出し過ぎて腹がパンパンになってんじゃん！"
+                                "Phew~, I came so much lol. Whoa, damn! I came so much your\nbelly's all swollen!"
                             ]
                         },
                         {
@@ -17003,21 +15701,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "これは一発で孕んでるかもなぁ～。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ちょうどイッて頭トンでるようだな・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "めんどくせーのはごめんだし浜辺にヤリ捨ててくかｗ"
+                                "This might have gotten you pregnant in one shot~. Seems like\nyou're out of it from cumming... I don't like trouble, so\nmaybe I'll just leave you here on the beach lol."
                             ]
                         },
                         {
@@ -17034,14 +15718,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "じゃーな、メメリスちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "結構楽しめたぜ。"
+                                "See ya, Memerisu-chan. Had quite a bit of fun."
                             ]
                         },
                         {
@@ -17058,7 +15735,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[31]ア・・・アヘェ・・・♥"
+                                "\\c[31]Ah... Aheee...♥"
                             ]
                         },
                         {
@@ -17080,21 +15757,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -17221,21 +15884,14 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "お、そこの綺麗なお姉さん！可愛いね～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "今1人？よかったら俺と遊ばない？"
+                                "Hey, beautiful lady over there! You're cute~♪ Are you alone?\nWanna hang out with me?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 5,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 6,
                                 0,
                                 2
@@ -17245,14 +15901,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "・・・私ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "い、いいですけど・・・。"
+                                "...Me? I-I guess that's okay..."
                             ]
                         },
                         {
@@ -17269,14 +15918,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "ヒューッ！やったぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ほら、こっちで俺と遊ぼうよ！"
+                                "Yes! Score! Come on, let's have some fun over here with me!"
                             ]
                         },
                         {
@@ -17293,21 +15935,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "2人は人気のない場所へと移動しながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "チャラ男の巧みなナンパ術でなしくずし的に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "えっちをする流れになっていく・・・！！"
+                                "As they move to a secluded spot, the playboy's smooth pick-\nup techniques gradually lead them into having sex...!!"
                             ]
                         },
                         {
@@ -17324,21 +15952,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -17388,7 +16002,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[17]あの・・・これで良いですか・・・？"
+                                "\\c[17]Um... is this okay...?"
                             ]
                         },
                         {
@@ -17405,14 +16019,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "人気のない岩場に移動するとティーナは水着をズラして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "お尻を向け、チャラ男を誘惑する・・・。"
+                                "Moving to a deserted rocky area, Tina slides her swimsuit\naside and turns her butt towards the playboy, seducing\nhim..."
                             ]
                         },
                         {
@@ -17429,14 +16036,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "うお、エッロ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ティーナちゃんケツがデカくてエロすぎでしょｗ"
+                                "Whoa, damn! Tina-chan, your ass is so big and sexy lol"
                             ]
                         },
                         {
@@ -17453,14 +16053,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "（いやぁ～、どう見てもこんなエロい水着着てる女なんか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "誘えばヤレると思ったが・・・ビンゴだぜｗ）"
+                                "(Man, I totally thought a chick wearing such a sexy swimsuit\nwould be down if I hit on her... Bingo lol)"
                             ]
                         },
                         {
@@ -17477,7 +16070,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[17]そ、そうでしょうか・・・！？"
+                                "\\c[17]Is that so...!?"
                             ]
                         },
                         {
@@ -17494,14 +16087,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[17]（わ、わたし・・・今日初めて会った男の人におまんこ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "見せちゃってます・・・！！）"
+                                "\\c[17](I... I'm showing my pussy to a guy I met for the first time\ntoday...!!)"
                             ]
                         },
                         {
@@ -17518,14 +16104,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "いやいや、マジで最高！デカケツと胸・・・たまんねぇな♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "自信もっていいよ！！"
+                                "No no, seriously, it's the best! Big ass and tits... you\nshould be confident!!"
                             ]
                         },
                         {
@@ -17542,14 +16121,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "チャラ男はティーナの胸や尻を触りながら海パンを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "脱ぎ始める・・・！！"
+                                "The playboy starts touching Tina's breasts and ass as he\nbegins to take off his swim trunks...!!"
                             ]
                         },
                         {
@@ -17566,14 +16138,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[17]あ、あの・・・ゴムはちゃんと着けてくださいね・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "それと1回だけですから・・・！！"
+                                "\\c[17]Um... please make sure to wear a condom, okay? And just\nonce...!!"
                             ]
                         },
                         {
@@ -17590,7 +16155,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "おっけーおっけー、俺も面倒ごとはごめんだからな。"
+                                "Okay-okay, I don't like complications either."
                             ]
                         },
                         {
@@ -17635,14 +16200,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "手慣れた手付きでコンドームをチンコに付けるチャラ男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "・・・。"
+                                "The playboy expertly fits a condom onto his cock..."
                             ]
                         },
                         {
@@ -17659,7 +16217,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[17]わぁ・・・お、おっきい・・・。"
+                                "\\c[17]Wow... it's so big..."
                             ]
                         },
                         {
@@ -17676,14 +16234,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "チャラ男のチンコはカリ高く、見ただけで今までに多くの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "女を抱いてきた事が分かる・・・！！"
+                                "The playboy's cock is prominently veined, and just by\nlooking at it, you can tell he's been with many women\nbefore...!!"
                             ]
                         },
                         {
@@ -17700,14 +16251,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "デカいでしょ、結構自信あんだよねｗ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "まぁ、準備は出来てそうだし挿入しちまって大丈夫だろ！"
+                                "Big, right? I'm pretty confident about it lol. Well, looks\nlike you're ready, so it's fine to stick it in!"
                             ]
                         },
                         {
@@ -17724,7 +16268,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "チャラ男はティーナの腕を掴んで一気に挿入する・・・！"
+                                "The playboy grabs Tina's arms and thrusts into her in one\ngo...!"
                             ]
                         },
                         {
@@ -17779,14 +16323,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[27]\\{\\{ズプッ♥ズプププププ♥♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ドチュッッッ♥♥♥"
+                                "\\c[27]Zup♥ Zupppppp♥♥♥ Dochuuuu♥♥♥"
                             ]
                         },
                         {
@@ -17803,14 +16340,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[17]\\{あんっ・・・ッッ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "・・・ッッ・・・おっ・・・♥"
+                                "\\c[17]Ahhn... Ahh...♥... Ahh... ohh...♥"
                             ]
                         },
                         {
@@ -17839,14 +16369,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュッ♥ズポッ♥♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "パン♥パン♥パン♥パン♥"
+                                "\\c[27]Dochu♥ Zupo♥♥♥ Pan♥ Pan♥ Pan♥ Pan♥"
                             ]
                         },
                         {
@@ -17863,7 +16386,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "チャラ男は乱暴に挿入し激しくピストンをする・・・！！"
+                                "The playboy roughly penetrates and vigorously pistons...!!"
                             ]
                         },
                         {
@@ -17880,14 +16403,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "うおっ！これがエロ水着着てる女のマンコかよッ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "すっげぇうねって絡みついてきやがる・・・！！"
+                                "Whoa! So this is what a chick in a sexy swimsuit's pussy\nfeels like...!! It's so damn tight and clinging...!!"
                             ]
                         },
                         {
@@ -17904,14 +16420,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[17]\\{んんっ・・・♥は、早く終わらせて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ください・・・！！"
+                                "\\c[17]Nnnh...♥ Please, finish quickly...!!"
                             ]
                         },
                         {
@@ -17945,14 +16454,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュッ♥ズポッ♥♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "パン♥パン♥パン♥パン♥"
+                                "\\c[27]Dochu♥ Zupo♥♥♥ Pan♥ Pan♥ Pan♥ Pan♥"
                             ]
                         },
                         {
@@ -17969,14 +16471,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "チャラ男の興奮は増していき、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ピストンのペースを上げていく・・・！！"
+                                "The playboy's excitement increases, and he speeds up the\npace of his thrusting...!!"
                             ]
                         },
                         {
@@ -17993,14 +16488,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[17]\\{んぉ・・・♥おっ・・・ッッ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "お゛お゛♥すっごいです・・・♥♥"
+                                "\\c[17]Nohh...♥ Ahh... Ahh...♥ Ohhh♥ It feels amazing...♥♥"
                             ]
                         },
                         {
@@ -18017,14 +16505,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "くっそ！突くたびに胸もケツも揺らしやがって・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "マジでエロい女だな・・・！！"
+                                "Damn! Every thrust makes her tits and ass shake... She's\nseriously such a sexy woman...!!"
                             ]
                         },
                         {
@@ -18041,7 +16522,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\{まずは1発目・・・イクッ！！"
+                                "Here comes the first load... I'm cumming!!"
                             ]
                         },
                         {
@@ -18133,14 +16614,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[27]\\{\\{ビュク！！ビュクク！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ビュルルルルルル！！！！"
+                                "\\c[27]Byuk!! Byukku!!! Byurururururu!!!!!!"
                             ]
                         },
                         {
@@ -18157,7 +16631,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[17]\\{\\{～～～～～～～ッッッッ♥♥♥"
+                                "\\c[17]~~~~~~~~~~~ Ahhhhhhh♥♥♥"
                             ]
                         },
                         {
@@ -18174,14 +16648,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "膣内でチャラ男のチンコが震え、ゴム越しにチャラ男の精液"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "がティーナの子宮を満たしていく・・・！！"
+                                "Inside her, the playboy's cock trembles as his semen fills\nTina's womb through the condom...!!"
                             ]
                         },
                         {
@@ -18198,14 +16665,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[27]\\{ビュッ・・・ビュビュビュ♥♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "グリュリュリュ・・・ビュビュ♥♥♥"
+                                "\\c[27]Byu... Byubyubyu♥♥♥ Guryuryuryu... Byubyu♥♥♥"
                             ]
                         },
                         {
@@ -18222,14 +16682,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "うおっ、やっべぇ・・・1発目からくっそ搾られる・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ガチでスケベすぎだろ・・・ティーナちゃん・・・！！"
+                                "Whoa, damn... I'm getting milked so hard on the first\nshot... Tina-chan is seriously too lewd...!!"
                             ]
                         },
                         {
@@ -18246,7 +16699,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[17]・・・ッッ・・・こ、これで終わり・・・ですよね。"
+                                "\\c[17]... Ahh... This is the end... right?"
                             ]
                         },
                         {
@@ -18263,21 +16716,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "いやいや冗談でしょｗ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "まだ俺全然満足してないからさ～、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "もうちょっとだけお願い♥"
+                                "No way, you're joking right lol. I'm nowhere near satisfied\nyet~ So please, just a little more♥"
                             ]
                         },
                         {
@@ -18294,14 +16733,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "まだまだゴムはあるから安心してよｗ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "ティーナちゃんも気持ち良かったでしょ♪"
+                                "We still have more condoms, so don't worry lol. You enjoyed\nit too, right Tina-chan♪"
                             ]
                         },
                         {
@@ -18318,7 +16750,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[17]そ、それは・・・\\}そうですけど・・・。"
+                                "\\c[17]That's... true but..."
                             ]
                         },
                         {
@@ -18335,7 +16767,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "そうこなくっちゃ！いっぱい楽しんじゃおうね～♪"
+                                "That's what I'm talking about! Let's have lots of fun~♪"
                             ]
                         },
                         {
@@ -18352,14 +16784,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "チャラ男は笑いながらまだ硬いままのチンコに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "新しいゴムを装着していく・・・。"
+                                "The playboy laughs as he puts a new condom on his still-hard\ncock..."
                             ]
                         },
                         {
@@ -18554,14 +16979,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "そして・・・その後何度もチャラ男に流されるままに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "犯され続け・・・。"
+                                "And then... she was repeatedly taken by the playboy as she\nlet herself be swept away..."
                             ]
                         },
                         {
@@ -18594,14 +17012,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "はぁ・・・はぁ・・・流石にもう無理ｗ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "めっちゃ満足したわ～♪"
+                                "Haah... Haah... I seriously can't anymore lol. I'm totally\nsatisfied now~♪"
                             ]
                         },
                         {
@@ -18618,14 +17029,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "チャラ男の欲望のままに犯され続け、犯した証として"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "水着に使用済みゴムを結びつけられていた・・・。"
+                                "Continuously violated by the playboy's desires, her swimsuit\nwas tied with the used condoms as a sign of what had been\ndone..."
                             ]
                         },
                         {
@@ -18658,14 +17062,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[17]・・・ッッ・・・はぁはぁ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "んっ・・・ふぅ・・・ふぅ・・・♥"
+                                "\\c[17]...Hah... Hah...♥ Nn... Fuu... Fuu...♥"
                             ]
                         },
                         {
@@ -18682,14 +17079,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[17]（チャラ男さんのオチンポ・・・乱暴だけど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "何度もイカされちゃってッ・・・凄かったです・・・）"
+                                "\\c[17](The playboy's dick... it's rough but... he made me come so\nmany times... It was amazing...)"
                             ]
                         },
                         {
@@ -18706,14 +17096,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "俺達身体の相性最高じゃね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "また会いたいしメアド交換しようよ～、なっ♪"
+                                "We have the best physical chemistry, don't we? I want to see\nyou again, let's exchange email addresses, yeah?♪"
                             ]
                         },
                         {
@@ -18730,7 +17113,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "\\c[17]・・・・・・・・・・・はい♥"
+                                "\\c[17]...Yes♥"
                             ]
                         },
                         {
@@ -18752,21 +17135,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 5,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -18843,7 +17212,7 @@
                             "code": 101,
                             "indent": 5,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 6,
                                 0,
                                 2
@@ -18853,7 +17222,7 @@
                             "code": 401,
                             "indent": 5,
                             "parameters": [
-                                "そ、そんな大胆な事出来ません！！"
+                                "I-I can't do something so bold!!"
                             ]
                         },
                         {
@@ -18936,14 +17305,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "メメリス達は水着を持っていなかった！"
+                                "Memerisu and the others didn't have their swimsuits!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 0,
                                 0,
                                 2
@@ -18953,14 +17322,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "もう全裸で泳ぐしかないのでは？"
+                                "Maybe we have no choice but to swim naked?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -18970,7 +17339,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "絶対嫌ですっ！"
+                                "Absolutely not!"
                             ]
                         },
                         {
@@ -19207,14 +17576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "井戸だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "水を飲もう！"
+                                "It's a well! Let's drink some water!"
                             ]
                         },
                         {
@@ -19222,8 +17584,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -19244,9 +17606,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "メメリス",
-                                    "ティーナ",
-                                    "やっぱりやめる"
+                                    "Memerisu",
+                                    "Tina",
+                                    "After all, I'll stop."
                                 ],
                                 2,
                                 0,
@@ -19276,7 +17638,7 @@
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 3,
                                 0,
                                 2
@@ -19286,7 +17648,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "おしっこしたいし今はやめておこう・・・。"
+                                "I need to pee, so maybe I should hold off for now..."
                             ]
                         },
                         {
@@ -19313,14 +17675,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "メメリスは水を汲んで飲んだ！"
+                                "Memerisu drew water and drank it!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 1,
                                 0,
                                 2
@@ -19330,7 +17692,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "うーまーあーじー！！"
+                                "Mmm, so tasty!!"
                             ]
                         },
                         {
@@ -19359,14 +17721,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "メメリスの体力は全回復した！"
+                                "Memerisu's health has been fully restored!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 3,
                                 0,
                                 2
@@ -19376,14 +17738,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "・・・むむっ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "なんだかトイレに行きたくなってきたかも。"
+                                "...Hmm, I kind of feel like I need to go to the bathroom\nnow."
                             ]
                         },
                         {
@@ -19412,14 +17767,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "メメリスはおしっこがしたくなってしまった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "トイレに行かないとお漏らししてしまうぞ！"
+                                "Memerisu now needs to pee! She must go to the bathroom or\nshe'll have an accident!"
                             ]
                         },
                         {
@@ -19487,7 +17835,7 @@
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -19497,14 +17845,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "今はおしっこもしたいですし・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "飲むのはやめておきましょう。"
+                                "I also feel like peeing right now... Let's not drink any\nmore."
                             ]
                         },
                         {
@@ -19531,14 +17872,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ティーナは水を汲んで飲んだ！"
+                                "Tina drew water and drank it!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -19548,7 +17889,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "冷たくて美味しい・・・元気が出てきますね♪"
+                                "It's cold and delicious... It's revitalizing♪"
                             ]
                         },
                         {
@@ -19577,14 +17918,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ティーナの体力は全回復した！"
+                                "Tina's health has been fully restored!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 3,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 7,
                                 0,
                                 2
@@ -19594,21 +17935,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "あっ・・・、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "なんだか少しおトイレに行きたくなって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "きちゃいましたね。"
+                                "Ah... I kind of feel like I need to go to the bathroom a\nlittle now."
                             ]
                         },
                         {
@@ -19637,14 +17964,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "ティーナはおしっこがしたくなってしまった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "トイレに行かないとお漏らししてしまうぞ！"
+                                "Tina now needs to pee! She must go to the bathroom or she'll\nhave an accident!"
                             ]
                         },
                         {
@@ -19805,14 +18125,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ワンワンワン！"
+                                "Bark bark bark!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -19822,21 +18142,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "きゃっ、そんなにお顔を舐めないでください～"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "♥"
+                                "Kyaa, please don't lick my face so much~♥"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -19846,14 +18159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おぉ～よしよし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ポチや～こいこいこーい♪"
+                                "Ooh~ there, there. Pochi, come here, come here~♪"
                             ]
                         },
                         {
@@ -19870,14 +18176,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・・・・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 6,
                                 0,
                                 2
@@ -19887,7 +18193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれぇ！？"
+                                "Huh?! What's that?"
                             ]
                         },
                         {
@@ -20132,7 +18438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボクとポチの家！"
+                                "My and Pochi's house!"
                             ]
                         },
                         {
@@ -20209,7 +18515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サキュ子の家！"
+                                "Succubus's house!"
                             ]
                         },
                         {
@@ -20370,7 +18676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ～浜辺で水着の可愛い女の子とかいねぇーかなー。"
+                                "Ah~ I wonder if there are any cute girls in swimsuits on the\nbeach..."
                             ]
                         },
                         {
@@ -20513,7 +18819,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -20523,7 +18829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たーるっ！"
+                                "It's dripping!"
                             ]
                         },
                         {
@@ -20674,7 +18980,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -20684,7 +18990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たーるっ！"
+                                "It's dripping!"
                             ]
                         },
                         {
@@ -20948,7 +19254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "教会！"
+                                "Church!"
                             ]
                         },
                         {
@@ -21015,7 +19321,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -21025,21 +19331,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何もない広場に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ポツンと立派な銅像がありますね・・・。"
+                                "There's a splendid statue standing all alone in an empty\nsquare..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -21049,21 +19348,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こういう銅像って邪魔になるだけだし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手入れもしないとどんどん汚れていくよね。"
+                                "Statues like this just get in the way, and if you don't\nmaintain them, they just get dirtier over time."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -21073,14 +19365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "寂れた観光地の公園とかでよく見かけるけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "作る意味はあるのかなぁ？"
+                                "You often see them in neglected tourist spots and parks, but\nI wonder if there's really a point in making them?"
                             ]
                         },
                         {
@@ -21128,14 +19413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "援助資金は残らず使い切らないと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "次の予算が降りてこないので仕方ないのです！"
+                                "The assistance funds have to be used up completely,\notherwise, we won't get the next budget allocation!"
                             ]
                         },
                         {
@@ -21154,7 +19432,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -21164,14 +19442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{だから！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "税金の無駄遣いはやめろぉ！！"
+                                "That's why! Stop wasting our tax money!"
                             ]
                         },
                         {

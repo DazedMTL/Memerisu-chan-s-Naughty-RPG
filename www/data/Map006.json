@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "武具屋",
+    "displayName": "Armory",
     "encounterList": [],
     "encounterStep": 30,
     "height": 16,
@@ -3248,21 +3248,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダンジョンに挑む前にしっかり装備を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "整えないと危ないよ。"
+                                "Make sure to properly equip yourself before challenging the\ndungeon, or it could be dangerous."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 3,
                                 0,
                                 2
@@ -3272,14 +3265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "でもこのお店・・・品揃え悪くない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一番雑魚い装備しか売ってないよ。"
+                                "But this shop... isn't the selection bad? They're only\nselling the weakest equipment."
                             ]
                         },
                         {
@@ -3296,7 +3282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最初の村はこんなもんだよ。"
+                                "The first village is always like this."
                             ]
                         },
                         {
@@ -3363,7 +3349,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -3373,14 +3359,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おおー、なんか綺麗なネックレスがある！"
+                                "Oh, there's a beautiful necklace here!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -3390,21 +3376,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスちゃんがオシャレに興味を持つなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "珍しいですね・・・。"
+                                "It's rare for you to take an interest in fashion, Memerisu-\nchan..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 0,
                                 0,
                                 2
@@ -3414,14 +3393,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いや、ティーナちゃんに似合いそうだなって。"
+                                "No, I was just thinking it would look good on you, Tina-\nchan."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 6,
                                 0,
                                 2
@@ -3431,7 +3410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・っ！！"
+                                "...!!"
                             ]
                         },
                         {

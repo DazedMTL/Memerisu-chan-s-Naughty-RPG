@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ダンジョン",
+    "displayName": "Dungeon",
     "encounterList": [],
     "encounterStep": 100,
     "height": 50,
@@ -15580,7 +15580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハイポーションを手に入れた！"
+                                "Obtained a High Potion!"
                             ]
                         },
                         {
@@ -15826,7 +15826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "4545\\G 手に入れた！"
+                                "Gained 4545\\G!"
                             ]
                         },
                         {
@@ -16073,7 +16073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "聖女のローブを手に入れた！"
+                                "Obtained the Saintess's Robe!"
                             ]
                         },
                         {

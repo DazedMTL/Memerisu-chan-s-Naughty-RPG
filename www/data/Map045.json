@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "宿屋",
+    "displayName": "Inn",
     "encounterList": [],
     "encounterStep": 30,
     "height": 12,
@@ -1375,7 +1375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは宿屋です。昼まで宿泊されますか？"
+                                "This is an inn. Would you like to stay until noon?"
                             ]
                         },
                         {
@@ -1404,7 +1404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿泊すると昼まで休みます。"
+                                "If you stay, you will rest until noon."
                             ]
                         },
                         {
@@ -1412,8 +1412,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 2
                             ]
@@ -1825,21 +1825,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よう、お嬢ちゃん・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よかったら俺達の部屋に来ないかい？"
+                                "Hey, missy... would you like to come to our room?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 5,
                                 0,
                                 2
@@ -1849,7 +1842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "う～ん、どうしよっかなぁ～？"
+                                "Hmm, what should I do~?"
                             ]
                         },
                         {
@@ -1857,8 +1850,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "部屋に入る",
-                                    "部屋に入らない"
+                                    "Enter the room",
+                                    "Do not enter the room"
                                 ],
                                 1,
                                 0,
@@ -1889,7 +1882,7 @@
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 4,
                                 0,
                                 2
@@ -1899,7 +1892,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "しょうがないなぁ・・・いいよ♥"
+                                "Can't be helped... Sure♥"
                             ]
                         },
                         {
@@ -1969,14 +1962,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "へへっ・・・まさかホントに部屋にくるなんてな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "当然・・・ヤることは分かってんだろ？"
+                                "Heheh... never thought you'd really come to the room. You\nknow what we're gonna do, right?"
                             ]
                         },
                         {
@@ -1993,7 +1979,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "朝まで可愛がってやるぜ！！"
+                                "We'll take good care of you until morning!!"
                             ]
                         },
                         {
@@ -2010,7 +1996,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "宴の始まりだ！"
+                                "The feast begins!"
                             ]
                         },
                         {
@@ -2074,14 +2060,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "男達は興奮した様子でメメリスを布団に押し倒し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ズボンから肉棒を出すと部屋中に雄の臭いが広がる・・・。"
+                                "The men, excited, push Memerisu onto the futon, and as they\npull out their dicks from their pants, the smell of men\nfills the room..."
                             ]
                         },
                         {
@@ -2098,14 +2077,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]クッサ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お兄さん達ヤル気マンマンだねぇ～。"
+                                "\\c[31]Phew...♥ You guys are really eager, huh~."
                             ]
                         },
                         {
@@ -2150,14 +2122,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そういうお嬢ちゃんもだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "今晩はこいつで喘がせてやるよ。"
+                                "You're one to talk, missy. Tonight, I'll make you moan with\nthis."
                             ]
                         },
                         {
@@ -2190,21 +2155,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]う～ん、お兄さん達のチンコで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ボクを満足させられるかなぁ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "この前抱かれたおじさんの方がおっきかったよ？"
+                                "\\c[31]Hmm, I wonder if you guys can satisfy me with your dicks?\nThe old man who had me before was bigger, you know?"
                             ]
                         },
                         {
@@ -2221,14 +2172,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]お兄さん達よりでっかいチンコでおまんこほじられて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "濃厚精液注がれちゃって・・・♥"
+                                "\\c[31]His bigger dick poked my pussy and filled me with thick\nsemen...♥"
                             ]
                         },
                         {
@@ -2283,14 +2227,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "こ、このメスガキィ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "調子に乗りやがって！今すぐ俺達が分からせてやる！！"
+                                "You little bitch!! Getting all cocky! We'll show you right\nnow!!"
                             ]
                         },
                         {
@@ -2319,7 +2256,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{んほぉ♥チンコキタぁ♥♥"
+                                "\\c[31]Ahh♥ The dick is here♥♥"
                             ]
                         },
                         {
@@ -2336,14 +2273,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]あっあっ・・・はん・・・っ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お兄さんの硬いのが・・・んっ♥♥♥"
+                                "\\c[31]Ah ah... hah...♥ Your hard one is... nn♥♥♥"
                             ]
                         },
                         {
@@ -2360,7 +2290,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{ズチュズチュ！！ブチュンブチュ！！"
+                                "\\c[27]Squish squish!! Splosh splosh!!"
                             ]
                         },
                         {
@@ -2377,14 +2307,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "はぁはぁ・・・くそ！メスガキマンコ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "めちゃくちゃ気持ちいいじゃねぇか・・・！！"
+                                "Hah hah... damn! This bitch's pussy feels so fucking\ngood...!!"
                             ]
                         },
                         {
@@ -2418,7 +2341,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{パンッ！パンッパンッ！パン！"
+                                "\\c[27]Thump! Thump thump! Thump!"
                             ]
                         },
                         {
@@ -2435,7 +2358,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "俺達もこのメスガキに分からせるぞ！"
+                                "We'll show this little bitch too!"
                             ]
                         },
                         {
@@ -2452,7 +2375,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]シュッシュッ！シコシコ・・・！！"
+                                "\\c[27]Swish swish! Jerk jerk...!!"
                             ]
                         },
                         {
@@ -2469,7 +2392,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "男達は我慢汁を垂らしながらチンコをシゴく・・・！！"
+                                "The men jerk their dicks, dripping with pre-cum...!!"
                             ]
                         },
                         {
@@ -2486,14 +2409,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]お兄さん達がんばれ♥がんばれ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "射精したくなったら出していいよ♥"
+                                "\\c[31]Come on, guys, you can do it♥ Do it♥ If you want to cum, go\nahead♥"
                             ]
                         },
                         {
@@ -2510,14 +2426,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\{お゛ぉ゛・・・！！射精る射精る！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "このままメスガキに全部ぶっかけるぞ！！"
+                                "I'm gonna...!! I'm cumming! I'm gonna splatter it all over\nthis bitch!!"
                             ]
                         },
                         {
@@ -2534,14 +2443,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "こっちも射精すぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "クソ生意気なメスガキに無責任種付けかましてやる！！"
+                                "I'm cumming too! I'm gonna irresponsibly breed this cheeky\nlittle bitch!!"
                             ]
                         },
                         {
@@ -2633,7 +2535,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{ビュルルッ！ビュブッビュビュッ！！"
+                                "\\c[27]Splurt! Spurt spurt spurt!!"
                             ]
                         },
                         {
@@ -2662,7 +2564,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]ン゛っン♥ザーメン来たぁ♥♥♥"
+                                "\\c[31]Nn♥ Here comes the semen♥♥♥"
                             ]
                         },
                         {
@@ -2679,14 +2581,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "よし、次は俺の番だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "朝までこのメスガキをハメ倒すぞ！"
+                                "Alright, my turn next! I'm gonna fuck this bitch until\nmorning!"
                             ]
                         },
                         {
@@ -2724,7 +2619,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そして・・・朝まで男達に犯され続け・・・。"
+                                "And so... she was violated by the men until morning..."
                             ]
                         },
                         {
@@ -2762,7 +2657,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]はぁ・・・はぁ・・・おほぉ・・・♥"
+                                "\\c[31]Haah... haah... ohh...♥"
                             ]
                         },
                         {
@@ -2779,7 +2674,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "どうだ、大人を舐めるんじゃねーぞ！"
+                                "How's that, don't underestimate adults!"
                             ]
                         },
                         {
@@ -2796,14 +2691,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "うわ、服が精液まみれですっげぇくせぇ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "これは臭いが取れないな。"
+                                "Wow, my clothes are drenched in semen and stink like hell...\nThis smell won't come out."
                             ]
                         },
                         {
@@ -2820,21 +2708,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おい、メスガキ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お前その服、着替えずにそのまま着てろよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ヤリマンビッチのメスガキにお似合いだからな！"
+                                "Hey, you little bitch. Keep wearing those clothes without\nchanging. They suit a slutty bitch like you!"
                             ]
                         },
                         {
@@ -2851,7 +2725,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]わ・・・わかりましたぁ・・・♥"
+                                "\\c[31]Okay... I understand...♥"
                             ]
                         },
                         {
@@ -2885,21 +2759,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -3026,7 +2886,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "精液まみれの服を手に入れた！"
+                                "Gained semen-stained clothes!"
                             ]
                         },
                         {
@@ -3043,7 +2903,7 @@
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -3053,14 +2913,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "・・・いや、なんか危なそうだしやっぱり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "やめとこ。"
+                                "...no, it seems dangerous, I better not."
                             ]
                         },
                         {
@@ -3089,7 +2942,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "淫乱度が足りません！"
+                                "You don't have enough lewdness!"
                             ]
                         },
                         {
@@ -3119,7 +2972,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 3,
                                 0,
                                 2
@@ -3129,14 +2982,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "え、遠慮しとくよ・・・。"
+                                "Eh, I'll pass..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -3146,14 +2999,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・ふぅ、あんな男だらけの部屋に入る"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "女の子なんてよっぽどの淫乱でしょ。"
+                                "...Phew, only a real nympho would enter a room full of men\nlike that."
                             ]
                         },
                         {
@@ -3231,14 +3077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よう、お嬢ちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また朝まで俺達が可愛がってやろうか？"
+                                "Hey there, young lady. Shall we dote on you until morning\nagain?"
                             ]
                         },
                         {
@@ -3246,8 +3085,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3267,7 +3106,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 4,
                                 0,
                                 2
@@ -3277,7 +3116,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・うん♥"
+                                "...Yes♥"
                             ]
                         },
                         {
@@ -3320,7 +3159,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]朝まで沢山可愛がってもらった・・・♥"
+                                "\\c[27]I was doted on so much until morning...♥"
                             ]
                         },
                         {
@@ -3361,21 +3200,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -3666,14 +3491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セーブポイントがある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セーブしますか？"
+                                "There's a save point. Would you like to save?"
                             ]
                         },
                         {
@@ -3681,8 +3499,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "宿屋",
+    "displayName": "Inn",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -2803,7 +2803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一泊10\\Gになります。お泊まりになりますか？"
+                                "It will be 10G per night. Will you be staying over?"
                             ]
                         },
                         {
@@ -2811,8 +2811,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 2
                             ]
@@ -2940,7 +2940,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "お金が足りません。"
+                                "You don't have enough money."
                             ]
                         },
                         {
@@ -3040,7 +3040,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -3050,21 +3050,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿のベッドを見るとついジャンプして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "飛び乗りたくなるよね。"
+                                "Whenever I see an inn's bed, I just want to jump on it."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -3074,21 +3067,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "以前飛び乗った勢いでベットを壊して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怒られたの忘れたんですか・・・？"
+                                "Have you forgotten how you broke the bed by jumping on it\ntoo hard and got scolded...?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -3098,7 +3084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あはは・・・そんなこともあったような・・・。"
+                                "Ahaha... I guess something like that did happen..."
                             ]
                         },
                         {
@@ -3175,35 +3161,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこの宝箱には俺のばあちゃんの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "治療費が入ってるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "数年かけて貯めたお金でようやく病院に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "連れて行ってあげられるぜ！"
+                                "The treasure chest over there contains the money for my\ngrandma's medical treatment. After years of saving, I can\nfinally take her to the hospital!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 6,
                                 0,
                                 2
@@ -3213,14 +3178,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほぉ～、なるほどなるほど。"
+                                "Ohh, I see, I see."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -3230,14 +3195,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あの、メメリスちゃん・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変な事考えたりしてませんよね・・・？"
+                                "Um, Memerisu-chan... you're not thinking of anything weird,\nare you...?"
                             ]
                         },
                         {
@@ -3305,21 +3263,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごめん・・・ばあちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺が弱いせいで・・・。"
+                                "Sorry... Grandma. It's because I'm weak..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -3329,21 +3280,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お金を返してあげましょうよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流石にこれは酷いですー！！"
+                                "Let's give the money back! This is just too cruel-!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 6,
                                 0,
                                 2
@@ -3353,14 +3297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お金を取り戻したければ強くなるがいい・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぐへへへへへっ！！！"
+                                "If you want to get your money back, you better get\nstronger... guheheheheheh!!!"
                             ]
                         },
                         {
@@ -3428,28 +3365,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まさか俺が負けるとはな・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もってけ、泥棒。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ばあちゃんの治療費はまた貯めるさ。"
+                                "I can't believe I lost... Take it, thief. I'll just have to\nsave up for grandma's treatment again."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -3459,14 +3382,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お金が必要ならチェルン村に来ない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこなら仕事もあるかもよ。"
+                                "If you need money, why not come to Chern village? There\nmight be some work for you there."
                             ]
                         },
                         {
@@ -3483,21 +3399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人の金を奪っといてよく言えるな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だけど背に腹は代えられねぇ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ばあちゃんの為にその村に行くぜ！"
+                                "You've got some nerve talking about money after stealing it!\nBut I can't choose when it comes to my grandma's sake...\nI'll head to that village!"
                             ]
                         },
                         {
@@ -3556,7 +3458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿屋の孫が仲間になった！"
+                                "The innkeeper's grandson has joined your party!"
                             ]
                         },
                         {
@@ -3811,7 +3713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本当に開けますか？"
+                                "Are you really going to open it?"
                             ]
                         },
                         {
@@ -3819,8 +3721,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3974,14 +3876,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ごめん…ばあちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "俺が弱いせいで…。"
+                                "I'm sorry... Grandma. It's because I'm weak..."
                             ]
                         },
                         {
@@ -4010,7 +3905,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "10000\\G 手に入れた！"
+                                "Gained 10000\\G!"
                             ]
                         },
                         {
@@ -4055,14 +3950,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "この盗人野郎がっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "さっさと帰れ！！"
+                                "You thieving bastard! Get out of here now!"
                             ]
                         },
                         {
@@ -4092,7 +3980,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -4102,7 +3990,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "なんだか危険な匂いがする・・・止めておこう。"
+                                "This smells dangerous... Let's stop here."
                             ]
                         },
                         {
@@ -4180,14 +4068,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宝箱の中はからっぽだった・・・。"
+                                "The treasure chest was empty..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -4197,7 +4085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "む、惨いです・・・。"
+                                "Mmm, how dreadful..."
                             ]
                         },
                         {
@@ -4264,7 +4152,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -4274,21 +4162,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿のベッドを見るとついジャンプして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "飛び乗りたくなるよね。"
+                                "When I see an inn's bed, I just want to jump on it."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -4298,21 +4179,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "以前飛び乗った勢いでベットを壊して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怒られたの忘れたんですか・・・？"
+                                "Have you forgotten how you broke the bed by jumping on it\ntoo hard and got scolded...?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -4322,7 +4196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あはは・・・そんなこともあったような・・・。"
+                                "Ahaha... I guess something like that did happen..."
                             ]
                         },
                         {
@@ -4389,7 +4263,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -4399,21 +4273,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿のベッドを見るとついジャンプして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "飛び乗りたくなるよね。"
+                                "Whenever I see an inn's bed, I just want to jump on it."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -4423,21 +4290,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "以前飛び乗った勢いでベットを壊して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怒られたの忘れたんですか・・・？"
+                                "Have you forgotten how you broke the bed by jumping on it\ntoo hard and got scolded...?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -4447,7 +4307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あはは・・・そんなこともあったような・・・。"
+                                "Ahaha... I guess something like that did happen..."
                             ]
                         },
                         {
@@ -4514,7 +4374,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -4524,21 +4384,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宿のベッドを見るとついジャンプして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "飛び乗りたくなるよね。"
+                                "When I see an inn's bed, I just want to jump on it."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -4548,21 +4401,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "以前飛び乗った勢いでベットを壊して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怒られたの忘れたんですか・・・？"
+                                "Have you forgotten how you broke the bed by jumping on it\ntoo hard and got scolded...?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -4572,7 +4418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あはは・・・そんなこともあったような・・・。"
+                                "Ahaha... I guess something like that did happen..."
                             ]
                         },
                         {

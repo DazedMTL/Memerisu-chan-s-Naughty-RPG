@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "酒場",
+    "displayName": "Tavern",
     "encounterList": [],
     "encounterStep": 30,
     "height": 10,
@@ -1243,7 +1243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは酒場だぜ。何か注文してくれよ。"
+                                "This is a tavern. Please order something."
                             ]
                         },
                         {
@@ -1521,7 +1521,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -1531,7 +1531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たーるっ！"
+                                "It's dripping!"
                             ]
                         },
                         {
@@ -1598,7 +1598,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 5,
                                 0,
                                 2
@@ -1608,21 +1608,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パンはパンでも食べられないパンは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なーんだ？"
+                                "What kind of bread can't you eat?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -1632,21 +1625,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "（小学生レベルのなぞなぞ・・・これは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "フライパン以外のひっかけですね・・・）"
+                                "(A riddle for elementary students... It must be a trick\nquestion that's not a frying pan...)"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -1656,21 +1642,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうですね・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（メメリスちゃんが言いそうな答えは・・・。）"
+                                "Let's see... (The answer that Memerisu-chan would likely\ngive is...)"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 3,
                                 0,
                                 2
@@ -1680,14 +1659,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パンツですね！ﾑﾌｰｯ"
+                                "It's panties, isn't it! Mufufu~"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -1697,21 +1676,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え、フライパンだけど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしたの急にパンツだなんて・・・。"
+                                "Eh, it's a frying pan, but why suddenly panties..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -1721,7 +1693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "～～～～～～～～～～～っっっ！！！！"
+                                "~~~~~~~~~~~~!!!!"
                             ]
                         },
                         {

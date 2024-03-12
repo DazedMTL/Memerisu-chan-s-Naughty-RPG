@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "アジト入口",
+    "displayName": "Hideout Entrance",
     "encounterList": [],
     "encounterStep": 30,
     "height": 16,
@@ -2647,7 +2647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここはガキの来る所じゃねぇよ。"
+                                "This is no place for kids."
                             ]
                         },
                         {
@@ -2715,21 +2715,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここはガキの来る所じゃねぇよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "帰れ！"
+                                "This ain't a place for kids. Get lost!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -2739,14 +2732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボクとしてもさっさと帰りたいんだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その前に盗んだ魔道書を返してくれる？"
+                                "I'd like to go home too, but before that, could you return\nthe grimoire you stole?"
                             ]
                         },
                         {
@@ -2763,14 +2749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・あ？なんだその舐めた態度は・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかたねぇ、ヤキ入れてやらぁ！"
+                                "...Huh? What's with that smug attitude...!! Can't be helped,\nI'll have to teach you a lesson!"
                             ]
                         },
                         {
@@ -2802,7 +2781,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "く、くそっ！！覚えてやがれ！！"
+                                "Damn it!! You'll regret this!!"
                             ]
                         },
                         {
@@ -2840,7 +2819,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 1,
                                 0,
                                 2
@@ -2850,7 +2829,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぺっ！雑魚がっ！！"
+                                "Pfft! Weakling!!"
                             ]
                         },
                         {
@@ -2877,7 +2856,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ガキは帰ってママのミルクでも飲んでな！！"
+                                "Go home and suck on your mama's milk, kid!!"
                             ]
                         },
                         {
@@ -3134,7 +3113,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ディスペルハーブを手に入れた！"
+                                "Acquired Dispel Herb!"
                             ]
                         },
                         {
@@ -3379,7 +3358,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -3389,21 +3368,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわぁ、ゴミだらけじゃん・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっとは片付けてほしいなぁ。"
+                                "Ugh, it's full of trash... I wish someone would clean it up\na bit."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 0,
                                 0,
                                 2
@@ -3413,21 +3385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少しだけでもゴミを減らしたいですね・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "持っていける分だけ持って、ゴミ箱に捨てに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "行きましょう。"
+                                "I'd like to reduce the trash even a little... Let's take\nwhat we can carry and go throw it in the trash can."
                             ]
                         },
                         {
@@ -3466,7 +3424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴミを手に入れた！"
+                                "You obtained trash!"
                             ]
                         },
                         {
@@ -3533,7 +3491,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -3543,14 +3501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どこかでゴミ箱を見つけたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゴミを全部捨てましょうね。"
+                                "If we find a trash can somewhere, let's throw away all the\ntrash."
                             ]
                         },
                         {
@@ -6074,7 +6025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴミのお掃除えらいで賞を手に入れた！"
+                                "I've earned the \"Great Job Cleaning Up Trash\" award!"
                             ]
                         },
                         {
@@ -6192,7 +6143,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -6202,7 +6153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このゴミ箱はいっぱいでもう入らないですね。"
+                                "This trash can is full and can't fit anymore."
                             ]
                         },
                         {

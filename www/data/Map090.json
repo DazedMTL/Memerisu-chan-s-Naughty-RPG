@@ -1729,14 +1729,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ようこそ人の子よ、お元気そうですね。"
+                                "Welcome, child of man, you seem to be in good spirits."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -1746,14 +1746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・誰？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どこかで会ったことあったっけ。"
+                                "...Who? Have we met somewhere before?"
                             ]
                         },
                         {
@@ -1770,21 +1763,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フフフッ、今は分からなくても良いのです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴方達はいずれ必ず乗り越えるのですから・・・。"
+                                "Hehehe, it's fine if you don't understand now. You all will\nsurely overcome it eventually..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -1794,7 +1780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・？"
+                                "...?"
                             ]
                         },
                         {
@@ -1811,21 +1797,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それよりも・・・私はここでガチャ屋を開いているのです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よかったら回していきませんか？"
+                                "More importantly... I've opened a gacha shop here. Would you\nlike to give it a spin?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 6,
                                 0,
                                 2
@@ -1835,21 +1814,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええーっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ガチャ屋ってなんだよそれー！！"
+                                "What?! A gacha shop, what's that?!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -1859,14 +1831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いやぁ・・・ガチャならギルドで回せるし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "別にここで回さなくてもいいかなぁ。"
+                                "Well... I can spin the gacha at the guild, so I don't really\nneed to do it here, I guess."
                             ]
                         },
                         {
@@ -1883,14 +1848,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フフフッ・・・私のガチャをそこらのガチャと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一緒にしてもらっては困りますよ。"
+                                "Hehehe... I'm troubled if you think my gacha is the same as\nthose other ones."
                             ]
                         },
                         {
@@ -1919,21 +1877,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{なんと、私のガチャは！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確率が2倍です！！"
+                                "Why, my gacha has a double chance rate!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 6,
                                 0,
                                 2
@@ -1943,7 +1894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{な、なんだってー！！"
+                                "What did you say?!"
                             ]
                         },
                         {
@@ -1960,14 +1911,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{\\{\\{さらに毎日無料！！"
+                                "Furthermore, it's free every day!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 6,
                                 0,
                                 2
@@ -1977,14 +1928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{\\{ガチャが無料！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ヤバいわよ！！！"
+                                "The gacha is free!? That's insane!!!"
                             ]
                         },
                         {
@@ -2001,14 +1945,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さぁ、ガチャを回しましょう！"
+                                "Come on, let's spin the gacha!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 1,
                                 0,
                                 2
@@ -2018,14 +1962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんな太っ腹なんてまるで神だな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これからもついていくぜ！！"
+                                "Such generosity is like a god! I'll stick with you from now\non!!"
                             ]
                         },
                         {
@@ -2054,7 +1991,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "無料で確率2倍のガチャが回せるようになった！"
+                                "You can now spin the gacha for free with a doubled chance\nrate!"
                             ]
                         },
                         {
@@ -2131,14 +2068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ようこそ、人の子よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ガチャを回しますか？"
+                                "Welcome, child of man. Would you like to spin the gacha?"
                             ]
                         },
                         {
@@ -2146,10 +2076,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "8連＆金1枚確定ガチャ",
-                                    "提供確率を見る",
-                                    "アイテムと交換する",
-                                    "回さない"
+                                    "8 spins & guaranteed gold coin gacha",
+                                    "View drop rates",
+                                    "Exchange for items",
+                                    "Do not spin"
                                 ],
                                 3,
                                 0,
@@ -2179,7 +2109,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "素敵な仲間が増えますよ！"
+                                "You might gain some wonderful companions!"
                             ]
                         },
                         {
@@ -2211,14 +2141,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "結果はどうでしたか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "また挑戦してみてくださいね。"
+                                "How did the results turn out? Please try again."
                             ]
                         },
                         {
@@ -2245,21 +2168,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "まさか負けてしまうとは・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "残念ながら返金はできませんよ。"
+                                "It's a shame you lost... Unfortunately, we cannot offer a\nrefund."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 0,
                                 0,
                                 2
@@ -2269,7 +2185,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\{そんなあああああああああ！！！"
+                                "Nooooooo!!!"
                             ]
                         },
                         {
@@ -2309,21 +2225,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "女神の小石 85％"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "SR武器　　 12％"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "SSR武器    3％"
+                                "Goddess Stone 85% SR Weapon 12% SSR Weapon 3%"
                             ]
                         },
                         {
@@ -2353,14 +2255,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ここではガチャで手に入れた女神の小石と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アイテムを交換出来ます。"
+                                "Here you can exchange the Goddess Stones and items you've\nobtained from the gacha."
                             ]
                         },
                         {

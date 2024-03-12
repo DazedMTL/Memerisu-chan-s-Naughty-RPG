@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ダンジョン",
+    "displayName": "Dungeon",
     "encounterList": [],
     "encounterStep": 100,
     "height": 40,
@@ -10290,7 +10290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鋼の石を手に入れた！"
+                                "Obtained the Steel Stone!"
                             ]
                         },
                         {
@@ -10537,7 +10537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鋼の石を手に入れた！"
+                                "Obtained the Steel Stone!"
                             ]
                         },
                         {
@@ -10784,7 +10784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ディスペルハーブを手に入れた！"
+                                "Acquired Dispel Herb!"
                             ]
                         },
                         {
@@ -11030,7 +11030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "564\\G 手に入れた！"
+                                "Gained 564\\G!"
                             ]
                         },
                         {
@@ -11167,14 +11167,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "来たな・・・メスガキ！"
+                                "You've arrived... you brat!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -11184,14 +11184,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "誰だっけ？"
+                                "Who was that again?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -11201,14 +11201,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダンジョン一層目で倒したオークさんですよ！"
+                                "It's the orc we defeated on the first level of the dungeon!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -11218,21 +11218,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あー、そういえばそんな事もあったね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "薄汚いオークがいたいた。"
+                                "Ah, now that you mention it, there was such a filthy orc."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 0,
                                 0,
                                 2
@@ -11242,21 +11235,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんで、なんかボクちゃんに用？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしかしてリベンジとか？"
+                                "So, what do you want with me, little boy? Perhaps seeking\nrevenge?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 1,
                                 0,
                                 2
@@ -11266,14 +11252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やめときなってー、単純な物理攻撃しか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出来ない脳筋がボク達に勝てるわけないってｗ"
+                                "You should give up, you know— a muscle-brained simpleton who\ncan only do physical attacks has no chance against us. LOL"
                             ]
                         },
                         {
@@ -11290,14 +11269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "確かにあの時は単純な攻撃しかできなかった・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だが今は違う！"
+                                "Indeed, at that time I could only perform simple attacks...\nbut now it's different!"
                             ]
                         },
                         {
@@ -11314,21 +11286,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メスガキ・・・お前を倒し孕ます為に勉学に励み"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔法を習得してきたのだ！"
+                                "Brat... I've studied hard and mastered magic to defeat and\nimpregnate you!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -11338,21 +11303,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そういえば喋り方もカタコトから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流暢になってますね。"
+                                "Now that you mention it, your way of speaking has become\nfluent too."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 1,
                                 0,
                                 2
@@ -11362,28 +11320,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほーん、まぁどうせ流暢に喋れるだけで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔法は大したことないでしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "所詮はオークだよ、オーク。"
+                                "Huh, well, even if you can speak fluently now, I bet your\nmagic isn't anything special. After all, you're just an orc."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 1,
                                 0,
                                 2
@@ -11393,14 +11337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "痛い目見る前に尻尾巻いて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "逃げた方が良いと思うけどなぁ～？"
+                                "I think it'd be better for you to tuck your tail and run\nbefore you get hurt~?"
                             ]
                         },
                         {
@@ -11417,14 +11354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "学問はオレを大きく成長させてくれた・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この力、試してみるがいい！行くぞ！！"
+                                "Studying has allowed me to grow significantly... Test this\npower if you will! Here I come!!"
                             ]
                         },
                         {
@@ -11441,14 +11371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "このダンジョンの宝はこの奥にある！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "欲しければオレを倒してみろ！！"
+                                "The treasure of this dungeon lies beyond here! If you want\nit, try defeating me!!"
                             ]
                         },
                         {
@@ -11480,7 +11403,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "グフ・・・！！また・・・勝てなかった・・・。"
+                                "Guh...!! I couldn't win again..."
                             ]
                         },
                         {
@@ -11497,14 +11420,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "だけどオレは諦めない・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "メスガキ、必ずお前を孕ませる・・・！！"
+                                "But I won't give up... Brat, I will definitely impregnate\nyou...!!"
                             ]
                         },
                         {
@@ -11552,14 +11468,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "オークは逃げ出した！"
+                                "The orc fled!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 3,
                                 0,
                                 2
@@ -11569,21 +11485,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メメリスちゃん・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "モテ期到来したんじゃないですか？"
+                                "Memerisu-chan... could it be your popularity is soaring?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -11593,14 +11502,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\{\\{やかましいわっ！！"
+                                "Shut up!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 3,
                                 0,
                                 2
@@ -11610,14 +11519,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "冗談ですよ、さぁ先に進みましょう。"
+                                "Just kidding, let's move on."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -11627,21 +11536,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ダンジョンのお宝は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この先にあるみたいですし！"
+                                "It seems the dungeon's treasure is further ahead!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -11651,7 +11553,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "わーい、お宝ちゃん待っててねぇ～♪"
+                                "Yay, wait for me, treasure-chan~♪"
                             ]
                         },
                         {
@@ -11668,7 +11570,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 0,
                                 0,
                                 2
@@ -11678,14 +11580,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぐわああああああああ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "負けたあああああああああ！！！！"
+                                "Gwaaaaaaaah!!! I lost aaaaaahhhhh!!!!"
                             ]
                         },
                         {
@@ -11702,21 +11597,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "オレの勝ちだ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "宣言通りお前を孕ませる！！"
+                                "I win... As declared, I will impregnate you!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -11726,7 +11614,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ちょっ、待って待って！？"
+                                "Wait, wait a minute!?"
                             ]
                         },
                         {
@@ -11793,14 +11681,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{\\{ズチュッ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\}ズプププププッ♥♥♥"
+                                "\\c[27]Squelch!!! Zupupupupup♥♥♥"
                             ]
                         },
                         {
@@ -11817,14 +11698,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メメリスの制止の声もむなしく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オークは一気に肉棒をぶち込んだ！"
+                                "In spite of Memerisu's attempts to stop him, the orc thrust\nhis cock deep inside her in one go!"
                             ]
                         },
                         {
@@ -11841,7 +11715,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{お゛゛っっほぉっっ・・・！！"
+                                "\\c[31]Oohhh...!!"
                             ]
                         },
                         {
@@ -11858,14 +11732,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あまりにデカい肉棒がメメリスの膣内に捻じ込まれ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そのお腹は大きく膨れあがった・・・。"
+                                "The orc's massive cock twisted inside Memerisu's pussy,\ncausing her belly to swell significantly..."
                             ]
                         },
                         {
@@ -11882,14 +11749,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]はっ・・・あっあっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "うそっ・・・オークチンポがボクの中に入って・・・！！"
+                                "\\c[31]Ah... ah...!! No way... the orc's cock is inside me...!!"
                             ]
                         },
                         {
@@ -11906,14 +11766,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "頭がチカチカし、お腹に凄まじい圧迫感・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "膣内で肉棒の熱さと共にビクビクと脈動を直に感じる。"
+                                "My head is spinning, and there's an incredible pressure in\nmy belly... I can feel the cock throbbing hotly inside my\npussy."
                             ]
                         },
                         {
@@ -11930,7 +11783,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]（デ、デカすぎる・・・！！こんなので動かれたら・・・）"
+                                "\\c[31](It's too big...!! If he moves like this...)"
                             ]
                         },
                         {
@@ -11947,14 +11800,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]い、今やめるなら許してあげるから・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\{チンポ抜い・・・んおぉぉおおお♥♥♥"
+                                "\\c[31]If you stop now, I'll forgive you...!! Pull out your cock...\nnoooo♥♥♥"
                             ]
                         },
                         {
@@ -12011,14 +11857,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュッ！ズポッ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "パン！パン！パン！パン！"
+                                "\\c[27]Splurt! Zup! Bang! Bang! Bang! Bang!"
                             ]
                         },
                         {
@@ -12035,21 +11874,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "オークはメメリスの言葉など聞かず、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "本能のままに腰を振り出す。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "目の前のメスを孕ませるために・・・。"
+                                "The orc didn't listen to Memerisu's words and began\nthrusting his hips instinctively, intent on impregnating the\nfemale before him..."
                             ]
                         },
                         {
@@ -12095,14 +11920,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュ！ドチュ！ブポッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ドチュ！ドチュ！ブポッ！！"
+                                "\\c[27]Splurt! Splurt! Burp!! Splurt! Splurt! Burp!!"
                             ]
                         },
                         {
@@ -12119,14 +11937,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "オークの激しいピストンにより、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "子宮が押しつぶされる・・・。"
+                                "With the orc's fierce thrusting, her womb is being\ncrushed..."
                             ]
                         },
                         {
@@ -12143,14 +11954,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{い゛っ゛・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\}あ゛ぉ゛ぉ゛お゛お゛♥♥♥"
+                                "\\c[31]Eek...♥ Ahh... oohh♥♥♥"
                             ]
                         },
                         {
@@ -12200,14 +12004,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{お゛ほ゛ぉ゛お゛・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "子宮つぶれるぅ・・・・♥♥♥"
+                                "\\c[31]Oohh...♥ My womb is being crushed...♥♥♥"
                             ]
                         },
                         {
@@ -12224,21 +12021,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まるでチンポケースの如く犯される。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "抵抗しようとしてもオークの大きな体に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ギッチリ押さえられており無意味・・・。"
+                                "She's being fucked like a cock sleeve. Any attempt to resist\nis futile against the orc's large body pinning her down..."
                             ]
                         },
                         {
@@ -12255,14 +12038,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "身も心も分からされてしまう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "自分はもう逃げられない・・・。"
+                                "Her body and mind are being dominated. She realizes she\ncan't escape..."
                             ]
                         },
                         {
@@ -12296,14 +12072,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "この逞しいオスの精液を膣内で受け止め、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "孕まされてしまうのだと・・・。"
+                                "Receiving the virile male's semen deep in her vagina, she is\nbeing impregnated..."
                             ]
                         },
                         {
@@ -12320,14 +12089,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\{メスガキ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一番奥で出すぞッッッ！！！！"
+                                "Little bitch...!! I'm going to cum at the very back!!!!"
                             ]
                         },
                         {
@@ -12344,14 +12106,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "オークが肉棒を一番奥まで突き立て"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "子宮に密着させ精液を吐き出す・・・！！"
+                                "The orc thrusts his cock deep inside, pressing it against\nher womb and ejaculating...!!"
                             ]
                         },
                         {
@@ -12443,14 +12198,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ビュルッ♥ビュルルルッッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ビュルルルルルルルルルッッッ♥♥♥"
+                                "\\c[27]Splurt♥ Splurrrrr♥ Splurrrrrrrrrrrrrrrrrrr♥♥♥"
                             ]
                         },
                         {
@@ -12467,14 +12215,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{んほぉおぉおおおおおおおおおお！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オークチンポでイクゥウウウウウウ！！"
+                                "\\c[31]Nhooooo♥ I'm cumming from the orc cock♥♥♥"
                             ]
                         },
                         {
@@ -12503,14 +12244,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{ビュル♥ビュッビュッ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ビュル♥ビュッビュッ♥♥"
+                                "\\c[27]Splurt♥ Spurt! Spurt!♥♥ Splurt♥ Spurt! Spurt!♥♥"
                             ]
                         },
                         {
@@ -12527,14 +12261,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "絶頂を迎えながら逞しいオスの濃厚なザーメンを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "子宮で受け止め余すことなく満たされていく・・・。"
+                                "As she climaxes, she receives the virile male's thick semen\nin her womb, filling her up completely without waste..."
                             ]
                         },
                         {
@@ -12563,14 +12290,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ビュク♥ビュルルッ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ドクッドクッドクッ・・・♥♥♥"
+                                "\\c[27]Spurt♥ Splurrr♥♥ Throb! Throb! Throb!...♥♥♥"
                             ]
                         },
                         {
@@ -12587,21 +12307,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "オークの射精は膣内を満たしても収まらない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それでも念入りに、確実に孕むよう子宮に肉棒を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "密着させ続ける・・・。"
+                                "The orc's ejaculation doesn't subside even after filling her\nup. Still, he continues to press his cock against her womb\nto ensure impregnation..."
                             ]
                         },
                         {
@@ -12618,14 +12324,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{お゛ッ゛！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ん゛お゛ぉ゛ぉ゛・・・！！！"
+                                "\\c[31]Ooh!? Nhooh...!!!"
                             ]
                         },
                         {
@@ -12658,14 +12357,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あまりのザーメンの量により、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まるで妊婦のようにお腹が膨らんでしまう・・・。"
+                                "Due to the sheer amount of semen, her belly swells up as if\nshe's pregnant..."
                             ]
                         },
                         {
@@ -12682,14 +12374,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]も、もう出さないで・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もういっぱいだから・・・もう孕んだから・・・！！"
+                                "\\c[31]Please, no more...!! I'm already full... I'm already\npregnant...!!"
                             ]
                         },
                         {
@@ -12718,21 +12403,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それでもオークの射精は止まらない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ゼリーのような濃厚なザーメンでメスを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "分からせていく・・・。"
+                                "Yet the orc's ejaculation doesn't stop. He continues to make\nthe female understand with his jelly-like thick semen..."
                             ]
                         },
                         {
@@ -12765,14 +12436,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{うぅ・・・ぉ゛お゛・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お゛ぇぇえええ゛・・・"
+                                "\\c[31]Uuh... ooh... oooeeeh..."
                             ]
                         },
                         {
@@ -12789,14 +12453,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "パンパンになったお腹の圧迫感により"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "嘔吐をしてしまう。"
+                                "The pressure from her swollen belly causes her to vomit."
                             ]
                         },
                         {
@@ -12813,14 +12470,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "苦痛と快楽・・・その二つにより"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だんだんと意識が遠のいていく・・・。"
+                                "Pain and pleasure... The two sensations gradually make her\nconsciousness fade away..."
                             ]
                         },
                         {
@@ -12853,7 +12503,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]はぁ・・・はぁ・・・そ、そんな・・・。"
+                                "\\c[31]Haah... haah... that's impossible..."
                             ]
                         },
                         {
@@ -12870,14 +12520,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "嘔吐し、多少楽になったと思った矢先、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "膣内に挿入されたままの肉棒がさらに熱を帯びていく。"
+                                "Just when she thought she felt a bit better after vomiting,\nthe cock still inside her heats up even more."
                             ]
                         },
                         {
@@ -12894,21 +12537,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "オークはまだ満足していない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "徹底的にメメリスにオレのメスだと分からせる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "つもりだ・・・。"
+                                "The orc is not yet satisfied. He intends to thoroughly make\nMemerisu understand that she is his female..."
                             ]
                         },
                         {
@@ -12925,7 +12554,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]あ・・・あは・・・あははぁ・・・。"
+                                "\\c[31]Ah... ahaha... ahahaa..."
                             ]
                         },
                         {
@@ -12942,21 +12571,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "強いオスには勝てない・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それを理解してしまった少女は一生このダンジョンで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オークの孕み袋として過ごす事になるのだった・・・。"
+                                "Unable to defeat the strong male... The girl realizes she\nwill spend her life in this dungeon as an orc's breeding\nbag..."
                             ]
                         },
                         {
@@ -12978,21 +12593,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -13078,7 +12679,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 6,
                                 0,
                                 2
@@ -13088,7 +12689,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・はっ！？夢か！！"
+                                "...Huh!? Was it a dream?!!"
                             ]
                         },
                         {
@@ -13310,14 +12911,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私は旅をするモンスターマスター！"
+                                "I am a traveling Monster Master!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -13327,7 +12928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "モンスターマスターってなに？"
+                                "What's a Monster Master?"
                             ]
                         },
                         {
@@ -13344,14 +12945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔物を仲間に共に戦う者だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "君達も冒険者なら私の魔物達と戦ってみないかい？"
+                                "A person who fights alongside monsters as comrades. If\nyou're adventurers, why not try battling with my monsters?"
                             ]
                         },
                         {
@@ -13359,8 +12953,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "戦う",
-                                    "戦わない"
+                                    "Fight",
+                                    "Do Not Fight"
                                 ],
                                 1,
                                 0,
@@ -13380,7 +12974,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 1,
                                 0,
                                 2
@@ -13390,14 +12984,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よし、いっちょやってみっかぁ！"
+                                "Alright, let's give it a shot!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 3,
                                 0,
                                 2
@@ -13407,7 +13001,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "私達の力・・・見せてあげましょうね！"
+                                "Let's show them our power...!"
                             ]
                         },
                         {
@@ -13424,21 +13018,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よく言った！それでは行くぞ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "モンスターバトル！レディイイィイイイイ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ゴォオオオオオオオオ！！！！！"
+                                "Well said! Then let's go!! Monster Battle! Reeeeadyyyyy!!!\nGooooo!!!!"
                             ]
                         },
                         {
@@ -13470,14 +13050,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "わ、私の魔物達が負けるとは・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "君達は強いねぇ。"
+                                "Wow, I can't believe my monsters lost... You guys are\nstrong."
                             ]
                         },
                         {
@@ -13494,21 +13067,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "私達もまだまだ修行しないとな・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "どこか良い所はないだろうか。"
+                                "We still have much to train... I wonder if there's a good\nplace somewhere."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 6,
                                 0,
                                 2
@@ -13518,7 +13084,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "それなら良いとこありますぜぇ！ぐへへー！！"
+                                "If that's the case, I know just the place! Hehehe!!"
                             ]
                         },
                         {
@@ -13535,7 +13101,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "メメリス達はモンスターマスターを村に誘った！"
+                                "Memerisu and her friends invited the Monster Master to their\nvillage!"
                             ]
                         },
                         {
@@ -13552,21 +13118,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ほう、君達の村があるのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "そこなら色んな強い者達が集まりそうだな・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "よし、私もその村に行くとしよう！"
+                                "Hmm, you have a village? It sounds like a place where many\nstrong people would gather... Alright, I'll go to your\nvillage too!"
                             ]
                         },
                         {
@@ -13625,7 +13177,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "モンスターマスターが仲間になった！"
+                                "The Monster Master has joined your party!"
                             ]
                         },
                         {
@@ -13642,7 +13194,7 @@
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 0,
                                 0,
                                 2
@@ -13652,14 +13204,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ぐわああああああああ！！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "負けたあああああああああ！！！！！"
+                                "Gwaaaaahhhhh!!! We lostttttttttt!!!"
                             ]
                         },
                         {
@@ -13676,7 +13221,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "はっはっは！またいつでも挑戦してくれたまえ！"
+                                "Hahaha! Feel free to challenge us anytime!"
                             ]
                         },
                         {
@@ -13706,7 +13251,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 3,
                                 0,
                                 2
@@ -13716,7 +13261,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "悪いけどやめとくよ・・・。"
+                                "Sorry, but I think I'll pass..."
                             ]
                         },
                         {
@@ -14108,14 +13653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "学びを得たオークと再戦しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（敗北してもエロステはカウントされません）"
+                                "Do you wish to rematch the Orc you've learned from? (Losing\nwill not count towards Eroge stats)"
                             ]
                         },
                         {
@@ -14123,8 +13661,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14179,7 +13717,7 @@
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 0,
                                 0,
                                 2
@@ -14189,14 +13727,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ぐわああああああああ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "負けたあああああああああ！！！！"
+                                "Gwaaaaaaaah!!! I lost aaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -14213,21 +13744,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "オレの勝ちだ・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "宣言通りお前を孕ませる！！"
+                                "It's my victory... As I declared, I will impregnate you!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 2,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -14237,7 +13761,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ちょっ、待って待って！？"
+                                "Wait, wait a sec!?"
                             ]
                         },
                         {
@@ -14304,14 +13828,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{\\{ズチュッ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\}ズプププププッ♥♥♥"
+                                "\\c[27]Squelch!!! Zupupupupupu♥♥♥"
                             ]
                         },
                         {
@@ -14328,14 +13845,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "メメリスの制止の声もむなしく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "オークは一気に肉棒をぶち込んだ！"
+                                "In spite of Memerisu's cries to stop, the Orc thrust his\ncock deep inside her in one go!"
                             ]
                         },
                         {
@@ -14352,7 +13862,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{お゛゛っっほぉっっ・・・！！"
+                                "\\c[31]Oohhh...!!"
                             ]
                         },
                         {
@@ -14369,14 +13879,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あまりにデカい肉棒がメメリスの膣内に捻じ込まれ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "そのお腹は大きく膨れあがった・・・。"
+                                "The excessively large cock twisted inside Memerisu's pussy,\ncausing her belly to swell significantly..."
                             ]
                         },
                         {
@@ -14393,14 +13896,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]はっ・・・あっあっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "うそっ・・・オークチンポがボクの中に入って・・・！！"
+                                "\\c[31]Hah... Ahh...!! No way... The Orc's cock is entering me...!!"
                             ]
                         },
                         {
@@ -14417,14 +13913,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "頭がチカチカし、お腹に凄まじい圧迫感・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "膣内で肉棒の熱さと共にビクビクと脈動を直に感じる。"
+                                "My head is spinning, and there's an intense pressure in my\nstomach... I can feel the cock's heat and its throbbing\npulse directly inside my vagina."
                             ]
                         },
                         {
@@ -14441,7 +13930,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]（デ、デカすぎる・・・！！こんなので動かれたら・・・）"
+                                "\\c[31](It's too big...!! If it moves like this...)"
                             ]
                         },
                         {
@@ -14458,14 +13947,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]い、今やめるなら許してあげるから・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\{チンポ抜い・・・んおぉぉおおお♥♥♥"
+                                "\\c[31]If you stop now, I'll forgive you...!! Pull out your cock...\nNohhhhh♥♥♥"
                             ]
                         },
                         {
@@ -14522,14 +14004,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュッ！ズポッ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "パン！パン！パン！パン！"
+                                "\\c[27]Squirt! Zupo!!! Bang! Bang! Bang! Bang!"
                             ]
                         },
                         {
@@ -14546,21 +14021,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "オークはメメリスの言葉など聞かず、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "本能のままに腰を振り出す。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "目の前のメスを孕ませるために・・・。"
+                                "The Orc didn't listen to Memerisu's words and started\nthrusting his hips instinctively, intent on impregnating the\nfemale before him..."
                             ]
                         },
                         {
@@ -14606,14 +14067,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュ！ドチュ！ブポッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ドチュ！ドチュ！ブポッ！！"
+                                "\\c[27]Thrust! Thrust! Burp!! Thrust! Thrust! Burp!!"
                             ]
                         },
                         {
@@ -14630,14 +14084,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "オークの激しいピストンにより、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "子宮が押しつぶされる・・・。"
+                                "With the Orc's fierce piston movements, her womb is being\ncrushed..."
                             ]
                         },
                         {
@@ -14654,14 +14101,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{い゛っ゛・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\}あ゛ぉ゛ぉ゛お゛お゛♥♥♥"
+                                "\\c[31]Eeek...♥ Ahhhhh♥♥♥"
                             ]
                         },
                         {
@@ -14711,14 +14151,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{お゛ほ゛ぉ゛お゛・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "子宮つぶれるぅ・・・・♥♥♥"
+                                "\\c[31]Oohhh...♥ My womb is being crushed...♥♥♥"
                             ]
                         },
                         {
@@ -14735,21 +14168,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "まるでチンポケースの如く犯される。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "抵抗しようとしてもオークの大きな体に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ギッチリ押さえられており無意味・・・。"
+                                "She's being fucked like a cock case. Any resistance is\nfutile as she's firmly pinned down by the Orc's large\nbody..."
                             ]
                         },
                         {
@@ -14766,14 +14185,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "身も心も分からされてしまう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "自分はもう逃げられない・・・。"
+                                "Both body and mind are overpowered. I can't escape\nanymore..."
                             ]
                         },
                         {
@@ -14807,14 +14219,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "この逞しいオスの精液を膣内で受け止め、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "孕まされてしまうのだと・・・。"
+                                "I'm going to receive this robust male's semen inside my\nvagina and be impregnated..."
                             ]
                         },
                         {
@@ -14831,14 +14236,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{メスガキ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "一番奥で出すぞッッッ！！！！"
+                                "\\c[31]You little bitch...!! I'm going to cum deep inside you!!"
                             ]
                         },
                         {
@@ -14855,14 +14253,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "オークが肉棒を一番奥まで突き立て"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "子宮に密着させ精液を吐き出す・・・！！"
+                                "The Orc thrusts his cock as deep as possible, pressing it\nagainst the womb and ejaculates...!!"
                             ]
                         },
                         {
@@ -14954,14 +14345,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ビュルッ♥ビュルルルッッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ビュルルルルルルルルルッッッ♥♥♥"
+                                "\\c[27]Squirt♥ Squirtle squirt♥ Squirtle squirtle squirtle squirtle\nsquirtle♥♥♥"
                             ]
                         },
                         {
@@ -14978,14 +14362,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{んほぉおぉおおおおおおおおおお！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "オークチンポでイクゥウウウウウウ！！"
+                                "\\c[31]Nhoooooo!!! I'm cumming from the Orc's cock!!!"
                             ]
                         },
                         {
@@ -15014,14 +14391,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{ビュル♥ビュッビュッ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ビュル♥ビュッビュッ♥♥"
+                                "\\c[27]Squirt♥ Squirt squirt♥♥ Squirt♥ Squirt squirt♥♥"
                             ]
                         },
                         {
@@ -15038,14 +14408,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "絶頂を迎えながら逞しいオスの濃厚なザーメンを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "子宮で受け止め余すことなく満たされていく・・・。"
+                                "While reaching climax, she receives the robust male's thick\nsemen in her womb, filling her up completely without\nwaste..."
                             ]
                         },
                         {
@@ -15074,14 +14437,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ビュク♥ビュルルッ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ドクッドクッドクッ・・・♥♥♥"
+                                "\\c[27]Squirt♥ Squirtle squirt♥♥ Throb throb throb...♥♥♥"
                             ]
                         },
                         {
@@ -15098,21 +14454,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "オークの射精は膣内を満たしても収まらない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それでも念入りに、確実に孕むよう子宮に肉棒を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "密着させ続ける・・・。"
+                                "The Orc's ejaculation doesn't cease even as it fills the\nvagina. Still meticulously ensuring impregnation, he keeps\nhis cock pressed against the womb..."
                             ]
                         },
                         {
@@ -15129,14 +14471,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\{お゛ッ゛！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ん゛お゛ぉ゛ぉ゛・・・！！！"
+                                "Oohhh!? Nohhhh...!!!"
                             ]
                         },
                         {
@@ -15169,14 +14504,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "あまりのザーメンの量により、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "まるで妊婦のようにお腹が膨らんでしまう・・・。"
+                                "Due to the sheer amount of semen, her belly swells up as if\nshe were pregnant..."
                             ]
                         },
                         {
@@ -15193,14 +14521,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]も、もう出さないで・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "もういっぱいだから・・・もう孕んだから・・・！！"
+                                "\\c[31]Please, no more...!! It's already full... I'm already\npregnant...!!"
                             ]
                         },
                         {
@@ -15229,21 +14550,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "それでもオークの射精は止まらない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ゼリーのような濃厚なザーメンでメスを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "分からせていく・・・。"
+                                "Yet the Orc's ejaculation doesn't stop. He continues to\ndominate the female with his jelly-like thick semen..."
                             ]
                         },
                         {
@@ -15276,14 +14583,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{うぅ・・・ぉ゛お゛・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お゛ぇぇえええ゛・・・"
+                                "\\c[31]Ugh... Ohhh... Ooohhhh..."
                             ]
                         },
                         {
@@ -15300,14 +14600,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "パンパンになったお腹の圧迫感により"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "嘔吐をしてしまう。"
+                                "The pressure from her swollen belly causes her to vomit."
                             ]
                         },
                         {
@@ -15324,14 +14617,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "苦痛と快楽・・・その二つにより"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "だんだんと意識が遠のいていく・・・。"
+                                "Pain and pleasure... These two sensations gradually cause\nher consciousness to fade away..."
                             ]
                         },
                         {
@@ -15364,7 +14650,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]はぁ・・・はぁ・・・そ、そんな・・・。"
+                                "\\c[31]Haa... Haa... That can't be..."
                             ]
                         },
                         {
@@ -15381,14 +14667,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "嘔吐し、多少楽になったと思った矢先、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "膣内に挿入されたままの肉棒がさらに熱を帯びていく。"
+                                "Just when she thought she felt a bit better after vomiting,\nthe cock still inserted inside her heats up even more."
                             ]
                         },
                         {
@@ -15405,21 +14684,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "オークはまだ満足していない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "徹底的にメメリスにオレのメスだと分からせる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "つもりだ・・・。"
+                                "The Orc is not yet satisfied. He intends to thoroughly make\nMemerisu understand that she is his female..."
                             ]
                         },
                         {
@@ -15436,7 +14701,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]あ・・・あは・・・あははぁ・・・。"
+                                "\\c[31]Ah... Aha... Ahaha..."
                             ]
                         },
                         {
@@ -15453,21 +14718,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "強いオスには勝てない・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それを理解してしまった少女は一生このダンジョンで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "オークの孕み袋として過ごす事になるのだった・・・。"
+                                "The girl, realizing she cannot win against a strong male, is\ndestined to spend her life in this dungeon as an Orc's\nbreeding bag..."
                             ]
                         },
                         {
@@ -15489,21 +14740,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -16256,7 +15493,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -16266,21 +15503,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわぁ・・・深そうな穴だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "覗いても底が見えないよ。"
+                                "Wow... that's a deep hole. I can't even see the bottom when\nI peek in."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -16290,21 +15520,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あんまり覗き込むと落ちちゃいますよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気を付けてくださいね。"
+                                "If you peer in too much, you might fall. Please be careful."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -16314,14 +15537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほいほーい、心配性だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流石に落ちるわけ・・・"
+                                "Ho-ho, you worry too much. As if I'd really fall..."
                             ]
                         },
                         {
@@ -16350,21 +15566,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{・・・ズルッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（足を滑らせる音）"
+                                "...Slip!!! (Sound of slipping)"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -16374,21 +15583,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{\\{おわあああああああ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああああああ！！！"
+                                "Aaaaaaaahhhhhhhhhhhhhhh!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -16398,14 +15600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{もおおおおおお！言ったそばから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なにしてるんですかああああ！！！"
+                                "Oh myyyyy! What are you doing right after I warned\nyouuuuuu!!!"
                             ]
                         },
                         {
@@ -16434,7 +15629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスは10のダメージを受けた！"
+                                "Memerisu took 10 points of damage!"
                             ]
                         },
                         {
@@ -16513,7 +15708,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -16523,21 +15718,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわぁ・・・深そうな穴だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "覗いても底が見えないよ。"
+                                "Wow... that's a deep hole. I can't even see the bottom when\nI peek in."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -16547,21 +15735,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あんまり覗き込むと落ちちゃいますよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気を付けてくださいね。"
+                                "If you look too closely, you might fall in. Please be\ncareful."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -16571,14 +15752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほいほーい、心配性だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流石に落ちるわけ・・・"
+                                "Ho-ho, you worry too much. As if I'd actually fall..."
                             ]
                         },
                         {
@@ -16607,21 +15781,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{・・・ズルッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（足を滑らせる音）"
+                                "...Slip!!! (Sound of slipping)"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -16631,21 +15798,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{\\{おわあああああああ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああああああ！！！"
+                                "Aaaaaaaahhhhhhhhhhhhhhh!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -16655,14 +15815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{もおおおおおお！言ったそばから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なにしてるんですかああああ！！！"
+                                "Oh myyyyy! What are you doing right after I warned\nyouuuuuu!!!"
                             ]
                         },
                         {
@@ -16691,7 +15844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスは10のダメージを受けた！"
+                                "Memerisu took 10 points of damage!"
                             ]
                         },
                         {
@@ -16770,7 +15923,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -16780,21 +15933,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわぁ・・・深そうな穴だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "覗いても底が見えないよ。"
+                                "Wow... that's a deep hole. I can't even see the bottom when\nI peek in."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -16804,21 +15950,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あんまり覗き込むと落ちちゃいますよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気を付けてくださいね。"
+                                "If you look too closely, you might fall in. Please be\ncareful."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -16828,14 +15967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほいほーい、心配性だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流石に落ちるわけ・・・"
+                                "Ho-ho, you worry too much. Like I'd really fall..."
                             ]
                         },
                         {
@@ -16864,21 +15996,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{・・・ズルッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（足を滑らせる音）"
+                                "...Slip!!! (Sound of slipping)"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -16888,21 +16013,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{\\{おわあああああああ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああああああ！！！"
+                                "Aaaaaaaahhhhhhhhhhhhhhh!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -16912,14 +16030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{もおおおおおお！言ったそばから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なにしてるんですかああああ！！！"
+                                "Oh myyyyy! What are you doing right after I warned\nyouuuuuu!!!"
                             ]
                         },
                         {
@@ -16948,7 +16059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスは10のダメージを受けた！"
+                                "Memerisu took 10 points of damage!"
                             ]
                         },
                         {
@@ -17334,7 +16445,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -17344,21 +16455,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわぁ・・・深そうな穴だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "覗いても底が見えないよ。"
+                                "Wow... that's a deep hole. I can't even see the bottom when\nI peek in."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -17368,21 +16472,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あんまり覗き込むと落ちちゃいますよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気を付けてくださいね。"
+                                "If you peer in too much, you might fall. Please be careful."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -17392,14 +16489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほいほーい、心配性だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流石に落ちるわけ・・・"
+                                "Ho-ho, you worry too much. As if I'd actually fall..."
                             ]
                         },
                         {
@@ -17428,21 +16518,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{・・・ズルッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（足を滑らせる音）"
+                                "...Slip!!! (Sound of slipping)"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -17452,21 +16535,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{\\{おわあああああああ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああああああ！！！"
+                                "Aaaaaaaahhhhhhhhhhhhhhh!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -17476,14 +16552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{もおおおおおお！言ったそばから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なにしてるんですかああああ！！！"
+                                "Oh myyyyy! What are you doing right after I warned\nyouuuuuu!!!"
                             ]
                         },
                         {
@@ -17512,7 +16581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスは10のダメージを受けた！"
+                                "Memerisu took 10 points of damage!"
                             ]
                         },
                         {
@@ -17591,7 +16660,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -17601,21 +16670,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわぁ・・・深そうな穴だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "覗いても底が見えないよ。"
+                                "Wow... that's a deep hole. I can't even see the bottom when\nI peek in."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -17625,21 +16687,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あんまり覗き込むと落ちちゃいますよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気を付けてくださいね。"
+                                "If you look too closely, you might fall in. Please be\ncareful."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -17649,14 +16704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほいほーい、心配性だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流石に落ちるわけ・・・"
+                                "Ho-ho, you worry too much. As if I'd actually fall..."
                             ]
                         },
                         {
@@ -17685,21 +16733,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{・・・ズルッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（足を滑らせる音）"
+                                "...Slip!!! (Sound of slipping)"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -17709,21 +16750,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{\\{おわあああああああ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああああああ！！！"
+                                "Aaaaaaaahhhhhhhhhhhhhhh!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -17733,14 +16767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{もおおおおおお！言ったそばから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なにしてるんですかああああ！！！"
+                                "Oh my goooood! What are you doing right after I warned\nyouuuuuu!!!"
                             ]
                         },
                         {
@@ -17769,7 +16796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスは10のダメージを受けた！"
+                                "Memerisu took 10 points of damage!"
                             ]
                         },
                         {
@@ -17848,7 +16875,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -17858,21 +16885,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわぁ・・・深そうな穴だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "覗いても底が見えないよ。"
+                                "Wow... that's a deep hole. I can't even see the bottom when\nI peek in."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -17882,21 +16902,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あんまり覗き込むと落ちちゃいますよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気を付けてくださいね。"
+                                "If you look too closely, you might fall in. Please be\ncareful."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -17906,14 +16919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほいほーい、心配性だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流石に落ちるわけ・・・"
+                                "Ho-ho, you worry too much. As if I'd really fall..."
                             ]
                         },
                         {
@@ -17942,21 +16948,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{・・・ズルッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（足を滑らせる音）"
+                                "...Slip!!! (Sound of slipping)"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -17966,21 +16965,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{\\{おわあああああああ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああああああ！！！"
+                                "Aaaaaaaahhhhhhhhhhhhhhh!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -17990,14 +16982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{もおおおおおお！言ったそばから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なにしてるんですかああああ！！！"
+                                "Oh myyyyy! What are you doing right after I warned\nyouuuuuu!!!"
                             ]
                         },
                         {
@@ -18026,7 +17011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスは10のダメージを受けた！"
+                                "Memerisu took 10 points of damage!"
                             ]
                         },
                         {
@@ -18105,7 +17090,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -18115,21 +17100,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわぁ・・・深そうな穴だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "覗いても底が見えないよ。"
+                                "Wow... that's a deep hole. I can't even see the bottom when\nI peek in."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -18139,21 +17117,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あんまり覗き込むと落ちちゃいますよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気を付けてくださいね。"
+                                "If you look too closely, you might fall in. Please be\ncareful."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -18163,14 +17134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほいほーい、心配性だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流石に落ちるわけ・・・"
+                                "Ho-ho, you worry too much. As if I'd actually fall..."
                             ]
                         },
                         {
@@ -18199,21 +17163,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{・・・ズルッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（足を滑らせる音）"
+                                "...Slip!!! (Sound of slipping)"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -18223,21 +17180,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{\\{おわあああああああ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああああああ！！！"
+                                "Aaaaaaaahhhhhhhhhhhhhhh!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -18247,14 +17197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{もおおおおおお！言ったそばから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なにしてるんですかああああ！！！"
+                                "Oh myyyyy! What are you doing right after I warned\nyouuuuuu!!!"
                             ]
                         },
                         {
@@ -18283,7 +17226,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスは10のダメージを受けた！"
+                                "Memerisu took 10 points of damage!"
                             ]
                         },
                         {
@@ -18362,7 +17305,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -18372,21 +17315,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわぁ・・・深そうな穴だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "覗いても底が見えないよ。"
+                                "Wow... that's a deep hole. I can't even see the bottom when\nI peek in."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -18396,21 +17332,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あんまり覗き込むと落ちちゃいますよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気を付けてくださいね。"
+                                "If you look too closely, you might fall in. Please be\ncareful."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -18420,14 +17349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほいほーい、心配性だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流石に落ちるわけ・・・"
+                                "Ho ho, you worry too much. As if I'd actually fall..."
                             ]
                         },
                         {
@@ -18456,21 +17378,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{・・・ズルッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（足を滑らせる音）"
+                                "...Slip!!! (Sound of slipping)"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -18480,21 +17395,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{\\{おわあああああああ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああああああ！！！"
+                                "Aaaaaaaahhhhhhhhhhhhhhh!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -18504,14 +17412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{もおおおおおお！言ったそばから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なにしてるんですかああああ！！！"
+                                "Oh myyyyy! What are you doing right after I warned\nyouuuuuu!!!"
                             ]
                         },
                         {
@@ -18540,7 +17441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスは10のダメージを受けた！"
+                                "Memerisu took 10 points of damage!"
                             ]
                         },
                         {
@@ -18619,7 +17520,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -18629,21 +17530,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわぁ・・・深そうな穴だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "覗いても底が見えないよ。"
+                                "Wow... that's a deep hole. I can't even see the bottom when\nI peek in."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -18653,21 +17547,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あんまり覗き込むと落ちちゃいますよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気を付けてくださいね。"
+                                "If you look too closely, you might fall in. Please be\ncareful."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -18677,14 +17564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほいほーい、心配性だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流石に落ちるわけ・・・"
+                                "Ho-ho, you worry too much. As if I'd actually fall..."
                             ]
                         },
                         {
@@ -18713,21 +17593,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{・・・ズルッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（足を滑らせる音）"
+                                "...Slip!!! (Sound of slipping)"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -18737,21 +17610,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{\\{おわあああああああ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああああああ！！！"
+                                "Aaaaaaaahhhhhhhhhhhhhhh!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -18761,14 +17627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{もおおおおおお！言ったそばから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なにしてるんですかああああ！！！"
+                                "Oh myyyyy! What are you doing right after I warned\nyouuuuuu!!!"
                             ]
                         },
                         {
@@ -18797,7 +17656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスは10のダメージを受けた！"
+                                "Memerisu took 10 points of damage!"
                             ]
                         },
                         {
@@ -18876,7 +17735,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -18886,21 +17745,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわぁ・・・深そうな穴だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "覗いても底が見えないよ。"
+                                "Wow... that's a deep hole. I can't see the bottom even when\nI peer into it."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -18910,21 +17762,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あんまり覗き込むと落ちちゃいますよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気を付けてくださいね。"
+                                "If you look in too much, you might fall. Please be careful."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -18934,14 +17779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほいほーい、心配性だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流石に落ちるわけ・・・"
+                                "Ho-ho-i, you worry too much. As if I'd actually fall..."
                             ]
                         },
                         {
@@ -18970,21 +17808,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{・・・ズルッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（足を滑らせる音）"
+                                "...Slip!!! (Sound of slipping)"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -18994,21 +17825,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{\\{おわあああああああ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああああああ！！！"
+                                "Aaaaaaaahhhhhhhhhhhhhhh!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -19018,14 +17842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{もおおおおおお！言ったそばから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なにしてるんですかああああ！！！"
+                                "Geeezzzz! What are you doing right after I warned youuuu!!!"
                             ]
                         },
                         {
@@ -19054,7 +17871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスは10のダメージを受けた！"
+                                "Memerisu took 10 points of damage!"
                             ]
                         },
                         {
@@ -19133,7 +17950,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -19143,21 +17960,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわぁ・・・深そうな穴だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "覗いても底が見えないよ。"
+                                "Wow... that's a deep hole. I can't even see the bottom when\nI peer into it."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -19167,21 +17977,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あんまり覗き込むと落ちちゃいますよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気を付けてくださいね。"
+                                "If you look too closely, you might fall in. Please be\ncareful."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -19191,14 +17994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほいほーい、心配性だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流石に落ちるわけ・・・"
+                                "Ho-ho, you worry too much. As if I'd really fall..."
                             ]
                         },
                         {
@@ -19227,21 +18023,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{・・・ズルッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（足を滑らせる音）"
+                                "...Slip!!! (Sound of slipping)"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -19251,21 +18040,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{\\{おわあああああああ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああああああ！！！"
+                                "Aaaaaaaahhhhhhhhhhhhhhh!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -19275,14 +18057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{もおおおおおお！言ったそばから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なにしてるんですかああああ！！！"
+                                "Oh myyyyy! What are you doing right after I warned\nyouuuuuu!!!"
                             ]
                         },
                         {
@@ -19311,7 +18086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスは10のダメージを受けた！"
+                                "Memerisu took 10 points of damage!"
                             ]
                         },
                         {
@@ -19390,7 +18165,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -19400,21 +18175,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわぁ・・・深そうな穴だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "覗いても底が見えないよ。"
+                                "Wow... that's a deep hole. I can't even see the bottom when\nI peek in."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -19424,21 +18192,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あんまり覗き込むと落ちちゃいますよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気を付けてくださいね。"
+                                "If you look in too much, you might fall. Please be careful."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -19448,14 +18209,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほいほーい、心配性だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流石に落ちるわけ・・・"
+                                "Okay, okay, you worry too much. It's not like I'm going to\nfall..."
                             ]
                         },
                         {
@@ -19484,21 +18238,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{・・・ズルッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（足を滑らせる音）"
+                                "...Slip!!! (Sound of slipping)"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -19508,21 +18255,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{\\{おわあああああああ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああああああ！！！"
+                                "Aaaaaaaahhhhhhhhhhhhhhhh!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -19532,14 +18272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{もおおおおおお！言ったそばから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なにしてるんですかああああ！！！"
+                                "Oh myyyyy! What are you doing right after I warned\nyouuuuuu!!!"
                             ]
                         },
                         {
@@ -19568,7 +18301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスは10のダメージを受けた！"
+                                "Memerisu took 10 points of damage!"
                             ]
                         },
                         {
@@ -19647,7 +18380,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -19657,21 +18390,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわぁ・・・深そうな穴だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "覗いても底が見えないよ。"
+                                "Wow... that's a deep hole. I can't even see the bottom when\nI peek in."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -19681,21 +18407,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あんまり覗き込むと落ちちゃいますよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気を付けてくださいね。"
+                                "If you peer in too much, you might fall. Please be careful."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -19705,14 +18424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほいほーい、心配性だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流石に落ちるわけ・・・"
+                                "Ho-ho-hoi, you worry too much. As if I'd actually fall..."
                             ]
                         },
                         {
@@ -19741,21 +18453,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{・・・ズルッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（足を滑らせる音）"
+                                "...Slip!!! (Sound of slipping)"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -19765,21 +18470,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{\\{おわあああああああ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああああああ！！！"
+                                "Aaaaaaaahhhhhhhhhhhhhh!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -19789,14 +18487,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{もおおおおおお！言ったそばから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なにしてるんですかああああ！！！"
+                                "Oh myyyyy! What are you doing right after I warned\nyouuuuuu!!!"
                             ]
                         },
                         {
@@ -19825,7 +18516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスは10のダメージを受けた！"
+                                "Memerisu took 10 points of damage!"
                             ]
                         },
                         {
@@ -19904,7 +18595,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -19914,21 +18605,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわぁ・・・深そうな穴だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "覗いても底が見えないよ。"
+                                "Wow... that's a deep hole. I can't even see the bottom when\nI peek in."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -19938,21 +18622,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あんまり覗き込むと落ちちゃいますよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気を付けてくださいね。"
+                                "If you peer in too much, you might fall. Please be careful."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -19962,14 +18639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ほいほーい、心配性だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流石に落ちるわけ・・・"
+                                "Sure, sure, you worry too much. As if I'm going to fall..."
                             ]
                         },
                         {
@@ -19998,21 +18668,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{・・・ズルッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（足を滑らせる音）"
+                                "...Slip!!! (Sound of slipping)"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -20022,21 +18685,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{\\{おわあああああああ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああああああ！！！"
+                                "Aaaaaaaahhhhhhhhhhhhhhh!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -20046,14 +18702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{もおおおおおお！言ったそばから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なにしてるんですかああああ！！！"
+                                "Oh my goooooood! What are you doing right after I warned\nyouuuuuu!!!"
                             ]
                         },
                         {
@@ -20082,7 +18731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メメリスは10のダメージを受けた！"
+                                "Memerisu took 10 points of damage!"
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ギルド支部",
+    "displayName": "Guild Branch",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -1255,21 +1255,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ねぇ、貴方。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おケツほじりスライムって知ってる？"
+                                "Hey, do you know about the Butt-Digging Slime?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 7,
                                 0,
                                 2
@@ -1279,7 +1272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうしたの急に・・・。"
+                                "What's up all of a sudden..."
                             ]
                         },
                         {
@@ -1296,21 +1289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私はこの島にギルドより派遣されている調査員・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ、分かりやすく言えばこの島の代理の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ギルドマスターよ。"
+                                "I'm an investigator dispatched from the guild to this\nisland... Well, to put it simply, I'm the acting guild\nmaster for this island."
                             ]
                         },
                         {
@@ -1327,28 +1306,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もしかしたら既にほじられてるかもしれないけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "北東にある森には古くからおケツほじりスライムが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "生息しているわ。"
+                                "It's possible you've already been dug into, but in the\nforest to the northeast, there's been a Butt-Digging Slime\nliving there since ancient times."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -1358,14 +1323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この世の終わりみたいな名前の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "モンスターだ・・・。"
+                                "That's a monster with a name like it's the end of the\nworld..."
                             ]
                         },
                         {
@@ -1382,21 +1340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうね。そこは否定出来ないけど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "古来より温厚な性格で誰かを傷つけたりしない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "心優しいモンスターなの。"
+                                "Yes, I can't deny that... But they are gentle creatures by\nnature, kind-hearted monsters that wouldn't hurt anyone."
                             ]
                         },
                         {
@@ -1413,14 +1357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "せいぜい、縄張りに侵入した冒険者のおケツを男女問わず"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほじり尽くし開発するぐらいだわ。"
+                                "At most, they just thoroughly dig into and develop the butts\nof adventurers who invade their territory, regardless of\ngender."
                             ]
                         },
                         {
@@ -1437,35 +1374,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さらにおケツをほじる際、様々なお尻の症状を治療している"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とも最近の研究結果で出ているの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほじられ過ぎてケツイキ専門の縦割れアナルになる事が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "玉にキズだけどね。"
+                                "Furthermore, when they dig into butts, recent research shows\nthey also treat various anal conditions. The only downside\nis becoming too accustomed to being dug into and ending up\nwith a split anal that specializes in butt orgasms."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -1475,14 +1391,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なるほど～・・・・・・・・。"
+                                "I see~..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -1492,7 +1408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "って！それがボクに何の関係があるんじゃい！"
+                                "Wait! What does that have to do with me?!"
                             ]
                         },
                         {
@@ -1509,21 +1425,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それが最近、人に襲い掛かり危害を加える個体が現れたって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "情報があったの。"
+                                "Recently, there have been reports of individuals attacking\npeople and causing harm."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -1533,14 +1442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おケツをほじられる事は危害じゃないんですか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・？"
+                                "Isn't being dug into the butt harmful...?"
                             ]
                         },
                         {
@@ -1557,21 +1459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴方にはおケツほじりスライムの森に行って、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人に危害を及ぼす特殊なおケツほじりスライムの調査を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "してきてほしいの。"
+                                "I want you to go to the forest of the Butt-Digging Slimes\nand investigate the special ones that are causing harm to\npeople."
                             ]
                         },
                         {
@@ -1588,14 +1476,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もちろん、報酬は渡すわ。"
+                                "Of course, you'll be rewarded."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -1605,14 +1493,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "報酬って・・・も、もしボクのおケツが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほじられたらどうすんのさー！"
+                                "Rewarded... But what if my butt gets dug into?!"
                             ]
                         },
                         {
@@ -1629,14 +1510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "冒険者なのにそんなおケツの穴が小さい事言わないで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょうだい。"
+                                "Please don't say such things about having a small anal\nopening when you're an adventurer."
                             ]
                         },
                         {
@@ -1653,7 +1527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この依頼、受けるの？受けないの？"
+                                "Will you take on this request? Or not?"
                             ]
                         },
                         {
@@ -1661,8 +1535,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "受ける",
-                                    "受けない"
+                                    "Accept",
+                                    "Decline"
                                 ],
                                 1,
                                 0,
@@ -1682,7 +1556,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -1692,7 +1566,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ま、まぁ・・・報酬が貰えるなら・・・。"
+                                "Well... if there's a reward..."
                             ]
                         },
                         {
@@ -1709,14 +1583,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そう、良かった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それなら早速、ほじりの森に行って調査をお願いするわね。"
+                                "Good, then please head to the forest of digging right away\nand start your investigation."
                             ]
                         },
                         {
@@ -1733,7 +1600,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "それと1つ注意だけ・・・。"
+                                "And one more thing to be cautious about..."
                             ]
                         },
                         {
@@ -1750,28 +1617,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "森ではおケツほじりスライムがよく出てくるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ケツイキアクメでMPを吸い取られないように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "気を付けてね。"
+                                "In the forest, you'll encounter Butt-Digging Slimes quite\noften. Be careful not to have your MP sucked out during an\nanal orgasm."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 7,
                                 0,
                                 2
@@ -1781,7 +1634,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・・・・やっぱり断りたくなってきた。"
+                                "...I'm starting to want to refuse."
                             ]
                         },
                         {
@@ -1810,7 +1663,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -1820,14 +1673,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おケツをほじられるかもしれないなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ボクはごめんじゃーい！"
+                                "I don't want to be dug into the butt, no thank you!"
                             ]
                         },
                         {
@@ -1844,7 +1690,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そう・・・気が変わったらまた話しかけてちょうだい。"
+                                "So... If you change your mind, come talk to me again."
                             ]
                         },
                         {
@@ -1922,21 +1768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "森ではおケツほじりスライムがよく出てくるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ケツイキアクメでMPを吸い取られないように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気を付けてね。"
+                                "In the forest, you'll often encounter Butt-Digging Slimes.\nBe careful not to have your MP drained by an anal climax."
                             ]
                         },
                         {
@@ -1994,7 +1826,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -2004,7 +1836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おケツほじりスライムを捕まえてきたよ～。"
+                                "I've caught a Butt-Digging Slime~."
                             ]
                         },
                         {
@@ -2021,14 +1853,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "え、捕まえてきたんですか！？"
+                                "What, you caught one!?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -2038,7 +1870,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "実はかくかくしかじかで・・・"
+                                "Actually, it's a long story..."
                             ]
                         },
                         {
@@ -2055,14 +1887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なるほど・・・そういう事だったんですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "分かりました。"
+                                "I see... So that's what happened. Understood."
                             ]
                         },
                         {
@@ -2079,14 +1904,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひとまずその個体はこちらで預かります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こちら報酬ですので、どうぞ。"
+                                "For now, I'll take custody of the specimen. Here's your\nreward, please take it."
                             ]
                         },
                         {
@@ -2103,14 +1921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔物に関する依頼は今後こちらでお引き受け出来るので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつでもまた来てくださいね。"
+                                "We'll be able to take on requests regarding monsters from\nnow on, so feel free to come back anytime."
                             ]
                         },
                         {
@@ -2149,14 +1960,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スライムの欠片を30個手に入れた！"
+                                "Gained 30 pieces of Slime!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -2166,7 +1977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・売るか。"
+                                "...Maybe I'll sell it."
                             ]
                         },
                         {
@@ -2243,21 +2054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんにちは。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メメリスさん、ティーナさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔物討伐の依頼を受けるのかしら？"
+                                "Hello, Miss Memerisu, Miss Tina. Are you here to accept a\nquest for monster subjugation?"
                             ]
                         },
                         {
@@ -2274,7 +2071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "机に置いてある書類から引き受ける依頼を選んでね。"
+                                "Please choose the quest you'd like to accept from the\ndocuments on the desk."
                             ]
                         },
                         {
@@ -2351,14 +2148,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここはギルド派遣員詰所兼、簡易ギルド支部だぜ！"
+                                "This is the guild dispatch office, as well as a makeshift\nguild branch!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -2368,7 +2165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんでスラムなんかにギルド支部があるの？"
+                                "Why is there a guild branch in the slums?"
                             ]
                         },
                         {
@@ -2385,7 +2182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "家賃が安いからだぜ！！"
+                                "Because the rent is cheap!!"
                             ]
                         },
                         {
@@ -2462,28 +2259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "依頼名 「帰ってきたぬめぬめぬめぬ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "討伐対象 「ぬめぬめぬめぬ」　場所「鉱山跡」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "報酬 20000ジュエル "
+                                "Request Name: \"Return of the Slimy Slime\" Target: \"Slimy\nSlime\" Location: \"Abandoned Mine\" Reward: 20,000 Jewels"
                             ]
                         },
                         {
@@ -2500,21 +2276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鉱山跡に最近現れた魔物。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この辺りでは見かけない種類ですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "住み着かれ数を増やす前に討伐をお願いします。"
+                                "A monster has recently appeared in the abandoned mine. It's\na species not seen around here, and we ask for its\nextermination before it settles in and increases in number."
                             ]
                         },
                         {
@@ -2531,7 +2293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この依頼を受けますか？"
+                                "Will you accept this request?"
                             ]
                         },
                         {
@@ -2539,8 +2301,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -2592,7 +2354,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「帰ってきたぬめぬめぬめぬ」の依頼を引き受けた！"
+                                "Accepted the request \"Return of the Slimy Slime\"!"
                             ]
                         },
                         {
@@ -2609,21 +2371,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]依頼内容は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「メニュー→アイテム→大事なもの」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "から確認することができます。"
+                                "\\c[17]You can check the details of the request under \"Menu → Items\n→ Key Items\"."
                             ]
                         },
                         {
@@ -2723,28 +2471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "依頼名 「帰ってきたぬめぬめぬめぬ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "討伐対象 「ぬめぬめぬめぬ」　場所「鉱山跡」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "報酬 20000ジュエル "
+                                "Quest Name: \"The Return of the Slimy Slime\" Target: \"Slimy\nSlime\" Location: \"Abandoned Mine\" Reward: 20,000 Jewels"
                             ]
                         },
                         {
@@ -2761,7 +2488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この依頼は引き受け中です。"
+                                "This quest is currently accepted."
                             ]
                         },
                         {
@@ -2829,28 +2556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "依頼名 「帰ってきたぬめぬめぬめぬ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "討伐対象 「ぬめぬめぬめぬ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "報酬 20000ジュエル "
+                                "Quest Name \"The Return of the Slimy Slimy Slimy\" Target\n\"Slimy Slimy Slimy\" Reward 20,000 Jewels"
                             ]
                         },
                         {
@@ -2867,7 +2573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "討伐済みです。"
+                                "Already subdued."
                             ]
                         },
                         {
@@ -2944,28 +2650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "依頼名 「怪しい研究所を調査せよ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "討伐対象 「？？？？？？」　場所「コチヌカシティ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "報酬 20000ジュエル"
+                                "Request: \"Investigate the Suspicious Laboratory\" Target:\n\"??????\" Location: \"Kochinukacity\" Reward: 20,000 Jewels"
                             ]
                         },
                         {
@@ -2982,21 +2667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コチヌカシティにある研究所。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何やら怪しい研究をしているとの報告がされたので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "調査を依頼する。"
+                                "A laboratory in Kochinukacity. There have been reports of\nsuspicious research being conducted, so an investigation has\nbeen requested."
                             ]
                         },
                         {
@@ -3013,7 +2684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この依頼を受けますか？"
+                                "Will you accept this request?"
                             ]
                         },
                         {
@@ -3021,8 +2692,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3074,7 +2745,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「怪しい研究所を調査せよ」の依頼を引き受けた！"
+                                "You have accepted the request to \"Investigate the Suspicious\nLaboratory\"!"
                             ]
                         },
                         {
@@ -3091,21 +2762,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]依頼内容は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「メニュー→アイテム→大事なもの」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "から確認することができます。"
+                                "\\c[17]You can check the details of the request under \"Menu → Items\n→ Key Items\"."
                             ]
                         },
                         {
@@ -3205,28 +2862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "依頼名 「怪しい研究所を調査せよ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "討伐対象 「？？？？？？」　場所「コチヌカシティ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "報酬 20000ジュエル"
+                                "Request Name: \"Investigate the Suspicious Laboratory\"\nTarget: \"??????\" Location: \"Kochinukacity\" Reward: 20,000\nJewels"
                             ]
                         },
                         {
@@ -3243,7 +2879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この依頼は引き受け中です。"
+                                "This request is currently accepted."
                             ]
                         },
                         {
@@ -3311,28 +2947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "依頼名 「怪しい研究所を調査せよ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "討伐対象 「キマイラーン」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "報酬 20000ジュエル "
+                                "Quest Name: \"Investigate the Suspicious Laboratory\" Target:\n\"Chimera-n\" Reward: 20,000 Jewels"
                             ]
                         },
                         {
@@ -3349,7 +2964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "討伐済みです。"
+                                "Already subdued."
                             ]
                         },
                         {
@@ -3426,28 +3041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "依頼名 「ゴブリンに攫われた村人を救出せよ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "討伐対象 「ゴブリン」　場所「採掘跡」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "報酬 20000ジュエル"
+                                "Request: \"Rescue the Villagers Abducted by Goblins\" Target:\n\"Goblins\" Location: \"Mining Site\" Reward: 20,000 Jewels"
                             ]
                         },
                         {
@@ -3464,21 +3058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "採掘跡にゴブリンが巣を作り村人達を攫っていった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "急いでゴブリンを討伐し村人達を救出してほしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゴブリンは皆殺しだ。"
+                                "Goblins have made a nest at the mining site and abducted the\nvillagers. Please hurry and exterminate the goblins to\nrescue the villagers. Kill all the goblins."
                             ]
                         },
                         {
@@ -3495,7 +3075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この依頼を受けますか？"
+                                "Will you accept this request?"
                             ]
                         },
                         {
@@ -3503,8 +3083,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -3556,14 +3136,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ゴブリンに攫われた村人達を救出せよ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "の依頼を引き受けた！"
+                                "You have accepted the request \"Rescue the Villagers Abducted\nby Goblins\"!"
                             ]
                         },
                         {
@@ -3580,21 +3153,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]依頼内容は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「メニュー→アイテム→大事なもの」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "から確認することができます。"
+                                "\\c[17]You can check the details of the request under \"Menu → Items\n→ Key Items\"."
                             ]
                         },
                         {
@@ -3694,28 +3253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "依頼名 「ゴブリンに攫われた村人を救出せよ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "討伐対象 「ゴブリン」　場所「採掘跡」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "報酬 20000ジュエル"
+                                "Quest Name: \"Rescue the Villagers Kidnapped by Goblins\"\nTarget: \"Goblins\" Location: \"Mining Site\" Reward: 20000\nJewels"
                             ]
                         },
                         {
@@ -3732,7 +3270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この依頼は引き受け中です。"
+                                "This quest is currently accepted."
                             ]
                         },
                         {
@@ -3800,28 +3338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "依頼名 「ゴブリンに攫われた村人を救出せよ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "討伐対象 「ゴブリン」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "報酬 20000ジュエル"
+                                "Quest Name: \"Rescue the Villagers Kidnapped by Goblins\"\nTarget: \"Goblins\" Reward: 20000 Jewels"
                             ]
                         },
                         {
@@ -3838,7 +3355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "討伐済みです。"
+                                "Already subdued."
                             ]
                         },
                         {
@@ -3915,14 +3432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "依頼を受ける前に帰還アイテムはゲットしておいた方が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいぜ！"
+                                "It's best to get a return item before accepting a quest!"
                             ]
                         },
                         {
@@ -3939,14 +3449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チェルンの村で貰えるらしいから依頼を受ける前に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貰ってくるといい！"
+                                "It seems you can get one in the village of Chern, so it's a\ngood idea to pick it up before you take on the quest!"
                             ]
                         },
                         {
@@ -3963,7 +3466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チェルン村はコチヌカ島の北西にあるぞ！"
+                                "The village of Chern is located to the northwest of\nKochinuka Island!"
                             ]
                         },
                         {
@@ -4040,28 +3543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "依頼名 「サキュバスに気を付けろ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "討伐対象 「サキュバス」　場所「南西の廃墟」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "報酬 20000ジュエル"
+                                "Quest Name: \"Beware the Succubus\" Target: \"Succubus\"\nLocation: \"Southwest Ruins\" Reward: 20,000 Jewels"
                             ]
                         },
                         {
@@ -4078,21 +3560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "南西の廃墟にサキュバスが住み着き、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夜な夜な男女かまわず精気を吸い取っている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "被害が大きくなる前に一度懲らしめてやってくれ。"
+                                "A succubus has taken up residence in the southwest ruins and\nis draining the life force of both men and women night after\nnight. Please punish her before the damage becomes more\nsevere."
                             ]
                         },
                         {
@@ -4109,7 +3577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この依頼を受けますか？"
+                                "Would you like to accept this quest?"
                             ]
                         },
                         {
@@ -4117,8 +3585,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4170,7 +3638,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「サキュバスに気を付けろ」の依頼を引き受けた！"
+                                "You have accepted the quest \"Beware the Succubus\"!"
                             ]
                         },
                         {
@@ -4187,21 +3655,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]依頼内容は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「メニュー→アイテム→大事なもの」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "から確認することができます。"
+                                "\\c[17]You can check the details of the quest under \"Menu → Items →\nKey Items\"."
                             ]
                         },
                         {
@@ -4301,28 +3755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "依頼名 「サキュバスに気を付けろ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "討伐対象 「サキュバス」　場所「南西の廃墟」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "報酬 20000ジュエル"
+                                "Request Name: \"Beware of the Succubus\" Target: \"Succubus\"\nLocation: \"Southwest Ruins\" Reward: 20,000 Jewels"
                             ]
                         },
                         {
@@ -4339,7 +3772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この依頼は引き受け中です。"
+                                "This request is currently accepted."
                             ]
                         },
                         {
@@ -4407,28 +3840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "依頼名 「サキュバスに気を付けろ」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "討伐対象 「サキュバス」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "報酬 20000ジュエル"
+                                "Quest Name \"Beware the Succubus\" Target \"Succubus\" Reward\n20,000 Jewels"
                             ]
                         },
                         {
@@ -4445,7 +3857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "討伐済みです。"
+                                "Already subdued."
                             ]
                         },
                         {

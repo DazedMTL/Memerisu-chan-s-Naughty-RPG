@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "宝の部屋",
+    "displayName": "Treasure Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 20,
@@ -2708,14 +2708,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宝箱の中身はからっぽだった。"
+                                "The treasure chest was empty."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 6,
                                 0,
                                 2
@@ -2725,21 +2725,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、あれ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "宝箱からっぽじゃん！！！"
+                                "Ah, what?! The treasure chest is empty!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -2749,21 +2742,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ホントです！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何も入っていませんね・・・。"
+                                "Really?! There's nothing inside..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -2773,21 +2759,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ダンジョンにはお宝があるって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "話だったのにー！！ふざけんなー！！"
+                                "They said there would be treasure in the dungeon-!! This is\na joke-!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -2797,14 +2776,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一度村に戻ってギルドで相談してみましょう。"
+                                "Let's go back to the village and consult with the guild."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -2814,14 +2793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "帰りはウタゲのつばさを使いましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一瞬で村に戻れますよ♪"
+                                "For the return trip, let's use the wings of Utagae. We can\nget back to the village in an instant♪"
                             ]
                         },
                         {
@@ -2888,7 +2860,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 0,
                                 0,
                                 2
@@ -2898,14 +2870,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一度村に戻ってギルドで相談してみましょう。"
+                                "Let's go back to the village once and consult at the guild."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -2915,14 +2887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "帰りはウタゲのツバサを使いましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一瞬で村に戻れますよ♪"
+                                "On our way back, let's use the wings of Utagae. We can\nreturn to the village in an instant♪"
                             ]
                         },
                         {
@@ -2990,7 +2955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宝箱はからっぽだ・・・。"
+                                "The treasure chest is empty..."
                             ]
                         },
                         {
@@ -3058,14 +3023,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "宝箱はからっぽだ・・・。"
+                                "The treasure chest is empty..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -3075,21 +3040,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そういえば結局、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何故ここのお宝はなかったのでしょうか？"
+                                "By the way, why was there no treasure here in the end?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 0,
                                 0,
                                 2
@@ -3099,28 +3057,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -3130,14 +3074,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・・・ッ！！"
+                                "...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -3147,14 +3091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何故でしょうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "妙な胸騒ぎがします・・・！！"
+                                "Why, I wonder. I have a strange feeling in my chest...!!"
                             ]
                         },
                         {
@@ -3171,7 +3108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・・・・・・・・・To Be Continued？"
+                                "...To Be Continued?"
                             ]
                         },
                         {

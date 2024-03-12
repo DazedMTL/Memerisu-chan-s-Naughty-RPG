@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "採掘跡",
+    "displayName": "Mining Site",
     "encounterList": [],
     "encounterStep": 80,
     "height": 14,
@@ -1924,21 +1924,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "君達！助けてくれてありがとう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうダメかと思ったよ。"
+                                "You guys! Thank you for saving me! I thought I was done for."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 0,
                                 0,
                                 2
@@ -1948,14 +1941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ご無事でよかったです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その格好・・・もしかして神父様ですか？"
+                                "I'm glad you're safe. That outfit... could it be that you're\na priest?"
                             ]
                         },
                         {
@@ -1972,35 +1958,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えぇ、そうです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゴブリンに襲われた村の教会に仕えていたのですが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "襲われた際に教会も破壊されてしまって・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今度はどうすればいいのか・・・。"
+                                "Yes, that's right. I served at the church of a village that\nwas attacked by goblins, but when we were attacked, the\nchurch was also destroyed... Now I don't know what to do..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -2010,14 +1975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それでしたら神父様、もし良ければ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かくかくしかじか・・・。"
+                                "If that's the case, Father, if you don't mind... yada yada\nyada..."
                             ]
                         },
                         {
@@ -2034,21 +1992,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おぉ、君達が人々を集めて作っている村があると！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぜひ私も村作りの協力をさせていただこう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この出会い、神に感謝を・・・。"
+                                "Oh, you say there's a village being built by gathering\npeople! I would love to help with the village construction.\nI give thanks to God for this encounter..."
                             ]
                         },
                         {
@@ -2107,7 +2051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "神父様が仲間になった！"
+                                "The priest has joined your party!"
                             ]
                         },
                         {
@@ -2790,21 +2734,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ギギャ！グギャ！！ニンゲン！！オカス！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "タノシイ！タノシイ！！"
+                                "Heehee! Hahaha!! Human!! Violate!!! Fun! Fun!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -2814,21 +2751,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "た、大変です！村人さん達が捕まってます！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに冒険者の方が・・・！！"
+                                "Oh no! The villagers have been captured! And the adventurers\nare...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -2838,14 +2768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "急いで助けよう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "行くよ、ティーナちゃん！"
+                                "Let's hurry and save them! Let's go, Tina-chan!"
                             ]
                         },
                         {
@@ -2862,21 +2785,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "グギャギャ！！メス！ニンゲンノメスマタキタ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オカス！オカス！！"
+                                "Gyahahaha!! Female! A human female has come! Violate!\nViolate!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -2886,7 +2802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリンは皆殺しじゃーい！！"
+                                "We're going to slaughter all these goblins!!"
                             ]
                         },
                         {
@@ -2922,7 +2838,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -2932,28 +2848,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・ふぅ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんとかゴブリンを倒して村人さん達を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ギルドの人達にお任せ出来ましたね。"
+                                "...Phew. Somehow we managed to defeat the goblins and leave\nthe villagers in the care of the guild members."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -2963,14 +2865,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "およ？なんか1人残ってるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "話しかけてみる？"
+                                "Huh? There seems to be one left. Should we talk to him?"
                             ]
                         },
                         {
@@ -2987,7 +2882,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "依頼 「ゴブリンに攫われた村人を救出せよ」をクリアした！"
+                                "Quest \"Rescue the Villagers Abducted by Goblins\" cleared!"
                             ]
                         },
                         {
@@ -3016,7 +2911,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "報酬 20000ジュエルを手に入れた！"
+                                "Reward 20,000 jewels obtained!"
                             ]
                         },
                         {
@@ -3102,7 +2997,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "戦いに負けたメメリス達にゴブリンが飛び掛かる。"
+                                "The goblins pounce on Memerisu and her party after they lose\nthe battle."
                             ]
                         },
                         {
@@ -3119,14 +3014,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "グギャ！ギャギャギャ！マケタメス！オカス！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オレタチノオモチャ！！"
+                                "Gyah! Gyahahaha! You lost, female! Violate! You're our toy\nnow!!"
                             ]
                         },
                         {
@@ -3143,14 +3031,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "馬乗りになり、髪をハンドルのように無造作に掴みながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ゴブリンはメメリスの口にチンコを無理矢理押し込んだ。"
+                                "Straddling her and grabbing her hair carelessly like a\nhandle, the goblin forcefully shoves his cock into\nMemerisu's mouth."
                             ]
                         },
                         {
@@ -3205,7 +3086,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{おぶっ！お゛ォ゛・・・！！！"
+                                "\\c[31]Oof! Gah...!!!"
                             ]
                         },
                         {
@@ -3222,14 +3103,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]（痛い！痛い！！髪の毛掴まないで！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それにゴブリンのチンコが口に・・・い、息が出来ない！）"
+                                "\\c[31](It hurts! It hurts!! Don't grab my hair!! And the goblin's\ncock is in my mouth... I can't breathe!)"
                             ]
                         },
                         {
@@ -3246,28 +3120,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "口に無理矢理押し込まれた勢いで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ゴブリンの包茎チンコの皮が口内で剥け、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "溜まりに溜まったチンカスの味や臭いが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一気に広がる・・・。"
+                                "The force of being shoved into her mouth causes the goblin's\nforeskin to peel back inside, and the taste and smell of\naccumulated smegma spread all at once..."
                             ]
                         },
                         {
@@ -3284,14 +3137,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{ごふっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お゛っ・・・げほっ・・・お゛ぇ゛！！"
+                                "\\c[31]Gofuh! Gah... cough... gahhh!!"
                             ]
                         },
                         {
@@ -3308,21 +3154,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]（口の中がチンカスだらけ・・・それに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ゴブリンからも凄い臭いがして鼻で息吸うと頭が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "クラクラしちゃう・・・！）"
+                                "\\c[31](My mouth is full of smegma... and there's a terrible smell\ncoming from the goblin, when I breathe through my nose my\nhead spins...!)"
                             ]
                         },
                         {
@@ -3339,14 +3171,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]（早く抜け出さないと・・・こんなゴブリンの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "  チンコなんか・・・噛み千切って・・・！！）"
+                                "\\c[31](I have to get away quickly... such a goblin's cock... I'll\nbite it off...!!)"
                             ]
                         },
                         {
@@ -3403,21 +3228,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メメリスがチンコに噛みつこうとした瞬間、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ゴブリンが激しく腰を動かし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "メメリスの口内を犯し始めた・・・！！"
+                                "Just as Memerisu tries to bite down on the cock, the goblin\nstarts thrusting violently, beginning to violate her\nmouth...!!"
                             ]
                         },
                         {
@@ -3434,7 +3245,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{お゛ォ゛ッ！？ゴフッ！！"
+                                "\\c[31]Gahh!? Cough!!"
                             ]
                         },
                         {
@@ -3451,7 +3262,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "グギャ♪グギャギャギャ♪"
+                                "Gyah♪ Gyahahaha♪"
                             ]
                         },
                         {
@@ -3468,21 +3279,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メメリスの事など一切考えないゴブリンは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "新しいおもちゃを手に入れた子供のように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ハシャギながら腰を振る・・・。"
+                                "The goblin, not caring about Memerisu at all, shakes his\nhips gleefully like a child with a new toy..."
                             ]
                         },
                         {
@@ -3499,21 +3296,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "もはやチンコを噛み千切るどころではなくなったメメリスは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "必死に早く終わってほしいと思うことしか出来ず、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "無抵抗でゴブリンのピストンを受け入れる・・・。"
+                                "No longer able to bite off the cock, Memerisu can only\ndesperately hope for it to end soon, passively accepting the\ngoblin's thrusts..."
                             ]
                         },
                         {
@@ -3530,14 +3313,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]（く、苦しい・・・早く・・・もう何でも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いいから早く終わって・・・！！）"
+                                "\\c[31](It's so painful... hurry... just finish it quickly,\nanything...!!)"
                             ]
                         },
                         {
@@ -3554,14 +3330,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{ブポッ♥ジュルっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ジュポッ！ジュッポッ♥ジュルルル♥"
+                                "\\c[27]Bupoh♥ Slurp♥ Jupo! Juppo♥ Slurrrp♥"
                             ]
                         },
                         {
@@ -3578,7 +3347,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ギャギャ♪デル！デル！メス！クラエ！！"
+                                "Gyahahaha♪ Delightful! Delightful! Female! Scream!!"
                             ]
                         },
                         {
@@ -3665,14 +3434,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ビュルッ♥ビュルルルッッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ビュルルルルルルルルルッッッ♥♥♥"
+                                "\\c[27]Byuruh♥ Byurururu♥ Byururururururururu♥♥♥"
                             ]
                         },
                         {
@@ -3689,21 +3451,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ゴブリンのチンコがビクビクゥ！と震え"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ゼリーのような黄ばんだ精液をメメリスの口内に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "吐き出した・・・。"
+                                "The goblin's cock twitches and spurts out jelly-like\nyellowish semen into Memerisu's mouth..."
                             ]
                         },
                         {
@@ -3720,7 +3468,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{\\{～～～～～～～！！？？"
+                                "\\c[31]～～～～～～～！！??"
                             ]
                         },
                         {
@@ -3737,21 +3485,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "口内に満たされる精液で声もあげる事が出来ず、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "精液で溺れないように必死に精液を飲み込んでいく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "メメリス・・・。"
+                                "Unable to make a sound with her mouth filled with semen,\nMemerisu desperately swallows to avoid drowning in it..."
                             ]
                         },
                         {
@@ -3768,7 +3502,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ギャギャギャ♪ギャギャギャギャー♪"
+                                "Gyahahaha♪ Gyahahahaha-♪"
                             ]
                         },
                         {
@@ -3785,21 +3519,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その姿を見た周りのゴブリン達が無様なメスに大笑い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その中の一匹がケツを一発叩き、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "自分達のメスオナホに一気に挿入した・・・。"
+                                "Seeing her like this, the surrounding goblins laugh at the\ndisgraceful female. One of them slaps her butt and thrusts\ninto their female onahole all at once..."
                             ]
                         },
                         {
@@ -3854,14 +3574,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{\\{ふぎぃ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "んぉぉおおおおおお！！！"
+                                "\\c[31]Fugii! Nohhhhhhhhh!!!"
                             ]
                         },
                         {
@@ -3890,14 +3603,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "獣の唸り声のような音を出しながら、ただひたすら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "自らの身体を好き勝手される事しか出来ない・・・。"
+                                "Letting out a beast-like groan, she can do nothing but be\nused as they please..."
                             ]
                         },
                         {
@@ -3914,14 +3620,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュッ！ズポッ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "パン！パン！パン！パン！"
+                                "\\c[27]Dochu! Zupo!!! Pan! Pan! Pan! Pan!"
                             ]
                         },
                         {
@@ -4008,14 +3707,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ドピュ♥ビュルルルッッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ビュク！ビュク！ビュルルルッ♥♥♥"
+                                "\\c[27]Dopyu♥ Byurururu♥ Byuku! Byuku! Byurururu♥♥♥"
                             ]
                         },
                         {
@@ -4032,14 +3724,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{ン゛ォ゛ォ゛オ゛オ゛"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オ゛オ゛！！！！！！"
+                                "\\c[31]Nghhhhooooo!!!!!!!"
                             ]
                         },
                         {
@@ -4056,21 +3741,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{（ゴブリンザーメン飲みながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "種付けされてイク゛っ♥イク゛♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "イ゛ク゛ゥ゛ウ゛ウ゛ウ゛ウ゛♥）"
+                                "\\c[31](Drinking goblin semen while being impregnated and cumming♥\nCumming♥ Cummingggg♥♥♥)"
                             ]
                         },
                         {
@@ -4087,14 +3758,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "グギャギャ♪イッタ！メスイッタ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "モットオカス！ミンナデオカス！オレノコウマス！！"
+                                "Gyahahaha♪ She came! The female came! More violation!\nEveryone violate! My pleasure hole!!"
                             ]
                         },
                         {
@@ -4111,21 +3775,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ゴブリン達の凌辱は終わる事はなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "射精を終えたゴブリンの代わりに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "別のゴブリンがメメリスを犯し始める・・・！！"
+                                "The goblins' violation doesn't end, as one after another\ntakes their turn with Memerisu after finishing their\nejaculation...!!"
                             ]
                         },
                         {
@@ -4147,7 +3797,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そして・・・数時間後。"
+                                "And... several hours later."
                             ]
                         },
                         {
@@ -4185,14 +3835,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ギヒッ！ギヒッ！メスオナホキモチイイ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "デル！デル！オレノコウメ！"
+                                "Gihi! Gihi! This female onahole feels so good! Coming out!\nComing out! My seed!"
                             ]
                         },
                         {
@@ -4279,14 +3922,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ドピュ♥ビュルルルッッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ビュク！ビュク！ビュルルルッ♥♥♥"
+                                "\\c[27]Dopyu♥ Byurururu♥ Byuku! Byuku! Byurururu♥♥♥"
                             ]
                         },
                         {
@@ -4319,7 +3955,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]お゛ぉ゛っ・・・。"
+                                "\\c[31]Oooh..."
                             ]
                         },
                         {
@@ -4336,14 +3972,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ゴブリン達に身体を弄ばれたメメリスは意識が朦朧とし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "射精されても身体をビクッ！と震わせるだけ・・・。"
+                                "Memerisu, toyed with by the goblins, becomes delirious, her\nbody only twitching with each ejaculation..."
                             ]
                         },
                         {
@@ -4360,21 +3989,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "数十匹のゴブリンに犯し続けられ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "精液で溺れ死ぬ寸前で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ようやくゴブリン達の凌辱が一旦止まる・・・。"
+                                "After being continuously violated by dozens of goblins and\nnearly drowning in semen, the goblins' assault finally\npauses just before she dies..."
                             ]
                         },
                         {
@@ -4391,7 +4006,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メシ！メシ！メシノジカン！"
+                                "Food! Food! It's time to eat!"
                             ]
                         },
                         {
@@ -4408,14 +4023,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "コノメスドモ！ニゲナイヨウニテアシキル！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ウマソウ！ウマソウ！！"
+                                "This female! Make sure she can't escape! Looks tasty! Looks\ntasty!!"
                             ]
                         },
                         {
@@ -4432,7 +4040,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ゴブリン達が何やら言ってるが上手く聞き取れない・・・。"
+                                "The goblins are saying something, but it's hard to make\nout..."
                             ]
                         },
                         {
@@ -4449,7 +4057,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]（早く・・・誰か・・・助けに・・・）"
+                                "\\c[31](Quickly... someone... come to save me...)"
                             ]
                         },
                         {
@@ -4483,7 +4091,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ザシュッ！！！！"
+                                "Zashu!!!!"
                             ]
                         },
                         {
@@ -4500,21 +4108,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その後、何故かゴブリンが大量発生し多くの村が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "襲われる事件が多発。伝説のゴブリン狩りが動き出すが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それはまた別のお話・・・。"
+                                "Afterwards, for some reason, goblins began to appear in\nlarge numbers and many villages were attacked. The legendary\nGoblin Hunter begins to move, but that is a story for\nanother time..."
                             ]
                         },
                         {
@@ -4531,7 +4125,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "二人の行方を知る者はいない・・・。"
+                                "No one knows what became of the two..."
                             ]
                         },
                         {
@@ -4548,21 +4142,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -4747,7 +4327,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 6,
                                 0,
                                 2
@@ -4757,7 +4337,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・はっ！？夢か！！"
+                                "...Huh!? Was it a dream!!?"
                             ]
                         },
                         {
@@ -5149,14 +4729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゴブリンシャーマンと再戦しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（敗北してもエロステはカウントされません）"
+                                "Do you want to rematch the Goblin Shaman? (Losing will not\ncount towards Eroge stats)"
                             ]
                         },
                         {
@@ -5164,8 +4737,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -5270,7 +4843,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "戦いに負けたメメリス達にゴブリンが飛び掛かる。"
+                                "The goblins pounce on Memerisu and her companions after\ntheir defeat."
                             ]
                         },
                         {
@@ -5287,14 +4860,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "グギャ！ギャギャギャ！マケタメス！オカス！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "オレタチノオモチャ！！"
+                                "Gugya! Gyagyagya! You lost! You're ours now! Our toys!!"
                             ]
                         },
                         {
@@ -5311,14 +4877,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "馬乗りになり、髪をハンドルのように無造作に掴みながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ゴブリンはメメリスの口にチンコを無理矢理押し込んだ。"
+                                "Straddling her, the goblin roughly grabs her hair like a\nhandle and forces his cock into Memerisu's mouth."
                             ]
                         },
                         {
@@ -5373,7 +4932,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{おぶっ！お゛ォ゛・・・！！！"
+                                "\\c[31]Oobuh! Ogh...!!!"
                             ]
                         },
                         {
@@ -5390,14 +4949,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]（痛い！痛い！！髪の毛掴まないで！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それにゴブリンのチンコが口に・・・い、息が出来ない！）"
+                                "\\c[31](It hurts! It hurts!! Don't grab my hair!! And the goblin's\ncock in my mouth... I can't breathe!)"
                             ]
                         },
                         {
@@ -5414,28 +4966,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "口に無理矢理押し込まれた勢いで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ゴブリンの包茎チンコの皮が口内で剥け、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "溜まりに溜まったチンカスの味や臭いが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "一気に広がる・・・。"
+                                "The force of the cock being shoved into her mouth peels back\nthe foreskin of the goblin's unwashed dick, and the taste\nand smell of smegma spread all at once..."
                             ]
                         },
                         {
@@ -5452,14 +4983,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{ごふっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お゛っ・・・げほっ・・・お゛ぇ゛！！"
+                                "\\c[31]Gofuh! Ogh... geho... ogh...!!!"
                             ]
                         },
                         {
@@ -5476,21 +5000,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]（口の中がチンカスだらけ・・・それに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ゴブリンからも凄い臭いがして鼻で息吸うと頭が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "クラクラしちゃう・・・！）"
+                                "\\c[31](My mouth is full of smegma... and there's such a strong\nsmell coming from the goblin, breathing through my nose\nmakes my head spin...!)"
                             ]
                         },
                         {
@@ -5507,14 +5017,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]（早く抜け出さないと・・・こんなゴブリンの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "  チンコなんか・・・噛み千切って・・・！！）"
+                                "\\c[31](I have to get away quickly... I can't stand this goblin's\ndick... I'll bite it off...!!)"
                             ]
                         },
                         {
@@ -5571,21 +5074,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "メメリスがチンコに噛みつこうとした瞬間、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ゴブリンが激しく腰を動かし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "メメリスの口内を犯し始めた・・・！！"
+                                "Just as Memerisu tries to bite down on the cock, the goblin\nstarts thrusting violently, beginning to violate her\nmouth...!!"
                             ]
                         },
                         {
@@ -5602,7 +5091,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{お゛ォ゛ッ！？ゴフッ！！"
+                                "\\c[31]Ogh! Gofuh!!"
                             ]
                         },
                         {
@@ -5619,7 +5108,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "グギャ♪グギャギャギャ♪"
+                                "Gugya♪ Gyagyagyagya♪"
                             ]
                         },
                         {
@@ -5636,21 +5125,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "メメリスの事など一切考えないゴブリンは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "新しいおもちゃを手に入れた子供のように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ハシャギながら腰を振る・・・。"
+                                "The goblin, not caring about Memerisu at all, swings his\nhips with glee like a child with a new toy..."
                             ]
                         },
                         {
@@ -5667,21 +5142,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "もはやチンコを噛み千切るどころではなくなったメメリスは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "必死に早く終わってほしいと思うことしか出来ず、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "無抵抗でゴブリンのピストンを受け入れる・・・。"
+                                "No longer able to think about biting off the cock, Memerisu\ncan only desperately wish for it to end quickly, passively\naccepting the goblin's thrusts..."
                             ]
                         },
                         {
@@ -5698,14 +5159,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]（く、苦しい・・・早く・・・もう何でも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "いいから早く終わって・・・！！）"
+                                "\\c[31](It's so suffocating... Please, hurry... I don't care what\nit takes, just end it quickly...!!)"
                             ]
                         },
                         {
@@ -5722,14 +5176,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{ブポッ♥ジュルっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ジュポッ！ジュッポッ♥ジュルルル♥"
+                                "\\c[27]Bupoh♥ Jurl♥ Jupo! Juppo♥ Jurururu♥"
                             ]
                         },
                         {
@@ -5746,7 +5193,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ギャギャ♪デル！デル！メス！クラエ！！"
+                                "Gyagya♪ Delightful! Delightful! Female! Scream!!"
                             ]
                         },
                         {
@@ -5833,14 +5280,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ビュルッ♥ビュルルルッッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ビュルルルルルルルルルッッッ♥♥♥"
+                                "\\c[27]Byuruh♥ Byurururu♥ Byururururururururu♥♥♥"
                             ]
                         },
                         {
@@ -5857,21 +5297,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ゴブリンのチンコがビクビクゥ！と震え"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ゼリーのような黄ばんだ精液をメメリスの口内に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "吐き出した・・・。"
+                                "The goblin's cock twitches and spurts out jelly-like\nyellowish semen into Memerisu's mouth..."
                             ]
                         },
                         {
@@ -5888,7 +5314,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{\\{～～～～～～～！！？？"
+                                "\\c[31]～～～～～～～！！??"
                             ]
                         },
                         {
@@ -5905,21 +5331,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "口内に満たされる精液で声もあげる事が出来ず、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "精液で溺れないように必死に精液を飲み込んでいく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "メメリス・・・。"
+                                "Unable to make a sound with her mouth filled with semen,\nMemerisu desperately swallows to avoid drowning in it..."
                             ]
                         },
                         {
@@ -5936,7 +5348,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ギャギャギャ♪ギャギャギャギャー♪"
+                                "Gyagyagya♪ Gyagyagyagya♪"
                             ]
                         },
                         {
@@ -5953,21 +5365,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "その姿を見た周りのゴブリン達が無様なメスに大笑い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "その中の一匹がケツを一発叩き、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "自分達のメスオナホに一気に挿入した・・・。"
+                                "Seeing her plight, the surrounding goblins laugh heartily at\nthe disgraceful female. One of them slaps her butt and\nplunges into their female onahole in one swift motion..."
                             ]
                         },
                         {
@@ -6022,14 +5420,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{\\{ふぎぃ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "んぉぉおおおおおお！！！"
+                                "\\c[31]Fugii! Nohoooooo!!!"
                             ]
                         },
                         {
@@ -6058,14 +5449,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "獣の唸り声のような音を出しながら、ただひたすら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "自らの身体を好き勝手される事しか出来ない・・・。"
+                                "She emits a beast-like groan, unable to do anything but have\nher body freely used..."
                             ]
                         },
                         {
@@ -6082,14 +5466,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュッ！ズポッ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "パン！パン！パン！パン！"
+                                "\\c[27]Dochu! Zupo!!! Pan! Pan! Pan! Pan!"
                             ]
                         },
                         {
@@ -6176,14 +5553,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ドピュ♥ビュルルルッッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ビュク！ビュク！ビュルルルッ♥♥♥"
+                                "\\c[27]Dopyu♥ Byurururu♥ Byuku! Byuku! Byurururu♥♥♥"
                             ]
                         },
                         {
@@ -6200,14 +5570,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{ン゛ォ゛ォ゛オ゛オ゛"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "オ゛オ゛！！！！！！"
+                                "\\c[31]Nghoooooo!!!!!!!"
                             ]
                         },
                         {
@@ -6224,21 +5587,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{（ゴブリンザーメン飲みながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "種付けされてイク゛っ♥イク゛♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "イ゛ク゛ゥ゛ウ゛ウ゛ウ゛ウ゛♥）"
+                                "\\c[31](While swallowing goblin semen, I'm being impregnated and\ncumming♥ Cumming♥ Cumminggg♥)"
                             ]
                         },
                         {
@@ -6255,14 +5604,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "グギャギャ♪イッタ！メスイッタ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "モットオカス！ミンナデオカス！オレノコウマス！！"
+                                "Gugyagya♪ She came! The female came! More violation! Let's\nall violate her! My pleasure!!"
                             ]
                         },
                         {
@@ -6279,21 +5621,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ゴブリン達の凌辱は終わる事はなく、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "射精を終えたゴブリンの代わりに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "別のゴブリンがメメリスを犯し始める・・・！！"
+                                "The goblins' violation doesn't end, and as one finishes\nejaculating, another begins to defile Memerisu...!!"
                             ]
                         },
                         {
@@ -6315,7 +5643,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そして・・・数時間後。"
+                                "And... several hours later."
                             ]
                         },
                         {
@@ -6353,14 +5681,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ギヒッ！ギヒッ！メスオナホキモチイイ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "デル！デル！オレノコウメ！"
+                                "Gihhi! Gihhi! The female onahole feels good! Delightful!\nDelightful! My pleasure!"
                             ]
                         },
                         {
@@ -6447,14 +5768,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ドピュ♥ビュルルルッッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ビュク！ビュク！ビュルルルッ♥♥♥"
+                                "\\c[27]Dopyu♥ Byurururu♥ Byuku! Byuku! Byurururu♥♥♥"
                             ]
                         },
                         {
@@ -6487,7 +5801,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]お゛ぉ゛っ・・・。"
+                                "\\c[31]Ogh..."
                             ]
                         },
                         {
@@ -6504,14 +5818,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ゴブリン達に身体を弄ばれたメメリスは意識が朦朧とし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "射精されても身体をビクッ！と震わせるだけ・・・。"
+                                "Memerisu, toyed with by the goblins, is barely conscious,\nonly twitching her body with each ejaculation..."
                             ]
                         },
                         {
@@ -6528,21 +5835,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "数十匹のゴブリンに犯し続けられ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "精液で溺れ死ぬ寸前で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ようやくゴブリン達の凌辱が一旦止まる・・・。"
+                                "After being violated by dozens of goblins and nearly\ndrowning in semen, the goblins' assault finally pauses for a\nmoment..."
                             ]
                         },
                         {
@@ -6559,7 +5852,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "メシ！メシ！メシノジカン！"
+                                "Food! Food! It's time for food!"
                             ]
                         },
                         {
@@ -6576,14 +5869,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "コノメスドモ！ニゲナイヨウニテアシキル！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ウマソウ！ウマソウ！！"
+                                "You females won't escape! We'll tie your legs! Looks tasty!\nLooks tasty!!"
                             ]
                         },
                         {
@@ -6600,7 +5886,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ゴブリン達が何やら言ってるが上手く聞き取れない・・・。"
+                                "The goblins are saying something, but I can't make it out\nclearly..."
                             ]
                         },
                         {
@@ -6617,7 +5903,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]（早く・・・誰か・・・助けに・・・）"
+                                "\\c[31](Someone... please... come to help...)"
                             ]
                         },
                         {
@@ -6651,7 +5937,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ザシュッ！！！！"
+                                "Squish!!!!"
                             ]
                         },
                         {
@@ -6668,21 +5954,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "その後、何故かゴブリンが大量発生し多くの村が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "襲われる事件が多発。伝説のゴブリン狩りが動き出すが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それはまた別のお話・・・。"
+                                "Afterward, for some reason, there was a sudden surge of\ngoblins, and many villages were attacked. The legend of the\nGoblin Hunter began to move, but that's a story for another\ntime..."
                             ]
                         },
                         {
@@ -6699,7 +5971,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "二人の行方を知る者はいない・・・。"
+                                "No one knows what became of the two of them..."
                             ]
                         },
                         {
@@ -6716,21 +5988,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {

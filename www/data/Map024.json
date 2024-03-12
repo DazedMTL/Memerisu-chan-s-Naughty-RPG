@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ダンジョン",
+    "displayName": "Dungeon",
     "encounterList": [],
     "encounterStep": 100,
     "height": 40,
@@ -10854,7 +10854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "野球のヘルメットを手に入れた！"
+                                "Gained a baseball helmet!"
                             ]
                         },
                         {
@@ -11101,7 +11101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "聖職者のローブを手に入れた！"
+                                "Acquired the Cleric's Robe!"
                             ]
                         },
                         {
@@ -11348,7 +11348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハイポーションを手に入れた！"
+                                "Obtained a High Potion!"
                             ]
                         },
                         {
@@ -11902,7 +11902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ツチノコステーキを手に入れた！"
+                                "Obtained Tsuchinoko Steak!"
                             ]
                         },
                         {
@@ -13310,7 +13310,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -13320,14 +13320,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわっ！なんだこの花、くっせぇ！！！"
+                                "Ugh! What's with this flower, it stinks!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -13337,14 +13337,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "は、鼻が曲がりそうです・・・っ！！"
+                                "My, my nose is about to bend...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 6,
                                 0,
                                 2
@@ -13354,14 +13354,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "花だけに？"
+                                "Just because it's a flower?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -13371,7 +13371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・は？"
+                                "...Huh?"
                             ]
                         },
                         {
@@ -13438,7 +13438,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -13448,14 +13448,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわっ！なんだこの花、くっせぇ！！！"
+                                "Ugh! What's with this flower, it stinks!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -13465,14 +13465,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "は、鼻が曲がりそうです・・・っ！！"
+                                "My, my nose feels like it's going to bend...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 6,
                                 0,
                                 2
@@ -13482,14 +13482,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "花だけに？"
+                                "Just because it's a flower?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -13499,7 +13499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・は？"
+                                "...Huh?"
                             ]
                         },
                         {
@@ -13566,7 +13566,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -13576,14 +13576,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわっ！なんだこの花、くっせぇ！！！"
+                                "Ugh! What's with this flower, it stinks!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -13593,14 +13593,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "は、鼻が曲がりそうです・・・っ！！"
+                                "My, my nose feels like it's going to bend...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 6,
                                 0,
                                 2
@@ -13610,14 +13610,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "花だけに？"
+                                "Just because it's a flower?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -13627,7 +13627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・は？"
+                                "...Huh?"
                             ]
                         },
                         {
@@ -13694,7 +13694,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -13704,14 +13704,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわっ！なんだこの花、くっせぇ！！！"
+                                "Ugh! What's with this flower, it stinks!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -13721,14 +13721,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "は、鼻が曲がりそうです・・・っ！！"
+                                "My, my nose feels like it's going to bend...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 6,
                                 0,
                                 2
@@ -13738,14 +13738,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "花だけに？"
+                                "Just because it's a flower?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -13755,7 +13755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・は？"
+                                "...Huh?"
                             ]
                         },
                         {
@@ -13822,7 +13822,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -13832,14 +13832,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわっ！なんだこの花、くっせぇ！！！"
+                                "Ugh! What's with this flower, it stinks!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -13849,14 +13849,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "は、鼻が曲がりそうです・・・っ！！"
+                                "My, my nose feels like it's going to bend...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 6,
                                 0,
                                 2
@@ -13866,14 +13866,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "花だけに？"
+                                "Just because it's a flower?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -13883,7 +13883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・は？"
+                                "...Huh?"
                             ]
                         },
                         {
@@ -13950,7 +13950,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -13960,14 +13960,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うわっ！なんだこの花、くっせぇ！！！"
+                                "Ugh! What's with this flower, it stinks!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 4,
                                 0,
                                 2
@@ -13977,14 +13977,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "は、鼻が曲がりそうです・・・っ！！"
+                                "My, my nose feels like it's going to bend...!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 6,
                                 0,
                                 2
@@ -13994,14 +13994,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "花だけに？"
+                                "Just because it's a flower?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -14011,7 +14011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・は？"
+                                "...Huh?"
                             ]
                         },
                         {

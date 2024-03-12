@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "スラム民家",
+    "displayName": "Slum Dwelling",
     "encounterList": [],
     "encounterStep": 30,
     "height": 12,
@@ -1171,14 +1171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんにちハ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よかったラ今晩 ボクと 一緒ニ過ごしまセンカ？"
+                                "Hello! Would you like to spend the evening with me?"
                             ]
                         },
                         {
@@ -1195,14 +1188,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とっても 気持ちヨクナル 薬あるヨ！"
+                                "I have a drug that will make you feel really good!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -1212,7 +1205,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それって危険な薬なんじゃ・・・？"
+                                "Isn't that drug dangerous...?"
                             ]
                         },
                         {
@@ -1229,14 +1222,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オー！感度ガ10倍にナル凄い薬ダヨ！"
+                                "Oh! It's an amazing drug that increases sensitivity by\ntenfold!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 7,
                                 0,
                                 2
@@ -1246,14 +1239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何故だろう、10倍は凄いのに大した事じゃない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ように錯覚してしまうのは・・・。"
+                                "I wonder why, even though tenfold is a lot, it feels like\nit's not a big deal..."
                             ]
                         },
                         {
@@ -1270,7 +1256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "夜ニまたおいデ！"
+                                "See you again at night!"
                             ]
                         },
                         {
@@ -1338,21 +1324,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オー！この前の夜は熱かったナ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また抱いてやろうカ？"
+                                "Oh! That night before was hot, wasn't it? Shall I embrace\nyou again?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -1362,14 +1341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うるせー！もうコリゴリじゃい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "近寄ってくんな！ぺっぺっ！！"
+                                "Shut up! I've had enough of you! Don't come any closer!\nPtui, ptui!"
                             ]
                         },
                         {
@@ -1446,14 +1418,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オー！ハロー！！"
+                                "Oh! Hello!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -1463,21 +1435,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハ、ハロー・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マイネーム イズ メメリス！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ディス イズ ア ペーン！"
+                                "Ha, hello...!! My name is Memerisu! This is a pen!"
                             ]
                         },
                         {
@@ -1494,21 +1452,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハッハッハッ！私 ニホン語 話せマース！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キミ、英語ヘタクソですネ！！"
+                                "Hahaha! I can speak Japanese! You're really bad at English,\naren't you!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -1518,7 +1469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだとおおおおおおおお！！！"
+                                "What did you sayyyyyyyyyy!!!"
                             ]
                         },
                         {
@@ -1586,21 +1537,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やぁ、ティーナちゃん！またオナホにならないカ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺のオチンポ様は今日もビンビンだヨ！"
+                                "Hey, Tina-chan! Ready to become my onahole again? My dick is\nrock hard today!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 7,
                                 0,
                                 2
@@ -1610,7 +1554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何度見ても・・・おっきいです・・・♥ｺﾞｸﾘｯ"
+                                "No matter how many times I see it... it's so big... ♥ *gulp*"
                             ]
                         },
                         {

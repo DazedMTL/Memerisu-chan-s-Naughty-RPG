@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "スラム民家",
+    "displayName": "Slum Dwelling",
     "encounterList": [],
     "encounterStep": 30,
     "height": 12,
@@ -1185,21 +1185,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボク達の母国ノとっても美味しいジュースがあるヨ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よかったら君達も飲んでミナイ？"
+                                "We have a very delicious juice from our homeland! Would you\nlike to try some?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -1209,7 +1202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なんだか怪しいけど・・・どうしよう？"
+                                "It seems a bit suspicious... What should we do?"
                             ]
                         },
                         {
@@ -1217,8 +1210,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "飲んでみる",
-                                    "やめておく"
+                                    "Try drinking it",
+                                    "Decide not to"
                                 ],
                                 1,
                                 0,
@@ -1238,7 +1231,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -1248,21 +1241,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ま、いっか。美味しいジュースやったー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "頂きまーす！！"
+                                "Well, whatever. Delicious juice, here I come! Cheers!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -1272,7 +1258,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ありがとうございます。"
+                                "Thank you very much."
                             ]
                         },
                         {
@@ -1289,7 +1275,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ハイ、どうぞ！"
+                                "Here you go!"
                             ]
                         },
                         {
@@ -1306,14 +1292,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ゴクゴクゴクゴク・・・。"
+                                "Gulp gulp gulp gulp..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 1,
                                 0,
                                 2
@@ -1323,21 +1309,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お、ホントだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "めっちゃ美味い！"
+                                "Oh, it's really true. It's super delicious!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 1,
                                 0,
                                 2
@@ -1347,14 +1326,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "スッキリとした甘さで美味しいですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "凄く飲みやすいです。"
+                                "It has a refreshing sweetness that's really tasty. It's very\neasy to drink."
                             ]
                         },
                         {
@@ -1371,21 +1343,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "遠慮シナイデ、おかわりもいいデース！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いっぱい飲んデくだサーイ！"
+                                "Don't be shy, feel free to have seconds! Drink as much as\nyou like!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -1395,7 +1360,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "やったぜ！おかわりもくださいなー！"
+                                "Awesome! I'll take another, please!"
                             ]
                         },
                         {
@@ -1424,7 +1389,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ゴクゴクゴクゴク・・・。"
+                                "Gulp gulp gulp gulp..."
                             ]
                         },
                         {
@@ -1441,7 +1406,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・ニヤッ。"
+                                "...Grinning."
                             ]
                         },
                         {
@@ -1458,21 +1423,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -1489,21 +1440,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]・・・・・・・・・あれ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ここは・・・ボク、どうしたんだっけ・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ジュースを飲んでから・・・それから・・・。"
+                                "\\c[31]...Huh? Where is this... What happened to me...? After\ndrinking the juice... And then..."
                             ]
                         },
                         {
@@ -1520,7 +1457,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "オッ、目が覚めたカ？"
+                                "Oh, you're awake?"
                             ]
                         },
                         {
@@ -1537,7 +1474,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{・・・！！？"
+                                "\\c[31]...!!?"
                             ]
                         },
                         {
@@ -1587,7 +1524,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{ちょっ、なにこれっ・・・！？"
+                                "\\c[31]Hey, what the hell is this...!?"
                             ]
                         },
                         {
@@ -1604,21 +1541,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "意識を取り戻したメメリスの目に入ってきた光景は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "メメリスの胴の太さはある太い筋肉質な腕で首を締められ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "服を脱がされた自分とティーナの姿だった・・・！！"
+                                "When Memerisu regained consciousness, the sight that met her\neyes was her and Tina being strangled by thick muscular arms\nand stripped of their clothes...!!"
                             ]
                         },
                         {
@@ -1635,7 +1558,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\メメリスちゃん、目が覚めたんですね・・・！！"
+                                "\\c[17]\\Memerisu-chan, you're awake...!!"
                             ]
                         },
                         {
@@ -1652,14 +1575,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "先に意識を取り戻していた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ティーナもメメリスと同じ状況だった・・・！！"
+                                "Tina, who had regained consciousness earlier, was in the\nsame situation as Memerisu...!!"
                             ]
                         },
                         {
@@ -1676,14 +1592,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "2人共目が覚めてよかったゼ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "寝たまま犯シテも反応がなくテ楽しくないからナ！"
+                                "I'm glad both of you are awake! It's not fun to violate you\nwhile you're sleeping since there's no reaction!"
                             ]
                         },
                         {
@@ -1700,21 +1609,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "さっきのジュースにはとびっきりノ薬を混ぜてあったんダ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "飲んだら意識がトンじゃうけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "後からすっごく感度がハネ上がるスライムの闇市物ダ！"
+                                "The juice earlier had a special drug mixed in. It knocks out\nyour consciousness, but later on, it greatly enhances your\nsensitivity. It's a slime from the black market!"
                             ]
                         },
                         {
@@ -1731,14 +1626,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]闇市の薬ッ・・！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そんな危ない物を飲ませるなんて・・・！！"
+                                "\\c[17]Black market drugs..!? How dare you make us drink something\nso dangerous...!!"
                             ]
                         },
                         {
@@ -1755,14 +1643,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]や、ヤバい・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんとか逃げ出さないと・・・ぐぇっ"
+                                "\\c[31]No, this is bad...!! We have to escape somehow...ugh"
                             ]
                         },
                         {
@@ -1779,14 +1660,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メメリスが逃げ出そうと暴れるが、男が太い腕に力を込める"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "とメメリスの力ではビクともしない・・・！！"
+                                "Memerisu struggles to escape, but when the man tightens his\nthick arms, she can't move an inch...!!"
                             ]
                         },
                         {
@@ -1803,14 +1677,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "暴れてもムダ。それにダイジョウぶ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一晩オレ達がお前ラをオナホにすればちゃんと帰してヤる。"
+                                "It's useless to struggle. Don't worry! Once we've used you\nas onaholes for the night, we'll let you go."
                             ]
                         },
                         {
@@ -1839,28 +1706,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "勝手な事を・・・と思ったが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "薬の効果が出てきたようで身体は熱く火照り"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "子宮は目の前の規格外サイズのチンコを求めて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "キュンキュンと疼いている・・・！！"
+                                "I thought it was outrageous... but it seems the drug is\ntaking effect. My body is hot and flushed, and my womb is\nthrobbing for that abnormally large dick in front of me...!!"
                             ]
                         },
                         {
@@ -1877,14 +1723,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]こんな・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こんなでっかいチンコは初めて見た・・・！！"
+                                "\\c[31]I've never seen such a... such a huge dick before...!!"
                             ]
                         },
                         {
@@ -1901,14 +1740,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]た、逞しいです・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "挿入されたらどうなっちゃうんでしょうか・・・！！"
+                                "\\c[17]It's so robust... What will happen if it's inserted...!!"
                             ]
                         },
                         {
@@ -1925,14 +1757,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ハハッ、この島の人達はチンコが小さいからネ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オレ達と比べると子供チンポだヨ！"
+                                "Haha, the men on this island have small dicks! Compared to\nus, they're like children's cocks!"
                             ]
                         },
                         {
@@ -1949,14 +1774,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サテ、今日のオナホの具合、確かめテみるカ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今からお前ラはヤク漬けオナホになるから覚悟シロ！！"
+                                "Well then, let's check the condition of today's onaholes!\nGet ready because from now on, you'll become drug-soaked\nonaholes!!"
                             ]
                         },
                         {
@@ -2011,7 +1829,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{\\{\\{\\{ドチュゥッッ！！！"
+                                "\\c[27]Squish!!"
                             ]
                         },
                         {
@@ -2028,14 +1846,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{お゛っ゛へぇッッッ♥♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]お゛ォ゛ッ！う゛ぇ゛ッ♥♥♥"
+                                "\\c[31]Ahh♥♥♥\\c[17]Ohh! Ugh♥♥♥"
                             ]
                         },
                         {
@@ -2052,14 +1863,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メメリスとティーナの薬漬けおまんこに規格外サイズの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "チンコがぶち込まれる・・・！！"
+                                "The abnormally large dicks are thrust into Memerisu and\nTina's drug-soaked pussies...!!"
                             ]
                         },
                         {
@@ -2076,14 +1880,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{お゛っほぉぉ～～～～♥♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "極太チンコ・・・キタァ・・・！！"
+                                "\\c[31]Ahhhh~♥♥♥ Such a thick dick... It's here...!!"
                             ]
                         },
                         {
@@ -2100,21 +1897,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "オー！薬でトロットロにマンコほぐれてるナ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オレ達のチンコ咥え込んで卑しいマンコだヨ、イキ死ね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "孕めオラッ！オラッ！"
+                                "Oh! The drugs have made your pussies all sloppy and loose!\nThey're swallowing our dicks like filthy pussies, die\ncumming! Get pregnant, come on! Come on!"
                             ]
                         },
                         {
@@ -2131,14 +1914,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{卑らしいおまんこでしゅびまぜっ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\{お゛ぉ゛っ゛♥"
+                                "\\c[17]Your filthy pussy is mixing it up... Ahh♥"
                             ]
                         },
                         {
@@ -2155,14 +1931,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "２人のお腹は規格外サイズのチンコで押し上げられて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まるで山のように膨れ上がっていた・・・。"
+                                "Their bellies are pushed up by the abnormally large dicks,\nswelling up like mountains..."
                             ]
                         },
                         {
@@ -2179,14 +1948,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "イれただけでメス声あげて鳴きやがっテ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だらしのない雑魚マンコだナ！反省シロ！！"
+                                "Just by inserting it, you're crying out in a female voice!\nWhat a pathetic and sloppy pussy! Reflect on this!!"
                             ]
                         },
                         {
@@ -2243,14 +2005,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\ガッ！グィィッ！！ギチィッッッ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "パンッ♥パンッ♥パンッ♥パンッ♥"
+                                "\\c[27]\\Thud! Squeeze!! Grind!!! Bang♥ Bang♥ Bang♥ Bang♥"
                             ]
                         },
                         {
@@ -2267,14 +2022,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "男は腕の力を強め、息が出来ないように首をさらに締め付け"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "2人をオナホの如く壊す勢いで激しくピストンを始める！"
+                                "The man increases the strength in his arms, tightening the\ngrip around their necks to the point of breathlessness and\nbegins to piston them fiercely as if to break them like\nonaholes!"
                             ]
                         },
                         {
@@ -2291,14 +2039,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{ぐぇっ♥激しっ・・・ぴぎゅっ♥♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]ぐぅっ♥息できませっ・・・げぇッ♥♥♥"
+                                "\\c[31]Geh♥ Intense... pigyu♥♥♥\\c[17] Guh♥ I can't breathe...\ngeh♥♥♥"
                             ]
                         },
                         {
@@ -2315,14 +2056,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\ボッチュ♥ボッチュ♥ボッチュ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "パンッ♥パンッ♥パンッ♥パンッ♥"
+                                "\\c[27]\\Botchu♥ Botchu♥ Botchu♥ Pan♥ Pan♥ Pan♥ Pan♥"
                             ]
                         },
                         {
@@ -2339,14 +2073,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]（ヤバい・・・ガチでヤバい♥これ、ダメなやつだ♥こんな"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "激しく突かれ続けたらっ♥頭トンじゃう♥バカになる♥）"
+                                "\\c[31](This is bad... seriously bad♥ This is the kind that's no\ngood♥ If he keeps thrusting this hard♥ My head's gonna go\nblank♥ I'll become an idiot♥)"
                             ]
                         },
                         {
@@ -2363,14 +2090,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\グィィッ！！ギチィッ！ギチィッ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "パンッ♥パンッ♥パンッ♥パンッ♥"
+                                "\\c[27]\\Gyii!! Gichii! Gichii!! Pan♥ Pan♥ Pan♥ Pan♥"
                             ]
                         },
                         {
@@ -2387,21 +2107,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "フーッ！首を締めルとオナホがよく締まルゼ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "雑魚マンコがザーメン欲しがっテ媚びやがっテ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ガキの癖に孕むツモリか！産まれてくる子供の事考えロ！！"
+                                "Huh! Tightening the neck makes the onahole grip better! This\ntrash pussy is begging for semen! Thinking of getting\npregnant, you brat? Think about the child you'll bring into\nthis world!!"
                             ]
                         },
                         {
@@ -2418,21 +2124,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]（苦しい♥気持ちいいッ♥苦しい♥気持ちいいッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私、本当にオナホになってますッ♥首絞められておまんこを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "締めるザーメンコキ捨てオナホですッッ♥）"
+                                "\\c[17](It's painful♥ It feels good♥ It's painful♥ It feels good♥\nI'm really becoming an onahole♥ A semen-squeezing, throwaway\nonahole being choked and tightened♥)"
                             ]
                         },
                         {
@@ -2478,14 +2170,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\ぐりっ♥ぐりっ♥ぐりぐりぃ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "パンッ♥パンッ♥パンッ♥パンッ♥"
+                                "\\c[27]\\Gurii♥ Gurii♥ Gurigurii♥ Pan♥ Pan♥ Pan♥ Pan♥"
                             ]
                         },
                         {
@@ -2502,14 +2187,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{お゛っ゛へ゛ぇ゛ッ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "へっ♥へっ♥へっ♥ひぎゅっ♥"
+                                "\\c[31]Oghh♥♥ Heh♥ Heh♥ Heh♥ Higyuu♥"
                             ]
                         },
                         {
@@ -2526,14 +2204,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{\\{お゛ぅ゛っ゛お゛ぉ゛♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "はひっ♥はひっ♥ぐぎゅっ♥"
+                                "\\c[17]Oguhh Ogohh♥ Hahii♥ Hahii♥ Gugyuu♥"
                             ]
                         },
                         {
@@ -2550,21 +2221,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "子宮をグリグリ押されながらの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "首絞めキメセクで与えられる快感を受け入れて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "喘ぐ事しか出来ない2人・・・！！"
+                                "While their wombs are being ground against and their necks\nchoked during drug-induced sex, the two can only accept the\npleasure and gasp...!!"
                             ]
                         },
                         {
@@ -2581,14 +2238,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そろそろダすぞ！！受精の準備してマンコ締めロっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "頭マンコにして子宮で反省シロッ！！！"
+                                "It's about time to cum!! Get ready for fertilization and\ntighten your pussies! Reflect with your womb-brain!!"
                             ]
                         },
                         {
@@ -2605,14 +2255,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{\\ドチュッ♥ドチュッ♥ドチュッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ドチュッ♥ドチュッ♥ドチュッ♥"
+                                "\\c[27]\\Dochu♥ Dochu♥ Dochu♥ Dochu♥ Dochu♥ Dochu♥"
                             ]
                         },
                         {
@@ -2629,14 +2272,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{（いくいくいぐイグッ♥♥♥）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]（いくいくいぐイグッ♥♥♥）"
+                                "\\c[31](I'm cumming I'm cumming I'm cuumminggg♥♥♥)\\c[17](I'm\ncumming I'm cumming I'm cuumminggg♥♥♥)"
                             ]
                         },
                         {
@@ -2740,14 +2376,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{ビュ～～～～♥ブピッ♥ブピピッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ビュルルッ♥ビュ～～～♥ビュ～～～♥"
+                                "\\c[27]Byuu~~~♥ Bupi♥ Bupipi♥ Byururuu♥ Byuu~~~♥ Byuu~~~♥"
                             ]
                         },
                         {
@@ -2764,14 +2393,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{ふお゛ォ゛ォ゛ォ゛ッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おっへぇぇぇええええええ♥"
+                                "\\c[31]Fuooohhhhhhhhhhhhhhhhhhhh♥ Ohhheeeeeeeeeeeeeeeeee♥"
                             ]
                         },
                         {
@@ -2788,14 +2410,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[17]\\{\\{お゛ん゛っ゛～～～お゛っ゛♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "んほぉおおおお～～～♥♥"
+                                "\\c[17]Ongg~~~ Ongg♥ Nhoohooooo~~~♥♥"
                             ]
                         },
                         {
@@ -2812,14 +2427,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "射精る！射精る！首絞めキメセクオナホ共孕めっ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "孕めオラッ！！"
+                                "I'm ejaculating! I'm ejaculating! Impregnate the choked,\ndrugged onaholes! Get pregnant, come on!!"
                             ]
                         },
                         {
@@ -2836,7 +2444,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "男達のチンコが2人の膣内で震え精液を吐き出す・・・！！"
+                                "The men's dicks tremble inside the two's vaginas as they\nejaculate...!!"
                             ]
                         },
                         {
@@ -2865,14 +2473,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{ドピュッ♥ドピュッ♥ドピュピュッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ゴプッ♥ゴプッ♥ビュビュビュ～～～♥♥"
+                                "\\c[27]Dopyu♥ Dopyu♥ Dopyupyuuu♥ Gopu♥ Gopu♥ Byubyubyuu~~~♥♥"
                             ]
                         },
                         {
@@ -2889,14 +2490,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{孕むぅ♥キメセクで孕みますぅうう♥♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]孕むぅ♥キメセクで孕みますぅうう♥♥♥"
+                                "\\c[31]I'm getting pregnant♥ I'll get pregnant from drug-induced\nsex uuuuuuuhhhhhh♥♥♥\\c[17]I'm getting pregnant♥ I'll get\npregnant from drug-induced sex uuuuuuuhhhhhh♥♥♥"
                             ]
                         },
                         {
@@ -2913,14 +2507,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まだまだオレ達は満足してないカラな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "壊れるまで遊んでヤルぞ、覚悟シロ！！"
+                                "We're not satisfied yet! We'll play with you until you\nbreak, be prepared!!"
                             ]
                         },
                         {
@@ -2966,14 +2553,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{\\ドチュッ♥ドチュッ♥ドチュッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ドチュッ♥ドチュッ♥ドチュッ♥"
+                                "\\c[27]\\Dochu♥ Dochu♥ Dochu♥ Dochu♥ Dochu♥ Dochu♥"
                             ]
                         },
                         {
@@ -2990,7 +2570,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そして夜が明けるまで犯され・・・。"
+                                "And they were violated until dawn..."
                             ]
                         },
                         {
@@ -3007,21 +2587,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -3076,14 +2642,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{ドピュッ♥ドピュッ♥ビュルルルッ♥ドプ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "♥ドプッ♥ビュル、ビュルルッ・・・♥"
+                                "\\c[27]Dopyu♥ Dopyu♥ Byurururuu♥ Dopu♥ Dopu♥ Byuru, Byururuu... ♥"
                             ]
                         },
                         {
@@ -3100,14 +2659,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{アッ・・・アヘェ・・・♥♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]ふーっ♥ふーっ♥お゛ぉ゛・・・♥"
+                                "\\c[31]Ah... Ahee... ♥ ♥ ♥\\c[17] Fuu- ♥ Fuu- ♥ Ooh... ♥"
                             ]
                         },
                         {
@@ -3124,14 +2676,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "朝まで犯された2人は幾度となく膣内射精をされて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "薬の効果で完全に頭はトんでしまっていた・・・。"
+                                "The two who were violated until morning were inseminated\ncountless times and completely lost their minds due to the\neffects of the drugs..."
                             ]
                         },
                         {
@@ -3148,7 +2693,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふーっ！何回出したか忘れルぐらい出してヤッたぜ！"
+                                "Huh! I came so many times I lost count!"
                             ]
                         },
                         {
@@ -3165,14 +2710,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "オラッ！朝まで犯してヤッたんダカラお礼ぐらい言え！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "礼儀ガ出来ないヤツはダメだぞ！"
+                                "Come on! Say thanks for being fucked until morning! People\nwho can't show manners are no good!"
                             ]
                         },
                         {
@@ -3189,21 +2727,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "犯し尽くされ意識が朦朧な2人の首を締めて目を覚まさせる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そして2人はトんだ頭で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "必死に犯していただいたお礼を述べる・・・。"
+                                "They tighten the necks of the two who are dazed to wake them\nup. Then, with their minds gone, they desperately express\ntheir gratitude for being violated..."
                             ]
                         },
                         {
@@ -3220,28 +2744,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]気持ちよくなるお薬と極太チンコでザーメンコキ捨てオナホ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "を孕ませてくださってありがとうございましたぁ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\c[17]気持ちよくなるお薬と極太オチンポ様でザーメンコキ捨てオナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ホを孕ませてくださってありがとうございましたぁ・・・♥"
+                                "\\c[31]Thank you for impregnating this semen-squeezing, throwaway\nonahole with pleasure drugs and your thick cocks...\n♥\\c[17]Thank you for impregnating this semen-squeezing,\nthrowaway onahole with pleasure drugs and your thick\ncocks... ♥"
                             ]
                         },
                         {
@@ -3258,21 +2761,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -3543,21 +3032,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オー！この前の夜は熱かったナ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また抱いてやろうカ？"
+                                "Oh! That night before was hot, wasn't it? Shall I embrace\nyou again?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 3,
                                 0,
                                 2
@@ -3567,14 +3049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うるせー！もうコリゴリじゃい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "近寄ってくんな！ぺっぺっ！！"
+                                "Shut up! I've had enough of you! Don't come any closer!\nPtui, ptui!"
                             ]
                         },
                         {
@@ -3651,21 +3126,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんナ時間にどうシタの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしかしてボクと過ごしタイのカナ？"
+                                "What are you doing at this hour? Could it be that you want\nto spend time with me?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -3675,7 +3143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "い、いえ、そういうわけでは・・・。"
+                                "N-No, that's not it..."
                             ]
                         },
                         {
@@ -3743,21 +3211,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やぁ、ティーナちゃん！またオナホにならないカ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺のオチンポ様は今日もビンビンだヨ！"
+                                "Hey, Tina-chan! Won't you become my onahole again? My dick\nis rock hard today too!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 7,
                                 0,
                                 2
@@ -3767,7 +3228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何度見ても・・・おっきいです・・・♥ｺﾞｸﾘｯ"
+                                "No matter how many times I see it... it's so big...♥ *gulp*"
                             ]
                         },
                         {

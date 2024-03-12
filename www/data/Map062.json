@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ダンジョン",
+    "displayName": "Dungeon",
     "encounterList": [],
     "encounterStep": 30,
     "height": 16,
@@ -1890,7 +1890,7 @@
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu1",
+                                "Memerisu1",
                                 2,
                                 0,
                                 2
@@ -1900,28 +1900,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お、階段はっけーん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一層目だからかボス的なやつもいないのかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "らくしょーじゃん！"
+                                "Oh, found the stairs! Since it's the first floor, maybe\nthere's no boss-like creature? This is easy!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 1,
                                 0,
                                 2
@@ -1931,7 +1917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そうやってすぐ油断しちゃうんですから・・・。"
+                                "That's why you let your guard down too quickly..."
                             ]
                         },
                         {
@@ -1948,28 +1934,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カサカサ・・・カサカサ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\{\\{バシュ！！！"
+                                "Rustle... Rustle... BAM!!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "thina2",
+                                "Thina2",
                                 0,
                                 0,
                                 2
@@ -1979,14 +1951,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はっ！何か来ますよ！！"
+                                "Ah! Something's coming!!"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 0,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -1996,14 +1968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{\\{ぎゃああああああああ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "蜘蛛だあああああああ！！"
+                                "Aaaaaahhhhh!!! It's a spider aaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -2025,7 +1990,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 4,
                                 0,
                                 2
@@ -2035,21 +2000,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "はぁ・・・はぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "クソデカサイズの虫とかビビるわぁ・・・。"
+                                "Haa... haa... Giant bugs like that really freak me out..."
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 2,
                                 0,
                                 2
@@ -2059,21 +2017,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ダンジョンの環境が虫をここまで巨大化"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "させたんでしょうか・・・？"
+                                "Maybe the dungeon environment caused the insects to grow\nthis big...?"
                             ]
                         },
                         {
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "thina1",
+                                "Thina1",
                                 5,
                                 0,
                                 2
@@ -2083,14 +2034,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まぁ、考えても仕方ありませんし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "先に進みましょう♪"
+                                "Well, there's no use thinking about it, let's move on♪"
                             ]
                         },
                         {
@@ -2148,21 +2092,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -2179,14 +2109,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]う、うぅ～ん・・・あれ・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ボクは一体・・・どうなって・・・。"
+                                "\\c[31]Uh, uhhhh... Huh...? What's happening to me...?"
                             ]
                         },
                         {
@@ -2203,7 +2126,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "カサ・・・カサ・・・カサカサ・・・。"
+                                "Rustle... Rustle... Rustle rustle..."
                             ]
                         },
                         {
@@ -2220,21 +2143,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "何かが這いまわるような音が響く・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "音の正体を確認しようとするが、体中に痺れと火照り・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そして何かが四肢に巻き付いてる事に気付く・・・。"
+                                "Sounds of something crawling echo... Trying to identify the\nsource of the noise, but the body is numb and burning up...\nand then realizing something is wrapped around the limbs..."
                             ]
                         },
                         {
@@ -2251,14 +2160,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]うぇ・・・なんか体が痺れてる・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それになんか体に付いてるような・・・。"
+                                "\\c[31]Ugh... Why is my body numb...? And there's something stuck\nto it..."
                             ]
                         },
                         {
@@ -2275,14 +2177,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "段々と意識がハッキリしたメメリスが辺りをよく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "確認してみると・・・。"
+                                "As Memerisu's consciousness gradually clears, she takes a\ngood look around..."
                             ]
                         },
                         {
@@ -2332,7 +2227,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{な、なにこれぇ！？"
+                                "\\c[31]What is this?!?"
                             ]
                         },
                         {
@@ -2349,14 +2244,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "覚醒したメメリスは自分が蜘蛛の巣に絡め取られ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "身動きを封じられている状況であることに気付いた・・・。"
+                                "The awakened Memerisu realizes she's been caught in a\nspider's web, unable to move..."
                             ]
                         },
                         {
@@ -2373,7 +2261,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]こ、この状況・・・めちゃめちゃピンチなのでは・・・？"
+                                "\\c[31]This situation... isn't it extremely dangerous...?"
                             ]
                         },
                         {
@@ -2390,21 +2278,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "体は麻痺毒なようなものを撃ち込まれて動かない上に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "蜘蛛の巣に絡め取られている状態では"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "逃げ出す事も出来ない・・・。"
+                                "My body won't move because it's been injected with some kind\nof paralyzing poison, and I can't escape because I'm caught\nin a spider's web..."
                             ]
                         },
                         {
@@ -2421,14 +2295,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]やばいやばい・・・このままじゃボク・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もしかして蜘蛛に食べられちゃうんじゃ・・・！！"
+                                "\\c[31]This is bad, this is really bad... At this rate, I might be\neaten by the spider...!!"
                             ]
                         },
                         {
@@ -2445,7 +2312,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]それにティーナちゃんはどこに・・・。"
+                                "\\c[31]And where is Tina-chan..."
                             ]
                         },
                         {
@@ -2462,7 +2329,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "カサ・・・カサ・・・カサカサ・・・。"
+                                "Rustle... Rustle... Rustle rustle..."
                             ]
                         },
                         {
@@ -2479,14 +2346,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "この先に待ち受ける悲惨な光景を想像し、恐怖を感じる中"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "巨大な蜘蛛がこちらに向かってくる・・・。"
+                                "Imagining the tragic scene that awaits, fear sets in as a\ngiant spider approaches..."
                             ]
                         },
                         {
@@ -2503,14 +2363,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]ヒッ！やだ・・・！こ、こないで・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こっちこないで・・・！！"
+                                "\\c[31]Eek! No...! Don't come here...!! Don't come this way...!!"
                             ]
                         },
                         {
@@ -2527,14 +2380,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "もうダメだ・・・食べられる。と覚悟したメメリス。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しかし蜘蛛の目的は捕食ではなく・・・。"
+                                "It's no use... I'm going to be eaten. Memerisu braced\nherself. But the spider's intent was not to feed..."
                             ]
                         },
                         {
@@ -2579,21 +2425,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]ブチュッ！ミチュ・・・ミチュチュ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\{\\{\\{ボロン！！"
+                                "\\c[27]Squish! Slick... Slick slick...!! Thump!!"
                             ]
                         },
                         {
@@ -2610,7 +2442,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "生殖活動だった・・・！！"
+                                "It was for reproduction...!!"
                             ]
                         },
                         {
@@ -2627,14 +2459,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "汁を撒き散らしながら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "蜘蛛の大きな生殖器が姿を現す・・・！！"
+                                "As it sprayed its fluids, the spider's large genitalia came\ninto view...!!"
                             ]
                         },
                         {
@@ -2651,14 +2476,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]・・・え、これって・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "蜘蛛の・・・チンコ・・・？"
+                                "\\c[31]...Eh, is that...? The spider's... dick...?"
                             ]
                         },
                         {
@@ -2675,14 +2493,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "蜘蛛の生殖器は人間やオークと違って肉肉しい色をしており、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "また形状も長さも異質な物であった・・・！！"
+                                "The spider's genitalia was a fleshy color unlike humans or\norcs, and its shape and size were also bizarrely\ndifferent...!!"
                             ]
                         },
                         {
@@ -2699,14 +2510,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]（く、蜘蛛のチンコってこんな形してるんだ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "け、結構グロい形状してるなぁ・・・）"
+                                "\\c[31](So, spider dicks look like this... It's quite a grotesque\nshape...)"
                             ]
                         },
                         {
@@ -2723,14 +2527,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]って、そうじゃなくて！チンコを出してるってことは・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この蜘蛛の目的はボクを食べる事じゃなくて・・・っ！！"
+                                "\\c[31]But that's not the point! If it's showing its dick, that\nmeans the spider's goal isn't to eat me but...!!"
                             ]
                         },
                         {
@@ -2785,14 +2582,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{\\{ズチュッ！！！ズプッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "\\}ズプププププッ♥♥♥"
+                                "\\c[27]Squelch!!! Thrust♥ Thrust thrust thrust♥♥♥"
                             ]
                         },
                         {
@@ -2809,7 +2599,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{お゛゛っっほ゛ぉっっ！！？"
+                                "\\c[31]Ooohhh♥ Oh god!!?"
                             ]
                         },
                         {
@@ -2826,21 +2616,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "蜘蛛は前戯もなくメメリスの性器に挿入したが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "麻痺毒のせいか痛みも感じずに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "蟲チンコを受け入れてしまう・・・！！"
+                                "The spider inserted itself into Memerisu's genitals without\nany foreplay, but perhaps due to the paralyzing poison, she\nfelt no pain and accepted the bug cock...!!"
                             ]
                         },
                         {
@@ -2857,14 +2633,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]そんなっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "蟲のチンコが挿入ってるっ・・・や、やだ、やめっ・・・！"
+                                "\\c[31]No way...!! A bug's cock is inside me... No, stop, stop\nit...!"
                             ]
                         },
                         {
@@ -2893,14 +2662,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュッ！ズポッ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "パン！パン！パン！パン！"
+                                "\\c[27]Squirt! Thump!!! Bang! Bang! Bang! Bang!"
                             ]
                         },
                         {
@@ -2917,14 +2679,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{んぎぃっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お゛ほ゛ぉ゛お゛お゛お゛♥♥♥"
+                                "\\c[31]Nghii♥ Oh god♥♥♥"
                             ]
                         },
                         {
@@ -2941,21 +2696,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]なんでボク、感じてっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "はぁーッ・・・やぁ、だめぇ・・・っああぁっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "むり、らからあ゛・・・ッ♥♥もうやだ・・・っ！！！"
+                                "\\c[31]Why am I feeling this...!! Haa-ahh... No, stop it... Ahh♥\nIt's impossible, I can't take it anymore♥♥ I don't want this\nanymore...!!!"
                             ]
                         },
                         {
@@ -2972,21 +2713,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "人間とは形状が違う蟲チンコは捕らえた雌に痛みを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "与えないように媚薬成分が含まれる汁を分泌し、今までに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "感じた事のないような快感をメメリスに体験させる・・・！！"
+                                "The insect cock, different from a human's in shape, secretes\na fluid containing an aphrodisiac component so as not to\ncause pain to the captured female, giving Memerisu a\npleasure she has never felt before...!!"
                             ]
                         },
                         {
@@ -3020,21 +2747,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]あぁッ♥♥♥んん゛んんっ！！！♥♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ひ、あ゛ッ、やっ、な、んんん゛っ、なんかァ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "く、る゛・・・ッ♥くる、きちゃ・・・ッッ♥♥♥"
+                                "\\c[31]Ahh♥♥♥ Nnnn♥♥♥ Hii, ah♥ No, what, nnnn♥ Something's♥ coming♥\nIt's coming♥♥♥"
                             ]
                         },
                         {
@@ -3051,14 +2764,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュッ！ズポッ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "パン！パン！パン！パン！"
+                                "\\c[27]Squelch! Thrust!!! Bang! Bang! Bang! Bang!"
                             ]
                         },
                         {
@@ -3075,21 +2781,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "蟲チンコが激しく出し入れされるたびに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "媚薬を含む汁がどんどん分泌されメメリスの感度も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "高まっていく・・・！！"
+                                "With each violent thrust of the bug cock, more juice\ncontaining an aphrodisiac is secreted, increasing Memerisu's\nsensitivity...!!"
                             ]
                         },
                         {
@@ -3106,7 +2798,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{お゛ぉ゛ッ゛ッ゛ッ゛♥♥♥"
+                                "\\c[31]Ooohhh♥♥♥"
                             ]
                         },
                         {
@@ -3123,21 +2815,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]蟲チンコ凄っ・・・い・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ボクのおまんこ奥まで突いてぇ・・・抜く時に奥から"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "気持ちいいとこ擦られるっ・・・♥♥♥"
+                                "\\c[31]The bug cock is amazing...♥ It's hitting deep inside my\npussy... When it pulls out, it rubs against the best\nspot...♥♥♥"
                             ]
                         },
                         {
@@ -3154,14 +2832,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "甘い声を上げ蟲チンコの虜になっているメメリスなど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お構いなしに蜘蛛はさらに動きが激しくなっていく・・・！！"
+                                "Memerisu, who has become a captive to the sweet voice of the\nbug cock, is oblivious as the spider's movements become even\nmore intense...!!"
                             ]
                         },
                         {
@@ -3195,14 +2866,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ジュプッ♥ジュププッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ブチュンッ♥ブチュ♥ブチュッ♥"
+                                "\\c[27]Squish♥ Squish squish♥ Splurt♥ Splurt♥ Splurt♥"
                             ]
                         },
                         {
@@ -3219,14 +2883,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "おまんこから響く音も、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "湿潤を含んだものへと変わっていく・・・！！"
+                                "The sounds echoing from her pussy also change to something\nmore moist...!!"
                             ]
                         },
                         {
@@ -3243,14 +2900,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]あっ、あんっ♥キて、る゛う゛ッ・・・ッ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おあ゛ッ、ああ゛ぁ♥♥蟲チンコきもち、いぃ・・・♥♥♥"
+                                "\\c[31]Ah, ahn♥ It's coming...uuuh...♥♥ Ohh, ahhh♥♥ The bug cock\nfeels so good...♥♥♥"
                             ]
                         },
                         {
@@ -3267,14 +2917,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "メメリスの膣内で蟲チンコがビクンビクンと脈打ち、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "子宮口に生殖器を密着させ種付けの準備に入る・・・！！"
+                                "Inside Memerisu's vagina, the bug cock throbs and pulsates,\npressing its reproductive organ against the cervix,\npreparing to breed...!!"
                             ]
                         },
                         {
@@ -3291,14 +2934,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{お゛ぉ゛ッ゛♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "む、蟲チンコが膨らんで・・・！！"
+                                "\\c[31]Ooohhh♥ The bug cock is swelling...!!"
                             ]
                         },
                         {
@@ -3315,14 +2951,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュンッ！ドチュン！ブポッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ドチュ！ドチュ！グチュチュッ！"
+                                "\\c[27]Squelch! Squelch! Pop! Squelch! Squelch! Squish squish!"
                             ]
                         },
                         {
@@ -3339,14 +2968,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{中出しされちゃう♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "蟲チンコに種付けされちゃう♥♥♥"
+                                "\\c[31]I'm being creampied♥ The bug cock is breeding me♥♥♥"
                             ]
                         },
                         {
@@ -3363,21 +2985,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{やら、あぁッ♥おくッや゛めてぇ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "んぁ、あっ♥♥あ゛ああァっ！！！♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "イッちゃ、あ゛あッ♥や゛ッイッッッ♥♥"
+                                "\\c[31]No, aahh♥ Stop it deep inside♥ Nnah, ah♥♥ Aaahhh!!!♥♥ I'm\ncumming, aahh♥ Stop itttt♥♥"
                             ]
                         },
                         {
@@ -3469,14 +3077,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{んほぉおぉおおおおおおおお♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "蟲チンコでイクゥウウウウウウ♥"
+                                "\\c[31]Nhooohhhhhhhhhhhhhh♥♥ I'm cumming from the bug cockkkkkk♥"
                             ]
                         },
                         {
@@ -3505,14 +3106,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{ドクッ♥ドクッドクッドクッ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ビュル♥ビュッビュッ♥♥"
+                                "\\c[27]Throb♥ Throb throb throb throb♥♥ Spurt♥ Spurt spurt♥♥"
                             ]
                         },
                         {
@@ -3529,21 +3123,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "絶頂を迎え子宮口が開いたおまんこに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "蟲チンポは濃厚なザーメンと卵を一緒に流し込み、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "子宮を余すことなく満たしていく・・・。"
+                                "As she reaches climax, her cervix opens and the bug cock\nfloods her womb with thick semen and eggs, filling it\ncompletely..."
                             ]
                         },
                         {
@@ -3572,14 +3152,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[27]\\{\\{ビュク♥ビュルルッ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ドクッドクッドクッ・・・♥♥♥"
+                                "\\c[27]Spasm♥ Spurrrt♥♥ Throb throb throb...♥♥♥"
                             ]
                         },
                         {
@@ -3596,21 +3169,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "蟲チンコを念入りに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "隙間なく子宮内に卵が満たされるように密着させ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ザーメンと卵を流し込み続ける・・・。"
+                                "The bug cock meticulously fills every gap in the womb with\neggs, ensuring they are inseminated with semen and eggs..."
                             ]
                         },
                         {
@@ -3627,14 +3186,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{お゛ッ゛！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ん゛お゛ぉ゛ぉ゛・・・！！！"
+                                "\\c[31]Oooh!? Nnooohhh...!!!"
                             ]
                         },
                         {
@@ -3651,14 +3203,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]は、はひぃ・・・このままじゃボク・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だ、誰か助けにきてぇ・・・。"
+                                "\\c[31]Ha, hahii... At this rate, I'm... Someone, please come save\nme..."
                             ]
                         },
                         {
@@ -3675,14 +3220,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ただ助けが来ることを祈るしか出来ないメメリス・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しかし助けが来ることはなかった。"
+                                "All Memerisu can do is pray for help to come... but no help\never arrived."
                             ]
                         },
                         {
@@ -3715,21 +3253,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -3746,14 +3270,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そして・・・その後も犯され続け産卵の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "時期を迎える・・・。"
+                                "And then... she continued to be violated and reached the\ntime for laying eggs..."
                             ]
                         },
                         {
@@ -3770,14 +3287,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]た、卵・・・！蟲の卵植え付けられて・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お、お腹・・・お腹が膨れて・・・苦しいよぉ・・・！！"
+                                "\\c[31]Eggs...! I'm being implanted with bug eggs...!! My, my\nstomach... My stomach is swelling... It hurts so much...!!"
                             ]
                         },
                         {
@@ -3794,14 +3304,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{お゛ぉ゛♥もう無理♥う、生まれる♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "産んじゃううううう♥♥♥"
+                                "\\c[31]Ooohhh♥ I can't take it anymore♥ It's, it's coming out♥ I'm\ngiving birthhhh♥♥♥"
                             ]
                         },
                         {
@@ -3898,14 +3401,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]\\{\\{んぎぃぃいっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お゛ほ゛ぉ゛お゛お゛お゛♥♥♥"
+                                "\\c[31]Ngyiiiiiih♥ Ohhhoohhhhhhhhhh♥♥♥"
                             ]
                         },
                         {
@@ -3922,7 +3418,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ボト！ボト！！ボトボトボトォ！！"
+                                "Plop! Plop!! Plop plop plop!!"
                             ]
                         },
                         {
@@ -3939,14 +3435,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "妊婦のようにパンパンに膨れ上がったメメリスのお腹から、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "1つ、また1つと蟲の卵が産卵されていく・・・。"
+                                "Memerisu's belly swells up like a pregnant woman's as one by\none, bug eggs are laid..."
                             ]
                         },
                         {
@@ -3963,14 +3452,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]ふーっ♥ふーっ♥ふーっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まだ出る♥まだまだ産まれちゃう♥♥♥"
+                                "\\c[31]Huff♥ Huff♥ Huff♥ More are coming out♥ More and more are\nbeing born♥♥♥"
                             ]
                         },
                         {
@@ -3987,14 +3469,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "産卵するごとに蜘蛛の毒で火照った体は絶頂し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "産卵アクメを繰り返す・・・。"
+                                "With each egg laid, her body heated by the spider's poison\nclimaxes, repeating the birthing orgasm..."
                             ]
                         },
                         {
@@ -4011,14 +3486,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\c[31]蟲チンコ気持ちいい♥産卵気持ちいい♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もっと♥もっとボクを孕ませて・・・♥♥♥"
+                                "\\c[31]The bug cock feels good♥ Laying eggs feels good♥ More♥\nImpregnate me more...♥♥♥"
                             ]
                         },
                         {
@@ -4035,14 +3503,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "産卵を終えたばかりのメメリスに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "再び蜘蛛が種付けを行おうと集まってくる・・・。"
+                                "Just after finishing laying eggs, spiders gather around\nMemerisu again to breed..."
                             ]
                         },
                         {
@@ -4059,14 +3520,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "冒険者を苗床に数を増やす恐ろしい昆虫達がいる事も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "知らずにダンジョンに挑んだ愚か者の末路であった・・・。"
+                                "This was the fate of a foolish adventurer who entered the\ndungeon without knowing of the terrifying insects that use\nadventurers as nurseries to increase their numbers..."
                             ]
                         },
                         {
@@ -4088,21 +3542,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -4210,7 +3650,7 @@
                             "code": 101,
                             "indent": 1,
                             "parameters": [
-                                "memerisu2",
+                                "Memerisu2",
                                 6,
                                 0,
                                 2
@@ -4220,7 +3660,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・・・はっ！？夢か！！"
+                                "...Huh!? Was it a dream?!!"
                             ]
                         },
                         {
@@ -4569,14 +4009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "地獄からの使者と再戦しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（敗北してもエロステはカウントされません）"
+                                "Do you wish to rematch the messenger from hell? (Losing will\nnot count towards your Eros Score)"
                             ]
                         },
                         {
@@ -4584,8 +4017,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4662,21 +4095,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -4693,14 +4112,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]う、うぅ～ん・・・あれ・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ボクは一体・・・どうなって・・・。"
+                                "\\c[31]Uh, uhhn... What...? What's happening to me...?"
                             ]
                         },
                         {
@@ -4717,7 +4129,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "カサ・・・カサ・・・カサカサ・・・。"
+                                "Rustle... Rustle... Rustle rustle..."
                             ]
                         },
                         {
@@ -4734,21 +4146,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "何かが這いまわるような音が響く・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "音の正体を確認しようとするが、体中に痺れと火照り・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "そして何かが四肢に巻き付いてる事に気付く・・・。"
+                                "Sounds like something crawling echo around... Trying to\nidentify the source of the noise, but my body is numb and\nburning... and I realize something is wrapped around my\nlimbs..."
                             ]
                         },
                         {
@@ -4765,14 +4163,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]うぇ・・・なんか体が痺れてる・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それになんか体に付いてるような・・・。"
+                                "\\c[31]Ugh... Why is my body numb...? And it feels like something's\nattached to it..."
                             ]
                         },
                         {
@@ -4789,14 +4180,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "段々と意識がハッキリしたメメリスが辺りをよく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "確認してみると・・・。"
+                                "As Memerisu's consciousness gradually sharpens, she takes a\ncloser look around..."
                             ]
                         },
                         {
@@ -4846,7 +4230,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{な、なにこれぇ！？"
+                                "\\c[31]What is this!?"
                             ]
                         },
                         {
@@ -4863,14 +4247,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "覚醒したメメリスは自分が蜘蛛の巣に絡め取られ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "身動きを封じられている状況であることに気付いた・・・。"
+                                "Awakened, Memerisu realizes she's been caught in a spider's\nweb, unable to move..."
                             ]
                         },
                         {
@@ -4887,7 +4264,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]こ、この状況・・・めちゃめちゃピンチなのでは・・・？"
+                                "\\c[31]This situation... isn't it extremely dangerous...?"
                             ]
                         },
                         {
@@ -4904,21 +4281,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "体は麻痺毒なようなものを撃ち込まれて動かない上に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "蜘蛛の巣に絡め取られている状態では"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "逃げ出す事も出来ない・・・。"
+                                "My body won't move because it's been injected with some kind\nof paralyzing poison, and I can't escape because I'm\nentangled in a spider's web..."
                             ]
                         },
                         {
@@ -4935,14 +4298,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]やばいやばい・・・このままじゃボク・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "もしかして蜘蛛に食べられちゃうんじゃ・・・！！"
+                                "\\c[31]This is bad, this is really bad... At this rate, I'm going\nto be... eaten by a spider...!!"
                             ]
                         },
                         {
@@ -4959,7 +4315,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]それにティーナちゃんはどこに・・・。"
+                                "\\c[31]And where is Tina-chan...?"
                             ]
                         },
                         {
@@ -4976,7 +4332,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "カサ・・・カサ・・・カサカサ・・・。"
+                                "Rustle... Rustle... Rustle rustle..."
                             ]
                         },
                         {
@@ -4993,14 +4349,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "この先に待ち受ける悲惨な光景を想像し、恐怖を感じる中"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "巨大な蜘蛛がこちらに向かってくる・・・。"
+                                "Imagining the tragic scene that awaits, fear grips me as a\ngiant spider approaches..."
                             ]
                         },
                         {
@@ -5017,14 +4366,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]ヒッ！やだ・・・！こ、こないで・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "こっちこないで・・・！！"
+                                "\\c[31]Eek! No...! Don't come here...!! Stay away...!!"
                             ]
                         },
                         {
@@ -5041,14 +4383,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "もうダメだ・・・食べられる。と覚悟したメメリス。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "しかし蜘蛛の目的は捕食ではなく・・・。"
+                                "It's no use... I'm going to be eaten. Memerisu braces\nherself. But the spider's intent isn't to feed..."
                             ]
                         },
                         {
@@ -5093,21 +4428,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]ブチュッ！ミチュ・・・ミチュチュ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\{\\{\\{ボロン！！"
+                                "\\c[27]Squish! Slick... Slick slick...!! Thump!!"
                             ]
                         },
                         {
@@ -5124,7 +4445,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "生殖活動だった・・・！！"
+                                "It was for reproduction...!!"
                             ]
                         },
                         {
@@ -5141,14 +4462,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "汁を撒き散らしながら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "蜘蛛の大きな生殖器が姿を現す・・・！！"
+                                "As it sprays its fluids, the spider's large reproductive\norgan reveals itself...!!"
                             ]
                         },
                         {
@@ -5165,14 +4479,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]・・・え、これって・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "蜘蛛の・・・チンコ・・・？"
+                                "\\c[31]...Eh, is that...? A spider's... dick...?"
                             ]
                         },
                         {
@@ -5189,14 +4496,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "蜘蛛の生殖器は人間やオークと違って肉肉しい色をしており、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "また形状も長さも異質な物であった・・・！！"
+                                "The spider's genitalia, unlike humans or orcs, had a fleshy\ncolor and its shape and size were alien..."
                             ]
                         },
                         {
@@ -5213,14 +4513,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]（く、蜘蛛のチンコってこんな形してるんだ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "け、結構グロい形状してるなぁ・・・）"
+                                "\\c[31](So, spider dicks look like this... It's quite a grotesque\nshape...)"
                             ]
                         },
                         {
@@ -5237,14 +4530,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]って、そうじゃなくて！チンコを出してるってことは・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "この蜘蛛の目的はボクを食べる事じゃなくて・・・っ！！"
+                                "\\c[31]But that's not the point! If it's showing its dick, that\nmeans the spider's goal isn't to eat me but...!!"
                             ]
                         },
                         {
@@ -5299,14 +4585,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{\\{ズチュッ！！！ズプッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\}ズプププププッ♥♥♥"
+                                "\\c[27]Squelch!!! Thrust♥ Thrust thrust thrust♥♥♥"
                             ]
                         },
                         {
@@ -5323,7 +4602,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{お゛゛っっほ゛ぉっっ！！？"
+                                "\\c[31]Ooohhh♥!?"
                             ]
                         },
                         {
@@ -5340,21 +4619,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "蜘蛛は前戯もなくメメリスの性器に挿入したが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "麻痺毒のせいか痛みも感じずに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "蟲チンコを受け入れてしまう・・・！！"
+                                "The spider inserts itself into Memerisu's genitals without\nany foreplay, but due to the paralyzing poison, she feels no\npain and accepts the bug cock...!!"
                             ]
                         },
                         {
@@ -5371,14 +4636,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]そんなっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "蟲のチンコが挿入ってるっ・・・や、やだ、やめっ・・・！"
+                                "\\c[31]No way...!! A bug's cock is inside me... Stop, stop it...!"
                             ]
                         },
                         {
@@ -5407,14 +4665,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュッ！ズポッ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "パン！パン！パン！パン！"
+                                "\\c[27]Squirt! Thump!!! Bang! Bang! Bang! Bang!"
                             ]
                         },
                         {
@@ -5431,14 +4682,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{んぎぃっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お゛ほ゛ぉ゛お゛お゛お゛♥♥♥"
+                                "\\c[31]Nghii♥ Ohh♥♥♥"
                             ]
                         },
                         {
@@ -5455,21 +4699,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]なんでボク、感じてっ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "はぁーッ・・・やぁ、だめぇ・・・っああぁっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "むり、らからあ゛・・・ッ♥♥もうやだ・・・っ！！！"
+                                "\\c[31]Why am I feeling this...!! Haahh... No, stop it... Ahh♥ It's\nimpossible, I can't take it anymore♥♥ I can't stand it\nanymore...!!!"
                             ]
                         },
                         {
@@ -5486,21 +4716,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "人間とは形状が違う蟲チンコは捕らえた雌に痛みを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "与えないように媚薬成分が含まれる汁を分泌し、今までに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "感じた事のないような快感をメメリスに体験させる・・・！！"
+                                "The insect cock, different from a human's in shape, secretes\na fluid containing an aphrodisiac component that doesn't\ncause pain to the captured female, giving Memerisu\nsensations she has never felt before...!!"
                             ]
                         },
                         {
@@ -5534,21 +4750,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]あぁッ♥♥♥んん゛んんっ！！！♥♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ひ、あ゛ッ、やっ、な、んんん゛っ、なんかァ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "く、る゛・・・ッ♥くる、きちゃ・・・ッッ♥♥♥"
+                                "\\c[31]Ahh♥♥♥ Nnnhnnn!!! ♥♥♥ Hah, ahh♥ Yah, nnnnnh♥ Something's♥\ncoming♥ It's coming♥♥♥"
                             ]
                         },
                         {
@@ -5565,14 +4767,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュッ！ズポッ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "パン！パン！パン！パン！"
+                                "\\c[27]Squirt! Thump!!! Bang! Bang! Bang! Bang!"
                             ]
                         },
                         {
@@ -5589,21 +4784,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "蟲チンコが激しく出し入れされるたびに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "媚薬を含む汁がどんどん分泌されメメリスの感度も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "高まっていく・・・！！"
+                                "With each intense thrust of the bug cock, more aphrodisiac\nfluid is secreted and Memerisu's sensitivity increases...!!"
                             ]
                         },
                         {
@@ -5620,7 +4801,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{お゛ぉ゛ッ゛ッ゛ッ゛♥♥♥"
+                                "\\c[31]Oohhh♥♥♥"
                             ]
                         },
                         {
@@ -5637,21 +4818,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]蟲チンコ凄っ・・・い・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ボクのおまんこ奥まで突いてぇ・・・抜く時に奥から"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "気持ちいいとこ擦られるっ・・・♥♥♥"
+                                "\\c[31]This bug cock is amazing...♥ It's hitting deep inside my\npussy... When you pull out, it rubs against the best spot\ninside♥♥♥"
                             ]
                         },
                         {
@@ -5668,14 +4835,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "甘い声を上げ蟲チンコの虜になっているメメリスなど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お構いなしに蜘蛛はさらに動きが激しくなっていく・・・！！"
+                                "Memerisu moans sweetly as she becomes a slave to the bug\ncock, but the spider continues to move even more violently\nwithout care...!!"
                             ]
                         },
                         {
@@ -5709,14 +4869,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ジュプッ♥ジュププッ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ブチュンッ♥ブチュ♥ブチュッ♥"
+                                "\\c[27]Squish♥ Squish squish♥ Squelch♥ Squish♥ Squelch♥"
                             ]
                         },
                         {
@@ -5733,14 +4886,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "おまんこから響く音も、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "湿潤を含んだものへと変わっていく・・・！！"
+                                "The sounds emanating from her pussy also change to something\nmore moist and wet...!!"
                             ]
                         },
                         {
@@ -5757,14 +4903,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]あっ、あんっ♥キて、る゛う゛ッ・・・ッ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "おあ゛ッ、ああ゛ぁ♥♥蟲チンコきもち、いぃ・・・♥♥♥"
+                                "\\c[31]Ah, ahh♥ It's coming...♥♥ Ohh, aah♥♥ This insect cock feels\nso good...♥♥♥"
                             ]
                         },
                         {
@@ -5781,14 +4920,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "メメリスの膣内で蟲チンコがビクンビクンと脈打ち、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "子宮口に生殖器を密着させ種付けの準備に入る・・・！！"
+                                "Inside Memerisu's vagina, the insect cock pulses and\nprepares to breed by pressing its reproductive organ against\nher cervix...!!"
                             ]
                         },
                         {
@@ -5805,14 +4937,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{お゛ぉ゛ッ゛♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "む、蟲チンコが膨らんで・・・！！"
+                                "\\c[31]Oohhh♥ It's swelling up...!!"
                             ]
                         },
                         {
@@ -5829,14 +4954,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ドチュンッ！ドチュン！ブポッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ドチュ！ドチュ！グチュチュッ！"
+                                "\\c[27]Squirt! Squirt! Pop! Squirt! Squirt! Squelch squelch!"
                             ]
                         },
                         {
@@ -5853,14 +4971,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{中出しされちゃう♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "蟲チンコに種付けされちゃう♥♥♥"
+                                "\\c[31]I'm going to be creampied♥ I'm going to be bred by this\ninsect cock♥♥♥"
                             ]
                         },
                         {
@@ -5877,21 +4988,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{やら、あぁッ♥おくッや゛めてぇ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "んぁ、あっ♥♥あ゛ああァっ！！！♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "イッちゃ、あ゛あッ♥や゛ッイッッッ♥♥"
+                                "\\c[31]No, ahh♥ Stop it inside♥ Ah, ahh♥♥ Ahh ahhh!!! ♥♥ I'm\ncoming, ahh♥ I'm cumminggg♥♥"
                             ]
                         },
                         {
@@ -5983,14 +5080,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{んほぉおぉおおおおおおおお♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "蟲チンコでイクゥウウウウウウ♥"
+                                "\\c[31]Nhooohhhhhhhhhhhhhh♥♥ I'm cumming from the insect\ncockkkkkkkk♥"
                             ]
                         },
                         {
@@ -6019,14 +5109,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{ドクッ♥ドクッドクッドクッ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ビュル♥ビュッビュッ♥♥"
+                                "\\c[27]Throb♥ Throb throb throb throb♥♥ Spurt♥ Spurt spurt spurt♥♥"
                             ]
                         },
                         {
@@ -6043,21 +5126,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "絶頂を迎え子宮口が開いたおまんこに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "蟲チンポは濃厚なザーメンと卵を一緒に流し込み、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "子宮を余すことなく満たしていく・・・。"
+                                "As she reaches climax, her pussy opens up at the cervix and\nthe insect cock pours in thick semen and eggs, filling her\nwomb completely..."
                             ]
                         },
                         {
@@ -6086,14 +5155,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[27]\\{\\{ビュク♥ビュルルッ♥♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ドクッドクッドクッ・・・♥♥♥"
+                                "\\c[27]Spurt♥ Spurrrt♥♥ Throb throb throb...♥♥♥"
                             ]
                         },
                         {
@@ -6110,21 +5172,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "蟲チンコを念入りに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "隙間なく子宮内に卵が満たされるように密着させ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ザーメンと卵を流し込み続ける・・・。"
+                                "The insect cock continues to pour semen and eggs into her\nwomb meticulously, making sure no space is left unfilled..."
                             ]
                         },
                         {
@@ -6141,14 +5189,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{お゛ッ゛！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ん゛お゛ぉ゛ぉ゛・・・！！！"
+                                "\\c[31]Ooh!? Nnoohh...!!!"
                             ]
                         },
                         {
@@ -6165,14 +5206,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]は、はひぃ・・・このままじゃボク・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "だ、誰か助けにきてぇ・・・。"
+                                "\\c[31]Ha, hahii... At this rate, I... Someone, please come save\nme..."
                             ]
                         },
                         {
@@ -6189,14 +5223,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ただ助けが来ることを祈るしか出来ないメメリス・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "しかし助けが来ることはなかった。"
+                                "All Memerisu can do is pray for help... but no help ever\ncame."
                             ]
                         },
                         {
@@ -6229,21 +5256,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
@@ -6260,14 +5273,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "そして・・・その後も犯され続け産卵の"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "時期を迎える・・・。"
+                                "And then... she continues to be violated until the time for\nlaying eggs arrives..."
                             ]
                         },
                         {
@@ -6284,14 +5290,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]た、卵・・・！蟲の卵植え付けられて・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お、お腹・・・お腹が膨れて・・・苦しいよぉ・・・！！"
+                                "\\c[31]Eggs...! I've been implanted with insect eggs...!! My, my\nstomach... My stomach is swelling... It hurts so much...!!"
                             ]
                         },
                         {
@@ -6308,14 +5307,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{お゛ぉ゛♥もう無理♥う、生まれる♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "産んじゃううううう♥♥♥"
+                                "\\c[31]Oohhh♥ It's too much♥ They're, they're going to be born♥ I'm\ngoing to lay themmmmm♥♥♥"
                             ]
                         },
                         {
@@ -6412,14 +5404,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]\\{\\{んぎぃぃいっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お゛ほ゛ぉ゛お゛お゛お゛♥♥♥"
+                                "\\c[31]Nghiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii♥ Ooohhhhhhhhhhhh♥♥♥"
                             ]
                         },
                         {
@@ -6436,7 +5421,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ボト！ボト！！ボトボトボトォ！！"
+                                "Plop! Plop!! Plop plop plop!!!"
                             ]
                         },
                         {
@@ -6453,14 +5438,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "妊婦のようにパンパンに膨れ上がったメメリスのお腹から、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "1つ、また1つと蟲の卵が産卵されていく・・・。"
+                                "From Memerisu's belly, swollen like that of a pregnant\nwoman, one by one, insect eggs are laid..."
                             ]
                         },
                         {
@@ -6477,14 +5455,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]ふーっ♥ふーっ♥ふーっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "まだ出る♥まだまだ産まれちゃう♥♥♥"
+                                "\\c[31]Huff♥ Huff♥ Huff♥ More are coming out♥ More and more are\nbeing born♥♥♥"
                             ]
                         },
                         {
@@ -6501,14 +5472,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "産卵するごとに蜘蛛の毒で火照った体は絶頂し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "産卵アクメを繰り返す・・・。"
+                                "With each egg laid, her body heated by the spider's venom\nclimaxes, repeating the egg-laying ecstasy..."
                             ]
                         },
                         {
@@ -6525,14 +5489,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\c[31]蟲チンコ気持ちいい♥産卵気持ちいい♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "もっと♥もっとボクを孕ませて・・・♥♥♥"
+                                "\\c[31]The insect cock feels good♥ Laying eggs feels good♥ More♥\nImpregnate me more...♥♥♥"
                             ]
                         },
                         {
@@ -6549,14 +5506,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "産卵を終えたばかりのメメリスに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "再び蜘蛛が種付けを行おうと集まってくる・・・。"
+                                "As soon as Memerisu finishes laying eggs, spiders gather\naround her again to breed..."
                             ]
                         },
                         {
@@ -6573,14 +5523,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "冒険者を苗床に数を増やす恐ろしい昆虫達がいる事も"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "知らずにダンジョンに挑んだ愚か者の末路であった・・・。"
+                                "This was the fate of a foolish adventurer who challenged the\ndungeon without knowing about the terrifying insects that\nincrease their numbers using adventurers as nurseries..."
                             ]
                         },
                         {
@@ -6602,21 +5545,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "・・・・・・・・・。"
+                                "..."
                             ]
                         },
                         {
