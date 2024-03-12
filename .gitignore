@@ -19,14 +19,20 @@
 !game.ini
 
 # Images
-!NE_0.rpgmvp
-!NE_e2.rpgmvp
-!NE_e3.rpgmvp
-!NE_e4.rpgmvp
-!NE_e5.rpgmvp
-!NE_e6.rpgmvp
-!NE_s2.rpgmvp
-!NE_s3.rpgmvp
-!NE_s4.rpgmvp
-!NE_s5.rpgmvp
-!NE_s6.rpgmvp
+!menu_base.rpgmvp
+!menu_button_01_item.rpgmvp
+!menu_button_01_item_sel.rpgmvp
+!menu_button_02_skill.rpgmvp
+!menu_button_02_skill_sel.rpgmvp
+!menu_button_03_equip.rpgmvp
+!menu_button_03_equip_sel.rpgmvp
+!menu_button_04_status.rpgmvp
+!menu_button_04_status_sel.rpgmvp
+!menu_button_05_ero.rpgmvp
+!menu_button_05_ero_sel.rpgmvp
+!menu_button_06_option.rpgmvp
+!menu_button_06_option_sel.rpgmvp
+!menu_button_07_save.rpgmvp
+!menu_button_07_save_sel.rpgmvp
+!menu_button_08_end.rpgmvp
+!menu_button_08_end_sel.rpgmvp
