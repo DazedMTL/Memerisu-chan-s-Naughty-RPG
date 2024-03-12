@@ -135,7 +135,7 @@
     {
         "id": 5,
         "animationId": 1,
-        "description": "The smartphone I first bought with Tina-chan. It's quite\nworn out because I've been using it for so long.",
+        "description": "The smartphone I first bought with Tina-chan. It's quite worn out\nbecause I've been using it for so long.",
         "etypeId": 1,
         "traits": [
             {
@@ -168,7 +168,7 @@
     {
         "id": 6,
         "animationId": 40,
-        "description": "A magic book that Memerisu-chan gave me as a birthday\npresent when I was young. The secret is that it was actually\n\"borrowed\" from the library.",
+        "description": "A magic book that Memerisu-chan gave me as a birthday present when I\nwas young. The secret is that it was actually \"borrowed\" from the\nlibrary.",
         "etypeId": 1,
         "traits": [
             {
@@ -201,7 +201,7 @@
     {
         "id": 7,
         "animationId": 1,
-        "description": "A smartphone specialized for smooth in-app purchases in\nsocial games. If you keep using it, it will ruin you... hey,\nwhat lies beyond is hell.",
+        "description": "A smartphone specialized for smooth in-app purchases in social games.\nIf you keep using it, it will ruin you... hey, what lies beyond is\nhell.",
         "etypeId": 1,
         "traits": [
             {
@@ -234,7 +234,7 @@
     {
         "id": 8,
         "animationId": 40,
-        "description": "A slightly retro book filled with original designs of\nweapons and costumes from various games. Just looking at it\ngets me excited.",
+        "description": "A slightly retro book filled with original designs of weapons and\ncostumes from various games. Just looking at it gets me excited.",
         "etypeId": 1,
         "traits": [
             {
@@ -267,7 +267,7 @@
     {
         "id": 9,
         "animationId": 1,
-        "description": "The smartphone that hit the jackpot in the gacha. There's no\nparticular legend to it, but it is a legendary smartphone.\nYou sure won big.",
+        "description": "The smartphone that hit the jackpot in the gacha. There's no\nparticular legend to it, but it is a legendary smartphone. You sure\nwon big.",
         "etypeId": 1,
         "traits": [
             {
@@ -300,7 +300,7 @@
     {
         "id": 10,
         "animationId": 40,
-        "description": "Incredibly thin... It only has 16 pages, and without any\nelectronic reprints, its rarity has made the price\nskyrocket. The genre of the content is a secret.",
+        "description": "Incredibly thin... It only has 16 pages, and without any electronic\nreprints, its rarity has made the price skyrocket. The genre of the\ncontent is a secret.",
         "etypeId": 1,
         "traits": [
             {
@@ -333,7 +333,7 @@
     {
         "id": 11,
         "animationId": 1,
-        "description": "A smartphone pursued for its cheapness alone. Due to its low\nprice, the performance is poor.",
+        "description": "A smartphone pursued for its cheapness alone. Due to its low price,\nthe performance is poor.",
         "etypeId": 1,
         "traits": [
             {
@@ -366,7 +366,7 @@
     {
         "id": 12,
         "animationId": 40,
-        "description": "A weekly shonen magazine. It's entering a dark period with\nmany series being abruptly cancelled.",
+        "description": "A weekly shonen magazine. It's entering a dark period with many series\nbeing abruptly cancelled.",
         "etypeId": 1,
         "traits": [
             {
@@ -399,7 +399,7 @@
     {
         "id": 13,
         "animationId": 1,
-        "description": "A homemade smartphone from the innkeeper's grandchild. It's\nan attack-specialized smartphone boasting overwhelming\nattack power.",
+        "description": "A homemade smartphone from the innkeeper's grandchild. It's an attack-\nspecialized smartphone boasting overwhelming attack power.",
         "etypeId": 1,
         "traits": [
             {
@@ -432,7 +432,7 @@
     {
         "id": 14,
         "animationId": 40,
-        "description": "A magic book drawn by the innkeeper's grandmother.\nApparently, she used to be quite the trendy and go-getter\nwitch back in the day.",
+        "description": "A magic book drawn by the innkeeper's grandmother. Apparently, she\nused to be quite the trendy and go-getter witch back in the day.",
         "etypeId": 1,
         "traits": [
             {
@@ -465,7 +465,7 @@
     {
         "id": 15,
         "animationId": 1,
-        "description": "The smartphone I first bought with Tina-chan. Even if the\nphysical form is lost, the memories we shared will continue\nto shine forever.",
+        "description": "The smartphone I first bought with Tina-chan. Even if the physical\nform is lost, the memories we shared will continue to shine forever.",
         "etypeId": 1,
         "traits": [
             {
@@ -498,7 +498,7 @@
     {
         "id": 16,
         "animationId": 40,
-        "description": "A magic book that Memerisu-chan gave me as a birthday\npresent when I was young. It has been, and will continue to\nbe, engraving memories.",
+        "description": "A magic book that Memerisu-chan gave me as a birthday present when I\nwas young. It has been, and will continue to be, engraving memories.",
         "etypeId": 1,
         "traits": [
             {
@@ -531,7 +531,7 @@
     {
         "id": 17,
         "animationId": 1,
-        "description": "If you're traveling to another world, a cheat smartphone\nwill give you peace of mind! It can instantly kill any enemy\nwith a normal attack!",
+        "description": "If you're traveling to another world, a cheat smartphone will give you\npeace of mind! It can instantly kill any enemy with a normal attack!",
         "etypeId": 1,
         "traits": [
             {

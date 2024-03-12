@@ -77,7 +77,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Can cure all status abnormalities except the need to\nurinate.",
+        "description": "Can cure all status abnormalities except the need to urinate.",
         "effects": [
             {
                 "code": 22,
@@ -164,7 +164,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": "A mysterious stone imbued with the power of a goddess. Can\nrevive a single ally from incapacitation.",
+        "description": "A mysterious stone imbued with the power of a goddess. Can revive a\nsingle ally from incapacitation.",
         "effects": [
             {
                 "code": 22,
@@ -197,7 +197,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The upcoming battle will trigger a recollection if lost.\nThat's why it was necessary to lose. Using it will result in\nincapacitation.",
+        "description": "The upcoming battle will trigger a recollection if lost. That's why it\nwas necessary to lose. Using it will result in incapacitation.",
         "effects": [
             {
                 "code": 21,
@@ -289,7 +289,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A stone of steel. An item for selling that can be sold at a\nhigh price.",
+        "description": "A stone of steel. An item for selling that can be sold at a high\nprice.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 160,
@@ -315,7 +315,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Allows you to warp to Utage Village. A convenient item that\ncan be used multiple times.",
+        "description": "Allows you to warp to Utage Village. A convenient item that can be\nused multiple times.",
         "effects": [
             {
                 "code": 44,
@@ -348,7 +348,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Utage Diner's coffee, famous for being very delicious.\nRestores 400 HP for the entire party. Sometimes makes you\nwant to pee.",
+        "description": "Utage Diner's coffee, famous for being very delicious. Restores 400 HP\nfor the entire party. Sometimes makes you want to pee.",
         "effects": [
             {
                 "code": 11,
@@ -393,7 +393,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Utage Diner's signature dish. Said to be Tsuchinoko, but no\none knows what kind of meat it is. Restores 1000 HP for a\nsingle ally.",
+        "description": "Utage Diner's signature dish. Said to be Tsuchinoko, but no one knows\nwhat kind of meat it is. Restores 1000 HP for a single ally.",
         "effects": [
             {
                 "code": 11,
@@ -426,7 +426,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Utage Diner's dessert. Aside from occasionally moving, it\nlooks exactly like warabi mochi. Can cure the entire party's\nstatus abnormalities.",
+        "description": "Utage Diner's dessert. Aside from occasionally moving, it looks\nexactly like warabi mochi. Can cure the entire party's status\nabnormalities.",
         "effects": [
             {
                 "code": 22,
@@ -513,7 +513,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Utage Diner's weapon. It has a significant weight to it.\nWhat happens if used on an enemy...?",
+        "description": "Utage Diner's weapon. It has a significant weight to it. What happens\nif used on an enemy...?",
         "effects": [
             {
                 "code": 11,
@@ -546,7 +546,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A lost dog, Pochi. Good at playing fetch. Take him back to\nhis boy owner.",
+        "description": "A lost dog, Pochi. Good at playing fetch. Take him back to his boy\nowner.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 160,
@@ -572,7 +572,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A fragment of a mysterious stone imbued with the power of a\ngoddess. Can revive a single ally from incapacitation with\nlittle health.",
+        "description": "A fragment of a mysterious stone imbued with the power of a goddess.\nCan revive a single ally from incapacitation with little health.",
         "effects": [
             {
                 "code": 22,
@@ -611,7 +611,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "An important item for contraception. (No use for it in this\ngame) Better wear it properly or you might get pregnant...",
+        "description": "An important item for contraception. (No use for it in this game)\nBetter wear it properly or you might get pregnant...",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
@@ -676,7 +676,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A juice with only 1% mysterious fruit juice in it. The taste\nis as cheap as its price. Drinking it makes you want to pee.",
+        "description": "A juice with only 1% mysterious fruit juice in it. The taste is as\ncheap as its price. Drinking it makes you want to pee.",
         "effects": [
             {
                 "code": 11,
@@ -721,7 +721,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A yellow, fizzy, bubbly drink. Be careful not to drink too\nmuch as it will make you go to the toilet more often.\nRestores 800 HP.",
+        "description": "A yellow, fizzy, bubbly drink. Be careful not to drink too much as it\nwill make you go to the toilet more often. Restores 800 HP.",
         "effects": [
             {
                 "code": 11,
@@ -792,7 +792,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "An incredibly slimy juice secreted by the slimy slimy slimy.\nIt might be useful for something...?",
+        "description": "An incredibly slimy juice secreted by the slimy slimy slimy. It might\nbe useful for something...?",
         "effects": [
             {
                 "code": 21,
@@ -825,7 +825,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Allows you to warp to Chern Village. A convenient item that\ncan be used multiple times.",
+        "description": "Allows you to warp to Chern Village. A convenient item that can be\nused multiple times.",
         "effects": [
             {
                 "code": 44,
@@ -858,7 +858,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Slum tavern's signature menu item. A steak with an\nimpressive whole carrot stuck in it. Restores 3000 HP for a\nsingle ally.",
+        "description": "Slum tavern's signature menu item. A steak with an impressive whole\ncarrot stuck in it. Restores 3000 HP for a single ally.",
         "effects": [
             {
                 "code": 11,
@@ -891,7 +891,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Slum tavern's yakisoba. A manly, hearty, large serving menu\nitem. Restores 1000 HP for the entire party.",
+        "description": "Slum tavern's yakisoba. A manly, hearty, large serving menu item.\nRestores 1000 HP for the entire party.",
         "effects": [
             {
                 "code": 11,
@@ -924,7 +924,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Brew and drink to increase the lewdness of two people. No\none would drink this... right?",
+        "description": "Brew and drink to increase the lewdness of two people. No one would\ndrink this... right?",
         "effects": [
             {
                 "code": 44,
@@ -957,7 +957,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Brew and drink to decrease the lewdness of two people. A\npure-hearted boy is also cute!",
+        "description": "Brew and drink to decrease the lewdness of two people. A pure-hearted\nboy is also cute!",
         "effects": [
             {
                 "code": 44,
@@ -990,7 +990,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A naughty set filled with various toys. If in heat, you can\nmasturbate alone at home.",
+        "description": "A naughty set filled with various toys. If in heat, you can masturbate\nalone at home.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
@@ -1016,7 +1016,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A carrot that horses love very much. Eating it makes horses\njump around with joy.",
+        "description": "A carrot that horses love very much. Eating it makes horses jump\naround with joy.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 256,
@@ -1042,7 +1042,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A set that lets you enjoy various swimsuits. From school\nswimsuits to daring bikinis.",
+        "description": "A set that lets you enjoy various swimsuits. From school swimsuits to\ndaring bikinis.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
@@ -1068,7 +1068,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A beautiful shell found while playing together. It can be\nsold for a high price, but do you really want to sell your\nsummer memories...?",
+        "description": "A beautiful shell found while playing together. It can be sold for a\nhigh price, but do you really want to sell your summer memories...?",
         "effects": [],
         "hitType": 0,
         "iconIndex": 315,
@@ -1094,7 +1094,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The semen of a young boy. Seems to be an ingredient for\nmagic...",
+        "description": "The semen of a young boy. Seems to be an ingredient for magic...",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
@@ -1120,7 +1120,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Request name \"The Return of the Slimy Slimy Slimy\" Target\n\"Slimy Slimy Slimy\" Location \"Mine Ruins\"",
+        "description": "Request name \"The Return of the Slimy Slimy Slimy\" Target \"Slimy Slimy\nSlimy\" Location \"Mine Ruins\"",
         "effects": [],
         "hitType": 0,
         "iconIndex": 79,
@@ -1146,7 +1146,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Request name \"Investigate the Suspicious Laboratory\" Target\n\"?????\" Location \"Kochinukacity\"",
+        "description": "Request name \"Investigate the Suspicious Laboratory\" Target \"?????\"\nLocation \"Kochinukacity\"",
         "effects": [],
         "hitType": 0,
         "iconIndex": 79,
@@ -1172,7 +1172,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Request name \"Rescue the Villagers Kidnapped by Goblins\"\nTarget \"Goblin\" Location \"Mine Ruins\"",
+        "description": "Request name \"Rescue the Villagers Kidnapped by Goblins\" Target\n\"Goblin\" Location \"Mine Ruins\"",
         "effects": [],
         "hitType": 0,
         "iconIndex": 79,
@@ -1198,7 +1198,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Request name \"Beware of the Succubus\" Target \"Succubus\"\nLocation \"Southwest Ruins\"",
+        "description": "Request name \"Beware of the Succubus\" Target \"Succubus\" Location\n\"Southwest Ruins\"",
         "effects": [],
         "hitType": 0,
         "iconIndex": 79,
@@ -1224,7 +1224,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "An adult medicine that gets you in the mood for sex♥\nRecommended for when you want to masturbate at home.",
+        "description": "An adult medicine that gets you in the mood for sex♥ Recommended for\nwhen you want to masturbate at home.",
         "effects": [
             {
                 "code": 21,
@@ -1257,7 +1257,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "When used on a map with monsters, it allows you to encounter\nthem. No effect on maps without monsters!",
+        "description": "When used on a map with monsters, it allows you to encounter them. No\neffect on maps without monsters!",
         "effects": [
             {
                 "code": 44,
@@ -1323,7 +1323,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Using it turns the world transparent and resets your Ero\nStatus, a wholesome item. Naughty things are bad! Death\npenalty!!",
+        "description": "Using it turns the world transparent and resets your Ero Status, a\nwholesome item. Naughty things are bad! Death penalty!!",
         "effects": [
             {
                 "code": 44,
@@ -1356,7 +1356,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A disposable toilet. Use it to relieve the urge to urinate!\nCan be used even without the need, but don't waste it!",
+        "description": "A disposable toilet. Use it to relieve the urge to urinate! Can be\nused even without the need, but don't waste it!",
         "effects": [
             {
                 "code": 22,
@@ -1407,7 +1407,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A used portable toilet. It seems that the experts who are\ncalled \"bottlers\" even begrudge the time it takes to go to\nthe toilet...",
+        "description": "A used portable toilet. It seems that the experts who are called\n\"bottlers\" even begrudge the time it takes to go to the toilet...",
         "effects": [
             {
                 "code": 44,
@@ -1440,7 +1440,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Using it unlocks the recollection room!? An item you\nabsolutely want to acquire.",
+        "description": "Using it unlocks the recollection room!? An item you absolutely want\nto acquire.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 7,
@@ -1466,7 +1466,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A super life-form beverage that fully restores your health\nwhen you drink it. The lightly carbonated drink is very\ndelicious!",
+        "description": "A super life-form beverage that fully restores your health when you\ndrink it. The lightly carbonated drink is very delicious!",
         "effects": [
             {
                 "code": 11,
@@ -1511,7 +1511,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A nutritional drink that gives you a burst of energy!\nDrinking it increases your max HP and attack power during\nbattle.",
+        "description": "A nutritional drink that gives you a burst of energy! Drinking it\nincreases your max HP and attack power during battle.",
         "effects": [
             {
                 "code": 31,
@@ -1562,7 +1562,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "No matter the situation, this drink will instantly\nrevitalize you! All abilities will significantly increase!\nHowever, be careful as it can cause arousal.",
+        "description": "No matter the situation, this drink will instantly revitalize you! All\nabilities will significantly increase! However, be careful as it can\ncause arousal.",
         "effects": [
             {
                 "code": 42,
@@ -1655,7 +1655,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A mysterious clown recommends this canned coffee to George.\nIt's popular for its sweetness that even children can enjoy.\nIt restores 600 HP.",
+        "description": "A mysterious clown recommends this canned coffee to George. It's\npopular for its sweetness that even children can enjoy. It restores\n600 HP.",
         "effects": [
             {
                 "code": 11,
@@ -1700,7 +1700,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A magical mace that can fully revive and enhance the\nabilities of allies. Rumor has it that equipping it on your\nwhole body due to a bug can make you the strongest.",
+        "description": "A magical mace that can fully revive and enhance the abilities of\nallies. Rumor has it that equipping it on your whole body due to a bug\ncan make you the strongest.",
         "effects": [
             {
                 "code": 22,
@@ -1775,7 +1775,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Using it displays the operation instructions! Even big\nbrothers who don't read the manual can rest easy with this!",
+        "description": "Using it displays the operation instructions! Even big brothers who\ndon't read the manual can rest easy with this!",
         "effects": [
             {
                 "code": 44,
@@ -1826,7 +1826,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Let's throw trash in the trash can! There must be a trash\ncan somewhere. There's a lot of it, but throwing it all away\nmight bring something good?",
+        "description": "Let's throw trash in the trash can! There must be a trash can\nsomewhere. There's a lot of it, but throwing it all away might bring\nsomething good?",
         "effects": [],
         "hitType": 0,
         "iconIndex": 305,
@@ -1852,7 +1852,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It's slimy with droplets scattered by a slime. Some people\nseem to use it as a substitute for lotion. An item for\nselling.",
+        "description": "It's slimy with droplets scattered by a slime. Some people seem to use\nit as a substitute for lotion. An item for selling.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 228,
@@ -1878,7 +1878,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It smells terrible. It seems to be used as an aphrodisiac in\nsome places. Drinking it restores MP, but it will put you in\na state of arousal.",
+        "description": "It smells terrible. It seems to be used as an aphrodisiac in some\nplaces. Drinking it restores MP, but it will put you in a state of\narousal.",
         "effects": [
             {
                 "code": 12,
@@ -1917,7 +1917,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Petals dropped by a flower. They smell nice, but sometimes\nthey're covered with tiny bugs. An item for selling.",
+        "description": "Petals dropped by a flower. They smell nice, but sometimes they're\ncovered with tiny bugs. An item for selling.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 182,
@@ -1943,7 +1943,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Threads dropped by a spider. They stick well to your hands.\nJumping between buildings with them is definitely\nimpossible. An item for selling.",
+        "description": "Threads dropped by a spider. They stick well to your hands. Jumping\nbetween buildings with them is definitely impossible. An item for\nselling.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 290,
@@ -1969,7 +1969,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Sharp claws of a monster. An item for selling. It seems they\ncan be processed into weapons or accessories.",
+        "description": "Sharp claws of a monster. An item for selling. It seems they can be\nprocessed into weapons or accessories.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 294,
@@ -1995,7 +1995,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Just a piece of cloth, but when worn by a gal, it creates\ninfinite value. If used in battle, it can reliably charm all\nenemies.",
+        "description": "Just a piece of cloth, but when worn by a gal, it creates infinite\nvalue. If used in battle, it can reliably charm all enemies.",
         "effects": [
             {
                 "code": 21,
@@ -2028,7 +2028,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "An award given to those who have thrown all the trash into\nthe trash can. It feels like you've done something good and\nit feels nice.",
+        "description": "An award given to those who have thrown all the trash into the trash\ncan. It feels like you've done something good and it feels nice.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 187,
@@ -2054,7 +2054,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A sweet potato for making baked sweet potatoes. Recommended\nbecause it becomes very sweet when baked.",
+        "description": "A sweet potato for making baked sweet potatoes. Recommended because it\nbecomes very sweet when baked.",
         "effects": [
             {
                 "code": 11,
@@ -2087,7 +2087,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A very fluffy and sweet baked sweet potato. Eating it\nrestores a fair amount of HP and MP.",
+        "description": "A very fluffy and sweet baked sweet potato. Eating it restores a fair\namount of HP and MP.",
         "effects": [
             {
                 "code": 11,
@@ -2126,7 +2126,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A fish paste stick that seems to have been sleeping in the\nrefrigerator for a long time. Even if there's only fish\npaste stick, bear with it and eat.",
+        "description": "A fish paste stick that seems to have been sleeping in the\nrefrigerator for a long time. Even if there's only fish paste stick,\nbear with it and eat.",
         "effects": [
             {
                 "code": 11,
@@ -2159,7 +2159,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Snake skin. It's said that putting it in your wallet will\nhelp you save money. But selling it off will make you more\nmoney than putting it in your wallet. An item for selling.",
+        "description": "Snake skin. It's said that putting it in your wallet will help you\nsave money. But selling it off will make you more money than putting\nit in your wallet. An item for selling.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 288,
@@ -2185,7 +2185,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The ball left after the fire of a fireball has gone out. It\nglows red and is very beautiful. An item for selling.",
+        "description": "The ball left after the fire of a fireball has gone out. It glows red\nand is very beautiful. An item for selling.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 309,

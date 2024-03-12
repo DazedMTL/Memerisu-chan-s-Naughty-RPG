@@ -1336,7 +1336,7 @@
                 "code": 356,
                 "indent": 0,
                 "parameters": [
-                    "D_TEXT \\V[24,8]ジュエル 18"
+                    "D_TEXT \\V[24,8] Jewels 18"
                 ]
             },
             {
@@ -1359,7 +1359,7 @@
                 "code": 356,
                 "indent": 0,
                 "parameters": [
-                    "D_TEXT \\V[25]  18"
+                    "D_TEXT \\V[25] 18"
                 ]
             },
             {

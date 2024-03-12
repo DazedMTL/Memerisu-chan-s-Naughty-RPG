@@ -352,7 +352,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Strikes the enemy's eyes with the corner of a smartphone. A\nscientific strike that has a low chance to blind the enemy.",
+        "description": "Strikes the enemy's eyes with the corner of a smartphone. A scientific\nstrike that has a low chance to blind the enemy.",
         "effects": [
             {
                 "code": 21,
@@ -389,7 +389,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Swings a smartphone around while gripping a keyholder.\nDelivers a powerful blow to a single enemy.",
+        "description": "Swings a smartphone around while gripping a keyholder. Delivers a\npowerful blow to a single enemy.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 110,
@@ -419,7 +419,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Basic magic. Attacks a single enemy with a burst of holy\nlight.",
+        "description": "Basic magic. Attacks a single enemy with a burst of holy light.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 70,
@@ -449,7 +449,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Above basic level magic. Concentrates holy light to attack a\nsingle enemy.",
+        "description": "Above basic level magic. Concentrates holy light to attack a single\nenemy.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 70,
@@ -479,7 +479,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Basic defensive magic. Creates a holy barrier to protect\noneself. Increases the defense of all allies for the\nduration of the battle.",
+        "description": "Basic defensive magic. Creates a holy barrier to protect oneself.\nIncreases the defense of all allies for the duration of the battle.",
         "effects": [
             {
                 "code": 21,
@@ -516,7 +516,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": "Basic healing magic. Uses holy light to heal an ally's\nstatus abnormalities and health.",
+        "description": "Basic healing magic. Uses holy light to heal an ally's status\nabnormalities and health.",
         "effects": [
             {
                 "code": 22,
@@ -613,7 +613,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Throws the smartphone like a boomerang at the enemy. Deals\nmoderate damage to all enemies.",
+        "description": "Throws the smartphone like a boomerang at the enemy. Deals moderate\ndamage to all enemies.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 102,
@@ -643,7 +643,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Intermediate magic. Fires a barrage of small Secruls to\nattack. Deals damage to a single enemy 3 times at random.",
+        "description": "Intermediate magic. Fires a barrage of small Secruls to attack. Deals\ndamage to a single enemy 3 times at random.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 70,
@@ -770,7 +770,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Deals dark attribute damage to all enemies and inflicts\nblindness.",
+        "description": "Deals dark attribute damage to all enemies and inflicts blindness.",
         "effects": [
             {
                 "code": 21,
@@ -1125,7 +1125,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Attacks with a needle laced with poison. May poison the\nopponent.",
+        "description": "Attacks with a needle laced with poison. May poison the opponent.",
         "effects": [
             {
                 "code": 21,
@@ -1162,7 +1162,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Attacks a single enemy with a suspicious machine, dealing\ndamage.",
+        "description": "Attacks a single enemy with a suspicious machine, dealing damage.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 105,
@@ -1309,7 +1309,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Attacks with a needle laced with poison. May paralyze the\nopponent.",
+        "description": "Attacks with a needle laced with poison. May paralyze the opponent.",
         "effects": [
             {
                 "code": 21,
@@ -1346,7 +1346,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Attacks with a needle laced with poison. May paralyze the\nopponent.",
+        "description": "Attacks with a needle laced with poison. May paralyze the opponent.",
         "effects": [
             {
                 "code": 21,
@@ -1420,7 +1420,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Above basic level magic. Concentrates holy light to attack a\nsingle enemy.",
+        "description": "Above basic level magic. Concentrates holy light to attack a single\nenemy.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 70,
@@ -1450,7 +1450,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Intermediate magic. Fires a barrage of small Secruls to\nattack. Deals damage to a single enemy 3 times at random.",
+        "description": "Intermediate magic. Fires a barrage of small Secruls to attack. Deals\ndamage to a single enemy 3 times at random.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 70,
@@ -1480,7 +1480,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Presses an overheated smartphone from overuse against the\nenemy, causing burn status.",
+        "description": "Presses an overheated smartphone from overuse against the enemy,\ncausing burn status.",
         "effects": [
             {
                 "code": 21,
@@ -1517,7 +1517,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": "Advanced healing magic. Heals an ally's status abnormalities\nand greatly restores their health with holy light.",
+        "description": "Advanced healing magic. Heals an ally's status abnormalities and\ngreatly restores their health with holy light.",
         "effects": [
             {
                 "code": 22,
@@ -1620,7 +1620,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Presses the smartphone against the ground with the vibration\nfunction at maximum. The resulting tremors cause an\nearthquake, dealing massive damage to all enemies.",
+        "description": "Presses the smartphone against the ground with the vibration function\nat maximum. The resulting tremors cause an earthquake, dealing massive\ndamage to all enemies.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 68,
@@ -1650,7 +1650,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "A reckless technique that channels electricity leaked from a\nsmartphone into the opponent. Seriously dangerous! It may\nalso paralyze the target.",
+        "description": "A reckless technique that channels electricity leaked from a\nsmartphone into the opponent. Seriously dangerous! It may also\nparalyze the target.",
         "effects": [
             {
                 "code": 21,
@@ -1687,7 +1687,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Seductively entices the opponent with a sexy secret\ntechnique taught by a succubus! The success rate is unknown!\nThere's an extremely low chance it could instantly kill the\nopponent!",
+        "description": "Seductively entices the opponent with a sexy secret technique taught\nby a succubus! The success rate is unknown! There's an extremely low\nchance it could instantly kill the opponent!",
         "effects": [
             {
                 "code": 21,
@@ -1736,7 +1736,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Throws a shockingly cheap smartphone sourced from a\nmysterious manufacturer at the enemy. Since it's an\naccident, it's considered safe.",
+        "description": "Throws a shockingly cheap smartphone sourced from a mysterious\nmanufacturer at the enemy. Since it's an accident, it's considered\nsafe.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 218,
@@ -1826,7 +1826,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Intermediate magic. Releases a wide range of Sekru, damaging\nall enemies and lowering their defense with a holy aura.",
+        "description": "Intermediate magic. Releases a wide range of Sekru, damaging all\nenemies and lowering their defense with a holy aura.",
         "effects": [
             {
                 "code": 32,
@@ -1863,7 +1863,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Advanced magic. Emits powerful holy light in succession,\nrandomly attacking a single enemy 4 times.",
+        "description": "Advanced magic. Emits powerful holy light in succession, randomly\nattacking a single enemy 4 times.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 70,

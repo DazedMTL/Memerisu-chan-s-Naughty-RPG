@@ -138,7 +138,7 @@
     {
         "id": 6,
         "atypeId": 1,
-        "description": "Cute rabbit ear accessories. They can prevent poison and\nalso increase defense.",
+        "description": "Cute rabbit ear accessories. They can prevent poison and also increase\ndefense.",
         "etypeId": 3,
         "traits": [
             {
@@ -170,7 +170,7 @@
     {
         "id": 7,
         "atypeId": 1,
-        "description": "A ribbon sold by a fortune teller rumored to bring good\nluck. It slightly increases luck.",
+        "description": "A ribbon sold by a fortune teller rumored to bring good luck. It\nslightly increases luck.",
         "etypeId": 5,
         "traits": [
             {
@@ -229,7 +229,7 @@
     {
         "id": 9,
         "atypeId": 1,
-        "description": "A helmet used for sandlot baseball. It's soaked with sweat\nand smells, but the defense is solid.",
+        "description": "A helmet used for sandlot baseball. It's soaked with sweat and smells,\nbut the defense is solid.",
         "etypeId": 3,
         "traits": [
             {
@@ -283,7 +283,7 @@
     {
         "id": 11,
         "atypeId": 1,
-        "description": "Clothes that have been soaked in semen and now have an\nunremovable smell. They emit a strong male scent.",
+        "description": "Clothes that have been soaked in semen and now have an unremovable\nsmell. They emit a strong male scent.",
         "etypeId": 4,
         "traits": [
             {
@@ -310,7 +310,7 @@
     {
         "id": 12,
         "atypeId": 1,
-        "description": "An erotic bunny outfit that leaves nothing to the\nimagination. Having this might enable new plays...♥",
+        "description": "An erotic bunny outfit that leaves nothing to the imagination. Having\nthis might enable new plays...♥",
         "etypeId": 4,
         "traits": [
             {
@@ -337,7 +337,7 @@
     {
         "id": 13,
         "atypeId": 1,
-        "description": "The classic cosplay bunny outfit. Having this might enable\nnew plays...♥",
+        "description": "The classic cosplay bunny outfit. Having this might enable new\nplays...♥",
         "etypeId": 4,
         "traits": [
             {
@@ -364,7 +364,7 @@
     {
         "id": 14,
         "atypeId": 1,
-        "description": "A nun's habit worn by sisters at the church. Having this\nmight enable new plays...♥",
+        "description": "A nun's habit worn by sisters at the church. Having this might enable\nnew plays...♥",
         "etypeId": 4,
         "traits": [
             {
@@ -391,7 +391,7 @@
     {
         "id": 15,
         "atypeId": 1,
-        "description": "A sister outfit in name only, it's a tight and lewd costume.\nHaving this might enable new plays...♥",
+        "description": "A sister outfit in name only, it's a tight and lewd costume. Having\nthis might enable new plays...♥",
         "etypeId": 4,
         "traits": [
             {
@@ -418,7 +418,7 @@
     {
         "id": 16,
         "atypeId": 1,
-        "description": "A dress worn at weddings. Having this might enable new\nplays...♥",
+        "description": "A dress worn at weddings. Having this might enable new plays...♥",
         "etypeId": 4,
         "traits": [
             {
@@ -445,7 +445,7 @@
     {
         "id": 17,
         "atypeId": 1,
-        "description": "A ring with a mysterious blessing. It increases evasion and\nnullifies all status abnormalities except for arousal and\nthe urge to urinate.",
+        "description": "A ring with a mysterious blessing. It increases evasion and nullifies\nall status abnormalities except for arousal and the urge to urinate.",
         "etypeId": 5,
         "traits": [
             {
@@ -517,7 +517,7 @@
     {
         "id": 18,
         "atypeId": 1,
-        "description": "A helmet said to be wearable only by those who have\nexterminated goblins. Equipping it increases the chance of\npreemptive attacks.",
+        "description": "A helmet said to be wearable only by those who have exterminated\ngoblins. Equipping it increases the chance of preemptive attacks.",
         "etypeId": 3,
         "traits": [
             {
@@ -603,7 +603,7 @@
     {
         "id": 21,
         "atypeId": 2,
-        "description": "A hat worn by sages. Wearing it makes one feel very calm...\nPhew.",
+        "description": "A hat worn by sages. Wearing it makes one feel very calm... Phew.",
         "etypeId": 3,
         "traits": [
             {
@@ -630,7 +630,7 @@
     {
         "id": 22,
         "atypeId": 2,
-        "description": "A headband that carries the breath of a maid. Wearing it\nincreases MP (Maid Points).",
+        "description": "A headband that carries the breath of a maid. Wearing it increases MP\n(Maid Points).",
         "etypeId": 3,
         "traits": [
             {
@@ -657,7 +657,7 @@
     {
         "id": 23,
         "atypeId": 1,
-        "description": "A hat with a cute rabbit accessory that has received a\nmysterious blessing. It increases not only defense but also\nagility.",
+        "description": "A hat with a cute rabbit accessory that has received a mysterious\nblessing. It increases not only defense but also agility.",
         "etypeId": 3,
         "traits": [
             {
@@ -684,7 +684,7 @@
     {
         "id": 24,
         "atypeId": 2,
-        "description": "A crown that can be worn by maidens chosen as saints. It\nseems to have various blessings cast upon it.",
+        "description": "A crown that can be worn by maidens chosen as saints. It seems to have\nvarious blessings cast upon it.",
         "etypeId": 3,
         "traits": [
             {
@@ -738,7 +738,7 @@
     {
         "id": 26,
         "atypeId": 1,
-        "description": "Fashionable clothes that give off a transparent worldview by\nwearing a shirt over a swimsuit. Somehow, attacks just miss.",
+        "description": "Fashionable clothes that give off a transparent worldview by wearing a\nshirt over a swimsuit. Somehow, attacks just miss.",
         "etypeId": 4,
         "traits": [
             {
@@ -819,7 +819,7 @@
     {
         "id": 29,
         "atypeId": 1,
-        "description": "Printed with a huge rabbit. I'd rather not walk around with\nit, but some mysterious blessing greatly increases defense.",
+        "description": "Printed with a huge rabbit. I'd rather not walk around with it, but\nsome mysterious blessing greatly increases defense.",
         "etypeId": 4,
         "traits": [
             {
@@ -873,7 +873,7 @@
     {
         "id": 31,
         "atypeId": 2,
-        "description": "A splendid robe worn by clergy members. It increases not\nonly defense and magic defense but also magic power!",
+        "description": "A splendid robe worn by clergy members. It increases not only defense\nand magic defense but also magic power!",
         "etypeId": 4,
         "traits": [
             {
@@ -900,7 +900,7 @@
     {
         "id": 32,
         "atypeId": 2,
-        "description": "A robe that can be worn by maidens chosen as saints. It has\neffects that prevent status abnormalities and confusion.",
+        "description": "A robe that can be worn by maidens chosen as saints. It has effects\nthat prevent status abnormalities and confusion.",
         "etypeId": 4,
         "traits": [
             {
@@ -1121,7 +1121,7 @@
     {
         "id": 40,
         "atypeId": 1,
-        "description": "A keychain with a character of a horse girl on it. Equipping\nit seems to make you run faster.",
+        "description": "A keychain with a character of a horse girl on it. Equipping it seems\nto make you run faster.",
         "etypeId": 5,
         "traits": [
             {
@@ -1148,7 +1148,7 @@
     {
         "id": 41,
         "atypeId": 1,
-        "description": "A legendary keychain passed down in the village of Utage. It\nwas said to be worn by a party-loving auntie or something...",
+        "description": "A legendary keychain passed down in the village of Utage. It was said\nto be worn by a party-loving auntie or something...",
         "etypeId": 5,
         "traits": [
             {

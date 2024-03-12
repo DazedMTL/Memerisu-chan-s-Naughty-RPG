@@ -126,8 +126,8 @@ var $plugins = [
       symbolAutoSelect: "true",
       gamepadConfigEnabled: "true",
       keyboardConfigEnabled: "true",
-      commandName: "ゲームパッドコンフィグ",
-      keyconfigCommandName: "キーコンフィグ",
+      commandName: "Gamepad",
+      keyconfigCommandName: "Keyboard",
     },
   },
   {
