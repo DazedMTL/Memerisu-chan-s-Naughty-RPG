@@ -389,11 +389,11 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Swings a smartphone around while gripping a keyholder. Delivers a\npowerful blow to a single enemy.",
+        "description": "Swings a smartphone around while gripping a keychain. Delivers a\npowerful blow to a single enemy.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 110,
-        "message1": " grabbed the keyholder and swung their smartphone around!",
+        "message1": " grabbed the keychain and swung their smartphone around!",
         "message2": "",
         "mpCost": 8,
         "name": "Smartphone Spin",

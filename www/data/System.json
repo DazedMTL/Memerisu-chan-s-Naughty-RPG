@@ -98,7 +98,7 @@
         "startX": 0,
         "startY": 0
     },
-    "currencyUnit": "Jewels",
+    "currencyUnit": " Jewels",
     "defeatMe": {
         "name": "Onoma-Negative03-1(Long)",
         "pan": 0,
@@ -126,7 +126,7 @@
         "Body",
         "Accessories"
     ],
-    "gameTitle": "",
+    "gameTitle": "Memerisu-chan's Naughty RPG",
     "gameoverMe": {
         "name": "Gameover2",
         "pan": 0,
